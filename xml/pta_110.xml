@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EC Treaty</name>
+    <type>Customs Union &amp; Economic Integration Agreement</type>
+    <wto_rta_id>120</wto_rta_id>
+    <treaty_identifier>110</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV &amp; GATS Art. V</notification>
+    <date_signed>1957-03-25</date_signed>
+    <date_into_force>1958-01-01</date_into_force>
+    <date_notification>1957-04-24</date_notification>
+    <end_implementation>1970-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">BEL</partyisocode>
+      <partyisocode n="2">DEU</partyisocode>
+      <partyisocode n="3">FRA</partyisocode>
+      <partyisocode n="4">ITA</partyisocode>
+      <partyisocode n="5">LUX</partyisocode>
+      <partyisocode n="6">NLD</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SVK</partyisocode>
+      <partyisocode n="27">SVN</partyisocode>
+      <partyisocode n="28">SWE</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M/TXT</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M/TXT</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012M/TXT</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M/TXT</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M/TXT</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M/TXT</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1234">
+      <article article_identifier="10068">Consolidated version of the Treaty on European Union
+
+  PREAMBLE
+
+  HIS MAJESTY THE KING OF THE BELGIANS, HER MAJESTY THE QUEEN OF
+  DENMARK, THE PRESIDENT OF THE FEDERAL REPUBLIC OF GERMANY, THE
+  PRESIDENT OF IRELAND, THE PRESIDENT OF THE HELLENIC REPUBLIC, HIS
+  MAJESTY THE KING OF SPAIN, THE PRESIDENT OF THE FRENCH REPUBLIC, THE
+  PRESIDENT OF THE ITALIAN REPUBLIC, HIS ROYAL HIGHNESS THE GRAND DUKE
+  OF LUXEMBOURG, HER MAJESTY THE QUEEN OF THE NETHERLANDS, THE PRESIDENT
+  OF THE PORTUGUESE REPUBLIC, HER MAJESTY THE QUEEN OF THE UNITED
+  KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND [1],
+
+  RESOLVED to mark a new stage in the process of European integration
+  undertaken with the establishment of the European Communities,
+
+  DRAWING INSPIRATION from the cultural, religious and humanist
+  inheritance of Europe, from which have developed the universal values
+  of the inviolable and inalienable rights of the human person, freedom,
+  democracy, equality and the rule of law,
+
+  RECALLING the historic importance of the ending of the division of the
+  European continent and the need to create firm bases for the
+  construction of the future Europe,
+
+  CONFIRMING their attachment to the principles of liberty, democracy
+  and respect for human rights and fundamental freedoms and of the rule
+  of law,
+
+  CONFIRMING their attachment to fundamental social rights as defined in
+  the European Social Charter signed at Turin on 18 October 1961 and in
+  the 1989 Community Charter of the Fundamental Social Rights of
+  Workers,
+
+  DESIRING to deepen the solidarity between their peoples while
+  respecting their history, their culture and their traditions,
+
+  DESIRING to enhance further the democratic and efficient functioning
+  of the institutions so as to enable them better to carry out, within a
+  single institutional framework, the tasks entrusted to them,
+
+  RESOLVED to achieve the strengthening and the convergence of their
+  economies and to establish an economic and monetary union including,
+  in accordance with the provisions of this Treaty and of the Treaty on
+  the Functioning of the European Union, a single and stable currency,
+
+  DETERMINED to promote economic and social progress for their peoples,
+  taking into account the principle of sustainable development and
+  within the context of the accomplishment of the internal market and of
+  reinforced cohesion and environmental protection, and to implement
+  policies ensuring that advances in economic integration are
+  accompanied by parallel progress in other fields,
+
+  RESOLVED to establish a citizenship common to nationals of their
+  countries,
+
+  RESOLVED to implement a common foreign and security policy including
+  the progressive framing of a common defence policy, which might lead
+  to a common defence in accordance with the provisions of Article 42,
+  thereby reinforcing the European identity and its independence in
+  order to promote peace, security and progress in Europe and in the
+  world,
+
+  RESOLVED to facilitate the free movement of persons, while ensuring
+  the safety and security of their peoples, by establishing an area of
+  freedom, security and justice, in accordance with the provisions of
+  this Treaty and of the Treaty on the Functioning of the European
+  Union,
+
+  RESOLVED to continue the process of creating an ever closer union
+  among the peoples of Europe, in which decisions are taken as closely
+  as possible to the citizen in accordance with the principle of
+  subsidiarity,
+
+  IN VIEW of further steps to be taken in order to advance European
+  integration,
+
+  HAVE DECIDED to establish a European Union and to this end have
+  designated as their Plenipotentiaries:
+
+  (List of plenipotentiaries not reproduced)
+
+  WHO, having exchanged their full powers, found in good and due form,
+  have agreed as follows:</article>
+    </chapter>
+    <chapter number="TITLE I" name="Common Provisions" chapter_identifier="1235">
+      <article number="ARTICLE 1" article_identifier="10069">By this Treaty, the HIGH CONTRACTING PARTIES establish among
+  themselves a EUROPEAN UNION, hereinafter called "the Union",
+  on which the Member States confer competences to attain objectives
+  they have in common.
+
+  This Treaty marks a new stage in the process of creating an ever
+  closer union among the peoples of Europe, in which decisions are taken
+  as openly as possible and as closely as possible to the citizen.
+
+  The Union shall be founded on the present Treaty and on the Treaty on
+  the Functioning of the European Union (hereinafter referred to as
+  "the Treaties"). Those two Treaties shall have the same
+  legal value. The Union shall replace and succeed the European
+  Community.</article>
+      <article number="ARTICLE 2" article_identifier="10070">The Union is founded on the values of respect for human dignity,
+  freedom, democracy, equality, the rule of law and respect for human
+  rights, including the rights of persons belonging to minorities. These
+  values are common to the Member States in a society in which
+  pluralism, non-discrimination, tolerance, justice, solidarity and
+  equality between women and men prevail.</article>
+      <article number="ARTICLE 3" article_identifier="10071">1. The Union's aim is to promote peace, its values and the well-being
+  of its peoples.
+
+  2. The Union shall offer its citizens an area of freedom, security and
+  justice without internal frontiers, in which the free movement of
+  persons is ensured in conjunction with appropriate measures with
+  respect to external border controls, asylum, immigration and the
+  prevention and combating of crime.
+
+  3. The Union shall establish an internal market. It shall work for the
+  sustainable development of Europe based on balanced economic growth
+  and price stability, a highly competitive social market economy,
+  aiming at full employment and social progress, and a high level of
+  protection and improvement of the quality of the environment. It shall
+  promote scientific and technological advance.
+
+  It shall combat social exclusion and discrimination, and shall promote
+  social justice and protection, equality between women and men,
+  solidarity between generations and protection of the rights of the
+  child.
+
+  It shall promote economic, social and territorial cohesion, and
+  solidarity among Member States.
+
+  It shall respect its rich cultural and linguistic diversity, and shall
+  ensure that Europe's cultural heritage is safeguarded and enhanced.
+
+  4. The Union shall establish an economic and monetary union whose
+  currency is the euro.
+
+  5. In its relations with the wider world, the Union shall uphold and
+  promote its values and interests and contribute to the protection of
+  its citizens. It shall contribute to peace, security, the sustainable
+  development of the Earth, solidarity and mutual respect among peoples,
+  free and fair trade, eradication of poverty and the protection of
+  human rights, in particular the rights of the child, as well as to the
+  strict observance and the development of international law, including
+  respect for the principles of the United Nations Charter.
+
+  6. The Union shall pursue its objectives by appropriate means
+  commensurate with the competences which are conferred upon it in the
+  Treaties.</article>
+      <article number="ARTICLE 4" article_identifier="10072">1. In accordance with Article 5, competences not conferred upon the
+  Union in the Treaties remain with the Member States.
+
+  2. The Union shall respect the equality of Member States before the
+  Treaties as well as their national identities, inherent in their
+  fundamental structures, political and constitutional, inclusive of
+  regional and local self-government. It shall respect their essential
+  State functions, including ensuring the territorial integrity of the
+  State, maintaining law and order and safeguarding national security.
+  In particular, national security remains the sole responsibility of
+  each Member State.
+
+  3. Pursuant to the principle of sincere cooperation, the Union and the
+  Member States shall, in full mutual respect, assist each other in
+  carrying out tasks which flow from the Treaties.
+
+  The Member States shall take any appropriate measure, general or
+  particular, to ensure fulfilment of the obligations arising out of the
+  Treaties or resulting from the acts of the institutions of the Union.
+
+  The Member States shall facilitate the achievement of the Union's
+  tasks and refrain from any measure which could jeopardise the
+  attainment of the Union's objectives.</article>
+      <article number="ARTICLE 5" article_identifier="10073">1. The limits of Union competences are governed by the principle of
+  conferral. The use of Union competences is governed by the principles
+  of subsidiarity and proportionality.
+
+  2. Under the principle of conferral, the Union shall act only within
+  the limits of the competences conferred upon it by the Member States
+  in the Treaties to attain the objectives set out therein. Competences
+  not conferred upon the Union in the Treaties remain with the Member
+  States.
+
+  3. Under the principle of subsidiarity, in areas which do not fall
+  within its exclusive competence, the Union shall act only if and in so
+  far as the objectives of the proposed action cannot be sufficiently
+  achieved by the Member States, either at central level or at regional
+  and local level, but can rather, by reason of the scale or effects of
+  the proposed action, be better achieved at Union level.
+
+  The institutions of the Union shall apply the principle of
+  subsidiarity as laid down in the Protocol on the application of the
+  principles of subsidiarity and proportionality. National Parliaments
+  ensure compliance with the principle of subsidiarity in accordance
+  with the procedure set out in that Protocol.
+
+  4. Under the principle of proportionality, the content and form of
+  Union action shall not exceed what is necessary to achieve the
+  objectives of the Treaties.
+
+  The institutions of the Union shall apply the principle of
+  proportionality as laid down in the Protocol on the application of the
+  principles of subsidiarity and proportionality.</article>
+      <article number="ARTICLE 6" article_identifier="10074">1. The Union recognises the rights, freedoms and principles set out in
+  the Charter of Fundamental Rights of the European Union of 7 December
+  2000, as adapted at Strasbourg, on 12 December 2007, which shall have
+  the same legal value as the Treaties.
+
+  The provisions of the Charter shall not extend in any way the
+  competences of the Union as defined in the Treaties.
+
+  The rights, freedoms and principles in the Charter shall be
+  interpreted in accordance with the general provisions in Title VII of
+  the Charter governing its interpretation and application and with due
+  regard to the explanations referred to in the Charter, that set out
+  the sources of those provisions.
+
+  2. The Union shall accede to the European Convention for the
+  Protection of Human Rights and Fundamental Freedoms. Such accession
+  shall not affect the Union's competences as defined in the Treaties.
+
+  3. Fundamental rights, as guaranteed by the European Convention for
+  the Protection of Human Rights and Fundamental Freedoms and as they
+  result from the constitutional traditions common to the Member States,
+  shall constitute general principles of the Union's law.</article>
+      <article number="ARTICLE 7" article_identifier="10075">1. On a reasoned proposal by one third of the Member States, by the
+  European Parliament or by the European Commission, the Council, acting
+  by a majority of four fifths of its members after obtaining the
+  consent of the European Parliament, may determine that there is a
+  clear risk of a serious breach by a Member State of the values
+  referred to in Article 2. Before making such a determination, the
+  Council shall hear the Member State in question and may address
+  recommendations to it, acting in accordance with the same procedure.
+
+  The Council shall regularly verify that the grounds on which such a
+  determination was made continue to apply.
+
+  2. The European Council, acting by unanimity on a proposal by one
+  third of the Member States or by the Commission and after obtaining
+  the consent of the European Parliament, may determine the existence of
+  a serious and persistent breach by a Member State of the values
+  referred to in Article 2, after inviting the Member State in question
+  to submit its observations.
+
+  3. Where a determination under paragraph 2 has been made, the Council,
+  acting by a qualified majority, may decide to suspend certain of the
+  rights deriving from the application of the Treaties to the Member
+  State in question, including the voting rights of the representative
+  of the government of that Member State in the Council. In doing so,
+  the Council shall take into account the possible consequences of such
+  a suspension on the rights and obligations of natural and legal
+  persons.
+
+  The obligations of the Member State in question under the Treaties
+  shall in any case continue to be binding on that State.
+
+  4. The Council, acting by a qualified majority, may decide
+  subsequently to vary or revoke measures taken under paragraph 3 in
+  response to changes in the situation which led to their being imposed.
+
+  5. The voting arrangements applying to the European Parliament, the
+  European Council and the Council for the purposes of this Article are
+  laid down in Article 354 of the Treaty on the Functioning of the
+  European Union.</article>
+      <article number="ARTICLE 8" article_identifier="10076">1. The Union shall develop a special relationship with neighbouring
+  countries, aiming to establish an area of prosperity and good
+  neighbourliness, founded on the values of the Union and characterised
+  by close and peaceful relations based on cooperation.
+
+  2. For the purposes of paragraph 1, the Union may conclude specific
+  agreements with the countries concerned. These agreements may contain
+  reciprocal rights and obligations as well as the possibility of
+  undertaking activities jointly. Their implementation shall be the
+  subject of periodic consultation.</article>
+    </chapter>
+    <chapter number="TITLE II" name="Provisions On Democratic Principles" chapter_identifier="1236">
+      <article number="ARTICLE 9" article_identifier="10077">In all its activities, the Union shall observe the principle of the
+  equality of its citizens, who shall receive equal attention from its
+  institutions, bodies, offices and agencies. Every national of a Member
+  State shall be a citizen of the Union. Citizenship of the Union shall
+  be additional to and not replace national citizenship.</article>
+      <article number="ARTICLE 10" article_identifier="10078">1. The functioning of the Union shall be founded on representative
+  democracy.
+
+  2. Citizens are directly represented at Union level in the European
+  Parliament.
+
+  Member States are represented in the European Council by their Heads
+  of State or Government and in the Council by their governments,
+  themselves democratically accountable either to their national
+  Parliaments, or to their citizens.
+
+  3. Every citizen shall have the right to participate in the democratic
+  life of the Union. Decisions shall be taken as openly and as closely
+  as possible to the citizen.
+
+  4. Political parties at European level contribute to forming European
+  political awareness and to expressing the will of citizens of the
+  Union.</article>
+      <article number="ARTICLE 11" article_identifier="10079">1. The institutions shall, by appropriate means, give citizens and
+  representative associations the opportunity to make known and publicly
+  exchange their views in all areas of Union action.
+
+  2. The institutions shall maintain an open, transparent and regular
+  dialogue with representative associations and civil society.
+
+  3. The European Commission shall carry out broad consultations with
+  parties concerned in order to ensure that the Union's actions are
+  coherent and transparent.
+
+  4. Not less than one million citizens who are nationals of a
+  significant number of Member States may take the initiative of
+  inviting the European Commission, within the framework of its powers,
+  to submit any appropriate proposal on matters where citizens consider
+  that a legal act of the Union is required for the purpose of
+  implementing the Treaties.
+
+  The procedures and conditions required for such a citizens' initiative
+  shall be determined in accordance with the first paragraph of Article
+  24 of the Treaty on the Functioning of the European Union.</article>
+      <article number="ARTICLE 12" article_identifier="10080">National Parliaments contribute actively to the good functioning of
+  the Union:
+
+  (a) through being informed by the institutions of the Union and having
+  draft legislative acts of the Union forwarded to them in accordance
+  with the Protocol on the role of national Parliaments in the European
+  Union;
+
+  (b) by seeing to it that the principle of subsidiarity is respected in
+  accordance with the procedures provided for in the Protocol on the
+  application of the principles of subsidiarity and proportionality;
+
+  (c) by taking part, within the framework of the area of freedom,
+  security and justice, in the evaluation mechanisms for the
+  implementation of the Union policies in that area, in accordance with
+  Article 70 of the Treaty on the Functioning of the European Union, and
+  through being involved in the political monitoring of Europol and the
+  evaluation of Eurojust's activities in accordance with Articles 88 and
+  85 of that Treaty;
+
+  (d) by taking part in the revision procedures of the Treaties, in
+  accordance with Article 48 of this Treaty;
+
+  (e) by being notified of applications for accession to the Union, in
+  accordance with Article 49 of this Treaty;
+
+  (f) by taking part in the inter-parliamentary cooperation between
+  national Parliaments and with the European Parliament, in accordance
+  with the Protocol on the role of national Parliaments in the European
+  Union.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Provisions On The Institutions" chapter_identifier="1237">
+      <article number="ARTICLE 13" article_identifier="10081">1. The Union shall have an institutional framework which shall aim to
+  promote its values, advance its objectives, serve its interests, those
+  of its citizens and those of the Member States, and ensure the
+  consistency, effectiveness and continuity of its policies and actions.
+
+  The Union's institutions shall be:
+
+  - the European Parliament,
+
+  - the European Council,
+
+  - the Council,
+
+  - the European Commission (hereinafter referred to as "the
+  Commission"),
+
+  - the Court of Justice of the European Union,
+
+  - the European Central Bank,
+
+  - the Court of Auditors.
+
+  2. Each institution shall act within the limits of the powers
+  conferred on it in the Treaties, and in conformity with the
+  procedures, conditions and objectives set out in them. The
+  institutions shall practice mutual sincere cooperation.
+
+  3. The provisions relating to the European Central Bank and the Court
+  of Auditors and detailed provisions on the other institutions are set
+  out in the Treaty on the Functioning of the European Union.
+
+  4. The European Parliament, the Council and the Commission shall be
+  assisted by an Economic and Social Committee and a Committee of the
+  Regions acting in an advisory capacity.</article>
+      <article number="ARTICLE 14" article_identifier="10082">1. The European Parliament shall, jointly with the Council, exercise
+  legislative and budgetary functions. It shall exercise functions of
+  political control and consultation as laid down in the Treaties. It
+  shall elect the President of the Commission.
+
+  2. The European Parliament shall be composed of representatives of the
+  Union's citizens. They shall not exceed seven hundred and fifty in
+  number, plus the President. Representation of citizens shall be
+  degressively proportional, with a minimum threshold of six members per
+  Member State. No Member State shall be allocated more than ninety-six
+  seats.
+
+  The European Council shall adopt by unanimity, on the initiative of
+  the European Parliament and with its consent, a decision establishing
+  the composition of the European Parliament, respecting the principles
+  referred to in the first subparagraph.
+
+  3. The members of the European Parliament shall be elected for a term
+  of five years by direct universal suffrage in a free and secret
+  ballot.
+
+  4. The European Parliament shall elect its President and its officers
+  from among its members.</article>
+      <article number="ARTICLE 15" article_identifier="10083">1. The European Council shall provide the Union with the necessary
+  impetus for its development and shall define the general political
+  directions and priorities thereof. It shall not exercise legislative
+  functions.
+
+  2. The European Council shall consist of the Heads of State or
+  Government of the Member States, together with its President and the
+  President of the Commission. The High Representative of the Union for
+  Foreign Affairs and Security Policy shall take part in its work.
+
+  3. The European Council shall meet twice every six months, convened by
+  its President. When the agenda so requires, the members of the
+  European Council may decide each to be assisted by a minister and, in
+  the case of the President of the Commission, by a member of the
+  Commission. When the situation so requires, the President shall
+  convene a special meeting of the European Council.
+
+  4. Except where the Treaties provide otherwise, decisions of the
+  European Council shall be taken by consensus.
+
+  5. The European Council shall elect its President, by a qualified
+  majority, for a term of two and a half years, renewable once. In the
+  event of an impediment or serious misconduct, the European Council can
+  end the President's term of office in accordance with the same
+  procedure.
+
+  6. The President of the European Council:
+
+  (a) shall chair it and drive forward its work;
+
+  (b) shall ensure the preparation and continuity of the work of the
+  European Council in cooperation with the President of the Commission,
+  and on the basis of the work of the General Affairs Council;
+
+  (c) shall endeavour to facilitate cohesion and consensus within the
+  European Council;
+
+  (d) shall present a report to the European Parliament after each of
+  the meetings of the European Council.
+
+  The President of the European Council shall, at his level and in that
+  capacity, ensure the external representation of the Union on issues
+  concerning its common foreign and security policy, without prejudice
+  to the powers of the High Representative of the Union for Foreign
+  Affairs and Security Policy.
+
+  The President of the European Council shall not hold a national
+  office.</article>
+      <article number="ARTICLE 16" article_identifier="10084">1. The Council shall, jointly with the European Parliament, exercise
+  legislative and budgetary functions. It shall carry out policy-making
+  and coordinating functions as laid down in the Treaties.
+
+  2. The Council shall consist of a representative of each Member State
+  at ministerial level, who may commit the government of the Member
+  State in question and cast its vote.
+
+  3. The Council shall act by a qualified majority except where the
+  Treaties provide otherwise.
+
+  4. As from 1 November 2014, a qualified majority shall be defined as
+  at least 55 % of the members of the Council, comprising at least
+  fifteen of them and representing Member States comprising at least 65
+  % of the population of the Union.
+
+  A blocking minority must include at least four Council members,
+  failing which the qualified majority shall be deemed attained.
+
+  The other arrangements governing the qualified majority are laid down
+  in Article 238(2) of the Treaty on the Functioning of the European
+  Union.
+
+  5. The transitional provisions relating to the definition of the
+  qualified majority which shall be applicable until 31 October 2014 and
+  those which shall be applicable from 1 November 2014 to 31 March 2017
+  are laid down in the Protocol on transitional provisions.
+
+  6. The Council shall meet in different configurations, the list of
+  which shall be adopted in accordance with Article 236 of the Treaty on
+  the Functioning of the European Union.
+
+  The General Affairs Council shall ensure consistency in the work of
+  the different Council configurations. It shall prepare and ensure the
+  follow-up to meetings of the European Council, in liaison with the
+  President of the European Council and the Commission.
+
+  The Foreign Affairs Council shall elaborate the Union's external
+  action on the basis of strategic guidelines laid down by the European
+  Council and ensure that the Union's action is consistent.
+
+  7. A Committee of Permanent Representatives of the Governments of the
+  Member States shall be responsible for preparing the work of the
+  Council.
+
+  8. The Council shall meet in public when it deliberates and votes on a
+  draft legislative act. To this end, each Council meeting shall be
+  divided into two parts, dealing respectively with deliberations on
+  Union legislative acts and non-legislative activities.
+
+  9. The Presidency of Council configurations, other than that of
+  Foreign Affairs, shall be held by Member State representatives in the
+  Council on the basis of equal rotation, in accordance with the
+  conditions established in accordance with Article 236 of the Treaty on
+  the Functioning of the European Union.</article>
+      <article number="ARTICLE 17" article_identifier="10085">1. The Commission shall promote the general interest of the Union and
+  take appropriate initiatives to that end. It shall ensure the
+  application of the Treaties, and of measures adopted by the
+  institutions pursuant to them. It shall oversee the application of
+  Union law under the control of the Court of Justice of the European
+  Union. It shall execute the budget and manage programmes. It shall
+  exercise coordinating, executive and management functions, as laid
+  down in the Treaties. With the exception of the common foreign and
+  security policy, and other cases provided for in the Treaties, it
+  shall ensure the Union's external representation. It shall initiate
+  the Union's annual and multiannual programming with a view to
+  achieving interinstitutional agreements.
+
+  2. Union legislative acts may only be adopted on the basis of a
+  Commission proposal, except where the Treaties provide otherwise.
+  Other acts shall be adopted on the basis of a Commission proposal
+  where the Treaties so provide.
+
+  3. The Commission's term of office shall be five years.
+
+  The members of the Commission shall be chosen on the ground of their
+  general competence and European commitment from persons whose
+  independence is beyond doubt.
+
+  In carrying out its responsibilities, the Commission shall be
+  completely independent. Without prejudice to Article 18(2), the
+  members of the Commission shall neither seek nor take instructions
+  from any Government or other institution, body, office or entity. They
+  shall refrain from any action incompatible with their duties or the
+  performance of their tasks.
+
+  4. The Commission appointed between the date of entry into force of
+  the Treaty of Lisbon and 31 October 2014, shall consist of one
+  national of each Member State, including its President and the High
+  Representative of the Union for Foreign Affairs and Security Policy
+  who shall be one of its Vice-Presidents.
+
+  5. As from 1 November 2014, the Commission shall consist of a number
+  of members, including its President and the High Representative of the
+  Union for Foreign Affairs and Security Policy, corresponding to two
+  thirds of the number of Member States, unless the European Council,
+  acting unanimously, decides to alter this number.
+
+  The members of the Commission shall be chosen from among the nationals
+  of the Member States on the basis of a system of strictly equal
+  rotation between the Member States, reflecting the demographic and
+  geographical range of all the Member States. This system shall be
+  established unanimously by the European Council in accordance with
+  Article 244 of the Treaty on the Functioning of the European Union.
+
+  6. The President of the Commission shall:
+
+  (a) lay down guidelines within which the Commission is to work;
+
+  (b) decide on the internal organisation of the Commission, ensuring
+  that it acts consistently, efficiently and as a collegiate body;
+
+  (c) appoint Vice-Presidents, other than the High Representative of the
+  Union for Foreign Affairs and Security Policy, from among the members
+  of the Commission.
+
+  A member of the Commission shall resign if the President so requests.
+  The High Representative of the Union for Foreign Affairs and Security
+  Policy shall resign, in accordance with the procedure set out in
+  Article 18(1), if the President so requests.
+
+  7. Taking into account the elections to the European Parliament and
+  after having held the appropriate consultations, the European Council,
+  acting by a qualified majority, shall propose to the European
+  Parliament a candidate for President of the Commission. This candidate
+  shall be elected by the European Parliament by a majority of its
+  component members. If he does not obtain the required majority, the
+  European Council, acting by a qualified majority, shall within one
+  month propose a new candidate who shall be elected by the European
+  Parliament following the same procedure.
+
+  The Council, by common accord with the President-elect, shall adopt
+  the list of the other persons whom it proposes for appointment as
+  members of the Commission. They shall be selected, on the basis of the
+  suggestions made by Member States, in accordance with the criteria set
+  out in paragraph 3, second subparagraph, and paragraph 5, second
+  subparagraph.
+
+  The President, the High Representative of the Union for Foreign
+  Affairs and Security Policy and the other members of the Commission
+  shall be subject as a body to a vote of consent by the European
+  Parliament. On the basis of this consent the Commission shall be
+  appointed by the European Council, acting by a qualified majority.
+
+  8. The Commission, as a body, shall be responsible to the European
+  Parliament. In accordance with Article 234 of the Treaty on the
+  Functioning of the European Union, the European Parliament may vote on
+  a motion of censure of the Commission. If such a motion is carried,
+  the members of the Commission shall resign as a body and the High
+  Representative of the Union for Foreign Affairs and Security Policy
+  shall resign from the duties that he carries out in the Commission.</article>
+      <article number="ARTICLE 18" article_identifier="10086">1. The European Council, acting by a qualified majority, with the
+  agreement of the President of the Commission, shall appoint the High
+  Representative of the Union for Foreign Affairs and Security Policy.
+  The European Council may end his term of office by the same procedure.
+
+  2. The High Representative shall conduct the Union's common foreign
+  and security policy. He shall contribute by his proposals to the
+  development of that policy, which he shall carry out as mandated by
+  the Council. The same shall apply to the common security and defence
+  policy.
+
+  3. The High Representative shall preside over the Foreign Affairs
+  Council.
+
+  4. The High Representative shall be one of the Vice-Presidents of the
+  Commission. He shall ensure the consistency of the Union's external
+  action. He shall be responsible within the Commission for
+  responsibilities incumbent on it in external relations and for
+  coordinating other aspects of the Union's external action. In
+  exercising these responsibilities within the Commission, and only for
+  these responsibilities, the High Representative shall be bound by
+  Commission procedures to the extent that this is consistent with
+  paragraphs 2 and 3.</article>
+      <article number="ARTICLE 19" article_identifier="10087">1. The Court of Justice of the European Union shall include the Court
+  of Justice, the General Court and specialised courts. It shall ensure
+  that in the interpretation and application of the Treaties the law is
+  observed.
+
+  Member States shall provide remedies sufficient to ensure effective
+  legal protection in the fields covered by Union law.
+
+  2. The Court of Justice shall consist of one judge from each Member
+  State. It shall be assisted by Advocates-General.
+
+  The General Court shall include at least one judge per Member State.
+
+  The Judges and the Advocates-General of the Court of Justice and the
+  Judges of the General Court shall be chosen from persons whose
+  independence is beyond doubt and who satisfy the conditions set out in
+  Articles 253 and 254 of the Treaty on the Functioning of the European
+  Union. They shall be appointed by common accord of the governments of
+  the Member States for six years. Retiring Judges and Advocates-General
+  may be reappointed.
+
+  3. The Court of Justice of the European Union shall, in accordance
+  with the Treaties:
+
+  (a) rule on actions brought by a Member State, an institution or a
+  natural or legal person;
+
+  (b) give preliminary rulings, at the request of courts or tribunals of
+  the Member States, on the interpretation of Union law or the validity
+  of acts adopted by the institutions;
+
+  (c) rule in other cases provided for in the Treaties.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Provisions On Enhanced Cooperation" chapter_identifier="1238">
+      <article number="ARTICLE 20" article_identifier="10088">1. Member States which wish to establish enhanced cooperation between
+  themselves within the framework of the Union's non-exclusive
+  competences may make use of its institutions and exercise those
+  competences by applying the relevant provisions of the Treaties,
+  subject to the limits and in accordance with the detailed arrangements
+  laid down in this Article and in Articles 326 to 334 of the Treaty on
+  the Functioning of the European Union.
+
+  Enhanced cooperation shall aim to further the objectives of the Union,
+  protect its interests and reinforce its integration process. Such
+  cooperation shall be open at any time to all Member States, in
+  accordance with Article 328 of the Treaty on the Functioning of the
+  European Union.
+
+  2. The decision authorising enhanced cooperation shall be adopted by
+  the Council as a last resort, when it has established that the
+  objectives of such cooperation cannot be attained within a reasonable
+  period by the Union as a whole, and provided that at least nine Member
+  States participate in it. The Council shall act in accordance with the
+  procedure laid down in Article 329 of the Treaty on the Functioning of
+  the European Union.
+
+  3. All members of the Council may participate in its deliberations,
+  but only members of the Council representing the Member States
+  participating in enhanced cooperation shall take part in the vote. The
+  voting rules are set out in Article 330 of the Treaty on the
+  Functioning of the European Union.
+
+  4. Acts adopted in the framework of enhanced cooperation shall bind
+  only participating Member States. They shall not be regarded as part
+  of the acquis which has to be accepted by candidate States for
+  accession to the Union.
+
+  TITLE V
+
+  GENERAL PROVISIONS ON THE UNION'S EXTERNAL ACTION AND SPECIFIC
+  PROVISIONS ON THE COMMON FOREIGN AND SECURITY POLICY</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="General Provisions On The Union's External Action" chapter_identifier="1239">
+      <article number="ARTICLE 21" article_identifier="10089">1. The Union's action on the international scene shall be guided by
+  the principles which have inspired its own creation, development and
+  enlargement, and which it seeks to advance in the wider world:
+  democracy, the rule of law, the universality and indivisibility of
+  human rights and fundamental freedoms, respect for human dignity, the
+  principles of equality and solidarity, and respect for the principles
+  of the United Nations Charter and international law.
+
+  The Union shall seek to develop relations and build partnerships with
+  third countries, and international, regional or global organisations
+  which share the principles referred to in the first subparagraph. It
+  shall promote multilateral solutions to common problems, in particular
+  in the framework of the United Nations.
+
+  2. The Union shall define and pursue common policies and actions, and
+  shall work for a high degree of cooperation in all fields of
+  international relations, in order to:
+
+  (a) safeguard its values, fundamental interests, security,
+  independence and integrity;
+
+  (b) consolidate and support democracy, the rule of law, human rights
+  and the principles of international law;
+
+  (c) preserve peace, prevent conflicts and strengthen international
+  security, in accordance with the purposes and principles of the United
+  Nations Charter, with the principles of the Helsinki Final Act and
+  with the aims of the Charter of Paris, including those relating to
+  external borders;
+
+  (d) foster the sustainable economic, social and environmental
+  development of developing countries, with the primary aim of
+  eradicating poverty;
+
+  (e) encourage the integration of all countries into the world economy,
+  including through the progressive abolition of restrictions on
+  international trade;
+
+  (f) help develop international measures to preserve and improve the
+  quality of the environment and the sustainable management of global
+  natural resources, in order to ensure sustainable development;
+
+  (g) assist populations, countries and regions confronting natural or
+  man-made disasters; and
+
+  (h) promote an international system based on stronger multilateral
+  cooperation and good global governance.
+
+  3. The Union shall respect the principles and pursue the objectives
+  set out in paragraphs 1 and 2 in the development and implementation of
+  the different areas of the Union's external action covered by this
+  Title and by Part Five of the Treaty on the Functioning of the
+  European Union, and of the external aspects of its other policies.
+
+  The Union shall ensure consistency between the different areas of its
+  external action and between these and its other policies. The Council
+  and the Commission, assisted by the High Representative of the Union
+  for Foreign Affairs and Security Policy, shall ensure that consistency
+  and shall cooperate to that effect.</article>
+      <article number="ARTICLE 22" article_identifier="10090">1. On the basis of the principles and objectives set out in Article
+  21, the European Council shall identify the strategic interests and
+  objectives of the Union.
+
+  Decisions of the European Council on the strategic interests and
+  objectives of the Union shall relate to the common foreign and
+  security policy and to other areas of the external action of the
+  Union. Such decisions may concern the relations of the Union with a
+  specific country or region or may be thematic in approach. They shall
+  define their duration, and the means to be made available by the Union
+  and the Member States.
+
+  The European Council shall act unanimously on a recommendation from
+  the Council, adopted by the latter under the arrangements laid down
+  for each area. Decisions of the European Council shall be implemented
+  in accordance with the procedures provided for in the Treaties.
+
+  2. The High Representative of the Union for Foreign Affairs and
+  Security Policy, for the area of common foreign and security policy,
+  and the Commission, for other areas of external action, may submit
+  joint proposals to the Council.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Specific Provisions On The Common Foreign And Security Policy" chapter_identifier="1240">
+      <article number="ARTICLE 23" article_identifier="10091">The Union's action on the international scene, pursuant to this
+  Chapter, shall be guided by the principles, shall pursue the
+  objectives of, and be conducted in accordance with, the general
+  provisions laid down in Chapter 1.</article>
+      <article number="ARTICLE 24" article_identifier="10092">1. The Union's competence in matters of common foreign and security
+  policy shall cover all areas of foreign policy and all questions
+  relating to the Union's security, including the progressive framing of
+  a common defence policy that might lead to a common defence.
+
+  The common foreign and security policy is subject to specific rules
+  and procedures. It shall be defined and implemented by the European
+  Council and the Council acting unanimously, except where the Treaties
+  provide otherwise. The adoption of legislative acts shall be excluded.
+  The common foreign and security policy shall be put into effect by the
+  High Representative of the Union for Foreign Affairs and Security
+  Policy and by Member States, in accordance with the Treaties. The
+  specific role of the European Parliament and of the Commission in this
+  area is defined by the Treaties. The Court of Justice of the European
+  Union shall not have jurisdiction with respect to these provisions,
+  with the exception of its jurisdiction to monitor compliance with
+  Article 40 of this Treaty and to review the legality of certain
+  decisions as provided for by the second paragraph of Article 275 of
+  the Treaty on the Functioning of the European Union.
+
+  2. Within the framework of the principles and objectives of its
+  external action, the Union shall conduct, define and implement a
+  common foreign and security policy, based on the development of mutual
+  political solidarity among Member States, the identification of
+  questions of general interest and the achievement of an
+  ever-increasing degree of convergence of Member States' actions.
+
+  3. The Member States shall support the Union's external and security
+  policy actively and unreservedly in a spirit of loyalty and mutual
+  solidarity and shall comply with the Union's action in this area.
+
+  The Member States shall work together to enhance and develop their
+  mutual political solidarity. They shall refrain from any action which
+  is contrary to the interests of the Union or likely to impair its
+  effectiveness as a cohesive force in international relations.
+
+  The Council and the High Representative shall ensure compliance with
+  these principles.</article>
+      <article number="ARTICLE 25" article_identifier="10093">The Union shall conduct the common foreign and security policy by:
+
+  (a) defining the general guidelines;
+
+  (b) adopting decisions defining:
+
+  (i) actions to be undertaken by the Union;
+
+  (ii) positions to be taken by the Union;
+
+  (iii) arrangements for the implementation of the decisions referred to
+  in points (i) and (ii);
+
+  and by
+
+  (c) strengthening systematic cooperation between Member States in the
+  conduct of policy.</article>
+      <article number="ARTICLE 26" article_identifier="10094">1. The European Council shall identify the Union's strategic
+  interests, determine the objectives of and define general guidelines
+  for the common foreign and security policy, including for matters with
+  defence implications. It shall adopt the necessary decisions.
+
+  If international developments so require, the President of the
+  European Council shall convene an extraordinary meeting of the
+  European Council in order to define the strategic lines of the Union's
+  policy in the face of such developments.
+
+  2. The Council shall frame the common foreign and security policy and
+  take the decisions necessary for defining and implementing it on the
+  basis of the general guidelines and strategic lines defined by the
+  European Council.
+
+  The Council and the High Representative of the Union for Foreign
+  Affairs and Security Policy shall ensure the unity, consistency and
+  effectiveness of action by the Union.
+
+  3. The common foreign and security policy shall be put into effect by
+  the High Representative and by the Member States, using national and
+  Union resources.</article>
+      <article number="ARTICLE 27" article_identifier="10095">1. The High Representative of the Union for Foreign Affairs and
+  Security Policy, who shall chair the Foreign Affairs Council, shall
+  contribute through his proposals to the development of the common
+  foreign and security policy and shall ensure implementation of the
+  decisions adopted by the European Council and the Council.
+
+  2. The High Representative shall represent the Union for matters
+  relating to the common foreign and security policy. He shall conduct
+  political dialogue with third parties on the Union's behalf and shall
+  express the Union's position in international organisations and at
+  international conferences.
+
+  3. In fulfilling his mandate, the High Representative shall be
+  assisted by a European External Action Service. This service shall
+  work in cooperation with the diplomatic services of the Member States
+  and shall comprise officials from relevant departments of the General
+  Secretariat of the Council and of the Commission as well as staff
+  seconded from national diplomatic services of the Member States. The
+  organisation and functioning of the European External Action Service
+  shall be established by a decision of the Council. The Council shall
+  act on a proposal from the High Representative after consulting the
+  European Parliament and after obtaining the consent of the Commission.</article>
+      <article number="ARTICLE 28" article_identifier="10096">1. Where the international situation requires operational action by
+  the Union, the Council shall adopt the necessary decisions. They shall
+  lay down their objectives, scope, the means to be made available to
+  the Union, if necessary their duration, and the conditions for their
+  implementation.
+
+  If there is a change in circumstances having a substantial effect on a
+  question subject to such a decision, the Council shall review the
+  principles and objectives of that decision and take the necessary
+  decisions.
+
+  2. Decisions referred to in paragraph 1 shall commit the Member States
+  in the positions they adopt and in the conduct of their activity.
+
+  3. Whenever there is any plan to adopt a national position or take
+  national action pursuant to a decision as referred to in paragraph 1,
+  information shall be provided by the Member State concerned in time to
+  allow, if necessary, for prior consultations within the Council. The
+  obligation to provide prior information shall not apply to measures
+  which are merely a national transposition of Council decisions.
+
+  4. In cases of imperative need arising from changes in the situation
+  and failing a review of the Council decision as referred to in
+  paragraph 1, Member States may take the necessary measures as a matter
+  of urgency having regard to the general objectives of that decision.
+  The Member State concerned shall inform the Council immediately of any
+  such measures.
+
+  5. Should there be any major difficulties in implementing a decision
+  as referred to in this Article, a Member State shall refer them to the
+  Council which shall discuss them and seek appropriate solutions. Such
+  solutions shall not run counter to the objectives of the decision
+  referred to in paragraph 1 or impair its effectiveness.</article>
+      <article number="ARTICLE 29" article_identifier="10097">The Council shall adopt decisions which shall define the approach of
+  the Union to a particular matter of a geographical or thematic nature.
+  Member States shall ensure that their national policies conform to the
+  Union positions.</article>
+      <article number="ARTICLE 30" article_identifier="10098">1. Any Member State, the High Representative of the Union for Foreign
+  Affairs and Security Policy, or the High Representative with the
+  Commission's support, may refer any question relating to the common
+  foreign and security policy to the Council and may submit to it,
+  respectively, initiatives or proposals.
+
+  2. In cases requiring a rapid decision, the High Representative, of
+  his own motion, or at the request of a Member State, shall convene an
+  extraordinary Council meeting within 48 hours or, in an emergency,
+  within a shorter period.</article>
+      <article number="ARTICLE 31" article_identifier="10099">1. Decisions under this Chapter shall be taken by the European Council
+  and the Council acting unanimously, except where this Chapter provides
+  otherwise. The adoption of legislative acts shall be excluded.
+
+  When abstaining in a vote, any member of the Council may qualify its
+  abstention by making a formal declaration under the present
+  subparagraph. In that case, it shall not be obliged to apply the
+  decision, but shall accept that the decision commits the Union. In a
+  spirit of mutual solidarity, the Member State concerned shall refrain
+  from any action likely to conflict with or impede Union action based
+  on that decision and the other Member States shall respect its
+  position. If the members of the Council qualifying their abstention in
+  this way represent at least one third of the Member States comprising
+  at least one third of the population of the Union, the decision shall
+  not be adopted.
+
+  2. By derogation from the provisions of paragraph 1, the Council shall
+  act by qualified majority:
+
+  - when adopting a decision defining a Union action or position on the
+  basis of a decision of the European Council relating to the Union's
+  strategic interests and objectives, as referred to in Article 22(1),
+
+  - when adopting a decision defining a Union action or position, on a
+  proposal which the High Representative of the Union for Foreign
+  Affairs and Security Policy has presented following a specific request
+  from the European Council, made on its own initiative or that of the
+  High Representative,
+
+  - when adopting any decision implementing a decision defining a Union
+  action or position,
+
+  - when appointing a special representative in accordance with Article
+  33.
+
+  If a member of the Council declares that, for vital and stated reasons
+  of national policy, it intends to oppose the adoption of a decision to
+  be taken by qualified majority, a vote shall not be taken. The High
+  Representative will, in close consultation with the Member State
+  involved, search for a solution acceptable to it. If he does not
+  succeed, the Council may, acting by a qualified majority, request that
+  the matter be referred to the European Council for a decision by
+  unanimity.
+
+  3. The European Council may unanimously adopt a decision stipulating
+  that the Council shall act by a qualified majority in cases other than
+  those referred to in paragraph 2.
+
+  4. Paragraphs 2 and 3 shall not apply to decisions having military or
+  defence implications.
+
+  5. For procedural questions, the Council shall act by a majority of
+  its members.</article>
+      <article number="ARTICLE 32" article_identifier="10100">Member States shall consult one another within the European Council
+  and the Council on any matter of foreign and security policy of
+  general interest in order to determine a common approach. Before
+  undertaking any action on the international scene or entering into any
+  commitment which could affect the Union's interests, each Member State
+  shall consult the others within the European Council or the Council.
+  Member States shall ensure, through the convergence of their actions,
+  that the Union is able to assert its interests and values on the
+  international scene. Member States shall show mutual solidarity.
+
+  When the European Council or the Council has defined a common approach
+  of the Union within the meaning of the first paragraph, the High
+  Representative of the Union for Foreign Affairs and Security Policy
+  and the Ministers for Foreign Affairs of the Member States shall
+  coordinate their activities within the Council.
+
+  The diplomatic missions of the Member States and the Union delegations
+  in third countries and at international organisations shall cooperate
+  and shall contribute to formulating and implementing the common
+  approach.</article>
+      <article number="ARTICLE 33" article_identifier="10101">The Council may, on a proposal from the High Representative of the
+  Union for Foreign Affairs and Security Policy, appoint a special
+  representative with a mandate in relation to particular policy issues.
+  The special representative shall carry out his mandate under the
+  authority of the High Representative.</article>
+      <article number="ARTICLE 34" article_identifier="10102">1. Member States shall coordinate their action in international
+  organisations and at international conferences. They shall uphold the
+  Union's positions in such forums. The High Representative of the Union
+  for Foreign Affairs and Security Policy shall organise this
+  coordination.
+
+  In international organisations and at international conferences where
+  not all the Member States participate, those which do take part shall
+  uphold the Union's positions.
+
+  2. In accordance with Article 24(3), Member States represented in
+  international organisations or international conferences where not all
+  the Member States participate shall keep the other Member States and
+  the High Representative informed of any matter of common interest.
+
+  Member States which are also members of the United Nations Security
+  Council will concert and keep the other Member States and the High
+  Representative fully informed. Member States which are members of the
+  Security Council will, in the execution of their functions, defend the
+  positions and the interests of the Union, without prejudice to their
+  responsibilities under the provisions of the United Nations Charter.
+
+  When the Union has defined a position on a subject which is on the
+  United Nations Security Council agenda, those Member States which sit
+  on the Security Council shall request that the High Representative be
+  invited to present the Union's position.</article>
+      <article number="ARTICLE 35" article_identifier="10103">The diplomatic and consular missions of the Member States and the
+  Union delegations in third countries and international conferences,
+  and their representations to international organisations, shall
+  cooperate in ensuring that decisions defining Union positions and
+  actions adopted pursuant to this Chapter are complied with and
+  implemented.
+
+  They shall step up cooperation by exchanging information and carrying
+  out joint assessments.
+
+  They shall contribute to the implementation of the right of citizens
+  of the Union to protection in the territory of third countries as
+  referred to in Article 20(2)(c) of the Treaty on the Functioning of
+  the European Union and of the measures adopted pursuant to Article 23
+  of that Treaty.</article>
+      <article number="ARTICLE 36" article_identifier="10104">The High Representative of the Union for Foreign Affairs and Security
+  Policy shall regularly consult the European Parliament on the main
+  aspects and the basic choices of the common foreign and security
+  policy and the common security and defence policy and inform it of how
+  those policies evolve. He shall ensure that the views of the European
+  Parliament are duly taken into consideration. Special representatives
+  may be involved in briefing the European Parliament.
+
+  The European Parliament may address questions or make recommendations
+  to the Council or the High Representative. Twice a year it shall hold
+  a debate on progress in implementing the common foreign and security
+  policy, including the common security and defence policy.</article>
+      <article number="ARTICLE 37" article_identifier="10105">The Union may conclude agreements with one or more States or
+  international organisations in areas covered by this Chapter.</article>
+      <article number="ARTICLE 38" article_identifier="10106">Without prejudice to Article 240 of the Treaty on the Functioning of
+  the European Union, a Political and Security Committee shall monitor
+  the international situation in the areas covered by the common foreign
+  and security policy and contribute to the definition of policies by
+  delivering opinions to the Council at the request of the Council or of
+  the High Representative of the Union for Foreign Affairs and Security
+  Policy or on its own initiative. It shall also monitor the
+  implementation of agreed policies, without prejudice to the powers of
+  the High Representative.
+
+  Within the scope of this Chapter, the Political and Security Committee
+  shall exercise, under the responsibility of the Council and of the
+  High Representative, the political control and strategic direction of
+  the crisis management operations referred to in Article 43.
+
+  The Council may authorise the Committee, for the purpose and for the
+  duration of a crisis management operation, as determined by the
+  Council, to take the relevant decisions concerning the political
+  control and strategic direction of the operation.</article>
+      <article number="ARTICLE 39" article_identifier="10107">In accordance with Article 16 of the Treaty on the Functioning of the
+  European Union and by way of derogation from paragraph 2 thereof, the
+  Council shall adopt a decision laying down the rules relating to the
+  protection of individuals with regard to the processing of personal
+  data by the Member States when carrying out activities which fall
+  within the scope of this Chapter, and the rules relating to the free
+  movement of such data. Compliance with these rules shall be subject to
+  the control of independent authorities.</article>
+      <article number="ARTICLE 40" article_identifier="10108">The implementation of the common foreign and security policy shall not
+  affect the application of the procedures and the extent of the powers
+  of the institutions laid down by the Treaties for the exercise of the
+  Union competences referred to in Articles 3 to 6 of the Treaty on the
+  Functioning of the European Union.
+
+  Similarly, the implementation of the policies listed in those Articles
+  shall not affect the application of the procedures and the extent of
+  the powers of the institutions laid down by the Treaties for the
+  exercise of the Union competences under this Chapter.</article>
+      <article number="ARTICLE 41" article_identifier="10109">1. Administrative expenditure to which the implementation of this
+  Chapter gives rise for the institutions shall be charged to the Union
+  budget.
+
+  2. Operating expenditure to which the implementation of this Chapter
+  gives rise shall also be charged to the Union budget, except for such
+  expenditure arising from operations having military or defence
+  implications and cases where the Council acting unanimously decides
+  otherwise.
+
+  In cases where expenditure is not charged to the Union budget, it
+  shall be charged to the Member States in accordance with the gross
+  national product scale, unless the Council acting unanimously decides
+  otherwise. As for expenditure arising from operations having military
+  or defence implications, Member States whose representatives in the
+  Council have made a formal declaration under Article 31(1), second
+  subparagraph, shall not be obliged to contribute to the financing
+  thereof.
+
+  3. The Council shall adopt a decision establishing the specific
+  procedures for guaranteeing rapid access to appropriations in the
+  Union budget for urgent financing of initiatives in the framework of
+  the common foreign and security policy, and in particular for
+  preparatory activities for the tasks referred to in Article 42(1) and
+  Article 43. It shall act after consulting the European Parliament.
+
+  Preparatory activities for the tasks referred to in Article 42(1) and
+  Article 43 which are not charged to the Union budget shall be financed
+  by a start-up fund made up of Member States' contributions.
+
+  The Council shall adopt by a qualified majority, on a proposal from
+  the High Representative of the Union for Foreign Affairs and Security
+  Policy, decisions establishing:
+
+  (a) the procedures for setting up and financing the start-up fund, in
+  particular the amounts allocated to the fund;
+
+  (b) the procedures for administering the start-up fund;
+
+  (c) the financial control procedures.
+
+  When the task planned in accordance with Article 42(1) and Article 43
+  cannot be charged to the Union budget, the Council shall authorise the
+  High Representative to use the fund. The High Representative shall
+  report to the Council on the implementation of this remit.
+
+  PROVISIONS ON THE COMMON SECURITY AND DEFENCE POLICY</article>
+      <article number="ARTICLE 42" article_identifier="10110">1. The common security and defence policy shall be an integral part of
+  the common foreign and security policy. It shall provide the Union
+  with an operational capacity drawing on civilian and military assets.
+  The Union may use them on missions outside the Union for
+  peace-keeping, conflict prevention and strengthening international
+  security in accordance with the principles of the United Nations
+  Charter. The performance of these tasks shall be undertaken using
+  capabilities provided by the Member States.
+
+  2. The common security and defence policy shall include the
+  progressive framing of a common Union defence policy. This will lead
+  to a common defence, when the European Council, acting unanimously, so
+  decides. It shall in that case recommend to the Member States the
+  adoption of such a decision in accordance with their respective
+  constitutional requirements.
+
+  The policy of the Union in accordance with this Section shall not
+  prejudice the specific character of the security and defence policy of
+  certain Member States and shall respect the obligations of certain
+  Member States, which see their common defence realised in the North
+  Atlantic Treaty Organisation (NATO), under the North Atlantic Treaty
+  and be compatible with the common security and defence policy
+  established within that framework.
+
+  3. Member States shall make civilian and military capabilities
+  available to the Union for the implementation of the common security
+  and defence policy, to contribute to the objectives defined by the
+  Council. Those Member States which together establish multinational
+  forces may also make them available to the common security and defence
+  policy.
+
+  Member States shall undertake progressively to improve their military
+  capabilities. The Agency in the field of defence capabilities
+  development, research, acquisition and armaments (hereinafter referred
+  to as "the European Defence Agency") shall identify
+  operational requirements, shall promote measures to satisfy those
+  requirements, shall contribute to identifying and, where appropriate,
+  implementing any measure needed to strengthen the industrial and
+  technological base of the defence sector, shall participate in
+  defining a European capabilities and armaments policy, and shall
+  assist the Council in evaluating the improvement of military
+  capabilities.
+
+  4. Decisions relating to the common security and defence policy,
+  including those initiating a mission as referred to in this Article,
+  shall be adopted by the Council acting unanimously on a proposal from
+  the High Representative of the Union for Foreign Affairs and Security
+  Policy or an initiative from a Member State. The High Representative
+  may propose the use of both national resources and Union instruments,
+  together with the Commission where appropriate.
+
+  5. The Council may entrust the execution of a task, within the Union
+  framework, to a group of Member States in order to protect the Union's
+  values and serve its interests. The execution of such a task shall be
+  governed by Article 44.
+
+  6. Those Member States whose military capabilities fulfil higher
+  criteria and which have made more binding commitments to one another
+  in this area with a view to the most demanding missions shall
+  establish permanent structured cooperation within the Union framework.
+  Such cooperation shall be governed by Article 46. It shall not affect
+  the provisions of Article 43.
+
+  7. If a Member State is the victim of armed aggression on its
+  territory, the other Member States shall have towards it an obligation
+  of aid and assistance by all the means in their power, in accordance
+  with Article 51 of the United Nations Charter. This shall not
+  prejudice the specific character of the security and defence policy of
+  certain Member States.
+
+  Commitments and cooperation in this area shall be consistent with
+  commitments under the North Atlantic Treaty Organisation, which, for
+  those States which are members of it, remains the foundation of their
+  collective defence and the forum for its implementation.</article>
+      <article number="ARTICLE 43" article_identifier="10111">1. The tasks referred to in Article 42(1), in the course of which the
+  Union may use civilian and military means, shall include joint
+  disarmament operations, humanitarian and rescue tasks, military advice
+  and assistance tasks, conflict prevention and peace-keeping tasks,
+  tasks of combat forces in crisis management, including peace-making
+  and post-conflict stabilisation. All these tasks may contribute to the
+  fight against terrorism, including by supporting third countries in
+  combating terrorism in their territories.
+
+  2. The Council shall adopt decisions relating to the tasks referred to
+  in paragraph 1, defining their objectives and scope and the general
+  conditions for their implementation. The High Representative of the
+  Union for Foreign Affairs and Security Policy, acting under the
+  authority of the Council and in close and constant contact with the
+  Political and Security Committee, shall ensure coordination of the
+  civilian and military aspects of such tasks.</article>
+      <article number="ARTICLE 44" article_identifier="10112">1. Within the framework of the decisions adopted in accordance with
+  Article 43, the Council may entrust the implementation of a task to a
+  group of Member States which are willing and have the necessary
+  capability for such a task. Those Member States, in association with
+  the High Representative of the Union for Foreign Affairs and Security
+  Policy, shall agree among themselves on the management of the task.
+
+  2. Member States participating in the task shall keep the Council
+  regularly informed of its progress on their own initiative or at the
+  request of another Member State. Those States shall inform the Council
+  immediately should the completion of the task entail major
+  consequences or require amendment of the objective, scope and
+  conditions determined for the task in the decisions referred to in
+  paragraph 1. In such cases, the Council shall adopt the necessary
+  decisions.</article>
+      <article number="ARTICLE 45" article_identifier="10113">1. The European Defence Agency referred to in Article 42(3), subject
+  to the authority of the Council, shall have as its task to:
+
+  (a) contribute to identifying the Member States' military capability
+  objectives and evaluating observance of the capability commitments
+  given by the Member States;
+
+  (b) promote harmonisation of operational needs and adoption of
+  effective, compatible procurement methods;
+
+  (c) propose multilateral projects to fulfil the objectives in terms of
+  military capabilities, ensure coordination of the programmes
+  implemented by the Member States and management of specific
+  cooperation programmes;
+
+  (d) support defence technology research, and coordinate and plan joint
+  research activities and the study of technical solutions meeting
+  future operational needs;
+
+  (e) contribute to identifying and, if necessary, implementing any
+  useful measure for strengthening the industrial and technological base
+  of the defence sector and for improving the effectiveness of military
+  expenditure.
+
+  2. The European Defence Agency shall be open to all Member States
+  wishing to be part of it. The Council, acting by a qualified majority,
+  shall adopt a decision defining the Agency's statute, seat and
+  operational rules. That decision should take account of the level of
+  effective participation in the Agency's activities. Specific groups
+  shall be set up within the Agency bringing together Member States
+  engaged in joint projects. The Agency shall carry out its tasks in
+  liaison with the Commission where necessary.</article>
+      <article number="ARTICLE 46" article_identifier="10114">1. Those Member States which wish to participate in the permanent
+  structured cooperation referred to in Article 42(6), which fulfil the
+  criteria and have made the commitments on military capabilities set
+  out in the Protocol on permanent structured cooperation, shall notify
+  their intention to the Council and to the High Representative of the
+  Union for Foreign Affairs and Security Policy.
+
+  2. Within three months following the notification referred to in
+  paragraph 1 the Council shall adopt a decision establishing permanent
+  structured cooperation and determining the list of participating
+  Member States. The Council shall act by a qualified majority after
+  consulting the High Representative.
+
+  3. Any Member State which, at a later stage, wishes to participate in
+  the permanent structured cooperation shall notify its intention to the
+  Council and to the High Representative.
+
+  The Council shall adopt a decision confirming the participation of the
+  Member State concerned which fulfils the criteria and makes the
+  commitments referred to in Articles 1 and 2 of the Protocol on
+  permanent structured cooperation. The Council shall act by a qualified
+  majority after consulting the High Representative. Only members of the
+  Council representing the participating Member States shall take part
+  in the vote.
+
+  A qualified majority shall be defined in accordance with Article
+  238(3)(a) of the Treaty on the Functioning of the European Union.
+
+  4. If a participating Member State no longer fulfils the criteria or
+  is no longer able to meet the commitments referred to in Articles 1
+  and 2 of the Protocol on permanent structured cooperation, the Council
+  may adopt a decision suspending the participation of the Member State
+  concerned.
+
+  The Council shall act by a qualified majority. Only members of the
+  Council representing the participating Member States, with the
+  exception of the Member State in question, shall take part in the
+  vote.
+
+  A qualified majority shall be defined in accordance with Article
+  238(3)(a) of the Treaty on the Functioning of the European Union.
+
+  5. Any participating Member State which wishes to withdraw from
+  permanent structured cooperation shall notify its intention to the
+  Council, which shall take note that the Member State in question has
+  ceased to participate.
+
+  6. The decisions and recommendations of the Council within the
+  framework of permanent structured cooperation, other than those
+  provided for in paragraphs 2 to 5, shall be adopted by unanimity. For
+  the purposes of this paragraph, unanimity shall be constituted by the
+  votes of the representatives of the participating Member States only.</article>
+    </chapter>
+    <chapter number="TITLE VI" name="Final Provisions" chapter_identifier="1241">
+      <article number="ARTICLE 47" article_identifier="10115">The Union shall have legal personality.</article>
+      <article number="ARTICLE 48" article_identifier="10116">1. The Treaties may be amended in accordance with an ordinary revision
+  procedure. They may also be amended in accordance with simplified
+  revision procedures.
+
+  Ordinary revision procedure
+
+  2. The Government of any Member State, the European Parliament or the
+  Commission may submit to the Council proposals for the amendment of
+  the Treaties. These proposals may, inter alia, serve either to
+  increase or to reduce the competences conferred on the Union in the
+  Treaties. These proposals shall be submitted to the European Council
+  by the Council and the national Parliaments shall be notified.
+
+  3. If the European Council, after consulting the European Parliament
+  and the Commission, adopts by a simple majority a decision in favour
+  of examining the proposed amendments, the President of the European
+  Council shall convene a Convention composed of representatives of the
+  national Parliaments, of the Heads of State or Government of the
+  Member States, of the European Parliament and of the Commission. The
+  European Central Bank shall also be consulted in the case of
+  institutional changes in the monetary area. The Convention shall
+  examine the proposals for amendments and shall adopt by consensus a
+  recommendation to a conference of representatives of the governments
+  of the Member States as provided for in paragraph 4.
+
+  The European Council may decide by a simple majority, after obtaining
+  the consent of the European Parliament, not to convene a Convention
+  should this not be justified by the extent of the proposed amendments.
+  In the latter case, the European Council shall define the terms of
+  reference for a conference of representatives of the governments of
+  the Member States.
+
+  4. A conference of representatives of the governments of the Member
+  States shall be convened by the President of the Council for the
+  purpose of determining by common accord the amendments to be made to
+  the Treaties.
+
+  The amendments shall enter into force after being ratified by all the
+  Member States in accordance with their respective constitutional
+  requirements.
+
+  5. If, two years after the signature of a treaty amending the
+  Treaties, four fifths of the Member States have ratified it and one or
+  more Member States have encountered difficulties in proceeding with
+  ratification, the matter shall be referred to the European Council.
+
+  Simplified revision procedures
+
+  6. The Government of any Member State, the European Parliament or the
+  Commission may submit to the European Council proposals for revising
+  all or part of the provisions of Part Three of the Treaty on the
+  Functioning of the European Union relating to the internal policies
+  and action of the Union.
+
+  The European Council may adopt a decision amending all or part of the
+  provisions of Part Three of the Treaty on the Functioning of the
+  European Union. The European Council shall act by unanimity after
+  consulting the European Parliament and the Commission, and the
+  European Central Bank in the case of institutional changes in the
+  monetary area. That decision shall not enter into force until it is
+  approved by the Member States in accordance with their respective
+  constitutional requirements.
+
+  The decision referred to in the second subparagraph shall not increase
+  the competences conferred on the Union in the Treaties.
+
+  7. Where the Treaty on the Functioning of the European Union or Title
+  V of this Treaty provides for the Council to act by unanimity in a
+  given area or case, the European Council may adopt a decision
+  authorising the Council to act by a qualified majority in that area or
+  in that case. This subparagraph shall not apply to decisions with
+  military implications or those in the area of defence.
+
+  Where the Treaty on the Functioning of the European Union provides for
+  legislative acts to be adopted by the Council in accordance with a
+  special legislative procedure, the European Council may adopt a
+  decision allowing for the adoption of such acts in accordance with the
+  ordinary legislative procedure.
+
+  Any initiative taken by the European Council on the basis of the first
+  or the second subparagraph shall be notified to the national
+  Parliaments. If a national Parliament makes known its opposition
+  within six months of the date of such notification, the decision
+  referred to in the first or the second subparagraph shall not be
+  adopted. In the absence of opposition, the European Council may adopt
+  the decision.
+
+  For the adoption of the decisions referred to in the first and second
+  subparagraphs, the European Council shall act by unanimity after
+  obtaining the consent of the European Parliament, which shall be given
+  by a majority of its component members.</article>
+      <article number="ARTICLE 49" article_identifier="10117">Any European State which respects the values referred to in Article 2
+  and is committed to promoting them may apply to become a member of the
+  Union. The European Parliament and national Parliaments shall be
+  notified of this application. The applicant State shall address its
+  application to the Council, which shall act unanimously after
+  consulting the Commission and after receiving the consent of the
+  European Parliament, which shall act by a majority of its component
+  members. The conditions of eligibility agreed upon by the European
+  Council shall be taken into account.
+
+  The conditions of admission and the adjustments to the Treaties on
+  which the Union is founded, which such admission entails, shall be the
+  subject of an agreement between the Member States and the applicant
+  State. This agreement shall be submitted for ratification by all the
+  contracting States in accordance with their respective constitutional
+  requirements.</article>
+      <article number="ARTICLE 50" article_identifier="10118">1. Any Member State may decide to withdraw from the Union in
+  accordance with its own constitutional requirements.
+
+  2. A Member State which decides to withdraw shall notify the European
+  Council of its intention. In the light of the guidelines provided by
+  the European Council, the Union shall negotiate and conclude an
+  agreement with that State, setting out the arrangements for its
+  withdrawal, taking account of the framework for its future
+  relationship with the Union. That agreement shall be negotiated in
+  accordance with Article 218(3) of the Treaty on the Functioning of the
+  European Union. It shall be concluded on behalf of the Union by the
+  Council, acting by a qualified majority, after obtaining the consent
+  of the European Parliament.
+
+  3. The Treaties shall cease to apply to the State in question from the
+  date of entry into force of the withdrawal agreement or, failing that,
+  two years after the notification referred to in paragraph 2, unless
+  the European Council, in agreement with the Member State concerned,
+  unanimously decides to extend this period.
+
+  4. For the purposes of paragraphs 2 and 3, the member of the European
+  Council or of the Council representing the withdrawing Member State
+  shall not participate in the discussions of the European Council or
+  Council or in decisions concerning it.
+
+  A qualified majority shall be defined in accordance with Article
+  238(3)(b) of the Treaty on the Functioning of the European Union.
+
+  5. If a State which has withdrawn from the Union asks to rejoin, its
+  request shall be subject to the procedure referred to in Article 49.</article>
+      <article number="ARTICLE 51" article_identifier="10119">The Protocols and Annexes to the Treaties shall form an integral part
+  thereof.</article>
+      <article number="ARTICLE 52" article_identifier="10120">1. The Treaties shall apply to the Kingdom of Belgium, the Republic of
+  Bulgaria, the Czech Republic, the Kingdom of Denmark, the Federal
+  Republic of Germany, the Republic of Estonia, Ireland, the Hellenic
+  Republic, the Kingdom of Spain, the French Republic, the Italian
+  Republic, the Republic of Cyprus, the Republic of Latvia, the Republic
+  of Lithuania, the Grand Duchy of Luxembourg, the Republic of Hungary,
+  the Republic of Malta, the Kingdom of the Netherlands, the Republic of
+  Austria, the Republic of Poland, the Portuguese Republic, Romania, the
+  Republic of Slovenia, the Slovak Republic, the Republic of Finland,
+  the Kingdom of Sweden and the United Kingdom of Great Britain and
+  Northern Ireland.
+
+  2. The territorial scope of the Treaties is specified in Article 355
+  of the Treaty on the Functioning of the European Union.</article>
+      <article number="ARTICLE 53" article_identifier="10121">This Treaty is concluded for an unlimited period.</article>
+      <article number="ARTICLE 54" article_identifier="10122">1. This Treaty shall be ratified by the High Contracting Parties in
+  accordance with their respective constitutional requirements. The
+  instruments of ratification shall be deposited with the Government of
+  the Italian Republic.
+
+  2. This Treaty shall enter into force on 1 January 1993, provided that
+  all the Instruments of ratification have been deposited, or, failing
+  that, on the first day of the month following the deposit of the
+  Instrument of ratification by the last signatory State to take this
+  step.</article>
+      <article number="ARTICLE 55" article_identifier="10123">1. This Treaty, drawn up in a single original in the Bulgarian, Czech,
+  Danish, Dutch, English, Estonian, Finnish, French, German, Greek,
+  Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish,
+  Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish
+  languages, the texts in each of these languages being equally
+  authentic, shall be deposited in the archives of the Government of the
+  Italian Republic, which will transmit a certified copy to each of the
+  governments of the other signatory States.
+
+  2. This Treaty may also be translated into any other languages as
+  determined by Member States among those which, in accordance with
+  their constitutional order, enjoy official status in all or part of
+  their territory. A certified copy of such translations shall be
+  provided by the Member States concerned to be deposited in the
+  archives of the Council.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1242">
+      <article article_identifier="10124">IN WITNESS WHEREOF the undersigned Plenipotentiaries have signed this
+  Treaty.
+
+  Done at Maastricht on the seventh day of February in the year one
+  thousand nine hundred and ninety-two.
+
+  (List of signatories not reproduced)
+
+  [1] The Republic of Bulgaria, the Czech Republic, the Republic of
+  Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic
+  of Lithuania, the Republic of Hungary, the Republic of Malta, the
+  Republic of Austria, the Republic of Poland, Romania, the Republic of
+  Slovenia, the Slovak Republic, the Republic of Finland and the Kingdom
+  of Sweden have since become members of the European Union.
+
+  [2] These references are merely indicative. For more ample
+  information, please refer to the tables of equivalences between the
+  old and the new numbering of the Treaties.</article>
+    </chapter>
+  </body>
+</treaty>

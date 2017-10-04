@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>First Convention of Lomé</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>368</wto_rta_id>
+    <treaty_identifier>318</treaty_identifier>
+    <status>Inactive</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1975-02-28</date_signed>
+    <date_into_force>1976-04-01</date_into_force>
+    <date_notification>1975-07-02</date_notification>
+    <end_implementation/>
+    <date_inactive>1981-01-01</date_inactive>
+    <parties_original>
+      <partyisocode n="1">BDI</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BEN</partyisocode>
+      <partyisocode n="4">BFA</partyisocode>
+      <partyisocode n="5">BHS</partyisocode>
+      <partyisocode n="6">BRB</partyisocode>
+      <partyisocode n="7">BWA</partyisocode>
+      <partyisocode n="8">CAF</partyisocode>
+      <partyisocode n="9">CIV</partyisocode>
+      <partyisocode n="10">CMR</partyisocode>
+      <partyisocode n="11">COD</partyisocode>
+      <partyisocode n="12">COG</partyisocode>
+      <partyisocode n="13">DEU</partyisocode>
+      <partyisocode n="14">DNK</partyisocode>
+      <partyisocode n="15">ETH</partyisocode>
+      <partyisocode n="16">FJI</partyisocode>
+      <partyisocode n="17">FRA</partyisocode>
+      <partyisocode n="18">GAB</partyisocode>
+      <partyisocode n="19">GBR</partyisocode>
+      <partyisocode n="20">GHA</partyisocode>
+      <partyisocode n="21">GIN</partyisocode>
+      <partyisocode n="22">GMB</partyisocode>
+      <partyisocode n="23">GNB</partyisocode>
+      <partyisocode n="24">GNQ</partyisocode>
+      <partyisocode n="25">GRD</partyisocode>
+      <partyisocode n="26">GUY</partyisocode>
+      <partyisocode n="27">IRL</partyisocode>
+      <partyisocode n="28">ITA</partyisocode>
+      <partyisocode n="29">JAM</partyisocode>
+      <partyisocode n="30">KEN</partyisocode>
+      <partyisocode n="31">LBR</partyisocode>
+      <partyisocode n="32">LSO</partyisocode>
+      <partyisocode n="33">LUX</partyisocode>
+      <partyisocode n="34">MDG</partyisocode>
+      <partyisocode n="35">MLI</partyisocode>
+      <partyisocode n="36">MRT</partyisocode>
+      <partyisocode n="37">MUS</partyisocode>
+      <partyisocode n="38">MWI</partyisocode>
+      <partyisocode n="39">NER</partyisocode>
+      <partyisocode n="40">NGA</partyisocode>
+      <partyisocode n="41">NLD</partyisocode>
+      <partyisocode n="42">RWA</partyisocode>
+      <partyisocode n="43">SDN</partyisocode>
+      <partyisocode n="44">SEN</partyisocode>
+      <partyisocode n="45">SLE</partyisocode>
+      <partyisocode n="46">SOM</partyisocode>
+      <partyisocode n="47">SWZ</partyisocode>
+      <partyisocode n="48">TCD</partyisocode>
+      <partyisocode n="49">TGO</partyisocode>
+      <partyisocode n="50">TON</partyisocode>
+      <partyisocode n="51">TTO</partyisocode>
+      <partyisocode n="52">TZA</partyisocode>
+      <partyisocode n="53">UGA</partyisocode>
+      <partyisocode n="54">WSM</partyisocode>
+      <partyisocode n="55">ZMB</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1"/>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Caribbean; Europe; Africa; Oceania; South America</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.epg.acp.int/fileadmin/user_upload/LOME_I.pdf</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="2728">
+      <article number="ARTICLE 1" article_identifier="22656">In the field of trade co-operation, the object of this Convention 
+
+is to promote trade between the Contracting Parties, taking account 
+
+of their respective levels of development, and, in particular, of the 
+
+need to secure additional benefits for the trade of ACP States, in 
+
+order to accelerate the rate ofgrowth of their trade and improve the 
+
+conditions ofaccess of their products to the market of the European 
+
+Economic Community, (hereinafter called the "Community" so as 
+
+to ensure a better balance in the trade of the Contracting Parties. 
+
+To this end the Contracting Parties shall apply Chapters 1 and 2 
+
+of this Title.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Trade Arrangements" chapter_identifier="2729">
+      <article number="ARTICLE 2" article_identifier="22657">1. Products originating in the ACP States shall be imported into the ·Community free of customs duties and charges having equivalent effect, but the treatment applied to these products may not be more favourable than that applied by the Member States among them
+
+selves. For the purpose of the first subparagraph the transitional provisions in force relating to the residual customs duties and charges having equivalent effect resulting from the application of Articles 32 and 36 of the Act concerning the Conditions of Accession and the Adjustments to the Treaties shall have no application. 
+
+2. (a) Products originating in the ACP States: 
+
+-listed in Annex II to the Treaty when they come under a com
+
+mon organization of the market within the meaning of Article 40 of 
+
+the Treaty, or 
+
+-subject, on importation into the Community, to specific rules in
+
+troduced as a result of the implementation of the common agricul
+
+tural policy; shall be imported into the Community notwithstand
+
+ing the general arrangements applied in respect of third countries, 
+
+in accordance with the following provisions: 
+
+
+(i) those products shall be imported free ofcustoms duties for which Community provisions in force at the time of importation do not provide, apart from customs duties, for the application of any other measure relating to their importation; 
+
+
+(ii) for products other than those referred to under (i), the Community shall take the necessary measures to ensure, as a general rule, more favourable treatment than the general treatment applicable to the same products originating in third countries to which the mostfavoured-nation clause applies. 
+(b) These arrangements shall enter into force at the same time as this Convention and shall remain applicable for its duration. If, however, during the application of this Convention, the Community, 
+
+-subjects one or more products to common organization of the market or to specific rules introduced as a result of the implementation of the common agricultural policy, it reserves the right to adapt the import treatment for these products originating in the ACi&gt; States, following consultations within the Council of Ministers. lh such cases, paragraph 2 (a) shall be applicable; 
+
+-modifies the common organization of the market in a particular product or the specific rules introduced as a result of the implementation of the common agricultural policy, it reserves the right to modify the arrangements laid down for products originating in the ACP States, following consultations within the Council of Ministers. In such cases, the Community ·undertakes to ensure that products originating in the ACP States continue to enjoy an advantage comparable to that previously enjoyed in relation to products originating in third countries benefiting from the most-favoured-nation clause.</article>
+      <article number="ARTICLE 3" article_identifier="22658">1. The Community shall not apply to imports of products originating in the ACP States any quantitative restrictions or measures having equivalent effect other than those which the Member States apply among themselves. 
+
+
+2. Paragraph 1, however, shall not prejudice the import treatment applied to the products referred to in the first indent of Article 2 (2) (a). 
+The Community shall inform the ACP States when residual quantitative restrictions are eliminated in respect of any of these products. 
+
+3. This Article shall not prejudice the treatment that the Community applies to certain products in implementation of world commodity agreements to which the Community and the ACP States concerned are signatory.</article>
+      <article number="ARTICLE 4" article_identifier="22659">Nothing in this Convention shall preclude prohibitions or restrictions on imports, exports or goods in transit justified on grounds of public morality, public policy or public security; the protection of health and life of humans, animals and plants; the protection of national treasures possessing artistic, historic or archaeological value or the protection of industrial and commercial property. 
+
+Such prohibitions or restrictions shall not, however, constitute a means ofarbitrary discrimination or a disguised restriction on trade.</article>
+      <article number="ARTICLE 5" article_identifier="22660">Where new measures or measures stipulated in programmes adopted by the Community for the approximation of laws and regulations in order to facilitate the movement of goods are likely to affect the interests of one or more ACP States the Community shall, prior to adopting such measures, inform the ACP States thereof through the Council of Ministers. 
+
+In order to enable the Community to take into consideration the interests of the ACP States concerned, consultations shall be held upon the request of the latter with a view to reaching a satisfactory solution.</article>
+      <article number="ARTICLE 6" article_identifier="22661">Where existing rules or regulations ofthe Community adopted in order to facilitate the movement of goods or where the interpretation, application or administration thereof affect the interests ofone or more ACP States, consultations shall be held at the request of the latter with a view to reaching a satisfactory solution. 
+
+With a view to finding a satisfactory solution, the ACP States may also bring up within the Council of Ministers any other problems relating to the movement of goods which might result from measures taken or to be taken by the Member States. 
+
+The competent institutions of the Community shall to the greatest possible extent inform the Council of Ministers of such measures.</article>
+      <article number="ARTICLE 7" article_identifier="22662">1. In view of their present development needs, the ACP States shall not be required, for the duration of this Convention, to assume, in respect of imports of pre&gt;ducts originating in the Community, obligations corresponding to the commitments entered into by the Community in respect of imports of the products originating in the ACP States, under this 2hapter. 
+
+
+2. (a) In their trade with the Community, the ACP States shall not discriminate among the Member States, and shall grant to the Community treatment no less favourable than the most-favoured-nation treatment. 
+(b) The most-favoured-nation treatment referred to in subparagraph (a) shall not apply in respect oftrade or economic relations between ACP States or between one or more ACP States and other developing countries.</article>
+      <article number="ARTICLE 8" article_identifier="22663">Each Contracting Party shall communicate its customs tariff to the Council of Ministers within a period of three months following the entry into force of this Convention. It shall also communicate any subsequent amendments to that tariff as and when they occur.</article>
+      <article number="ARTICLE 9" article_identifier="22664">1. The concept of"originating products" for the purposes of implementing this Chapter, and the methods of administrative co-operation relating thereto, are laid down in Protocol No 1. 
+
+
+2. The Council of Ministers may adopt any amendment to Protocol No 1. 
+
+
+3. Where the concept of "originating products" has not yet been defined for a given product in implementation of paragraphs 1 or 2, each Contracting Party shall continue to apply its own rules.</article>
+      <article number="ARTICLE 10" article_identifier="22665">1. If, as a result of applying the provisions of this Chapter, serious disturbances occur in a sector of the economy of the Community or of one or more of its Member States, or jeopardize their external financial stability, or if difficulties arise which may result in a deterioration in a sector of the economy of a region of the Community, the latter may take, or may authorize the Member State concerned to take, the necessary safeguard measures. These measures and the methods of applying them shall be notified immediately to the Council of Ministers. 
+
+
+2. For the purpose of implementing paragraph 1, priority shall be given to such measures as would least disturb the trade relations between the Contracting Parties and the attainment of the objectives of the Convention. These measures shall not exceed the limits of what is strictly necessary to remedy the difficulties that have arisen.</article>
+      <article number="ARTICLE 11" article_identifier="22666">In order to ensure effective implementation of the provisions of this Convention in the field of trade co-operation, the Contracting Parties agree to inform and consult each other. 
+
+Consultations shall take place, at the request of the Community or of the ACP States, in accordance with the conditions provided for in the rules of procedure in Article 74, particularly in the following cases: 
+
+I. Where Contracting Parties envisage taking any trade measures affecting the interest of one or more Contracting Parties under this Convention, they shall inform the Council of Ministers thereof. Consultations shall take place, where the Contracting Parties concerned so request, in order to take into account their respective interests. 
+
+
+2. Where the Community envisages concluding a preferential trade agreement it shall inform the ACP States thereof. Consultations shall take place, where the ACP States so request, in order to safeguard their interests. 
+
+
+3. Where the Community or the Member States take safeguard measures in accordance with Article 10, consultations on these measures may take place within the Council ofMinisters, where the Contracting Parties concerned so request, notably with a view to ensuring compliance with Article 10 (2). 
+
+
+4. If, during the application of this Convention, the ACP States consider that agricultural products covered by Article 2 (2) (a), other than those subject to special treatment, call for special treatment, consultations may take place within the Council of Ministers.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Trade Promotion" chapter_identifier="2730">
+      <article number="ARTICLE 12" article_identifier="22667">With a view to attaining the objectives they have set themselves as regards trade and industrial co-operation the Contracting Parties shall carry out trade promotion activities which will be aimed at helping the ACP States to derive maximum benefit from Title I. Chapter 1 and Title III and to participate under the most favourable conditions in the Community, regional and international markets.</article>
+      <article number="ARTICLE 13" article_identifier="22668">The trade promotion activities provided for in Article 12 shall include: 
+
+
+(a) improving the structure and working methods of organizations, departments or firms contributing to the development of the foreign trade of ACP States, or setting up such organizations, departments or firms; 
+
+
+(b) basic training or advanced vocational training of staff in trade promotion; 
+
+(c) 
+participation by the ACP States in fairs, exhibitions, specialized international shows and the organization of trade events;
+
+
+
+(d) improving CO"operation between economic operators in the 
+Member States and the ACP States and establishing links to pro~ 
+mote such co-operation; 
+
+
+
+(e) carrying out and making use of market research and marketing 
+
+studies; 
+(0 producing and distributing trade information in various forms 
+within the Community and the ACP States with a view to devel
+oping trade.</article>
+      <article number="ARTICLE 14" article_identifier="22669">Applications for financing of trade promotion activities shall be presented to the Community by the ACP State or ACP States concerned under the conditions laid down in Title IV.</article>
+      <article number="ARTICLE 15" article_identifier="22670">The Community shall participate, under the conditions laid down in Title IV and in Protocol No 2, in financing trade promotion activities for promoting the development of exports of ACP States.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Stabilization Of Export Earnings" chapter_identifier="2731">
+      <article number="ARTICLE 16" article_identifier="22671">With the aim of remedying the harmful effects of the instability of export earnings and of thereby enabling the ACP States to achieve the stability, profitability and sustained growth of their economies, the Community shall implement a system for guaranteeing the stabilization of earnings from exports by the ACP States to the Community ofcertain products on which their economies are dependent and which are affected by fluctuations in price and/or quantity.</article>
+      <article number="ARTICLE 17" article_identifier="22672">1. Export earnings to which the stabilization system applies shall be those accruing from the exportation by the ACP States to the Community of the products on the following list, drawn up taking account of factors such as employment, deterioration of the terms of trade between the Community and the ACP State concerned, the level of development of the State concerned and the particular difficulties of the least developed, landlocked or island ACP States listed in Article 24: 
+
+
+a. Groundnut products (aa) groundnuts, shelled or not 
+
+(ab) groundnut oil (ac) groundnut oilcake 
+
+b. Cocoa products (ba) cocoa beans 
+
+(bb) cocoa paste (be) cocoa butter 
+
+c. Coffee products 
+
+(ca) raw or roasted coffee (cb) extracts, essences or concentrates of coffee 
+
+d. Cotton products 
+
+(da) cotton, not carded or combed (db) cotton linters 
+
+e. Coconut products 
+
+(ea) coconuts (eb) copra (ec) coconut oil (ed) coconut oilcake 
+
+f. Palm, palm nut and kernel products (fa) palm oil (tb) palm nut and kernel oil 
+
+(fc) palm nut and kernel oilcake (fd) palm nuts and kernels 
+
+g. Raw hides, skins and leather (ga) raw hides and skins (gb) bovine cattle leather 
+
+(gc) sheep and lamb skin leather (gd) goat and kid skin leather 
+
+h. Wood products (ha) wood in the rough (hb) wood roughly squared or half-squared, but not further manu
+
+factured (he) wood sawn lengthwise, but not further prepared 
+
+i. Fresh bananas 
+
+k.Tea 
+
+I. Raw sisal 
+
+m. Iron ore 
+
+Iron ores and concentrates and roasted iron pyrites. 
+The statistics used for implementation of the system shall be those obtained by cross-checking the statistics of the ACP States and of the Community, account being taken of the fob values. 
+
+The system shall be implemented in respect of the products listed above where they are: 
+
+
+(a) released for home use in the Community; 
+
+
+(b) brought under the inward processing arrangements there in order to be processed. 
+
+2. The system shall apply to an ACP State's export earnings from the products listed above if, during the year preceding the year of application, earnings from the export of the product or products to all destinations represented at least 7.5% of its total earnings from merchandise exports: for sisal, however, the percentage shall be 5%. For the least developed, landlocked or island ACP States listed in Article 24 the percentage shall be 2.5%. 
+
+
+3. Nonetheless if, not sooner than 12 months followingthe entry into force of this Convention, one or more products not contained in this list, but upon which the economies of one or more ACP States depend to a considerable extent, are affected by sharp fluctuations, the Council of Ministers may decide whether the product or products should be included in the list, without prejudice to Article 18 (1 ). 
+
+
+4. For certain special cases the system shall apply to exports of the products in question irrespective of destination. 
+
+
+5. The ACP States concerned shall certify that the products to which the stabilization system applies have originated in their territory.</article>
+      <article number="ARTICLE 18" article_identifier="22673">1. For the purposes specified in Article 16 and for the duration of this Convention, the Community shall allocate to the stabilization system a total amount of 375 million units of account to cover all its commitments under the said system. This amount shall be managed by the Commission of the European Communities (hereinafter called the "Commission". 
+
+
+2. This total amount shall be divided into five equal annual instalments. Every year except the last, the Council of Ministers may authorize, where required, the use in advance of a maximum of 20% of the following year's instalment. 
+
+
+3. Whatever balance remains at the end ofeach year ofthe first four years of the application of this Convention shall be carried forward automatically to the following year. 
+
+
+4. On the basis of a report submitted to it by the Commission, the Council of Ministers may reduce the amount of the transfers to be made under the stabilization system. 
+
+
+5. Before the expiry of this Convention, the Council of Ministers shall decide on the use to which any balance remaining from the total amount referred to in paragraph 1 is to be put and also on the terms to be laid down for the further use of amounts still to be paid by the ACP States, under Article 21, after the expiry of this Convention.</article>
+      <article number="ARTICLE 19" article_identifier="22674">1. In order to implement the stabilization system a reference level shall be calculated for each ACP State and for each product. 
+
+This reference level shall correspond to the component of export earnings during the four years preceding each year of application. 
+
+2. An ACP State shall be entitled to request a financial transfer if, on the basis of the results of a calendar year, its actual earnings, as defined in Article 17, from each of the products considered individually, are at least 7.5% below the reference level. For the least developed, landlocked or island ACP States listed in Article 24 the percentage shall be 2.5%. 
+
+
+3. The request from the ACP State concerned shall be addressed to the Commission, which shall examine it in the light of the volume of resources available. 
+
+The difference between the reference level and actual earnings shall constitute the basis of the transfer. 
+
+4. 
+
+(a)  However, should examination of the request, to the undertaken by the Commission in conjunction with the ACP State concerned, show that the fall in earnings from exports to the Community of the products in question is the result of a trade policy measure of the ACP State concerned adversely affecting exports to the Community in particular, the request shall not be admissible; 
+
+
+(b) should examination of the total exports of the requesting ACP State show a significant change, consultations shall be held between the Commission and the requesting State to determine whether such changes are likely to have an effect on the amount ofthe transfer, and if so to what extent.
+
+5. Except in the case referred to in paragraph 4 (a) the Commission shall, in conjunction with the requesting ACP State, draw up a draft decision to make a transfer. 
+
+
+6. All necessary steps shall be taken to ensure that transfers are made rapidly, for example by means of advances, normally sixmonthly.</article>
+      <article number="ARTICLE 20" article_identifier="22675">The recipient ACP State shall decide how the resources will be used. It shall inform the Commission annually of the use to which it has put the resources transferred.</article>
+      <article number="ARTICLE 21" article_identifier="22676">1. The amounts transferred shall not bear interest. 
+
+
+2. The ACP States which have received transfers shall contribute, in the five years following the allocation of each transfer, towards the reconstitution of the resources made available for the system by the Community. 
+
+
+3. Each ACP State shall help reconstitute the resources when it is found that the trend of its export earnings will so permit. 
+To this effect, the Commission shall determine, for each year and for each product, and on the conditions specified in Article 17 (1), whether 
+
+-the unit value of the exports is higher than the reference unit va
+
+lue; 
+-the quantity actually exported to the Community is at least 
+equal to the reference quantity. 
+
+
+If the two conditions are met at the same time, the recipient ACP State shall pay back into the system, within the limit ofthe transfers it has received, an amount equal to the reference quantity multiplied by the difference between the reference unit value and the actual unit value. 
+
+4. If, on expiry of the five-year period referred to in paragraph 2, the resources have not been fully reconstituted, the Council of Ministers, taking into consideration in particular the situation ofand prospects for the balance of payments, exchange reserves and foreign indebtedness of the ACP States concerned, may decide that: 
+
+-the sums outstanding are to be reconstituted wholly or partially, in one or more instalments; 
+
+-rights to repayment are to be waived. 
+
+5. Paragraphs 2, 3 and 4 shall not apply to the ACP States listed in Article 48.</article>
+      <article number="ARTICLE 22" article_identifier="22677">For each transfer a" transfer agreement" shall be drawn up and concluded between the Commission and the ACP State concerned.</article>
+      <article number="ARTICLE 23" article_identifier="22678">I. In order to ensure that the stabilization system functions efficiently and rapidly, statistical and customs co-operation shall be instituted between the Community and the ACP States. Tbe detailed arrangements for such co-operation shall be established by the Council of Ministers. 
+
+2. The ACP States and the Commission shall adopt by mutual agreement any practical measures facilitating the exchange of necessary information and the submission of requests for transfers, for example by producing a form for requesting transfers.</article>
+      <article number="ARTICLE 24" article_identifier="22679">The least developed, landlocked or island ACP States referred to in Article 17 (1) and (2) and Article 19 (2) are as follows: 
+
+-the Bahamas -Malawi -Barbados -Mali -Botswana -Mauritania -Burundi -Mauritius -Central African Republic -Niger -Chad -Rwanda -Dahomey -Somalia -Equatorial Guinea -Sudan -Ethiopia -Swaziland -Fiji -Tanzania -the Gambia -Togo -Grenada -Tonga -Guinea -Trinidad and Tobago -Guinea-Bissau -Uganda -Jamaica -Upper Volta -Lesotho -Western Samoa -Madagascar -Zambia</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Specific Provisions Concerning Sugar" chapter_identifier="2732">
+      <article number="ARTICLE 25" article_identifier="22680">I. Notwithstanding any other provisions of this Convention the Community undertakes for an indefinite period to purchase and import, at guaranteed prices, specific quantities of cane sugar, raw or white, which originate in the ACP States producing and exporting cane sugar and which those States undertake to deliver to it. 
+
+2. Protocol No 3 annexed to this Convention determines the conditions of implementation of this Article.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Industrial Co-Operation" chapter_identifier="2733">
+      <article number="ARTICLE 26" article_identifier="22681">The Community and the ACP States, acknowledging the pressing need for the industrial development of the latter, agree to take all measures necessary to bring about effective industrial co-operation. 
+
+Industrial co-operation between the Community. and the ACP States shall have the following objectives: 
+
+
+(a) to promote the development and diversification of industry in the ACP States and to help bring about a better distribution of industry both within those States and between them; 
+
+
+(b) to promote new relations in the industrial field between the Community, its Member States and the ACP States, in particular the establishment of new industrial and trade links between the industries of the Member States and those of the ACP States; 
+
+
+(c) to increase the links between industry and the other sectors of the economy, in particular agriculture; 
+
+
+(d) to facilitate the transfer of technology to the ACP States and to promote the adaptation of such technology to their specific conditions and needs, for example by expanding the capacity of the ACP States for research, for adaptation of technology and for training in industrial skills at all levels in these States; 
+
+
+(e) to promote the marketing of industrial products of the ACP States in foreign markets in order to increase their share of international trade in those products; 
+
+
+(f) to encourage the participation of nationals of ACP States, in particular that of small and medium-sized industrial firms, in the industrial development of those States; 
+
+
+(g) to encourage Community firms to participate in the industrial development of the ACP States, where those States so desire and in accordance with their economic and social objectives.</article>
+      <article number="ARTICLE 27" article_identifier="22682">In order to attain the objectives set out in Article 26, the Community shall help to carry out, by all the means provided for in the Convention, programmes, projects and schemes submitted to it on the initiative or with the agreement of the ACP States in the fields of industrial infrastructures and ventures, training, technology and research, small and medium-sized firms, industrial information and promotion, and trade co-operation.</article>
+      <article number="ARTICLE 28" article_identifier="22683">The Community shall contribute to the setting up and the extension of the infrastructure necessary for industrial development, particularly in the fields of transport and communications, energy and industrial research and training.</article>
+      <article number="ARTICLE 29" article_identifier="22684">The Community shall contribute to the setting up and the extension in the ACP States of industries processing raw materials and industries manufacturing finished and semi-finished products.</article>
+      <article number="ARTICLE 30" article_identifier="22685">At the request of the ACP States and on the basis of the programmes submitted by the latter, the Community shall contribute to the organization and financing ofthe training, at all levels, of personnel of the ACP States in industries and institutions within the Community. 
+
+In addition, the Community shall contribute to the establishment and expansion of industrial training facilities in the ACP States.</article>
+      <article number="ARTICLE 31" article_identifier="22686">With a view to helping the ACP States to overcome obstacles encountered by them in matters of access to and adaptation of technology, the Community is prepared in particular to: 
+
+
+(a) keep the ACP States better informed on technological matters and assist them in selecting the technology best adapted to their needs; 
+
+
+(b) far::ilitate their contacts and relations with firms and institutions in possession of the appropriate technological know-how; 
+
+
+(c) facilitate the acquisition, on favourable terms and conditions, of patent,; and other industrial property, in particular through financing and/or through other suitable arrangements with firms and institutions within the Community; 
+
+
+(d) contribute to the establishment and expansion of industrial research facilities in the ACP States with particular reference to the adaptation of available technology to the conditions and needs of those States.</article>
+      <article number="ARTICLE 32" article_identifier="22687">The Community shall contribute to the establishment and development of small and medium-sized industrial firms in the ACP States through financial and technical co-operation schemes adapted to the specific needs of such firms and covering inter alia: 
+
+
+(a) the financing of firms, 
+
+
+(b) 	the creation of appropriate infrastructure and industrial estates, 
+
+
+(c) 	vocational and advanced training, 
+
+
+(d) the setting up 	of specialized advisory services and credit facilities. 
+The development of these firms shall, as far as possible, be conducive to the strengthening of the complementary relationship between small and medium-sized industrial firms and of their links with large industrial firms.</article>
+      <article number="ARTICLE 33" article_identifier="22688">Industrial information and promotion schemes shall be carried out in order to secure and intensify regular information exchanges and the necessary contacts in the industrial field between the Community and the ACP States. 
+
+These schemes could have the following aims: 
+
+(a) to gather and disseminate all relevant information on the trends of industry and trade in the Community and on the conditions find possibilities for industrial development in the ACP States; 
+
+
+(b) to organize and facilitate contacts and meetings of all kinds between Community and ACP States' industrial policy-makers, promoters and firms; 
+
+(c) to carry out studies and appraisals aimed at pinpointing the practical opportunities for industrial co-operation with the Community in order to promote the industrial development of the ACP States; 
+
+
+(d) to contribute, through appropriate technical co-operation schemes, to the setting up, launching and running of the ACP States' industrial promotion bodies.</article>
+      <article number="ARTICLE 34" article_identifier="22689">In order to enable the ACP States to obtain full benefit from trade and other arrangements provided for in this Convention, trade promotion schemes shall be carried out to encourage the marketing of industrial products of ACP States both in the Community as well as in other external markets. Furthermore, programmes shall be drawn up jointly between the Community and the ACP States in order to stimulate and develop the trade of industrial products among the said States.</article>
+      <article number="ARTICLE 35" article_identifier="22690">1. A Committee on Industrial Co-operation shall be established. It shall be supervised by the Committee of Ambassadors. 
+
+
+2. The Committee on Industrial Co-operation shall: 
+
+(a) see to the implementation of this Title; 
+
+
+(b) examine the problems in the field of industrial co-operation submitted to it by the ACP States and/or by the Community,and suggest appropriate solutions; 
+
+
+(c) guide, supervise and control the activities of the Centre for Industrial Development referred to in Article 36 and report to the Committee of Ambassadors and, through it, to the Council of Ministers; 
+
+
+(d) submit from time to time reports and recommendations which it considers appropriate to the Committee of Ambassadors; 
+
+
+(e) perform such other functions as may be assigned to it by the Committee of Ambassadors. 
+3. The composition of the Committee on Industrial Co-operation and the details for its operation shall be determined by the Council of Ministers.</article>
+      <article number="ARTICLE 36" article_identifier="22691">A Centre for Industrial Development shall be set up. It shall have the following functions: 
+
+
+(a) to gather and disseminate in the Community and the ACP States all relevant information on the conditions of and opportunities for industrial co-operation; 
+
+
+(b) to have, at the request of the Community and the f..CP States, studies carried out on the possibilities and potential for industrial development of the ACP States, bearing in mind the necessity for adaptation of technology to their needs and requirements, and to. ensure their follow-up; 
+
+
+(c) to organize and facilitate contacts and meetings of all kinds between Community and ACP States' industrial policy-makers, promoters, and firms and financial institutions; 
+
+
+(d) to provide specific industrial information and support services; 
+
+
+(e) help to identify, on the basis of needs indicated by ACP States, the opportunities for industrial training and applied research in the Community and in the ACP States, and to provide relevant information and recommendations. 
+The Centre's Statutes and rules of operation shall be adopted by the Council of Ministers on a proposal from the Committee of Ambassadors upon the entry into force of this Convention.</article>
+      <article number="ARTICLE 37" article_identifier="22692">Programmes, projects or schemes undertaken in the field of industrial co-operation and involving Community financing shall be implemented in accordance with Title IV, taking into account the particular characteristics of interventions in the industrial sector.</article>
+      <article number="ARTICLE 38" article_identifier="22693">1. Each ACP State shall endeavour to give as clear an indication as possible of its priority areas for industrial co-operation and the form it would like such co-operation to take. It will also take such steps as are necessary to promote effective co-operation within the framework of this Title with the Community and the Member States or with firms or nationals of Member States who comply with the development programmes and priorities of the host ACP State. 
+
+
+2. The Community and its Member States, for their part, shall endeavour to set up measures to attract the participation of their firms and nationals in the industrial development efforts of the ACP States concerned, and shall encourage such firms and nationals to adhere to the aspirations and development objectives ofthose ACP States.</article>
+      <article number="ARTICLE 39" article_identifier="22694">This Title shall not prevent any ACP State or groups of ACP States from entering into specific arrangements for the development in ACP States of agricultural, mineral, energy and other specific resources with a Member State or States of the Community, provided that these arrangements are compatible with this Convention. Such arrangements must be complementary to the efforts on industrialization and must not operate to the detriment of this Title.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Financial And Technical Co-Operation" chapter_identifier="2734">
+      <article number="ARTICLE 40" article_identifier="22695">I. The purpose of economic, financial and technical co-operation is to correct the structural imbalances in the various sectors of the ACP States' economies. The co-operation shall relate to the execution of projects and programmes which contribute essentially to the economic and social development of the said States. · 
+
+
+2. Such development shall consist in particular in the greater wellbeing of the population, improvement of the economic situation of the State, local authorities and firms, and the introduction of structures and factors whereby such improvement can be continued and extended by their own means. 
+
+
+3. This co-operation shall complement the efforts ofthe ACP States and shall be adapted to the characteristics of each of the said States.</article>
+      <article number="ARTICLE 41" article_identifier="22696">I. The Council of Ministers shall examine at least once a year whether the objectives referred to in Article 40 are being attained and shall also examine the general problems resulting from the implementation of financial and technical co-operation. It shall take stock, on the basis of information gathered both by the Community and the ACP States, of action undertaken in this context by the Community and by the ACP States. This stocktaking shall also cover regional co-operation and measures in favour of the least developed ACP States. 
+
+As regards the Community, the Commission shall submit to the Council of Ministers an annual report on the management of Community financial and technical aid. This report shall be drawn up in collaboration with the European Investment Bank (hereinafter called the" Bank") for the parts of the report which concern it. It shall in particular show the position as to the commitment, implementation and utilization of the aid, broken down by type of financing and by recipient State. 
+
+The ACP States for their part shall submit to the Council of Ministers any observations, information or proposals on the problems concerning the implementation, in their respective countries, of the economic, financial and technical co-operation, and also on the general problems of this co-operation. 
+
+The work on the annual stocktaking of financial and technical cooperation shall be prepared by the experts of the Community and of the ACP States who are responsible for the implementation of that co-operation. 
+
+2. On the basis of the information submitted by the Community and the ACP States and of the examination referred to in paragraph I, the Coundl of Ministers shall define the policy and guidelines of financial and technical co-operation and shall formulate resolutions on the measures to be taken by the Community and the ACP States in order to ensure that the objectives of such cooperation are attained.</article>
+      <article number="ARTICLE 42" article_identifier="22697">For the duration of this Convention, the overall amount of the Community's aid shall be 3,390 million units of account. 
+
+This amount comprises: 
+I. 3,000 million units of account from the European Development Fund (hereinafter called the "Fund"), allocated as follows: 
+
+(a) for the purposes set out in Article 40 : 2,625 million units of ac
+
+count, consisting of: 
+-2,100 million units of"account in the form of grants, 
+-430 million units of account in the form of special loans, 
+-95 million units of account in the form of risk capital; 
+
+
+(b) for the purposes set out in Title II, up to 375 million units of account, likewise from the Fund, in the form of transfers for the stabilization of export earnings. 
+
+2. For the purposes set out in Article 40, up to 390 million units of account in the form of loans from the Bank, made from its own resources on the terms and conditions provided for in its Statute, and supplemented, as a general rule, by a 3% interest rate subsidy, under the conditions laid down in Article 5 of Protocol No 2. 
+
+The total cost of the interest rate subsidies shall be charged against the amounts of aid provided for in I (a) above.</article>
+      <article number="ARTICLE 43" article_identifier="22698">I. The method or methods of financing which may be contemplated for each project or programme shall be selected jointly by the Community and the ACP State or States concerned with a view to the best possible use being made of the resources available and by reference to the level of development and the economic and financial situation of the ACP State or ACP States concerned. Moreover, account shall be taken of the factors which ensure the servicing of repayable aid. 
+
+The definitive choice of methods of financing for projects and programmes shall be made only at an appropriate stage in the appraisal of such projects and programmes. 
+
+2. Account shall also be taken of the nature of the project or programme, of its prospects ofe(,'bnomic and financial profitability and of its economic and social impact. 
+
+In particular, productive capital projects in the industrial, tourism and mining sectors shall be given priority financing by means of loans from the Bank and risk capital.</article>
+      <article number="ARTICLE 44" article_identifier="22699">I. Where appropriate, a number of methods may be combined for financing a project or programme. 
+
+2. With the agreement of the ACP State or ACP States concerned, financial aid from the Community may take the form of co-financing with participation by, in particular, credit and development agencies and institutions, firms, Member States, ACP States, third countries or international finance organizations.</article>
+      <article number="ARTICLE 45" article_identifier="22700">1. Grants and special loans may be made available to or through the ACP State concerned. 
+
+
+2. Where these funds are on-lent through the ACP State concerned, the terms and procedure for the onlending by the intermediate recipient to the final borrower shall be laid down between the Community and the State concerned in an intermediate financing agreement. 
+
+
+3. Any benefits accruing to the intermediate recipient, either because that recipient receives a grant or a loan for which the interest rate or the repayment period is more favourable than that ofthe final loan, shall be employed by the intermediate recipient for the purposes and on the terms set out in the intermediate financing agreement.</article>
+      <article number="ARTICLE 46" article_identifier="22701">I. The financing of projects and programmes comprises the means req.uired for their execution, such as: 
+
+-capital projects in the fields of rural development, industrializa
+tion,. energy, mining, tourism, and economic and social infra
+structure; 
+-schemes to improve the structure of agricultural production; 
+-technical co-operation schemes, in particular in the fields of 
+
+
+training and technological adaptation or innovation; -industrial information and promotion schemes; -marketing and sales promotion schemes; -specific schemes to help small and medium-sized national 
+
+firms; 
+-microprojects for grassroots development, in particular in rural 
+areas. 
+
+
+
+2. Financial and technical co-operation shall not cover current administrative, maintenance and operating expenses. 
+
+
+3. Financial aid may cover import costs and local expenditure required for the execution of projects and programmes.</article>
+      <article number="ARTICLE 47" article_identifier="22702">1. In the implementation of financial and technical co-operation, the Community shall provide effective assistance for attaining the objectives which the ACP States set themselves in the context ofregional and interregional co-operation. This assistance shall aim to: 
+
+
+(a) accelerate economic co-operation and development both within and between the regions of the ACP States; 
+
+
+(b) accelerate diversification of the economies of the ACP States; 
+
+
+(c) reduce the economic dependence of the ACP States on imports by maximizing output of those products for which the ACP States in question have real potential; 
+
+
+(d) create sufficiently wide markets within the ACP States and neighbouring States by removing the obstacles which hinder the 
+development and integration of those markets in order to promote trade between the ACP States; 
+
+(e) maximize the use of resources and services in the ACP States. 
+
+2. To this end approximately 10% of the total financial resources provided for in Article 42 for the economic and social development of the ACP States shall be reserved for financing their regional projects.</article>
+      <article number="ARTICLE 48" article_identifier="22703">1. In the implementation of financial and technical co-operation, special attention shall be paid to the needs of the least developed ACP Stat~s so as to reduce the speCific obstacles which impede their development and prevent them from taking full advantage of the opportunities offered by financial and technical co-operation. 
+
+
+2. The following ACP States shall be eligible, according to their particular needs, for the special measures established under this Arti
+
+3. The list of ACP States in paragraph 2 may be amended by deci
+sion of the Council of Ministers: 
+-where a third State in a comparable economic situation accedes 
+to this Convention; 
+
+cle: 
+Botswana 
+
+Mauritania 
+Burundi 
+
+Niger 
+Central African Republic 
+
+Rwanda 
+Chad 
+
+Somalia 
+Dahomey 
+
+Sudan 
+Ethiopia 
+
+Swaziland 
+the Gambia 
+
+Tanzania 
+Guinea 
+
+Togo 
+Guinea-Bissau 
+
+Tonga 
+Lesotho 
+
+Uganda 
+Malawi 
+
+Upper Volta 
+Mali 
+
+Western Samoa. 
+-where the economic situation of an ACP State undergoes a radical and lasting change either so as to necessitate the application of special measures or so that this treatment is no longer warranted.</article>
+      <article number="ARTICLE 49" article_identifier="22704">1. The following shall be eigible for financial and technical co-operation: 
+
+
+(a) the ACP States; 
+
+
+(b) the regional or interstate bodies to which the ACP States belong and which are authorized by the said States; 
+
+
+(c) the joint bodies set up by the Community and the ACP States and authorized by the latter to attain certain specific objectives, notably in the field of industrial and trade co-operation. 
+2. Subject to the agreement of the ACP State or ACP States concerned, the following shall be eligible for such co-operation in respect of projects or programmes approved by the latter: 
+
+
+(a) local authorities and public or semi-public development agencies of the ACP States, in particular their development banks; 
+
+
+(b) private bodies working in the countries concerned for the economic and social development ofthe population of those ACP States; 
+
+(c) firms carrying out their activities, in accordance with industrial and business management methods, which are set up as companies or firms of an ACP State within the meaning of Article 63 
+
+
+(d) groups of producers that are nationals of the ACP States or like bodies, and, where no such groups or bodies exist, the producers themselves; 
+
+
+(e) for training purposes, scholarship holders and trainees.</article>
+      <article number="ARTICLE 50" article_identifier="22705">1. There shall be close co-operation between the Community and the ACP States in implementing aid measures financed by the former. This co-operation shall be achieved through active participation by the ACP State or group of ACP States concerned in each of the various stages ofa project: the aid programming, the submission and appraisal ofprojects, the preparation of financing decisions, execution of projects and final evaluation of the results, in accordance with the various procedures laid down in Articles 51 to 57. 
+
+
+2. As regards project financing for which the Bank is responsible, application of the principles defined in Articles 51 to 58 may be adapted, in concert with the ACPState or ACP States concerned, to take account of the nature of the operations financed and of the Bank's procedures under its Statute.</article>
+      <article number="ARTICLE 51" article_identifier="22706">1. Community aid, which is complementary to the ACP States' own efforts, shall be integrated in the economic and social development plans and programmes of the said States so that projects undertaken with the financial support of the Community dovetail with the objectives and priorities set up by those States. 
+
+
+2. At the beginning of the period covered by this Convention, Community aid shall be programmed, in conjunction with each recipient State in such a way that the latter can obtain as clear an idea as possible of the aid, in particular as regards the amount and terms, it can expect during that period and especially of specific objectives which this aid may meet. This programme shall be drawn up on the basis of proposals made by each ACP State, in which it has fixed its objectives and priorities. Projects or programmes already identified on an indicative basis may be the subject of a provisional timetable as regards preparation. 
+
+
+3. The Community indicative aid programme for each ACP State shall be drawn up by mutual agreement by the competent bodies of the Community and those of the ACP State concerned. It shall then be the subject of an exchange of views, at the beginning of the period covered by this Convention, between the representatives of the Community and those of the ACP State concerned. 
+This exchange of views shall enable the ACP State to set out its development policy and priorities. 
+
+
+4. The aid programmes shall be sufficiently flexible to enable account to be taken of changes occurring in the economic situation of the various ACP States, and any modifications of their initial priorities. Therefore, each programme may be reviewed whenever necessary during the period covered by this Convention. 
+
+
+5. These programmes shall not cover the exceptional aid referred to 
+in Article 59 or the measures for stabilizing export earnings referred to in Title II.</article>
+      <article number="ARTICLE 52" article_identifier="22707">1. Preparation of the projects and programmes which come within the framework of the Community aid programme drawn up by mutual agreement shall be the responsibility of the ACP States concerned or of other beneficiaries approved by them. The Community may, where those States so request, provide technical assistance for drawing up the dossiers of projects or programmes. 
+
+
+2. Such dossiers shall be submitted to the Community as and when they are ready by the beneficiaries specified in Article 49 (1), or, with the express agreement of the ACP State or ACP States concerned, by those specified in Article 49 (2).</article>
+      <article number="ARTICLE 53" article_identifier="22708">1. The Community shall appraise projects and programmes in close collaboration with the ACP States and any other beneficiaries. The technical, social, economic, trade, financial, organizational and management aspects of such projects or programmes shall be reviewed systematically. 
+
+
+2. The aim of appraisal is: 
+
+(a) to ensure that the projects and programmes stem from economic or social development plans or programmes of the ACP States; 
+
+
+(b) to assess, as far as possible by means of an economic evaluation, the effectiveness ofeach project or programme by setting the effects it is expected to produce against the resources to be invested in it. In each project the expected effects shall be the practical expression of a number of specific development objectives of the ACP State or ACP States concerned. 
+On this basis, appraisal shall ensure that, as far as possible, the measures selected constitute the most effective and profitable method of attaining these objectives, taking into account the various constraints on each ACP State; 
+
+(c) to verify that the conditions guaranteeing the successful conclusion and the viability of the projects or programmes are met, which involves: 
+
+-verifying that the projects as conceived are suitable for bringing about the effects sought and that the means to be used commensurate with the circumstances and resources of the ACP State or region concerned; 
+
+-and furthermore guaranteeing that the staff and other means, particularly financial, necessary for operating and maintaining the investments and for covering incidental project costs are actually available. Particular attention shall be paid here to the possibility of the project being managed by national personnel.</article>
+      <article number="ARTICLE 54" article_identifier="22709">I. Financing proposals, which summarize the conclusions of the appraisal and are submitted to the Community's decision-making body, shall be drawn up in close collaboration between the competent departments of the Community and those of the ACP State or ACP States concerned. 
+
+The final version of each financing proposal shall be transmitted 
+
+by the competent departments of the Community simultaneously to the Community and to the ACP States concerned. 
+
+
+2. All projects or programmes put forward officially in accordance with Article 52 by an ACP State or ACP States, whether or not selected by the competent departments of the Community, shall be brought to the attention of the Community body responsible for taking financing decisions. 
+
+
+3. Where the Community body responsible for delivering an opinion on projects fails to deliver a favourable opinion, the competent departments of the Community shall consult the representatives of the ACP State or ACP States concerned on further action to be taken, in particular on the advisability ofsubmitting the dossier afresh, possibly in a modified form, to the relevant Community body. 
+Before that body gives its final opinion, the representatives of the ACP State or ACP States concerned may request a hearing by the representatives of the Community in order to be able to state their grounds for the project. 
+
+Should the final opinion delivered by that body not be favourable, the competent departments of the Community shall consult afresh with the representatives of the ACP State or ACP States concerned before deciding whether the project should be submitted as it stands to the Community's decision-making bodies or whether it should be withdrawn or modified.</article>
+      <article number="ARTICLE 55" article_identifier="22710">The ACP States, or the other beneficiaries authorized by them, shall be responsible for the execution of projects financed by the Community. 
+
+Accordingly, they shall be responsible for negotiating and concluding works and supply contracts and technical co-operation contracts.</article>
+      <article number="ARTICLE 56" article_identifier="22711">1. As regards operations financed by the Community, participation in tendering procedures and other procedures for the award of contracts shall be open on equal terms to all natural and legal persons of the Member States and ACP States. 
+
+
+2. Paragraph 1 shall be without projudice to measures intended to assist construction firms or manufacturing firms of the ACP States concerned, or of another ACP State, to take part in the execution of works contracts or supply contracts. 
+
+
+3. Paragr&amp;ph 1 does not mean that the funds paid over by the Community must be used exclusively for the purchase of goods or for the remuneration of services in the Member States and in the ACP States. 
+Any participation by certain third countries in contracts financed by the Community must, however, be of an exceptional nature and be authorized case-by-case by the competent body of the Community, account being taken in particular of a desire to avoid excessive increases in the cost of projects attributable either to the distances involved and transport difficulties or to the delivery dates. 
+
+Participation by third countries may also be authorized where the Community participates in the financing of regional or interregional 
+co-operation schemes involving third countries and in the joint financing of projects with other providers of funds.</article>
+      <article number="ARTICLE 57" article_identifier="22712">1. The effects and results of completed projects, and the physical state of the work carried out, shall be evaluated regularly and jointly by the competent departments of the Community and of the ACP State or ACP States concerned in order to ensure that the objectives set are attained under the. best conditions. 
+
+Evaluations may also be made of projects in progress where this is warranted by their nature, importance or difficulty of execution. 
+
+2. The competent institutions of the Community and of the ACP States concerned shall, each for their respective parts, take the measures which evaluation shows to be necessary. The Council of Ministers shall be kept informed of such measures by the Commission and each ACP State for the purposes of Article 41.</article>
+      <article number="ARTICLE 58" article_identifier="22713">1. The management and maintenance of work carried out within the context of financial and technical co-operation shall be the responsibility of the ACP States or other beneficiaries. 
+
+
+2. Exceptionally, and by way of derogation from Article 46 (2), in particular under the circumstances specified in Article 10 of Protocol No 2, supplementary aid may be provided temporarily and on a diminishing scale in order to ensure that full use is made of investments which are of special importance for the economic and social development of the ACP State concerned and the running of which temporarily constitutes a truly excessive burden for the ACP State or other beneficiaries.</article>
+      <article number="ARTICLE 59" article_identifier="22714">1. Exceptional aid may be accorded to ACP States faced with serious difficulties resulting from natural disasters or comparable extraordinary circumstances. 
+
+
+2. For the purposes of financing the exceptional aid referred to in paragraph 1, a special appropriation shall be constituted within the Fund. 
+
+
+3. The special appropriation shall initially be fixed at 50 million units of account. At the end of each year of application of this Convention this appropriation shall be restored to its initial level. 
+The total amount of monies transferred from the Fund to the special appropriation during the period ofapplication ofthe Convention may not exceed 150 million units of account. 
+
+Upon expiry of the Convention any monies transferred to the special appropriation which have not been committed for exceptional aid shall be returned to the Fund proper for financing other schemes falling within the field of application of financial and technical cooperation, unless the Council of Ministers decides otherwise. 
+
+In the event of the special appropriation being exhausted before the expiry of this onvention, the Community and the ACP States shall adopt, within the relevant joint bodies, appropriate measures to deal with the situations described in paragraph 1. 
+
+4. Exceptional aid shall be non-reimbursable. It shall be allocated on a case-by-case basis. 
+
+
+5. Exceptional aid shall help finance the most suitable means of remedying the serious difficulties referred to in paragraph I. 
+
+These means may take the form of works, supplies or provision of services, or cash payments. 
+
+6. Exceptional aid shall not be used for dealing with the harmful effects of the instability of export earnings, which are the subject of Title II. 
+
+
+7. The arrangements for allocating exceptional aid, for payments and for implementing the programmes shall be worked out under an emergency procedure, with account being taken of the provisions of Article 54.</article>
+      <article number="ARTICLE 60" article_identifier="22715">The fiscal and customs arrangements applicable in the ACP States to contracts financed by the Community shall be adopted by a decision of the Council of Ministers at its first meeting following the date of entry into force of this Convention.</article>
+      <article number="ARTICLE 61" article_identifier="22716">In the event of failure of an ACP State to ratify this Convention pursuant to Title VII, or denunciation ofthis Convention in accordance with that Title, the Contracting Parties shall be obliged to adjust the amounts of the financial aid provided for in this Convention.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Provisions Relating To Establishment And Services" chapter_identifier="2735">
+      <article number="ARTICLE 62" article_identifier="22717">As regards the arrangements that may be applied in matters of establishment and provision of services, the ACP States on the one hand and the Member States on the other shall treat nationals and companies or firms of Member States and nationals and companies or firms of the ACP States respectively on a non-discriminatory basis. However, if, for a given activity, an ACP State or a Member State is unable to provide such treatment, the Member States or the ACP States, as the case may be, shall not be bound to accord such treatment for this activity to the nationals and companies or firms of the State concerned.</article>
+      <article number="ARTICLE 63" article_identifier="22718">For the purpose of this Convention "companies or firms" means companies or firms constituted under civil or commercial law, including co-operative societies and other legal persons governed by public or private law, save for those which are non-profit-making. 
+
+"Companies or firms of a Member State or of an ACP State" means companies or firms formed in accordance with the law of a Member State or ACP State and whose registered office, central administration or principal place of business is in a Member State or ACP State; however, a company or firm having only its registered office in a Member State or ACP State must be engaged in an activity which has an effective and continuous link with the economy of that Member State or ACP State.</article>
+      <article number="ARTICLE 64" article_identifier="22719">At the request ofthe Community or of the ACP States, the Council ofMinisters shall examine any problems raised by the application of Articles 62 and 63. It shall also formulate any relevant recommendations.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Provisions Relating To Current Payments And Capital Movements" chapter_identifier="2736">
+      <article number="ARTICLE 65" article_identifier="22720">With regard to capital movements linked with investments and to current payments, the Contracting Parties shall refrain from taking action in the field of foreign exchange transactions which would be incompatible with their obligations under this Convention resulting from the provisions relating to trade in goods, to services, establishment and industrial co-operation. These obligations shall not, however, prevent the Contracting Parties from adopting the necessary protective measures, should this be justified by reasons relating to serious economic difficulties or severe balance of payments problems.</article>
+      <article number="ARTICLE 66" article_identifier="22721">In respect of foreign exchange transactions linked with investments and current payments, the ACP States on the one hand and the Member States on the other shall avoid, as far as possible, taking discriminatory measures vis-a-vis each other or according more favourable treatment to third States, taking full account of the evolving nature of the international monetary system, the existence of specific monetary arrangements and balance ofpayments problems. 
+
+To the extent that such measures or treatment are unavoidable they will be maintained or introduced in accordance with international monetary rules and every effort will be made to minimize any adverse effects on the Parties concerned.</article>
+      <article number="ARTICLE 67" article_identifier="22722">Throughout the duration of the loans and risk capital operations provided for in Article 42, each of the ACP States undertakes: 
+
+
+-to place at the disposal of the beneficiaries referred to in Article 49 the currency necessary for the payment of interest and commission on and amortization of loans and quasi-capital aid granted for the implementation of aid measures on their territory; 
+
+-to make availabie to the Bank the foreign exchange necessary for the transfer of all sums received by it in national currency which represent the net revenue and proceeds from transactions involving the acquisition by the Community of holdings in the capital of firms.</article>
+      <article number="ARTICLE 68" article_identifier="22723">At the request of the Community or of the ACP States, the Council ofMinisters shall examine any problems raised by the application of Articles 65 to 67. It shall also formulate any relevant recommendations.</article>
+    </chapter>
+    <chapter number="TITLE VI" name="Institutions" chapter_identifier="2737">
+      <article number="ARTICLE 69" article_identifier="22724">The Institutions of this Convention are the Council of Ministers, assisted by the Committee of Ambassadors, and the Consultative Assembly·.</article>
+      <article number="ARTICLE 70" article_identifier="22725">1. The Council of Ministers shall be composed, on the one hand, of the members of the Council of the European Communities and of members of the Commission ofthe European Communities and, on the other hand, of a member of the Government of each of the ACP States. 
+
+
+2. Any member of the Council of Ministers unable to attend may be represented. The representative shall exercise all the rights of the accredited member. 
+
+
+3. The proceedings of the Council of Ministers shall be valid only if half the members of the Council of the European Communities, one member of the Commission and two thirds of the accredited members representing the Governments of the ACP States are present. 
+
+
+4. The Council of Ministers shall lay down its rules of procedure.</article>
+      <article number="ARTICLE 71" article_identifier="22726">The office of President of the Council of Ministers shall be held alternately by a member of the Council of the European Communities and a member of the Government of an ACP State, the latter to be designated by the ACP States.</article>
+      <article number="ARTICLE 72" article_identifier="22727">1. Meetings of the Council of Ministers shall be called once a year by its President. 
+
+
+2. The Council of Ministers shall, in addition, meet whenever necessary, in accordance with the conditions laid down in its rules of procedure.</article>
+      <article number="ARTICLE 73" article_identifier="22728">1. The Council ofMinisters shall act by mutual agreement between the Community on the one hand and the ACP States on the other. 
+
+
+2. The Community on the one hand and the ACP States on the other shall each, by means of an internal protocol, determine the procedure for arriving at their respective positions.</article>
+      <article number="ARTICLE 74" article_identifier="22729">1. The Council of Ministers shall define the broad outlines of the work to be undertaken in the context of the application f this Convention. 
+
+
+2. The Council of Ministers shall periodically review the results of the arrangements under this Convention and shall take such measures as may be necessary for the attainment ofthe objectives of this Convention. 
+
+
+3. Where provided for in this Convention, the Council of Ministers shall have the power to take decisions; such decisions shall be binding on the Contracting Parties, which must take such measures as are required to implement these decisions. 
+
+4. The Council of Ministers may likewise formulate such resolutions, recommendations or opinions as it may deem necessary to attain the common objectives and to ensure the smooth functioning of the arrangements of this Convention. 
+
+
+5. The Council ofMinisters shall publish an annual report and such other information as it considers appropriate. 
+
+
+6. The Council ofMinisters may make all the arrangements that are appropriate for ensuring the maintenance ofeffective contacts, consultations and co-operation between the economic and social sectors of the Member States and of the ACP States. 
+
+
+7. The Community or the ACP States may raise in the Council of Ministers any problems arising from the application of this Convention. 
+
+
+8. Where provided for in this Convention, consultations shall take place, at the request ofthe Community or of the ACP States, within the Council of Ministers, in accordance with the conditions laid down in the rules of procedure. 
+
+
+9. The Council of Ministers may set up committees or groups and ad hoc working groups, to undertake such activities as it may determine. 
+
+
+10. At the request of one of the Contracting Parties, exchanges of view may take place on qu~stions having direct repercussions on the matters covered by this Convention. 
+
+
+11. By agreement among the parties, exchanges of views may take place on other economic or technical questions which are of mutual interest.</article>
+      <article number="ARTICLE 75" article_identifier="22730">The Council of Ministers may, where necessary, delegate to the Committee of Ambassadors any of its powers. In this event, the Committee of Ambassadors shall give its decisions in accordance with the conditions laid down in Article 73.</article>
+      <article number="ARTICLE 76" article_identifier="22731">The Committee of Ambassadors shall be composed, on the one hand, ofone representative ofeach Member State and one representative of the Commission and, on the other, of one representative of each ACP State.</article>
+      <article number="ARTICLE 77" article_identifier="22732">1. The Committee of Ambassadors shall assist in the performance of its functions the Council ofMinisters shall carry out any mandate entrusted to it by the Council of Ministers. 
+
+
+2. The Committee of Ambassadors shall exercise such other powers and perform such other duties as are assigned to it by the Council of Ministers. 
+
+
+3. The Committee of Ambassadors shall keep under review the funtioning of this Convention and the development of the objectives as defined by the Council of Ministers. 
+
+4. The Committee of Ambassadors shall account for its actions to the Council ofMinisters particularly in matters which have been the subject of delegation of powers. It shall also submit to the Council of Ministers any pertinent proposal and such resolutions, recommendations or opinions as it may deem necessary or consider appropriate. 
+
+
+5. The Committee of Ambassadors shall supervise the work of all the committees and all other bodies or working groups, whether standing or ad hoc, established or provided for by or under this Convention and submit periodical reports to the Council of Ministers.</article>
+      <article number="ARTICLE 78" article_identifier="22733">The office of Chairman of the Committee of Ambassadors shall be held alternately by a representative ofa Member State designated by the Community and a representative ofan ACP State designated by the ACP States. 
+
+The Committee of Ambassadors shall lay down its rules of procedure which shall be submitted to the Council of Ministers for approval.</article>
+      <article number="ARTICLE 79" article_identifier="22734">The secretariat duties and other work necessary for the functioning of the Council of Ministers and the Committee of Ambassadors or other joint bodies shall be carried out on a basis of parity and in accordance with the conditions laid down in the rules of procedure of the Council of Ministers.</article>
+      <article number="ARTICLE 80" article_identifier="22735">1. The Consulta~ive Assembly shall be composed on a basis of parity of members of the Assembly on the side of the Community and of the represematives designated by the ACP States on the other. 
+
+
+2. The ConsultEtive Assembly shall appoint its Bureau and shall adopt its own rules of procedure. 
+
+
+3. The Consultative Assembly shall meet at least once a year. 
+
+
+4. Each year, the Council of Ministers shall submit a report on its activities to the Consultative Assembly. 
+
+
+5. The Consultative Assembly may set up ad hoc consultative committees to undertake such specific activities as it may determine. 
+
+
+6. The Consultative Assembly may adopt resolutions on matters concerning or covered by this Convention.</article>
+      <article number="ARTICLE 81" article_identifier="22736">1. Any dispute which arises between one or more Member States or the Community on the one hand, and one or more ACP States on the other, concerning the interpretation or the application of this Convention may be placed before the Council of Ministers. 
+
+
+2. Where circumstances permit, and subject to the Council ofMinisters being informed, so that any parties concerned may assert their 
+rights, the Contracting Parties may have recourse to a good offices procedure. 
+
+3. If the Council of Ministers fails to settle the dispute at its next meeting, either Party may notify the other of the appointment ofan arbitrator; the other Party must then appoint a second arbitrator within two months. For the application of this procedure, the Community and the Member States shall be deemed to be one Party to the dispute. 
+
+The Council of Ministers shall appoint a third arbitrator. 
+The decisions of the arbitrators shall be taken by majority vote. 
+Each Party to the dispute must take the measures required for the implementation of the arbitrators' decision.</article>
+      <article number="ARTICLE 82" article_identifier="22737">The operating expenses of the Institutions under this Convention shall be defrayed in accordance with the terms set out in Protocol No 4 to this Convention.</article>
+      <article number="ARTICLE 83" article_identifier="22738">The privileges and immunities for the purpose ofthis Convention shall be as laid down in Protocol No 5 to this Convention.</article>
+    </chapter>
+    <chapter number="TITLE VII" name="General And Final Provisions" chapter_identifier="2738">
+      <article number="ARTICLE 84" article_identifier="22739">No treaty, convention, agreement or arrangement of any kind between one or more Member States and one or more ACP States may impede the implementation of this Convention.</article>
+      <article number="ARTICLE 85" article_identifier="22740">1. This Convention shall apply to the European territories to which the Treaty establishing the European Economic Community applies, in accordance with the conditions set out in that Treaty, on the one hand, and to the territories of the ACP States on the other. 
+
+
+2. Title I of this Convention shall also apply to the relations between the French Overseas Departments and the ACP States.</article>
+      <article number="ARTICLE 86" article_identifier="22741">1. As regards the Community, this Convention shall be validly concluded by a decision of the Council of the European Communities taken in accordance with the provisions of the Treaty and notified to the Parties. 
+
+It will be ratified by the Signatory States in conformity with their respective constitutional requirements. 
+
+2. The instruments of ratification and the act of notification of the conclusion of the Convention shall be deposited, as concerns the ACP States, with the Secretariat of the Council of the European Communities and, as concerns the Community and its Member States, with the Secretariat of the ACP States. The Secretariats shall forthwith give notice thereof to the Signatory States and the Community.</article>
+      <article number="ARTICLE 87" article_identifier="22742">I. This Convention shall enter into force on the first day of the second month following the date of deposit of the instruments of ratification of the Member States and ofat least two thirds of the ACP States, and of the act of notification of the conclusion of the Convention by the Community. 
+
+2. Any ACP State which has not completed the procedures set out in Article 86 by the date of the entry into force of this Convention as specified in paragraph I may do so only within the twelve months following such entry into force and shall be able to proceed with these procedures only during the twelve months following such entry into force, unless before the expiry of this period it gives notice to the Council of Ministers of its intention to complete these procedures not later than six months after this period and on condition that it undertakes the deposit of its instrument of ratification within the same time-limit. 
+
+
+3. As regards those ACP States which have not completed the procedures set out in Article 86 by the date of entry into force of this Convention as specified in paragraph 1, this Convention shall become applicable on the first day of the second month following the completion of the said procedures. 
+
+
+4. Signatory ACP States which ratify this Convention in accordance with the conditions laid down in paragraph 2 shall recognize the validity of all measures taken in implementation of this Convention between the date of its entry into force and the date when its provisions become applicable to them. Subject to any' extension which may be granted to them by the Council of Ministers they shall, not later than six months following the completion of the procedures referred to in Article 86, carry out all the obligations which devolve upon them under the terms of this Convention or of implementing decisions adopted by the Council of Ministers. 
+
+
+5. The rules of procedure of the Institutions set up under this Convention shall lay down whether and under what conditions the representatives of Signatory States which, on the date of entry into force of this Convention have not yet completed the procedures referred to in Article 86, shall sit in those Institutions as observers. The arrangements thus adopted shall be effective only until the date 
+on which this Convention becomes applicable to these States; such arrangements shall in any case cease to apply on the date on which, pursuant to paragraph 2, the State concerned may no longer ratify the Convention.</article>
+      <article number="ARTICLE 88" article_identifier="22743">1. The Council ofMinisters shall be informed of any request by any State for membership of, or association with, the Community. 
+
+
+2. The Council of Ministers shall be informed of any request made by any State wishing to become a member of an economic grouping composed of ACP States.</article>
+      <article number="ARTICLE 89" article_identifier="22744">1. Any request for accession to this Convention by a country or territory to which Part Four of the Treaty applies, and which becomes independent, shall be referred to the Council of Ministers. 
+
+With the approval of the Council of Ministers, the country in question shall accede to this Convention by depositing an instrument of accession with the Secretariat of the Council of the European Communities which shall transmit a certified copy to the Secretariat of the ACP States and shall give notice thereof to the Signatory States. 
+
+2. That State shall then enjoy the same rights and be subject to the same obligations as the ACP States. Such accession shall not adversely affect the advantages accruing to the ACP States signatory to this Convention from the provisions on financial and technical cooperation and on the stabilization of export earnings.</article>
+      <article number="ARTICLE 90" article_identifier="22745">Any request for accession to this Convention submitted by a State whose economic structure and production are comparable with those of the ACP States shall require approval by the Council of Ministers. The State concerned may accede to this Convention by concluding an agreement with the Community. 
+
+That State shall then enjoy the same rights and be subject to the same obligations as the ACP States. The Agreement may however stipulate the date on which certain of these rights and obligations shall become applicable to that State. 
+
+Such accession shall not, however, adversely affect the advantages accruing to the ACP States signatory to this Convention from the provisions on financial and technical co-operation, the stabilization of export earnings and industrial co-operation.</article>
+      <article number="ARTICLE 91" article_identifier="22746">This Convention shall expire after a period of five years from the date of its signature, namely 1 March 1980. 
+
+Eighteen months before the end of this period the Contracting Parties shall enter into negotiations in order to examine what provisions shall subsequently govern relations between the Community and its Member States and the ACP States. 
+
+The Council of Ministers shall adopt any transitional measures that may be required until the new Convention comes into force.</article>
+      <article number="ARTICLE 92" article_identifier="22747">This Convention may be denounced by the Community in respect of each ACP State and by each ACP State in respect of the Community, upon six months' notice.</article>
+      <article number="ARTICLE 93" article_identifier="22748">The Protocols annexed to this Convention shall form an integral part thereof.</article>
+      <article number="ARTICLE 94" article_identifier="22749">This Convention, drawn up in two copies in the Danish, Dutch, English, French, German and Italian languages, all texts being equally authentic, shall be deposited in the archives of the General Secretariat ofthe Council ofthe European Communities and theSecretariat of the ACP States which shall both transmit a certified copy to the Government of each of the Signatory States. ·</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="2739">
+      <article article_identifier="22750">PROTOCOL No 1 
+
+
+concerning the definition of the concept of 
+'"originating products" 
+and methods of administrative co-operation</article>
+    </chapter>
+  </body>
+</treaty>

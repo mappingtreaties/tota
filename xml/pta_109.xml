@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Turkey</name>
+    <type>Customs Union</type>
+    <wto_rta_id>118</wto_rta_id>
+    <treaty_identifier>109</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1995-03-06</date_signed>
+    <date_into_force>1996-01-01</date_into_force>
+    <date_notification>1995-12-22</date_notification>
+    <end_implementation>1996-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">LUX</partyisocode>
+      <partyisocode n="13">NLD</partyisocode>
+      <partyisocode n="14">PRT</partyisocode>
+      <partyisocode n="15">SWE</partyisocode>
+      <partyisocode n="16">TUR</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SVK</partyisocode>
+      <partyisocode n="27">SVN</partyisocode>
+      <partyisocode n="28">SWE</partyisocode>
+      <partyisocode n="29">TUR</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:1996:035:FULL&amp;from=EN</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=OJ:L:1996:035:FULL&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L:1996:035:FULL&amp;from=EN</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1226">
+      <article number="ARTICLE 1" article_identifier="10001">Without prejudice to the provisions of the Ankara Agreement, its Additional and Supplementary Protocols, the Association Council hereby lays down the rules for implementing the final phase of the Customs Union, laid down in Articles 2 and 5 of the abovementioned Agreement .</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Free Movement Of Goods And Commercial Policy" chapter_identifier="1227">
+      <article number="ARTICLE 2" article_identifier="10002">This Chapter shall apply to products other than agricultural products as defined in Article 11 of the Association Agreement. The special provisions relating to agricultural products are set out in Chapter II of this Decision .</article>
+      <article number="ARTICLE 3" article_identifier="10003">1. This Chapter shall apply to goods:
+— produced in the Community or Turkey, including those wholly or partially obtained or produced from products coming from third countries which are in free circulation in the Community or in Turkey,
+— coming from third countries and in free circulation in the Community or in Turkey.
+2. Products from third countries shall be considered to be in free circulation in the Community or in Turkey if
+the import formalities have been complied with and any customs duties or charges having equivalent effect which are payable have been levied in the Community or in Turkey, and if they have not benefited from a total or partial reimbursement of such duties or charges.
+3. The customs territory of the Customs Union shall comprise :
+— the customs territory of the Community as defined in Article 3 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code ('),
+— the customs territory of Turkey.
+4. This Chapter shall also apply to goods obtained or produced in the Community or in Turkey , in the
+manufacture of which products coming from third countries and not in free circulation either in the
+Community or in Turkey were used.
+These provisions shall, however, apply to those goods only if the import formalities have been complied with and any customs duties or charges having equivalent effect payable on third-country products used in their manufacture have been levied in the exporting State.
+5. If the exporting State does not apply the provisions of the second subparagraph of paragraph 4, the goods
+referred to in the first subparagraph of paragraph 4 shall not be considered to be in free circulation and the
+importing State shall therefore apply the customs legislation applying to goods from third countries.
+6. The Customs Cooperation Committee set up by Decision No 2/69 of the Association Council shall
+determine the methods of administrative cooperation to be used in implementing paragraphs 1, 2 and 4.
+
+Elimination of customs duties and charges having equivalent effect</article>
+      <article number="ARTICLE 4" article_identifier="10004">Import or export customs duties and charges havingequivalent effect shall be wholly abolished between the Community and Turkey on the date of entry into force of this Decision. The Community and Turkey shall refrain from introducing any new customs duties on imports or exports or any charges having equivalent effect from that  date . These provisions shall also apply to customs duties of a fiscal nature.
+
+Elimination of quantitative restrictions or measures having equivalent effect</article>
+      <article number="ARTICLE 5" article_identifier="10005">Quantitative restrictions on imports and all measures having equivalent effect shall be prohibited between the Parties.</article>
+      <article number="ARTICLE 6" article_identifier="10006">Quantitative restrictions on exports and all measures having equivalent effect shall be prohibited between the Parties.</article>
+      <article number="ARTICLE 7" article_identifier="10007">The provisions of Articles 5 and 6 shall not precludeprohibitions or restrictions on imports, exports or goodsin transit justified on grounds of public morality, public policy or public security; the protection of health and life of humans, animals or plants; the protection of national treasures possessing artistic, historic or archaeologicalvalue; or the protection of industrial and commercial property. Such prohibitions or restrictions shall not, however, constitute a means of arbitrary discrimination or a disguised restriction on trade between the Parties .</article>
+      <article number="ARTICLE 8" article_identifier="10008">1. Within five years from the date of entry into force of this Decision, Turkey shall incorporate into its internal legal order the Community instruments relating to the removal of technical barriers to trade. 
+
+
+2. The list of these instruments and the conditions and detailed arrangements governing their implementation byTurkey shall be laid down by decision of the Association Council within a period of one year from the date of entry into force of this Decision. 
+
+
+3. This provision shall not preclude the application byTurkey, with effect from the date of entry into force of this Decision, of Community instruments deemed to be of particular importance . 
+
+
+4. The Parties stress the importance of effective cooperation between them in the fields of standardization, metrology and calibration, quality, accreditation, testing and certification.</article>
+      <article number="ARTICLE 9" article_identifier="10009">When Turkey has put into force the provisions of the 
+Community instrument or instruments necessary for the elimination of technical barriers to trade in a particular product, trade in that product between the Parties shall take place in accordance with the conditions laid down by those instruments, without prejudice to the application of the provisions of this Decision.</article>
+      <article number="ARTICLE 10" article_identifier="10010">1. With effect from the date of entry into force of this Decision, and during the period required for the application by Turkey of the instruments referred to in Article 9 , Turkey shall refrain from impeding the placing on the market or taking into service on its territory of products from the Community the conformity of which with the Community Directives defining the requirements to be met by such products has been attested to, in accordance with the conditions and the procedures laid down in those Directives. 
+
+2. By way of derogation from paragraph 1 , if Turkeyfinds that a product, the conformity of which with the Community Directives has been attested to in accordance with paragraph 1 , and which is used in accordance with its intended purpose, fails to satisfy one of the requirements referred to in Article 7, it may take all appropriate measures, in accordance with the conditions and procedures provided for in paragraph 3 , to withdraw the product in question from the market, or to prohibit or restrict its being placed on the market or taken into service.
+
+3.(a) If Turkey is considering taking a measure under paragraph 2, it shall, forthwith, notify the Community through the Customs Union Joint Committee and shall provide all relevant information . 
+
+
+(b) The Parties shall immediately enter into consultations within the Customs Union Joint Committee to find a mutually acceptable solution.(c) Turkey may not take a measure mentioned in paragraph 2 until one month has elapsed after the date of notification provided for in paragraph3 (a ) unless the consultation procedure under paragraph 3 ( b ) has been concluded before the expiry of the time limit. When exceptionalcircumstances requiring immediate action render prior examination impossible, Turkey may applyforthwith the measure strictly necessary to remedy the situation . 
+
+
+(d) Turkey shall forthwith inform the Customs Union Joint Committee of the measure it has taken and shall provide all relevant information. 
+
+
+(e) The Community may at any time request the Customs Union Joint Committee to review such measure. 4. The provisions of paragraphs 1 and 2 shall apply, mutatis mutandis, to foodstuffs .</article>
+      <article number="ARTICLE 11" article_identifier="10011">During the period required for the application by Turkeyof the instruments referred to in Article 9, the Community will accept the results of the proceduresapplied in Turkey for assessing the conformity of industrial products with the requirements of Communitylaw, provided that those procedures are in conformitywith the requirements in force in the Community, and on the understanding that, in the motor vehicles sector, Council Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (') shall apply in Turkey.
+
+Commercial policy</article>
+      <article number="ARTICLE 12" article_identifier="10012">1 . From the date of entry into force of this Decision, Turkey shall, in relation to countries which are not members of the Community, apply provisions and implementing measures which are substantially similar to those of the Community's commercial policy set out in the following Regulations: 
+
+
+— 	Council Regulation (EC ) No 3285/94 ( 2 ) common rules for imports ), 
+
+
+— 	Council Regulation (EC ) No 519/94 ( 3 ) (common rules for imports from certain third countries ), 
+
+
+— 	Council Regulation (EC) No 520/94 (4) (Community procedure for administering quantitative quotas( implementing provisions : Commission Regulation(EC) No 738/94 (5), 
+
+
+— 	Council Regulations (EC) No 3283/94 (6) and (EC)No 3284/94 (7) (protection against dumped and subsidized imports ), 
+(') 	OJ No L 42, 23 . 2. 1970, p. 1 . Directive as last amended by Directive 92/53/EEC (OJ No L 225, 18. 8. 1992, p. 1). 
+
+(2) 	OJNoL349,31. 12. 1994,p.53. 
+
+
+( 3 ) OJ No L 67, 10. 3 . 1994, p . 89 . Regulation as last amended by Regulation (EC) No 839/95 (OJ No L 85, 19 . 4. 1995, 
+
+
+p. 9).
+
+(4) 	OJNoL66,10. 3.1994,p. 1. 
+
+
+(5) OJ No L 87, 31. 3. 1994, p. 47. Regulation as last amended byRegulation (EC)No1150/95 (OJNoL116,23.5.1995, 
+
+
+p. 3).
+
+
+(6) OJ No L 349, 31 . 12. 1994, p. 1 . Regulation as last amended by Regulation (EC) No 1251/95 (OJ No L 122, 2. 6. 1995, 
+
+
+p. 	1).
+
+
+(7) OJ No L 349, 31. 12. 1994, p. 22. Regulation as last amended by Regulation (EC) No 1252/95 (OJ No L 122, 
+2. 6. 1995, p. 2). 
+
+
+— 	Council Regulation (EC) No 3286/94 ( ] ) (Communityprocedures in the field of the common commercial policy), 
+
+
+— 	Council Regulation (EEC ) No 2603/69 ( 2 )(establishing common rules for exports ), 
+
+
+— 	Council Decision 93/112/EEC ( 3 ) (officially supported export credits ), 
+
+
+— 	Council Regulation (EC ) No 3036/94 ( 4 ) (outward processing arrangements for textiles and clothing), 
+
+
+— 	Council Regulation (EC ) No 3030/93 ( 5 ) (textile imports under common rules ), 
+
+
+— 	Council Regulation (EC) No 517/94 (6) (textile imports under autonomous arrangements ), 
+
+
+— 	Council Regulation (EC ) No 3951/92 ( ) (textile imports from Taiwan ). 
+
+2 . In conformity with the requirements of Article XXIV of the GATT Turkey will apply as from the entry into force of this Decision, substantially the same commercial policy as the Community in the textile sector including the agreements or arrangements on trade in textile and clothing. The Community will make available to Turkey the cooperation necessary for this objective to be reached . 
+
+
+3 . Until Turkey has concluded these arrangements, the present system of certificates of origin for the exports of textile and clothing from Turkey into the Communitywill remain in force and such products not originatingfrom Turkey will remain subject to the application of the Communities commercial policy in relation to the third countries in question . 
+
+
+4 . The provisions of this Decision shall not constitute a hindrance to the implementation by the Communityand Japan of their Arrangement relating to trade in motor vehicles, mentioned in the Annex to the Agreement on safeguards attached to the Agreement setting up the World Trade Organization. 
+Before the entry into force of this Decision, Turkey and the Community will define the modalities of cooperation 
+
+(') 	OJ No L 349, 31 . 12. 1994, p. 71 . Regulation as last amended by Regulation (EC) No 356/95 (OJ No L 41, 23. 2. 1995, p. 3).
+
+(2) OJ No L 324, 27. 12. 1969, p. 25. Regulation as last amended by Regulation (EC ) No 3918/91 (OJ No L 372, 
+
+31. 	12. 1991, p. 31). 
+
+(3)	OJNoL44,22.2.1993,p. 1. 
+
+(4)	OJNoL322,15.12.1994,p. 1. 
+(5)OJNoL275,8.11.1993,p. 1.Regulationaslastamended by Regulation (EC) No 1616/95 (OJ No L 154, 5. 7. 1995, 
+
+p. 3).
+(6)OJNoL67,10.3.1994,p. 1.Regulationaslastamended by Regulation (EC) No 1325/95 (OJ No L 128, 13. 6. 1995, 
+
+p. 	1).
+(7) OJNoL405,31.12.1992,p.6.Regulationaslastamended by Regulation (EC ) No 3312/94 (OJ No L 350, 31 . 12 . 1994, p. 3). 
+
+in order to prevent the circumvention of the said Arrangement. 
+
+In the absence of such modalities, the Community reserves the right to take, in respect of imports into its territory, any measure rendered necessary by the application of the said Arrangement.
+
+Common Customs Tariff and preferential tariff policies</article>
+      <article number="ARTICLE 13" article_identifier="10013">1 . Upon the date of entry into force of this Decision, Turkey shall, in relation to countries which are not members of the Community, align itself on the Common Customs Tariff. 
+
+
+2 . Turkey shall adjust its customs tariff whenever 
+necessary to take account of changes in the Common Customs Tariff. 
+
+3 . The Customs Cooperation Committee shall determine what measures are appropriate to implement paragraphs 1 and 2 .</article>
+      <article number="ARTICLE 14" article_identifier="10014">1 . Turkey shall be informed of any decisions taken bythe Community to amend the Common Customs Tariff, to suspend or reintroduce duties and any decision concerning tariff quotas or ceilings in sufficient time for it simultaneously to align the Turkish customs tariff on the Common Customs Tariff. Prior consultations shall be held within the Customs Union Joint Committee for this 
+
+purpose. 
+
+
+2 . Where the Turkish customs tariff cannot be aligned simultaneously on the Common Customs Tariff, the Customs Union Joint Committee may decide to grant a period of time for this to be undertaken. Under no circumstances may the Customs Union Joint Committee authorize Turkey to apply a customs tariff which is lower than the Common Customs Tariff for any product. 
+
+
+3 . If Turkey wishes to suspend on temporary basis or resume duties other than as envisaged in paragraph 1 , Turkey will make a prompt notification to the Community . Consultations on the abovementioned decisions will be held in the Joint Customs Union Committee .</article>
+      <article number="ARTICLE 15" article_identifier="10015">By way of derogation from Article 13 and in accordance with Article 19 of the Additional Protocol, Turkey mayretain until 1 January 2001 customs duties higher than the Common Customs Tariff in respect of third countries for products agreed by the Association Council .</article>
+      <article number="ARTICLE 16" article_identifier="10016">1. With a view to harmonizing its commercial policy with that of the Community, Turkey shall align itself progressively with the preferential customs regime of the Community within five years as from the date of entry into force of this Decision. This alignment will concern both the autonomous regimes and preferential agreements with third countries. To this end, Turkey will take the necessary measures and negotiate agreements on mutually advantageous basis with the countries concerned . The Association Council shall periodically review the progress made.
+2. In each of the cases referred to in paragraph 1 the granting of these tariff preferences shall be conditional on complicance with provisions relating to the origin of products identical to those governing the granting of such preferences by the Community.
+
+3. (a)
+Where , during the period referred to in paragraph 1, Turkey maintains a tariff policy different from that of the Community, goods imported from third countries into the Community and released for free circulation with preferential treatment by reason of their country of origin or of exportation shall be subject to the payment of a compensatory levy if they are imported into Turkey , in the following circumstances :
+— they have been imported from countries to which the same preferential tariff treatment is not granted by Turkey, and
+— they can be identified as imported from these countries, and
+— the duty to be paid in Turkey is at least five percentage points higher than that applicable in the Community, and
+— an important distortion of traffic related to these goods has been observed.
+(b) The Customs Union Joint Committee shall establish the list of the goods to which the compensatory levy applies, as well as the amount of this levy.
+
+
+
+SECTION V 
+Processed agricultural products not covered by Annex II to the Treaty establishing the European Community</article>
+      <article number="ARTICLE 17" article_identifier="10017">The provisions of this Section apply to goods listed in Annex 1.</article>
+      <article number="ARTICLE 18" article_identifier="10018">Notwithstanding Article 13 , Turkey may apply on imports from third countries of goods listed in Annex 1 an agricultural component. The agricultural component shall be established in accordance with Article 19.</article>
+      <article number="ARTICLE 19" article_identifier="10019">1 . The agricultural component applicable to goodsimported into Turkey shall be obtained by addingtogether the quantities of basic agricultural productsconsidered to have been used for the manufacture of the goods in question multiplied by the basic amount corresponding to each of these basic agricultural products 
+
+as defined in paragraph 3 . 
+
+2. ( a ) The basic agricultural products to be taken into account are listed in Annex 2. 
+
+( b ) The quantities of basic agricultural products to be taken into account are set out in Annex 3 . 
+
+(c ) In the case of goods classified under the nomenclature codes for which reference is made 
+
+in Annex 3 to Annex 4, the amounts of the agricultural component to be taken into account are set out in Annex 4 . 
+
+3 . The basic amount corresponding to each basic agricultural product is the amount of the chargeapplicable on import into Turkey of the agriculturalproduct originating in a non-preferential third countryduring the reference period applicable to agriculturalproducts. The basic amounts are set out in Annex 5 .</article>
+      <article number="ARTICLE 20" article_identifier="10020">1 . Notwithstanding Article 4, Turkey and the Community may apply agricultural componentsestablished in accordance with the provisions below in 
+
+trade with each other. 
+
+
+2 . Such agricultural components, reduced in accordance with Article 22 where applicable, shall onlyapply to goods listed in Annex 1 . 
+
+
+3 . The Community shall apply to Turkey the same specific duties that represent the agricultural componentapplicable to third countries. 
+4. Turkey shall apply to imports from the Communitythe agricultural component applied in accordance with Article 19 .</article>
+      <article number="ARTICLE 21" article_identifier="10021">Notwithstanding the modalities set out in this Decision a derogation regime is foreseen for the goods listed in the Annex 6/Table 1 and Annex 6/Table 2 in which the import charges in Turkey will be reduced in three steps 
+
+over a period of three years for the former and one year for the latter. The level of those import charges is set in Annex 6/Table 1 and Annex 6/Table 2 . 
+
+At the end of the relevant periods the provisions of this Section shall apply fully.</article>
+      <article number="ARTICLE 22" article_identifier="10022">1 . Where, in trade between the Community and Turkey, the duty applicable to a basic agriculturalproduct is reduced, the agricultural componentdetermined in accordance with Article 20 (4 ) for importsinto Turkey or that referred to in Article 20 ( 3 ), for imports into the Community, shall be reduced proportionately. 
+
+
+2 . Where the reductions referred to in paragraph 1 are effected within the limits of a quota, a list of goods and quantities to which the reduced agricultural component is applicable shall be drawn up by the Association 
+Council. 
+3 . The provisions of paragraphs 1 and 2 above apply to the import charges referred to in Article 21 .</article>
+      <article number="ARTICLE 23" article_identifier="10023">If imports of one or more of the products covered by the derogation regime cause or threaten to cause in Turkeyserious disturbances which may endanger the objectivesof the Customs Union for processed agriculturalproducts, consultations between the Parties shall be held within the Customs Union Joint Committee, with a view to finding a mutually acceptable solution. 
+
+If such a solution cannot be found, the Customs Union Joint Committee may recommend appropriate ways of maintaining the proper functioning of the Customs Union without prejudice to the provisions of Article 63 .</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Agricultural Products" chapter_identifier="1228">
+      <article number="ARTICLE 24" article_identifier="10024">1 . The Association Council hereby reaffirms the Parties' common objective to move towards the free movement of agricultural products between themselves as provided for in Articles 32 to 35 of the Additional 
+
+Protocol . 
+2 . The Association Council notes that an additional 
+
+period is required to put in place the conditions necessary to achieve free movement of these products .</article>
+      <article number="ARTICLE 25" article_identifier="10025">1 . Turkey shall adjust its policy in such a way as to adopt the common agricultural policy measures required to establish freedom of movement of agriculturalproducts. It shall communicate to the Community the decisions taken in that respect. 
+
+
+2 . The Community shall take account as far as possible of Turkish agriculture's interests when developing its agricultural policy and shall notify Turkeyof the relevant Commission proposals and the decisions taken on the basis of these proposals . 
+
+
+3 . Consultations may be held within the Association Council on the proposals and decisions referred to in paragraph 2 and on the measures which Turkey intends to take in the agricultural field pursuant to paragraph 1 .</article>
+      <article number="ARTICLE 26" article_identifier="10026">The Community and Turkey shall progressively improve, on a mutually advantageous basis, the preferential arrangements which they grant each other for their trade in agricultural products . The Association Council shall regularly examine the improvements made to these preferential arrangements .</article>
+      <article number="ARTICLE 27" article_identifier="10027">The Association Council shall adopt the provisions necessary to achieve the free movement of agriculturalproducts between the Community and Turkey once it has established that Turkey has adopted the common agricultural policy measures referred to in Article 25 ( 1 ).</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Customs Provisions" chapter_identifier="1229">
+      <article number="ARTICLE 28" article_identifier="10028">1 . On the date of entry into force of this Decision, Turkey shall adopt provisions in the following fields, based on Council Regulation ( EEC ) No 2913/92 of 12 October 1992 establishing the Community Customs Code and Commission Regulation (EEC) No 2454/93 of 2 July 1993 ( ] ) laying down the implementing provisions 
+
+thereof: 
+
+
+( a ) origin of goods; 
+
+
+( b ) customs value of goods; 
+
+
+( c ) introduction of goods into the territory of the Customs Union; 
+(d ) customs declaration; 
+
+(') OJ No L 253, 11. 10. 1993, p. 1. 
+
+
+
+13 . 2 . 96 EN Official Journal of the European Communities No L 35/7 
+
+
+(e) release for free circulation; 
+
+
+(f) suspensive arrangements and customs procedures with economic impact; 
+
+
+(g) movement of goods; 
+(h ) customs debt; 
+
+( i ) right of appeal. 
+
+2. Turkey shall take the measures necessary to implement, on the date of entry into force of this Decision, provisions based on: 
+
+(a ) Council Regulation (EEC) No 3842/86 of 1 December 1986 laying down measures to prohibitthe release for free circulation of counterfeit 
+
+goods (') and Commission Regulation (EEC)No 3077/87 of 14 October 1987 laying down the implementing measures thereof ( 2 ); 
+(b) Council Regulation (EEC) No 918/83 of 28 March 1983 setting up a Community system of reliefs from customs duties ( 3 ) and Commission Regulations (EEC ) No 2287/83 , (EEC ) No 2288/83 , (EEC)No 2289/83 and (EEC ) No 2290/83 of 29 July 1983 laying down the implementing measures thereof ( 4); 
+
+(c ) Council Regulation ( EEC ) No 616/78 on proof of origin for certain textile products falling within Chapter 51 or Chapters 53 to 62 of the Common Customs Tariff and imported into the Community, and on conditions for the acceptance of such proof (5). 
+
+3 . The Customs Cooperation Committee shall laydown the appropriate measures to implementparagraphs 1 and 2 .</article>
+      <article number="ARTICLE 29" article_identifier="10029">Mutual assistance on customs matters between the administrative authorities of the Parties shall be governedby the provisions of Annex 7, which on the Communityside, covers those matters falling under the Community 
+
+competence.</article>
+      <article number="ARTICLE 30" article_identifier="10030">The Customs Cooperation Committee shall elaborate the appropriate provisions on mutual assistance on the recovery of debts, before the entry into force of this 
+
+Decision. 
+
+0) OJ No L 357, 18. 12. 1986, p. 1. 
+
+
+(2) OJ No L 291, 15. 10. 1987, p. 19. 
+
+
+(3) OJ No L 105, 23. 4. 1983, p. 105. 
+
+
+(4) OJNo L220, 11. 8. 1983. 
+
+
+(s) OJNoL84,31. 3.1978,p. 1.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Approximation Of Laws" chapter_identifier="1230">
+      <article number="ARTICLE 31" article_identifier="10031">1 . The Parties confirm the importance they attach to ensuring adequate and effective protection and enforcement of intellectual, industrial and commercial property rights . 
+
+
+2 . The Parties recognize that the Customs Union can function properly only if equivalent levels of effective protection of intellectual property rights are provided in both constituent parts of the Customs Union. Accordingly, they undertake to meet the obligations set 
+out in Annex 8 .
+
+Competition 
+A. Competition rules of the Customs Union</article>
+      <article number="ARTICLE 32" article_identifier="10032">1 . The following shall be prohibited as incompatiblewith the proper functioning of the Customs Union, in so far as they may affect trade between the Community and Turkey: all agreements between undertakings, decisions by associations of undertakings and concerted practiceswhich have as their object or effect the prevention, restriction or distortion of competition, and in particular those which: 
+
+( a ) directly or indirectly fix purchase or selling prices or any other trading conditions; 
+
+(b ) limit or control production, markets, technical development or investment; 
+
+(c ) share markets or sources of supply; 
+
+( d ) apply dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage; 
+
+(e ) make the conclusion of contracts subject to acceptance by the other parties of supplementary 
+
+obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts. 
+
+
+2 . Any agreements or decisions prohibited pursuant to this Article shall automatically be void. 
+
+
+3 . The provisions of paragraph 1 may, however, be declared inapplicable in the case of: 
+
+— 	any agreement or category of agreements between undertakings, 
+
+
+— 	any decision or category of decisions by associations of undertakings, 
+
+
+— 	any concerted practice or category of concerted practices 
+which contributes to improving the production or distribution of goods or to promoting technical or economic progress, which allowing consumers a fair share of the resulting benefit, and which does not: 
+
+( a ) impose on the undertakings concerned restrictions which are not indispensable to the attainment to these objectives; 
+
+(b) afford such undertakings the possibility of eliminating competition in respect of a substantial part of the products in question.</article>
+      <article number="ARTICLE 33" article_identifier="10033">1 . Any abuse by one or more undertakings of a dominant position in the territories of the Communityand/or of Turkey as a whole or in a substantial partthereof shall be prohibited as incompatible with the proper functioning of the Customs Union, in so far as it may affect trade between the Community and Turkey. 
+
+
+2 . Such abuse may, in particular, consist in: 
+( a ) directly or indirectly imposing unfair purchase or selling prices or other unfair trading conditions; 
+
+(b) limiting production, markets or technical development to the prejudice of consumers; 
+
+(c ) applying dissimilar conditions to equivalenttransactions with other trading parties, therebyplacing them at a competitive disadvantage;</article>
+      <article number="ARTICLE 34" article_identifier="10034">1 . Any aid granted by Member States of the Community or by Turkey through State resources in anyform whatsoever which distorts or threatens to distort competition by favouring certain undertakings or the production of certain goods shall, in so far as it affects trade between the Community and Turkey, be incompatible with the proper functioning of the Customs 
+
+Union . 
+
+2 . The following shall be compatible with the functioning of the Customs Union : 
+
+(a ) aid having a social character, granted to individual consumers, provided that such aid is granted without discrimination related to the origin of the productsconcerned; 
+
+( b ) aid to make good the damage caused by natural disasters or exceptional occurrences; 
+
+(c ) aid granted to the economy of certain areas of the Federal Republic of Germany affected by the division of Germany, in so far as such aid is required in order to compensate for the economic disadvantagescaused by that division; 
+
+( d ) for a period of five years from the entry into force of this Decision, aid to promote economic development of Turkey's less developed regions, provided that such aid does not adversely affect trading conditions between the Community and Turkey to an extent contrary to the common interest. 
+
+3 . The following may be considered to be compatiblewith the functioning of the Customs Union: 
+
+
+( a ) in conformity with Article 43 ( 2 ) of the Additional Protocol, aid to promote the economic developmentof areas where the standard of living is abnormallylow or where there is serious underemployment; 
+
+
+( b ) aid to promote the execution of an important projectof common European interest or to remedy a serious disturbance in the economy of a Member State of the Community or of Turkey; 
+(c ) for a period of five years after the entry into force of this Decision, in conformity with Article 43 ( 2 ) of the Additional Protocol, aids aiming at accomplishing structural adjustment necessitated bythe establishement of the Customs Union. The Association Council shall review the application of that clause after the aforesaid period . 
+
+( d ) aid to facilitate the development of certain economic activities or of certain economic areas, where such 
+
+aid does not adversely affect trading conditions 
+(d ) making the conclusion of contracts subject to between the Community and Turkey to an extent acceptance by the other parties of supplementary contrary to the common interest; obligations which, by their nature or according to commercial usage, have no connection with the (e) aid to promote culture and heritage conservation subject of such contracts. where such aid does not adversely affect trading 
+
+13 . 2 . 96 EN Official Journal of the European Communities 	No L 35/9 
+
+conditions between the Community and Turkey to an extent contrary to the common interest; 
+(f) such other categories of aid as may be specified bythe Association Council .</article>
+      <article number="ARTICLE 35" article_identifier="10035">Any practices contrary to Articles 32, 33 and 34 shall be assessed on the basis of criteria arising from the application of the rules of Articles 85 , 86 and 92 of the Treaty establishing the European Community and its secondary legislation.</article>
+      <article number="ARTICLE 36" article_identifier="10036">The Parties shall exchange information, taking into account the limitations imposed by the requirements of professional and business secrecy.</article>
+      <article number="ARTICLE 37" article_identifier="10037">1 . The Association Council shall, within two yearsfollowing the entry into force of the Customs Union, adopt by Decision the necessary rules for the implementation of Articles 32, 33 and 34 and related parts of Article 35 . These rules shall be based upon those already existing in the Community and shall inter alia specify the role of each competition authority. 
+
+
+2 . Until these rules are adopted, 
+
+( a ) the authorities of the Community or Turkey shall rule on the admissibility of agreements, decisions and concerted practices and on abuse of a dominant position in accordance with Articles 32 and 33 ; 
+
+
+( b ) 	the provisions of the GATT Subsidies Code shall be 
+applied as the rules for the implementation of Article 34 .</article>
+      <article number="ARTICLE 38" article_identifier="10038">1 . If the Community or Turkey considers that a particular practice is incompatible with the terms of Articles 32, 33 or 34, and 
+
+
+— 	is not adequately dealt with under the implementingrules referred to in Article 37, or 
+
+
+— 	in the absence of such rules, and if such practice causes or threatens to cause serious prejudice to the interest of the other Party or material injury to its domestic industry, it may take appropriate measures after consultation within the Joint Customs Union 
+Committee or after 45 working days following
+
+referral for such consultation. Priority shall be given to such measures that will least disturb the functioning of the Customs Union. 
+
+2 . In the case of practices incompatible with Article 34, such appropriate measures may, where the General Agreement on Tariffs and Trade applies thereto, only be adopted in conformity with the procedures and under the conditions laid down by the General Agreement on Tariffs and Trade and any other relevant instrument negotiated under its auspices which are applicable between the Parties . 
+
+B. Approximation of legislation</article>
+      <article number="ARTICLE 39" article_identifier="10039">1 . With a view to achieving the economic integrationsought by the Customs Union, Turkey shall ensure that its legislation in the field of competition rules is made compatible with that of the European Community, and is applied effectively. 
+
+
+2 . To comply with the obligations of paragraph 1 , Turkey shall 
+( a ) 	before the entry into force of the Customs Union, adopt a law which shall prohibit behaviours of undertakings under the conditions laid down in Articles 85 and 86 of the EC Treaty. It shall also ensure that, within one year after the entry into force of the Customs Union, the principles contained in block exemption Regulations in force in the Community, as well as in the case-law developed byEC authorities, shall be applied in Turkey. The Community shall inform Turkey as soon as possibleof any procedure related to the adoption, abolition, or modification of block exemption Regulations bythe EC after the entry into force of the Customs Union . After such information has been given, Turkey shall have one year to adapt its legislation, if necessary; 
+
+( b ) before the entry into force of the Customs Union, establish a competition authority which shall apply these rules and principles effectively; 
+
+(c ) before the entry into force of this Decision, adapt all its aids granted to the textile and clothing sector to the rules laid down in the relevant Communityframeworks and guidelines under Articles 92 and 93 of the EC Treaty. Turkey shall inform the Community of all its aid schemes to this sector as adapted in accordance with these frameworks and guidelines. The Community shall inform Turkey as soon as possible of any procedure related to the adoption, abolition or modification of such frameworks and guidelines by the Community after the entry into force of the Customs Union . After such information as been given, Turkey shall have one year to adopt its legislation; 
+
+(d ) within two years after the entry into force of this Decision, adapt all aid schemes other than those granted to the textile and clothing sector to the rules laid down in Community frameworks and guidelines under Articles 92 and 93 of the EC Treaty . The Community shall inform Turkey as soon as possibleof any procedure related to the adoption, abolition or modification of such frameworks and guidelinesby the Community. After such information has been given, Turkey shall have one year to adapt its legislation; 
+
+(e ) within two years after the entry into force of the Customs Union, inform the Community of all aid schemes in force in Turkey as adapted in accordance with point (d). If a new scheme is to be adopted, Turkey shall inform the Community as soon as possible of the content of such scheme; 
+
+( f) notify the Community in advance of any individual aid to be granted to an enterprise or a group of enterprises that would be notifiable under Community frameworks or guidelines had it been granted by a Member State, or of individual aid awards outside of Community frameworks or guidelines above an amount of ECU 12 million and 
+
+which would have been notified under EC law had it been granted by a Member State. 
+
+Regarding individual aids granted by Member States and subject to the analysis by the Commission, on the basis of Article 93 of the EC Treaty, Turkey will be informed on the same basis as the Member States. 
+
+3 . The Community and Turkey shall communicate to each other all amendments to their laws concerningrestrictive practices by undertakings. They shall also inform each other of the cases when these laws have been 
+
+applied. 
+4 . In relation to information supplied under paragraph 2, points (c), (e) and (f), the Community shall have the right to raise objections against an aid grantedby Turkey which it would have deemed unlawful under EC law had it been granted by a Member State . If Turkeydoes not agree with the Community's opinion, and if the case is not resolved within 30 days, the Community and Turkey shall each have the right to refer the case to 
+
+arbitration. 
+5 . Turkey shall have the right to raise objections and seize the Association Council against an aid granted by a Member State which it deems to be unlawful under EC law. If the case is not resolved by the Association Council within three months, the Association Council may decide to refer the case to the Court of Justice of the European Communities.</article>
+      <article number="ARTICLE 40" article_identifier="10040">1 . The Community shall inform Turkey as soon as possible of the adoption of any Decision under Articles 85 , 86 and 92 of the EC Treaty which mightaffect Turkey's interests. 
+
+
+2 . Turkey shall be entitled to ask information about any specific case decided by the Community under Articles 85 , 86 and 92 of the EC Treaty.</article>
+      <article number="ARTICLE 41" article_identifier="10041">With regard to public undertakings and undertakings to which special or exclusive rights have been granted, Turkey shall ensure that, by the end of the first yearfollowing the enty into force of the Customs Union, the principles of the Treaty establishing the EuropeanEconomic Community, notably Article 90 , as well as the principles contained in the secondary legislation and the case-law developed on this basis, are upheld.</article>
+      <article number="ARTICLE 42" article_identifier="10042">Turkey shall progressively adjust, in accordance with the conditions and the time-table laid down by the Association Council any State monopolies of a commercial character so as to ensure that, by the end of the second year following the entry into force of this Decision, no discrimination regarding the conditions under which goods are procured and marketed exists between nationals of the Member States and of Turkey.</article>
+      <article number="ARTICLE 43" article_identifier="10043">1 . If the Community or Turkey believes that anticompetitive activities carried out on the territory of the other Party are adversely affecting its interests or the interests of its undertakings, the first Party may notify the other Party and may request that the other Party's competition authority initiate appropriate enforcement action. The notification shall be as specific as possibleabout the nature of the anti-competitive activities and their effects on the interests of the notifying Party, and 
+
+shall include an offer for such further information and other cooperation as the notifying Party is able to provide . 
+
+2. Upon receipt of a notification under paragraph 1 
+
+and after such other discussion between the Parties as may be appropriate and useful in the circumstances, the competition authority of the notified Party will consider whether or not to initiate enforcement action, with 
+
+respect to the anti-competitive activities identified in the notification. The notified Party will advise the notifyingParty of its decision. If enforcement action is initiated, the notified Party will advise the notifying Party of its 
+
+13 . 2 . 96 EN Official Journal of the European Communities 	No L 35/11 
+
+outcome and, to the extent possible, of significant interim developments . 
+
+3 . Nothing in this Article limits the discretion of the notified Party under its competition laws and enforcement policies as to whether or not to undertake enforcement action with respect to the notified anti-competitive activities, or precludes the notifyingParty from undertaking enforcement action with respect to such anti-competitive activities .
+
+Trade defence instruments</article>
+      <article number="ARTICLE 44" article_identifier="10044">1 . The Association Council shall review upon the request of either Party the principle of application of trade defence instruments other than safeguard by one Party in its relations with the other. During any such review, the Association Council may decide to suspendthe application of these instruments provided that Turkeyhas implemented competition, State aid control and other relevant parts of the acquis communautaire which are 
+
+related to the internal market and ensured their effective enforcement, so providing a guarantee against unfair competition comparable to that existing inside the internal market. 
+
+2. The modalities of implementation of anti-dumping 
+
+measures set out in Article 47 of the Additional Protocol remain in force .</article>
+      <article number="ARTICLE 45" article_identifier="10045">By derogation from the provisions of Section II of Chapter V, the consultation and decision-makingprocedures referred to in that section shall not apply to trade defence measures taken by either Party. 
+
+In the framework of the application of trade policy measures towards third countries, the Parties shall endeavour, through exchange of information and consultation, to seek possibilities for coordinating their 
+
+action when the circumstances and international obligations of both Parties allow.</article>
+      <article number="ARTICLE 46" article_identifier="10046">By derogation from the principle of the free movement of goods laid down in Chapter I where one Party has taken or is taking anti-dumping measures or other measures pursuant to trade policy instruments as referred to in Article 44 in its relations with the other Party or with third countries, that Party may make imports of the products concerned from the territory of the other Partysubject to the application of those measures . In such cases it shall inform the Customs Union Joint Committee accordingly.</article>
+      <article number="ARTICLE 47" article_identifier="10047">When completing the formalities involved in importingproducts of a type covered by trade policy measures, provided for in the preceding Articles, the authorities of the importing State shall ask the importer to indicate the origin of the products concerned on the customs 
+
+declaration. 
+
+Additional supporting evidence may be requested where absolutely necessary because of serious and well-founded doubts in order to verify the true origin of the product in question.
+
+Government procurement</article>
+      <article number="ARTICLE 48" article_identifier="10048">As soon as possible after the date of entry into force of this Decision, the Association Council will set a date for the initiation of negotiations aiming at the mutual opening of the Parties' respective government procurement markets. 
+
+The Association Council will review progress in this area annually.
+
+Direct taxation</article>
+      <article number="ARTICLE 49" article_identifier="10049">No provision of this Decision shall have the effect: 
+
+— 	of extending the fiscal advantages granted by either Party in any international agreement or arrangementby which it is bound, 
+
+— 	of preventing the adoption or application by either Party of any measure aimed at preventing the avoidance or evasion of taxes, 
+
+— 	of opposing the right or either Party to apply the relevant provisions of its tax legislation to taxpayerswhose position as regards place of residence is not identical. 
+
+Indirect taxation</article>
+      <article number="ARTICLE 50" article_identifier="10050">1 . Neither Party shall, directly or indirectly, impose on the products of the other Party any internal taxation of any kind in excess of that imposed directly or indirectly on similar domestic products . 
+
+Neither Party shall impose on the products of the other Party any internal taxation of such a nature as to afford indirect protection to other products . 
+
+
+2 . Products exported to the territory of either of the parties shall not qualify for refunds of internal indirect taxation which exceed the indirect taxation directly or indirectly imposed on those products . 
+
+
+3 . The Parties shall repeal any provisions existing at the date of the entry into force of this Decision which conflict with the above rules.</article>
+      <article number="ARTICLE 51" article_identifier="10051">The Association Council may recommend the Parties to take measures to approximate laws, regulations or administrative provisions in respect of fields which are not covered by this Decision but have a direct bearing on the functioning of the Association, and of fields covered by this Decision but for which no specific procedure is laid down therein.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Institutional Provisions" chapter_identifier="1231">
+      <article number="ARTICLE 52" article_identifier="10052">1 . In accordance with Article 24 of the Association 
+
+Agreement, an EC-Turkey Customs Union Joint Committee is hereby established . The Committee shall carry out exchange of views and information, formulate recommendations to the Association Council and deliver opinions with a view to ensuring the proper functioningof the Customs Union . 
+
+
+2 . The Parties shall consult within the Committee on any point relating to the implementation of this Decision which gives rise to a difficulty for either of them. 
+
+
+3 . The Customs Union Joint Committee shall adopt its rules of procedure .</article>
+      <article number="ARTICLE 53" article_identifier="10053">1. The Customs Union Joint Committee shall consist of representatives of the Parties.2 . The office of Chairman of the Customs Union Joint Committee shall be held alternately, for a period of six months, by the representative of the Community, i.e. the European Commission, and the representative of Turkey. 
+
+3 . In order to carry out its duties, the Customs Union shall consist of representatives of the Parties. Joint Committee shall meet, as a general rule, at least once a month . It shall also meet on the initiative of its Chairman or at the request of one of the Parties in accordance with its rules of procedure . 
+
+4 . The Customs Union Joint Committee may decide to establish any subcommittee or working party to assist it in carrying out its duties . The Customs Union Joint Committee shall lay down the composition and rules of operation of such subcommittees or working parties in its rules of procedure. Their duties shall be determined bythe Customs Union Joint Committee in each indivudual case.
+
+Consultation and decision procedures</article>
+      <article number="ARTICLE 54" article_identifier="10054">1 . In areas of direct relevance to the operations of the Customs Union, and without prejudice to the other obligations deriving from Chapters I to IV Turkish legislation shall be harmonized as far as possible with Community legislation . 
+
+
+2 . Areas of direct relevance to the operation of the Customs Union shall be commercial policy and agreements with third countries comprising a commercial dimension for industrial products, legislation on the abolition of technical barriers to trade in industrial 
+products, competition and industrial and intellectual property law and customs legislation . 
+
+The Association Council may decide to extend the list of areas where harmonization is to be achieved in the light of the Association's progress. 
+
+3 . The procedural rules provided for the Articles 55 to 60 shall apply for the purposes of this Article .</article>
+      <article number="ARTICLE 55" article_identifier="10055">1 . Wherever new legislation is drawn up by the Commission of the European Communities in an area of direct relevance to the operation of the Customs Union 
+
+13 . 2 . 96 EN Official Journal of the European Communities No L 35/13 
+
+and the Commission of the European Communities consults experts from Member States of the Community, it shall also informally consult Turkish experts. 
+
+
+2 . When transmitting its proposal to the Council of the European Union, the Commission of the EuropeanCommunities shall send copies thereof to Turkey. 
+
+
+3 . During the phase preceding the decision of the Council of the European Union, the Parties shall, at the request of either of them, consult each other again within the Customs Union Joint Committee. 
+4. The Parties shall cooperate in good faith during the information and consultation phase with a view to facilitating, at the end of the process, the decision most appropriate for the proper functioning of the Custums 
+
+Union.</article>
+      <article number="ARTICLE 56" article_identifier="10056">1 . Where it adopts legislation in an area of direct relevance to the functioning of the Customs Union as defined in Article 54 ( 2 ), the Community shall immediately inform Turkey thereof within the Customs Union Joint Committee to allow Turkey to adoptcorresponding legislation which will ensure the properfunctioning of the Customs Union. 
+
+
+2 . Where there is a problem for Turkey in adopting the corresponding legislation, the Customs Union Joint Committee shall make every effort to find a mutuallyacceptable solution maintaining the proper functioning of the Customs Union.</article>
+      <article number="ARTICLE 57" article_identifier="10057">1 . The principle of harmonization defined in Article 54 shall not affect Turkey's right, without prejudice to its obligations deriving from Chapters I to IV to amend legislation in areas of direct relevance to the functioningof the Customs Union provided the Customs Union Joint Committee has concluded that the amended legislationdoes not affect the proper functioning of the Customs Union or that the procedures referred to in the paragraphs 2 to 4 of this Article have been accomplished. 
+
+
+2 . Where Turkey is contemplating new legislation in an area of direct relevance to the functioning of the Customs Union, it shall informally seek the views of the Commission of the European Communities on the proposed legislation in question so that the Turkish legislator may take his decision in full knowledge of the consequences for the functioning of the Customs Union . 
+The Parties shall cooperate in good faith with a view to facilitating, at the end of the process, the decision most appropriate for the proper functioning of the Customs 
+
+Union . 
+
+
+3 . Once the proposed legislation has reached a sufficiently advanced stage of drafting, consultations shall be held within the Customs Union Joint Committee . 
+
+
+4 . Where Turkey adopts legislation in an area of direct relevance to the functioning of the Customs Union, it shall forthwith inform the Community within the Customs Union Joint Committee . 
+If Turkey's adoption of such legislation is likely to disrupt the proper functioning of the Customs Union, the Customs Union Joint Committee shall endeavour to find a mutually acceptable solution.</article>
+      <article number="ARTICLE 58" article_identifier="10058">1 . If, at the end of the consultations undertaken under the procedure provided for in Article 56 ( 2 ) or Article 57 (4 ), a mutually acceptable solution cannot be found bythe Customs Union Joint Committee and if either Partyconsiders that discrepancies in the legislation in question may affect the free movement of goods, deflect trade or create economic problems on its territory, it may refer the matter to the Customs Union Joint Committee which, if necessary, shall recommend appropriate ways of avoiding any injury which may result. 
+
+The same procedure will be followed if differences in the implementation of legislations in an area of direct relevance to the functioning of the Customs Union, cause or threaten to cause impairment of the free movement of goods, deflections of trade or economic problems. 
+
+2 . If discrepancies between Community and Turkish legislation or differences in their implementation in an area of direct relevance to the functioning of the Customs Union, cause of threaten to cause impairment of the free movement of goods or deflections of trade and the affected Party considers that immediate action is required, it may itself take the necessary protection measures and notify the Customs Union Joint Committee thereof; the latter may decide whether to amend or abolish these measures. Priority should be given to measures which least disturb the functioning of the Customs Union.</article>
+      <article number="ARTICLE 59" article_identifier="10059">In areas of direct relevance to the proper functioning of the Customs Union, the Commission of the EuropeanCommunities shall ensure Turkish experts are involved as far as possible in the preparation of draft measures to be submitted subsequently to the committees which assist the Commission of the European Communities in the exercise of its executive powers . In this regard, when drafting proposals, the Commission of the EuropeanCommunities shall consult experts from Turkey on the same basis as it consults experts from the Member States of the Community. Where the matter referred to the Council of the European Union is in accordance with the procedure applying to the type of committee concerned, the Commission of the European Communities shall transmit to the Council of the European Union the views of the Turkish experts.</article>
+      <article number="ARTICLE 60" article_identifier="10060">Turkish experts shall be involved in the work of a 
+
+number of technical committees which assist the Commission of the European Communities in the exercise of its executive powers in areas of direct relevance to the functioning of the Customs Union where this is required to ensure the proper functioning of the Customs Union. The procedure for such participationshall be decided by the Association Council before the entry into force of this Decision . The list of Committees is contained in Annex 9 . If it appears to the Parties that 
+
+such an involvement should be extended to other Committees, the Customs Union Joint Committee may address the necessary recommendations to the 
+
+Association Council for decisions .
+
+Settlement of disputes</article>
+      <article number="ARTICLE 61" article_identifier="10061">Without prejudice to paragraphs 1 to 3 of Article 25 of the Ankara Agreement, if the Association Council fails to settle a dispute relating to the scope or duration of protection measures taken in accordance with Article 58 (2 ), safeguard measures taken in accordance with Article 63 or rebalancing measures taken in accordance with Article 64, within six months of the date on which this procedure was initiated, either Party may refer the dispute to arbitration under the procedures laid down in Article 62 . The . arbitration award shall be binding on the Parties to the dispute .</article>
+      <article number="ARTICLE 62" article_identifier="10062">1 . If a dispute has been referred to arbitration there shall be three arbitrators. 
+
+
+2 . The two parties to the dispute shall each appoint one arbitrator within 30 days. 
+
+3 . The two arbitrators so designated shall nominate by common agreement one umpire who shall not be a national of either Party. If they cannot agree within two months of their appointment, the umpire shall be chosen by them from seven persons on a list established by the Association Council . The Association Council shall establish and review this list in accordance with its rules of procedure . 
+
+
+4 . The arbitration tribunal shall sit in Brussels. Unless the Parties decide otherwise, it shall adopt its rules of procedure . It shall take its decisions by majority. 
+
+Safeguard measures</article>
+      <article number="ARTICLE 63" article_identifier="10063">The Parties confirm that the' mechanism and modalities of safeguard measures provided for in Article 60 of the Additional Protocol remain valid.</article>
+      <article number="ARTICLE 64" article_identifier="10064">1 . If a safeguard or protection measure taken by a Party creates an imbalance between the rights and obligations under this Decision, the other Party may take rebalancing measures in respect of that Party. Priorityshall be given to such measures as will least disturb the functioning of the Customs Union . 
+
+
+2 . The procedures provided for in Article 63 shall apply.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="General And Final Provisions" chapter_identifier="1232">
+      <article number="ARTICLE 65" article_identifier="10065">1 . This Decision shall enter into force on 31 December 1995 . 
+
+2. During the year 1995, progress in the implementation of this Decision shall be examined regularly within the Association Committee, which will report to the Association Council . 
+
+
+13 . 2 . 96 I EN I Official Journal of the European Communities No L 35/15 
+
+
+3 . Before the end of October 1995 the two Parties shall consider within the Association Council whether the provisions of this Decision for the proper functioning of 
+the Customs Union are fulfilled. 
+
+4. On the basis of the report(s ) of the Association Committee, if Turkey on one side or the Community and 
+
+its Member States on the other side considers that the provisions referred to in paragraph 3 have not been met, this Party can notify to the Association Council its decision to ask for a postponement of the date referred to in paragraph 1 . In such a case this date is deferred to 1 July 1996 . 
+
+
+5 . In this case paragraphs 2 to 4 shall apply mutatis mutandis. 
+
+
+6 . The Association Council may take other appropriate decisions . 
+Interpretation</article>
+      <article number="ARTICLE 66" article_identifier="10066">The provisions of this Decision, in so far as they are identical in substance to the corresponding provisions of the Treaty establishing the European Community shall be interpreted for the purposes of their implementation and application to products covered by the Customs Union, in conformity with the relevant decisions of the Court of Justice of the European Communities.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1233">
+      <article article_identifier="10067">Done at Brussels, 22 December 1995 . 
+
+For the EC-Turkey Association Council 
+
+L. ATIENZA SERNA</article>
+    </chapter>
+  </body>
+</treaty>

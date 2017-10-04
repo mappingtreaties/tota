@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>Economic Community of West African States (ECOWAS)</name>
+    <type>Customs Union</type>
+    <wto_rta_id>36</wto_rta_id>
+    <treaty_identifier>32</treaty_identifier>
+    <status>In Force</status>
+    <notification>Enabling Clause</notification>
+    <date_signed>1993-07-24</date_signed>
+    <date_into_force>1993-07-24</date_into_force>
+    <date_notification>2005-07-06</date_notification>
+    <end_implementation>2000-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">BEN</partyisocode>
+      <partyisocode n="2">BFA</partyisocode>
+      <partyisocode n="3">CIV</partyisocode>
+      <partyisocode n="4">CPV</partyisocode>
+      <partyisocode n="5">GHA</partyisocode>
+      <partyisocode n="6">GIN</partyisocode>
+      <partyisocode n="7">GMB</partyisocode>
+      <partyisocode n="8">GNB</partyisocode>
+      <partyisocode n="9">LBR</partyisocode>
+      <partyisocode n="10">MLI</partyisocode>
+      <partyisocode n="11">NER</partyisocode>
+      <partyisocode n="12">NGA</partyisocode>
+      <partyisocode n="13">SEN</partyisocode>
+      <partyisocode n="14">SLE</partyisocode>
+      <partyisocode n="15">TGO</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">BEN</partyisocode>
+      <partyisocode n="2">BFA</partyisocode>
+      <partyisocode n="3">CIV</partyisocode>
+      <partyisocode n="4">CPV</partyisocode>
+      <partyisocode n="5">GHA</partyisocode>
+      <partyisocode n="6">GIN</partyisocode>
+      <partyisocode n="7">GMB</partyisocode>
+      <partyisocode n="8">GNB</partyisocode>
+      <partyisocode n="9">LBR</partyisocode>
+      <partyisocode n="10">MLI</partyisocode>
+      <partyisocode n="11">NER</partyisocode>
+      <partyisocode n="12">NGA</partyisocode>
+      <partyisocode n="13">SEN</partyisocode>
+      <partyisocode n="14">SLE</partyisocode>
+      <partyisocode n="15">TGO</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Africa</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>No</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.wipo.int/edocs/lexdocs/treaties/en/ecowas/trt_ecowas.pdf</source>
+    <source lang="en" type="annex">http://www.ecowas.int/</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="46">
+      <article article_identifier="4313">PREAMBLE
+
+We, the Heads of State and Government of the Member States of the Economic Community of West African States (ECOWAS): 
+
+The President of the Republic of BENIN The President of BURKINA FASO The Prime Minister of the Republic of CAPE VERDE The President of the Republic of COTE D'IVOIRE The President of the Republic of The GAMBIA The President of the Republic of GHANA The President of the Republic of GUINEA The President of the Republic of GUINEA BISSAU The President of the Interim Government of National Unity of the Republic of LIBERIA The President of the Republic of MALI The President of the Islamic Republic of MAURITANIA The President of the Republic of NIGER The President of the Federal Republic of NIGERIA The President of the Republic of SENEGAL The Head of State and Chairman of the National Provisional Ruling Council of the Republic of SIERRA LEONE The President of the TOGOLESE Republic
+
+Reaffirming the Treaty establishing the Economic Community of West African States signed in Lagos on 28 May 1975 and considering its achievements; 
+
+Conscious of the over-riding need to encourage, foster and accelerate the economic and social development of our States in order to improve the living standards of our peoples; 
+
+Convinced that the promotion of harmonious economic development of our States calls for effective economic cooperation and integration largely through a determined and concerted policy of self-reliance; 
+
+Bearing in mind the African Charter on Human and People's Rights and the Declaration of Political Principles of the Economic Community of West African States adopted in Abuja by the Fourteenth Ordinary Session of the Authority of Heads of State and Government on 6 July 1991; 
+
+Convinced that the integration of the Member States into a viable regional Community may demand the partial and gradual pooling of national sovereignties to the Community within the context of a collective political will; 
+
+Accepting the need to establish Community Institutions vested with relevant and adequate powers; 
+
+Noting that the present bilateral and multilateral forms of economic cooperation within the region open up perspectives for more extensive cooperation; 
+
+Accepting the need to face together the political, economic and sociocultural challenges of the present and the future, and to pool together the resources of our peoples while respecting our diversities for the most rapid and optimum expansion of the region's productive capacity; 
+
+Bearing in mind also the Lagos Plan of Action and the Final Act of Lagos of April 1980 stipulating the establishment, by the year 2000, of an African Economic Community based on existing and future regional economic communities; 
+
+Mindful of the Treaty establishing the African Economic Community signed in Abuja on 3 June 1991; 
+
+Affirming that our final goal is the accelerated and sustained economic development of Member States, culminating in the economic union of West Africa; 
+
+Bearing in mind our Decision A/DEC.10/5/90 of 30 May 1990 relating to the establishment of a Committee of Eminent Persons to submit proposals for the review of the Treaty; 
+
+Aware that the review of the treaty arises, inter alia, from the need for the Community to adapt to the changes on the international scene in order to derive greater benefits from those changes; 
+
+Considering also the need to modify the Community's strategies in order to accelerate the economic integration process in the region; 
+
+Accepting the need to share the benefits of economic cooperation and integration among Member States in a just and equitable manner; 
+
+Have decided to revise the Treaty of 28 May 1975 establishing the Economic Community of West African States (ECOWAS) and have accordingly agreed as follows.</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Definitions" chapter_identifier="478">
+      <article number="ARTICLE 1" article_identifier="4314">For the purpose of this Treaty, 
+
+"Arbitration Tribunal" means the Arbitration Tribunal of the Community established under Article 16 of this Treaty; 
+
+"Authority" means the Authority of Heads of State and Government of the Community established by Article 7 of this Treaty; 
+
+"Chairman of the Authority" means the current Chairman of the Authority of Heads of State and Government of the Community, elected in accordance with the provisions of Article 8.2 of this Treaty; "Council" means the Council of Ministers of the Community established under Article 10 of this Treaty; 
+
+"Commission" means the Specialised Technical Commission established under Article 22 of this Treaty; 
+
+"Community" means the Economic Community of West African States referred to under Article 2 of this Treaty; 
+
+"Community citizen or citizens" means any national(s) of Member States who satisfy the conditions stipulated in the Protocol defining Community citizenship; 
+
+"Court of Justice" means the Court of Justice of the Community established under Article 15 of this Treaty; 
+
+"Import Duties" means customs duties and taxes of equivalent effect, levied on goods by virtue of their importation; 
+
+"Executive Secretary" means the Executive Secretary appointed in accordance with the provisions of Article 18 of this Treaty; 
+
+"Economic and Social Council" means the Economic and Social Council established under Article 14 of this Treaty; 
+
+"Executive Secretariat" means the Executive Secretariat established under Article 17 of this Treaty; 
+
+"Export Duties" means all customs duties and taxes of equivalent effect levied on goods by virtue of their exportation; 
+
+"Fund" means the Fund for Cooperation, Compensation and Development established under Article 21 of this Treaty; 
+
+"Member State" or "Member States" means a Member State or Member States of the Community as defined in paragraph 2 of Article 2 of this Treaty; 
+
+"Non-Tariff Barriers" means barriers which hamper trade and which are caused by obstacles other than fiscal obstacles; 
+
+"Parliament of the Community" means the Parliament established under Article 13 of this Treaty; "Protocol" means an instrument of implementation of the Treaty having the same legal force as the latter; 
+
+"Region" means the geographical zone known as West Africa as defined by Resolution CM/Res.464 
+
+(XXVI) of the OAU Council of Ministers; 
+
+"Statutory Appointees" includes the Executive Secretary, Deputy Executive Secretaries, Managing Director of the Fund, Deputy Managing Director of the Fund, Financial Controller and any other senior officer of the Community designated as such by the Authority or Council; 
+
+"Third Country" means any State other than a Member State; 
+
+"Treaty" means this revised Treaty.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Establishment, Composition, Aims And Objectives And Fundamental Principles Of The Community" chapter_identifier="479">
+      <article number="ARTICLE 2" name="Establishment And Composition" article_identifier="4315">1. THE HIGH CONTRACTING PARTIES, by this Treaty, hereby reaffirm the establishment of the Economic Community of West African States (ECOWAS) and decide that it shall ultimately be the sole economic community in the region for the purpose of economic integration and the realization of the objectives of the African Economic Community. 
+
+
+2. The members of the Community, hereinafter referred to as "the Member States", shall be the States that ratify this Treaty.</article>
+      <article number="ARTICLE 3" name="Aims And Objectives" article_identifier="4316">The aims of the Community are to promote cooperation and integration, leading to the establishment of an economic union in West Africa in order to raise the living standards of its peoples, and to maintain and enhance economic stability, foster relations among Member States and contribute to the progress and development of the African Continent. 
+
+In order to achieve the aims set out in the paragraph above, and in accordance with the relevant provisions of this Treaty, the Community shall, by stages, ensure; 
+
+
+(a)	 the harmonization and coordination of national policies and the promotion of integration programmes, projects and activities, particularly in food, agriculture and natural resources, industry, transport and communications, energy, trade, money and finance, taxation, economic reform policies, human resources, education, information, culture, science, technology, services, health, tourism, legal matters; 
+
+
+(b)	 the harmonization and coordination of policies for the protection of the environment; 
+
+
+(c)	 the promotion of the establishment of joint production enterprises; 
+
+
+(d)	 the establishment of a common market through: 
+
+
+(i)	 the liberalization of trade by the abolition, among Member States, of customs duties levied on imports and exports, and the abolition among Member States, of non-tariff barriers in order to establish a free trade area at the Community level; 
+
+
+(ii)	 the adoption of a common external tariff and, a common trade policy vis-à-vis third countries; 
+(iii)	 the removal, between Member States, of obstacles to the free movement of persons, goods, service and capital, and to the right of residence and establishment. 
+
+(e)	 the establishment of an economic union through the adoption of common policies in the economic, financial social and cultural sectors, and the creation of a monetary union; 
+
+
+(f)	 the promotion of joint ventures by private sectors enterprises and other economic operators, in particular through the adoption of a regional agreement on cross-border investments; 
+
+
+(g)	 the adoption of measures for the integration of the private sectors, particularly the creation of an enabling environment to promote small and medium scale enterprises; 
+
+
+(h)	 the establishment of an enabling legal environment; 
+
+
+(i)	 the harmonization of national investment codes leading to the adoption of a single Community investment code; 
+
+
+(j)	 the harmonization of standards and measures; 
+
+
+(k)	 the promotion of balanced development of the region, paying attention to the special problems of each Member State particularly those of land-locked and small island Member States; 
+
+
+(l)	 the encouragement and strengthening of relations and the promotion of the flow of information particularly among rural populations, women and youth organizations and socio professional organizations such as associations of the media, business men and women, workers, and trade unions; 
+
+
+(m)	 the adoption of a Community population policy which takes into account the need for a balance between demographic factors and socio economic development; 
+
+
+(n)	 the establishment of a fund for cooperation, compensation and development; and 
+
+
+(o)	 any other activity that Member States may decide to undertake jointly with a view to attaining Community objectives.</article>
+      <article number="ARTICLE 4" name="Fundamental Principles" article_identifier="4317">The High Contracting Parties, in pursuit of the objectives stated in Article 3 of this Treaty, solemnly affirm and declare their adherence to the following principles: 
+
+equality and inter-dependence of Member States; 
+
+(p) 
+
+solidarity and collective self-reliance; 
+(q) 
+
+inter-State cooperation, harmonization of policies and integration of programmes; 
+(r) 
+
+non-aggression between Member States; 
+(s) 
+
+maintenance of regional peace, stability and security through the promotion and strengthening of good neighbourliness; 
+(t) 
+
+peaceful settlement of disputes among Member States, active cooperation between neighbouring countries and promotion of a peaceful environment as a prerequisite for economic development; 
+(u) 
+
+recognition promotion and protection of human and peoples' rights in accordance with the provisions of the African Charter on Human and Peoples' Rights; 
+(v) 
+
+accountability, economic and social justice and popular participation in development; 
+(w) 
+
+recognition and observance of the rules and principles of the Community; 
+(x) 
+
+promotion and consolidation of a democratic system of governance in each Member State as envisaged by the Declaration of Political Principles adopted in Abuja on 6 July 1991; and 
+(y) 
+
+equitable and just distribution of the costs and benefits of economic cooperation and integration.</article>
+      <article number="ARTICLE 5" name="General Undertakings" article_identifier="4318">Member States undertake to create favourable conditions for the attainment of the objectives of the Community, and particularly to take all necessary measures to harmonize their strategies and policies, and to refrain from any action that may hinder the attainment of the said objectives. 
+
+Each Member State shall, in accordance with its constitutional procedures, take all necessary measures to ensure the enactment and dissemination of such legislative and statutory texts as may be necessary for the implementation of the provisions of this Treaty. 
+
+Each Member State undertakes to honour its obligations under this Treaty and to abide by the decisions and regulations of the Community.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Institutions Of The Community -Establishment, Composition And Functions" chapter_identifier="480">
+      <article number="ARTICLE 6" name="Institutions" article_identifier="4319">The Institutions of the Community shall be: 
+
+
+(z) the Authority of Heads of State and Government; (aa) the Council of Ministers; (bb) the Community Parliament;
+
+
+(cc) the Economic and Social Council; (dd) the Community Court of Justice; (ee) the Executive Secretariat; (ff) the Fund for Cooperation, Compensation and Development; (gg) Specialised Technical Commissions; and (hh) Any other institutions that may be established by the Authority.
+3. The Institutions of the Community shall perform their functions and act within the limits of the powers conferred on them by this Treaty and by the Protocols relating thereto.</article>
+      <article number="ARTICLE 7" name="Authority Of Heads Of State And Government Establishment, Composition And Functions" article_identifier="4320">There is hereby established the Authority of Heads of State and Government of Member States which shall be the supreme institution of the Community and shall be composed of Heads of State and/or Government of Member States. 
+
+The Authority shall be responsible for the general direction and control of the Community. and shall take all measures to ensure its progressive development and the realization of its objectives. 
+
+Pursuant to the provisions of Paragraph 2 of this Article, the Authority shall: 
+
+
+(a)	 determine the general policy and major guidelines of the Community, give directives, harmonize and coordinate the economic, scientific, technical, cultural and social policies of Member States; 
+
+
+(b)	 oversee the functioning of Community institutions and follow-up implementation of Community objectives; 
+
+
+(c)	 prepare and adopt its Rules of Procedure; 
+
+
+(d)	 appoint the Executive Secretary in accordance with the provisions of Article 18 of this Treaty; 
+
+
+(e)	 appoint, on the recommendation of Council, the External Auditors; 
+
+
+(f)	 delegate to the Council, where necessary, the authority to take such decisions as are stipulated in Article 9 of this Treaty; 
+
+
+(g)	 refer where it deems necessary any matter to the Community Court of Justice when it confirms, that a Member State or institution of the Community has failed to honour any of its obligations or an institution of the Community has acted beyond the limits 
+
+of its authority or has abused the powers conferred on it by the provisions of this Treaty, by a decision of the Authority or a regulation of the Council; 
+
+(h)	 request the Community Court of Justice as and when necessary, to give advisory opinion on any legal questions; and 
+
+
+(i)	 exercise any other powers conferred on it under this Treaty.</article>
+      <article number="ARTICLE 8" name="Sessions" article_identifier="4321">The Authority shall meet at least once a year in ordinary session. An extra ordinary session may be convened by the Chairman of the Authority or at the request of a Member State provided that such a request is supported by a simple majority of the Member States. 
+
+The office of the Chairman shall be held every year by a Member State elected by the Authority.</article>
+      <article number="ARTICLE 9" name="Decisions" article_identifier="4322">The Authority shall act by decisions. 
+
+Unless otherwise provided in this Treaty or in a Protocol decisions of the Authority shall be adopted, depending on the subject matter under consideration by unanimity, consensus or, by a two-thirds majority of the Member States. 
+
+Matters referred to in paragraph 2 above shall be defined in a Protocol. Until the entry into force of the said Protocol, the Authority shall continue to adopt its decisions by consensus. 
+
+Decisions of the Authority shall be binding on the Member States and institutions of the Community, without prejudice to the provisions of paragraph 3 of Article 15 of this Treaty. 
+
+The Executive Secretary shall publish the decisions thirty (30) days after the date of their signature by the Chairman of Authority. 
+
+Such decisions shall automatically enter into force sixty (60) days after the date of their publication in the Official Journal of the Community. 
+
+Decisions shall be published in the National Gazette of each Member State within the period stipulated in paragraph 6 of this Article.</article>
+      <article number="ARTICLE 10" name="The Council Of Ministers Establishment, Composition And Functions" article_identifier="4323">There is hereby established a Council of Ministers of the Community. 
+
+The Council shall comprise the Minister in charge of ECOWAS Affairs and any other Minister of each Member State. 
+
+Council shall be responsible for the functioning and development of the Community. To this end, unless otherwise provided in this Treaty or a Protocol, Council shall: 
+
+(j) 
+
+make recommendations to the Authority objectives of the Community; 
+
+on 
+
+any action aimed 
+
+at 
+
+attaining the 
+(k) 
+
+appoint all statutory appointees other than the Executive Secretary; 
+(l) 
+
+by the powers delegated to it by the Authority, issue directives on matters concerning coordination and harmonization of economic integration policies; 
+(m) 
+
+make recommendations to the Authority on the appointment of the External Auditors; 
+(n) 
+
+prepare and adopt its rules of procedure; 
+(o) 
+
+adopt the Staff Regulations institutions of the Community; 
+
+and 
+
+approve 
+
+the 
+
+organizational 
+
+structure 
+
+of 
+
+the 
+(p) 
+
+approve the work programmes and budgets of the Community and its institutions; 
+(q) 
+
+request the Community Court of Justice, where necessary, to give advisory opinion on any legal questions; 
+(r) 
+
+carry out all other functions assigned to it under this Treaty and exercise all powers delegated to it by the Authority.</article>
+      <article number="ARTICLE 11" name="Meetings" article_identifier="4324">The Council shall meet at least twice a year in ordinary session. One of such sessions shall immediately precede the ordinary session of the Authority. An extraordinary session may be convened by the Chairman of Council or at the request of a Member State provided that such request is supported by a simple majority of the Member States. 
+
+The office of Chairman of Council shall be held by the Minister responsible for ECOWAS Affairs of the Member State elected as Chairman of the Authority.</article>
+      <article number="ARTICLE 12" name="Regulations" article_identifier="4325">The Council shall act by regulations. 
+
+Unless otherwise provided in this Treaty regulations of the Council shall be adopted, depending on the subject matter under consideration, by unanimity, consensus or by a two-thirds majority of Member States, in accordance with the Protocol referred to in Article 9 paragraph 3 of this Treaty. Until the entry into force of the said Protocol, the Council shall continue to adopt its regulations by consensus. 
+
+Regulations of the Council shall be binding on institutions under its authority. They shall be binding on Member States after their approval by the Authority. However, in the case of regulations made pursuant to a delegation of powers by the Authority in accordance with paragraph 3(f) of Article 7 of this Treaty, they shall be binding forthwith. 
+
+Regulations shall be published and shall enter into force within the same period and under the same conditions stipulated in paragraphs 5, 6 and 7 of Article 9 of this Treaty.</article>
+      <article number="ARTICLE 13" name="The Community Parliament" article_identifier="4326">There is hereby established a Parliament of the Community. The method of election of the Members of the Community Parliament, its composition. functions, 
+
+powers and organization shall be defined in a Protocol relating thereto.</article>
+      <article number="ARTICLE 14" name="The Economic And Social Council" article_identifier="4327">There is hereby established an Economic and Social Council which shall have an advisory role and whose composition shall include representatives of the various categories of economic and social activity. 
+
+The composition, functions and organization of the Economic and Social Council shall be defined in a Protocol relating thereto.</article>
+      <article number="ARTICLE 15" name="The Court Of Justice. Establishment And Functions" article_identifier="4328">There is hereby established a Court of Justice of the Community. The status, composition, powers, procedure and other issues concerning the Court of Justice shall be 
+
+as set out in a Protocol relating thereto. 
+
+The Court of Justice shall carry out the functions assigned to it independently of the Member States and the institutions of the Community. Judgements of the Court of Justice shall be binding on the Member States, the Institutions of the 
+
+Community and on individuals and corporate bodies.</article>
+      <article number="ARTICLE 16" name="Arbitration Tribunal. Establishment And Functions" article_identifier="4329">There is hereby established an Arbitration Tribunal of the Community. The status, composition, powers, procedure and other issues concerning the Arbitration Tribunal shall 
+
+be as set out in a Protocol relating thereto.</article>
+      <article number="ARTICLE 17" name="The Executive Secretariat Establishment And Composition" article_identifier="4330">There is hereby established an Executive Secretariat of the Community. The Secretariat shall be headed by the Executive Secretary assisted by Deputy Executive Secretaries 
+
+and such other staff as may be required for the smooth functioning of the Community.</article>
+      <article number="ARTICLE 18" name="Appointments" article_identifier="4331">The Executive Secretary shall be appointed by the Authority for a four-year term renewable only once for another four-year period. He can only be removed from office by the Authority upon its own initiative or on the recommendation of the Council of Ministers. 
+
+The Ministerial Committee on the Selection and Evaluation of the Performance of Statutory Appointees shall evaluate the three (3) candidates nominated by the Member State to which the statutory post has been allocated and make recommendations to the Council of Ministers. Council shall propose to the Authority the appointment of the candidate adjudged the best. 
+
+The Executive Secretary shall be a person of proven competence and integrity, with a global vision of political and economic problems and regional integration. 
+
+(a)	 The Deputy Executive Secretaries and other Statutory Appointees shall be appointed by the Council of Ministers on the proposal of the Ministerial Committee on the Selection and Evaluation of the Performance of Statutory Appointees following the evaluation of the three (3) candidates nominated by their respective Member States to whom the posts have been allocated. They shall be appointed for a period of four years renewable only once for a further four-year term. 
+
+(b)	 Vacancies shall be advertised in all Member States to which statutory posts have been allocated. 
+
+4. In appointing professional staff of the community, due regard shall be had, subject to ensuring the highest standards of efficiency and technical competence, to maintaining equitable geographical distribution of posts among nationals of all Member States.</article>
+      <article number="ARTICLE 19" name="Functions" article_identifier="4332">Unless otherwise provided in the Treaty or in a Protocol, the Executive Secretary shall be the chief executive officer of the Community and all its institutions. 
+
+The Executive Secretary shall direct the activities of the Executive Secretariat and shall, unless otherwise provided in a Protocol, be the legal representative of the Institutions of the Community in their totality. 
+
+Without prejudice to the general scope of his responsibilities, the duties of the Executive Secretary shall include: 
+
+
+(a)	 execution of decisions taken by the Authority and application of the regulations of the Council; 
+
+
+(b)	 promotion of Community development programmes and projects as well as multinational enterprises of the region; 
+
+
+(c)	 convening as and when necessary meetings of sectoral Ministers to examine sectoral issues which promote the achievement of the objectives of the Community; 
+
+
+(d)	 preparation of draft budgets and programmes of activity of the Community and supervision of their execution upon their approval by Council; 
+(e) 
+
+submission of reports on Community activities to all meetings of the Authority and Council; 
+(f) 
+
+preparation of meetings of the Authority and Council as well as meetings of experts and technical commissions and provision of necessary technical services; 
+(g) 
+
+recruitment of staff of the Community and appointment to posts other than statutory appointees in accordance with the Staff Rules and Regulations; 
+(h) 
+
+submission of proposals and preparation of such studies as may assist in the efficient and harmonious functioning and development of the Community; 
+(i) 
+
+initiation of draft texts for adoption by the Authority or Council.</article>
+      <article number="ARTICLE 20" name="Relations Between The Staff Of The Community And Member States" article_identifier="4333">In the performance of their duties, the Executive Secretary, the Deputy Executive Secretaries, and other staff of the Community shall owe their loyalty entirely and be accountable only to the Community. In this regard, they shall neither seek nor accept. instructions from any government or any national or international authority external to the Community. They shall refrain from any activity or any conduct incompatible with their status as international civil servants. 
+
+Every Member State undertakes to respect the international character of the office of the Executive Secretary, the Deputy Executive Secretaries, and other staff of the Community and undertakes not to seek to influence them in the performance of their duties. 
+
+Member States undertake to cooperate with the Executive Secretariat and other institutions of the Community and to assist them in the discharge of the duties assigned to them under this Treaty.</article>
+      <article number="ARTICLE 21" name="Fund For Cooperation, Compensation And Development Establishment, Status And Functions" article_identifier="4334">There is hereby established a Fund for Cooperation, Compensation and Development of the Community. The status, objectives and functions of the fund are defined in the Protocol relating thereto.</article>
+      <article number="ARTICLE 22" name="Technical Commissions. Establishment And Composition" article_identifier="4335">There is hereby established the following Technical Commissions: 
+
+
+(j) Food and Agriculture; 
+
+
+(k) Industry, Science and Technology and Energy; 
+
+
+(l) Environment and Natural Resources; 
+
+
+(m) Transport, Communications and Tourism; 
+
+
+(n) Trade, Customs, Taxation, Statistics, Money and Payments; 
+
+
+(o)	 Political, Judicial and Legal Affairs, Regional Security and Immigration; 
+
+
+(p)	 Human Resources, Information, Social and Cultural Affairs; and 
+
+
+(q)	 Administration and Finance Commission. 
+
+5. The Authority may, whenever it deems appropriate, restructure the existing Commissions or establish new Commissions. 
+
+
+6.	 Each commission shall comprise representatives of each Member State. 
+
+
+7. Each Commission may, as it deems necessary, set up subsidiary commissions to assist it in carrying out its work. It shall determine the composition of any such subsidiary commission.</article>
+      <article number="ARTICLE 23" name="Functions" article_identifier="4336">Each Commission shall, within its field of competence:
+
+
+(a)	 prepare Community projects and programmes and submit them for the consideration of Council through the Executive Secretary, either on its own initiative or at the request of Council or the Executive Secretary; 
+
+
+(b)	 ensure the harmonization and coordination of projects and programmes of the Community; 
+
+
+(c)	 monitor and facilitate the application of the provisions of this Treaty and related Protocols pertaining to its area of responsibility; 
+
+
+(d)	 carry out any other functions assigned to it for the purpose of ensuring the implementation of the provisions of this Treaty.</article>
+      <article number="ARTICLE 24" name="Meetings" article_identifier="4337">Subject to any directives given by the Council, each Commission shall meet as often as necessary. It shall prepare its rules of procedure and submit them to the Council for approval.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Cooperation In Food And Agriculture" chapter_identifier="481">
+      <article number="ARTICLE 25" name="Agricultural Development And Food Security" article_identifier="4338">Member States shall cooperate in the development of agriculture, forestry, livestock and fisheries in order to: 
+
+
+(e)	 ensure food security; 
+
+
+(f)	 increase production and productivity in agriculture, livestock, fisheries and forestry, and improve conditions of work and generate employment opportunities in rural areas; 
+
+
+(g)	 enhance agricultural production through processing locally, animal and plant products; and 
+
+
+(h)	 protect the prices of export commodities on the international market. 
+8. To this end, and in order to promote the integration, of production structures, Member States shall cooperate in the following fields: 
+
+
+(a)	 the production of agricultural inputs, fertilizers, pesticides, selected seeds, Agricultural machinery and equipment and veterinary products; 
+
+
+(b)	 the development of river and lake basins; 
+
+
+(c)	 the development and protection of marine and fishery resources; 
+
+
+(d)	 plant and animal protection; 
+
+
+(e)	 the harmonization of agricultural development strategies and policies particularly pricing and price support policies on the production, trade and marketing of major agricultural products and inputs; and 
+
+
+(f)	 the harmonization of food security policies paying particular attention to: 
+
+
+(i)	 the reduction of losses in food production; 
+
+
+(ii)	 the strengthening of existing institutions for the management of natural calamities, agricultural diseases and pest control; 
+(iii)	 the conclusion of agreements on food security at the regional level; and 
+
+(iv)	 the provision of food aid to Member States in the event of serious food shortage. 
+
+(g)	 the establishment of an early warning system; and 
+
+
+(h)	 the adoption of a common agricultural policy especially in the fields of research, training, production, preservation, processing and marketing of the products of agriculture, forestry, livestock and fisheries.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Cooperation In Industry, Science And Technology And Energy" chapter_identifier="482">
+      <article number="ARTICLE 26" name="Industry" article_identifier="4339">For the purpose of promoting industrial development of Member States and integrating their economies, Member States shall, harmonize their industrialization policies. In this connection, Member States shall:
+
+
+(i)	 strengthen the industrial base of the Community, modernise the priority sectors and foster self-sustained and self-reliant development; 
+
+
+(j)	 promote joint industrial development projects as well as the creation of multinational enterprises in priority industrial sub-sectors likely to contribute to the development of agriculture, transport and communications, natural resources and energy. 
+9. In order to create a solid basic for industrialization and promote collective self reliance, Member States shall: 
+
+
+(a)	 ensure, on the one hand, the development of industries essential for collective self-reliance and, on the other, the modernization of priority sectors of the economy especially: 
+
+
+(i)	 food and agro-based industries; 
+
+
+(ii)	 building and construction industries; 
+(iii)	 metallurgical industries; 
+
+
+(iv)	 mechanical industries; 
+
+
+(v)	 electrical, electronics and computer industries; 
+
+
+(vi)	 pharmaceutical, chemical and petrochemical industries;. 
+(vii)	 forestry industries; 
+
+(viii)	 energy industries; 
+
+
+(ix)	 textile and leather industries; 
+
+
+(x)	 transport and communications industries; 
+
+
+(xi)	 bio-technology industries; 
+(xii)	 tourist and cultural industries. 
+
+(b)	 give priority and encouragement to the establishment and strengthening of private and public multinational industrial projects likely to promote integration; 
+
+
+(c)	 ensure the promotion of medium and small-scale industries; 
+
+
+(d)	 promote intermediate industries that have strong linkages to the economy in order to increase the local component of industrial output within the Community; 
+
+
+(e)	 prepare a regional master plan for the establishment of industries particularly those whose construction cost and volume of production exceed national, financial and absorptive capacities; 
+
+
+(f)	 encourage the establishment of specialised institutions for the financing of West African multinational industrial projects; 
+
+
+(g)	 facilitate the establishment of West African multinational enterprises and encourage the participation of West African entrepreneurs in the regional industrialization process; 
+
+
+(h) promote the sale and consumption of strategic industrial products manufactured in Member States; 
+
+
+(i)	 promote technical cooperation and the exchange of experience in the field of industrial technology and implement technical training programmes among Member States; 
+
+
+(j)	 establish a regional data and statistical information base to support industrial development at the regional and continental levels; 
+
+
+(k)	 promote, on the basis of natural resource endowments, industrial specialization in order to enhance complementarity and expand the intra-Community trade base; and 
+
+
+(l)	 adopt common standards and appropriate quality control systems.</article>
+      <article number="ARTICLE 27" name="Science And Technology" article_identifier="4340">Member States shall: 
+
+
+(m)	 strengthen their national scientific and technological capabilities in order to bring about the socio economic transformation required to improve the quality of life of their population; 
+
+
+(n)	 ensure the proper application of science and technology to the development of agriculture, transport and communications, industry, health and hygiene, energy, education and manpower and the conservation of the environment; 
+
+
+(o)	 reduce their dependence on foreign technology and promote their individual and collective technological self-reliance; 
+
+
+(p)	 cooperate in the development, acquisition and dissemination of appropriate technologies; and 
+
+
+(q)	 strengthen existing scientific research institutions and take all necessary measures to prepare and implement joint scientific research and technological development programmes. 
+10.	 In their cooperation in this field, Member States shall: 
+
+
+(a)	 harmonize, at the Community level, their national policies on scientific and technological research with a view to facilitating their integration into the national economic and social development plans; 
+
+
+(b)	 coordinate their programmes in applied research, research for development, scientific and technological services; 
+
+
+(c)	 harmonize their national technological development plans by placing special emphasis on indigenous and adapted technologies as well as their regulations on industrial property and transfer of technology; 
+
+
+(d)	 coordinate their positions on all scientific and technical questions forming the subject of international negotiations; 
+
+
+(e)	 carry out a permanent exchange of information and documentation and establish Community data networks and data banks; 
+
+
+(f)	 develop joint programmes for training scientific and technological cadres, including the training and further training of skilled manpower; 
+
+
+(g)	 promote exchanges of researchers and specialists among Member States in order to make full use of the technical skills available within the Community; and 
+
+
+(h)	 harmonize the educational systems in order to adapt better educational, scientific and technical training to the specific development needs of the West African environment.</article>
+      <article number="ARTICLE 28" name="Energy" article_identifier="4341">Member States shall coordinate and harmonize their policies and programmes in the field of energy. To this end, they shall: 
+
+
+(i)	 ensure the effective development of the energy resources of the region; 
+
+
+(j)	 establish appropriate cooperation mechanisms with a view to ensuring a regular supply of hydrocarbons; 
+
+
+(k)	 promote the development of new and renewable energy particularly solar energy in the framework of the policy of diversification of sources of energy; 
+
+
+(l)	 harmonize their national energy development plans by ensuring particularly the interconnection of electricity distribution networks; 
+
+
+(m)	 articulate a common energy policy, particularly, in the field of research, exploitation, production and distribution; 
+
+
+(n)	 establish an adequate mechanism for the collective solution of the energy development problems within the Community, particularly those relating to energy transmission, the shortage of skilled technicians and financial resources for the implementation of energy projects of Member States.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="Cooperation In Environment And Natural Resources" chapter_identifier="483">
+      <article number="ARTICLE 29" name="Environment" article_identifier="4342">Member States undertake to protect, preserve and enhance the natural environment of the region and cooperate in the event of natural disasters. 
+
+To this end, they shall adopt policies, strategies and programmes at national and regional levels and establish appropriate institutions to protect. preserve and enhance the environment, control erosion, deforestation, desertification, locusts and other pests.</article>
+      <article number="ARTICLE 30" name="Hazardous And Toxic Wastes" article_identifier="4343">Member States undertake, individually and collectively, to take every appropriate step to prohibit the importation, transiting, dumping and burying of hazardous and toxic wastes in their respective territories. 
+
+They further undertake to adopt all necessary measures to establish a regional dump-watch to prevent the importation, transiting, dumping and burying of hazardous and toxic wastes in the region.</article>
+      <article number="ARTICLE 31" name="Natural Resources" article_identifier="4344">Member States shall harmonize and coordinate their policies and programmes in the field of natural resources. To this end, they shall:
+
+
+(o)	 seek better knowledge and undertake an assessment of their natural resources potential; 
+
+
+(p)	 improve methods of pricing and marketing of raw materials through a concerted policy; 
+
+
+(q)	 exchange information on the prospection, mapping, production and processing of mineral resources, as well as on the prospection, exploitation and distribution of water resources; 
+
+
+(r)	 coordinate their programmes for development and utilization of mineral and water resources; 
+
+
+(s)	 promote vertical and horizontal inter-industrial relationships which may be established among Member States in the course of developing such resources; 
+
+
+(t)	 promote the continuous training of skilled manpower and prepare and implement joint training and further training programmes for cadres in order to develop the human resources and the appropriate technological capabilities required for the exploration, exploitation and processing of mineral and water resources; 
+
+
+(u)	 coordinate their positions in all international negotiations on raw materials; and 
+
+
+(v)	 develop a system of transfer of expertise and exchange of scientific, technical and economic remote sensing data among Member States.</article>
+    </chapter>
+    <chapter number="CHAPTER VII" name="Cooperation In Transport, Communications And Tourism" chapter_identifier="484">
+      <article number="ARTICLE 32" name="Transport And Communications" article_identifier="4345">For the purpose of ensuring the harmonious integration of the physical infrastructures of Member States and the promotion and facilitation of the movement of persons, goods and services within the Community. Member States undertake to: 
+
+
+(w)	 evolve common transport and communications policies, laws and regulations; 
+
+
+(x)	 develop an extensive network of all-weather highways within the Community, priority being given to the inter-State highways; 
+
+
+(y)	 formulate plans for the improvement and integration of railway and road networks in the region; 
+
+
+(z)	 formulate programmes for the improvement of coastal shipping services and interstate inland waterways and the harmonization of policies on maritime transport and services; 
+(aa)	 coordinate their positions in international negotiations in the area of maritime transport; 
+
+(bb)	 encourage cooperation in flight-scheduling, leasing of aircraft and granting and joint use of fifth freedom rights to airlines of the region; 
+
+(cc)	 promote the development of regional air transportation services and endeavour to bring about the merger of national airlines in order to promote their efficiency and profitability; 
+
+(dd)	 facilitate the development of human resources through the harmonization and coordination of their national training programmes and policies in the area of transportation in general and air transport in particular; 
+
+(ee)	 endeavour to standardize equipment used in transport and communications and establish common facilities for production, maintenance and repair. 
+
+11. Member States also undertake to encourage the establishment and promotion of joint ventures and Community enterprises and the participation of the private sector in the areas of transport and communications.</article>
+      <article number="ARTICLE 33" name="Posts And Telecommunications" article_identifier="4346">In the area of postal services, Member States undertake to: 
+
+
+(a)	 foster closer cooperation between their postal administrations; 
+
+
+(b)	 ensure, within the Community, efficient, speedier and. more frequent postal services; 
+
+
+(c)	 harmonize mail routing; 
+12.	 In the area of telecommunications, Member States shall: 
+
+
+(a)	 develop, modernize, coordinate and standardize their national telecommunications networks in order to provide reliable interconnection among Member States; 
+
+
+(b)	 complete, with despatch, the section of the pan-African telecommunications network situated in West Africa; 
+
+
+(c)	 coordinate their efforts with regard to the operation and maintenance of the West African portion of the pan-African telecommunications network and in the mobilization of national and international financial resources. 
+13. Member States also undertake to encourage the participation of the private sector in offering postal and telecommunications services, as a means of attaining the objectives set out in this Article.</article>
+      <article number="ARTICLE 34" name="Tourism" article_identifier="4347">For the purposes of ensuring the harmonious and viable development of tourism within the Community, Member States undertake to: 
+
+
+(a)	 strengthen regional cooperation in tourism, particularly through: 
+
+
+(i)	 the promotion of intra-Community tourism by facilitating movement of travellers and tourists; 
+
+
+(ii)	 the harmonization and coordination of tourism development policies, plans and programmes; 
+(iii)	 the harmonization of regulations governing tourism and hotel management activities; 
+
+
+(iv)	 the institution of a Community reference framework for tourism statistics; and 
+
+
+(v)	 the joint promotion of tourism products portraying the natural and sociocultural values of the region. 
+
+(b)	 promote the establishment of efficient tourism enterprises to cater for the needs of the peoples of the region and foreign tourists through: 
+
+
+(i)	 the adoption of measures aimed at promoting investment in tourism and hotel management; 
+
+
+(ii)	 the promotion of the establishment in Member States of professional tourism and hotel management associations; 
+(iii)	 the development and optimum utilization of human resources for tourism in the region; and 
+
+(iv)	 the strengthening or establishment of regional tourism training institutions where necessary. 
+
+(c)	 eliminate all discriminating measures and practices against Community citizens in the area of tourist and hotel services.</article>
+    </chapter>
+    <chapter number="CHAPTER VIII" name="Cooperation In Trade, Customs, Taxation, Statistics, Money And Payments" chapter_identifier="485">
+      <article number="ARTICLE 35" name="Liberalization Of Trade" article_identifier="4348">There shall be progressively established in the course of a period of ten (10) years effective from 1 January 1990 as stipulated in Article 54, a Customs Union among the Member States. Within this union, Customs duties or other charges with equivalent effect on Community originating imports shall be eliminated. 
+
+14. Quota, quantitative or like restrictions or prohibitions and administrative obstacles to trade among the Member States shall also be removed. Furthermore, a common external tariff in respect of all goods imported into the Member States from third countries shall be established and maintained.</article>
+      <article number="ARTICLE 36" name="Customs Duties" article_identifier="4349">Member States shall reduce and ultimately eliminate Customs duties and any other charges with equivalent effect except duties notified in accordance with Article 40 and other charges which fall within that Article, imposed on or in connection with the importation of goods which are eligible for Community tariff treatment in accordance with Article 38 of this Treaty. Any such duties or other charges are herein after referred to as "import duties". 
+
+Community-originating unprocessed goods and traditional handicraft products shall circulate within the region free of all import duties and quantitative restrictions. There shall be no compensation for loss of revenue resulting from the importation of these products. 
+
+Member States undertake to eliminate import duties on industrial goods which are eligible for preferential Community tariff treatment in accordance with the decisions of the Authority and Council relating to the liberalization of intra-Community trade in industrial products. 
+
+The Authority may at any time, on the recommendation of the Council, decide that any import duties shall be reduced more rapidly or eliminated earlier than stipulated in any previous instrument or decision. However, the Council shall, not later than one calendar year preceding the date in which such reductions or eliminations come into effect, examine whether such reductions or eliminations shall apply to some or all goods and in respect of some or all the Member States and shall report the result of such examination for the decision of the Authority.</article>
+      <article number="ARTICLE 37" name="Common External Tariff" article_identifier="4350">Member States agree to the gradual establishment of a common external tariff in respect of all goods imported into the Member States from third countries in accordance with a schedule to be recommended by the Trade, Customs, Taxation, Statistics, Money and Payments Commission. 
+
+Member States shall, in accordance with a schedule to be recommended by the Trade, Customs, Taxation, Statistics, Money and Payments Commission, abolish existing differences in their external Customs tariffs. 
+
+Member States undertake to apply the common Customs nomenclature and Customs statistical nomenclature adopted by Council.</article>
+      <article number="ARTICLE 38" name="Community Tariff Treatment" article_identifier="4351">For the purposes of this Treaty, goods shall be accepted as eligible for Community tariff treatment if they have been consigned to the territory of the importing Member States from the territory of another Member State and originate from the Community. 
+
+The rules governing products originating from the Community shall be as contained in the relevant Protocols and Decisions of the Community. 
+
+The Trade, Customs, Taxation, Statistics, Money and Payments Commission shall from time to time examine whether the rules referred to in paragraph 2 of this Article can be amended to make them simpler and more liberal. In order to ensure their smooth and equitable operation, the Council may from time to time amend them.</article>
+      <article number="ARTICLE 39" name="Trade Deflection" article_identifier="4352">For the purposes of this Article, trade is said to be deflected if, 
+
+
+(a)	 Imports of any particular product by a Member State from another Member State increase, 
+
+
+(i)	 as a result of the reduction or elimination of duties and charges on that product; and 
+
+
+(ii)	 because duties and charges levied by the exporting Member States on imports of raw materials used for manufacture of the product in question are lower than the corresponding duties and charges levied by the importing Member State; and 
+
+(b)	 this increase in imports causes or could cause serious injury to production which is carried on in the territory of the importing Member State. 
+
+15. The Council shall keep under review the question of trade deflection and its causes. It shall take such decisions as are necessary, in order to deal with the causes of this deflection. 
+
+
+16. In case of trade deflection to the detriment of a Member State resulting from the abusive reduction or elimination of duties and charges levied by another Member State, the Council shall study the question in order to arrive at a just solution.</article>
+      <article number="ARTICLE 40" name="Fiscal Charges And Internal Taxation" article_identifier="4353">Member States shall not apply directly or indirectly to imported goods from any Member State fiscal charges in excess of those applied to like domestic goods or otherwise impose such charges for the effective protection of domestic goods. 
+
+Member States shall eliminate all effective internal taxes or other internal charges that are made for the protection of domestic goods not later than four (4) years after the commencement of the trade liberalization scheme referred to in Article 54 of this Treaty. Where by virtue of obligations under an existing contract entered into by a Member State such a Member State is unable to comply with the provisions of this Article, the Member State shall duly notify the Council of this fact and shall not extend or renew such contract at its expiry. 
+
+Member States shall eliminate progressively all revenue duties designed to protect domestic goods not later than the end of the period for the application bf the trade liberalization scheme referred to in Article 54 of this Treaty. 
+
+Member States undertake to be bound by the consolidated import duties contained in the ECOWAS Customs Tariff for the purposes of trade liberalization within the Community. 
+
+Member States undertake to avoid double taxation of Community citizens and grant assistance to one another in combating international tax evasion. 
+
+17. The conditions and modalities for granting such assistance shall be as contained in a Double Taxation and Assistance Convention.</article>
+      <article number="ARTICLE 41" name="Quantitative Restrictions On Community Goods" article_identifier="4354">Except as may be provided for or permitted by this Treaty, Member States undertake to relax gradually and to remove over a maximum period of four (4) years after the launching of the trade liberalization scheme referred to in Article 54, all the then existing quota, quantitative or like restrictions or prohibitions which apply to the import into that State of goods originating in the other Member States and thereafter refrain from imposing any further restrictions or prohibitions. Whereby virtue of obligations under an existing contract entered into by a Member State such a Member State is unable to comply with the provisions of this Article, the member State shall duly notify Council of this fact and shall not extend or renew such contract at its expiry. 
+
+
+18. The Authority may at any time, on the recommendation of the Council decide that any quota, quantitative or like restrictions or prohibitions shall be relaxed more rapidly or removed earlier than agreed upon under paragraph 1 of this Article. 
+
+
+19. A Member State may, after having given notice to the Executive Secretary and the other Member States of its intention to do so, introduce or continue to execute restrictions or prohibitions affecting: 
+
+
+(a)	 the application of security laws and regulations; 
+
+
+(b)	 the control of arms, ammunition and other war equipment and military items; 
+
+
+(c)	 the protection of human, animal or plant health or life, or the protection of public morality; 
+
+
+(d)	 the transfer of gold, silver and precious and semi-precious stones; 
+
+
+(e)	 the protection of national artistic and cultural property; 
+
+
+(f)	 the control of narcotics, hazardous and toxic wastes, nuclear materials, radioactive; 
+
+
+(g)	 products or any other material used in the development or exploitation of nuclear energy. 
+
+20. Member States shall not so exercise the right to introduce or continue to execute the restrictions or prohibitions referred to in paragraph 3 of this Article as to stultify the free movement of goods envisaged in paragraph 1 of this Article.</article>
+      <article number="ARTICLE 42" name="Dimping" article_identifier="4355">Member States undertake to prohibit the practice of dumping goods within the Community. 
+
+21. For the purposes of this Article, "dumping" means the transfer of goods originating in a Member State to another Member State for sale: 
+
+
+(a)	 at a price lower than the comparable price charged for similar goods in the Member States where such goods originate (due allowance being made for the differences in the conditions of sale or in taxation or for any other factors affecting the comparability of prices); and 
+
+
+(b)	 under circumstances likely to prejudice the production of similar goods in that Member State. 
+
+22. In the event of alleged dumping the importing Member State shall appeal to Council to resolve the matter. 
+
+
+23. Council shall consider the issue and take appropriate measures to determine the causes of the dumping.</article>
+      <article number="ARTICLE 43" name="Most Favoured Nation Treatment" article_identifier="4356">Member States shall accord to one another in relation to trade between them the most favoured nation treatment. In no case shall tariff concessions granted to a third country by a Member State be more favourable than those applicable under this Treaty. 
+
+
+24. Any agreement between a Member State and a third country under which tariff concessions are granted, shall not derogate from the obligations of that Member State under this Treaty. 
+
+
+25. Copies of such agreements referred to in paragraph 2 of this Article shall be transmitted by the Member States which are parties to them, to the Executive Secretariat of the Community.</article>
+      <article number="ARTICLE 44" name="Internal Legislation" article_identifier="4357">Member States undertake not to enact legislation and/or make regulations which directly or indirectly discriminate against the same or like products of another Member State.</article>
+      <article number="ARTICLE 45" name="Re-Exportation Of Goods And Transit Facilities" article_identifier="4358">1. Where Customs duty has been charged and collected on any goods imported from third country into a Member State the re-exportation of such goods into another Member State shall be subject to the provisions of the Protocol relating to the re-exportation of goods within the Community. 
+
+
+2. Each Member State, in accordance with international regulations and the ECOWAS Convention relating to Inter-State Road Transit of Goods, shall grant full and unrestricted freedom of transit through its territory for goods proceeding to or from a third country indirectly through that territory to or from other Member States; and such transit shall not be subject to any discrimination, quantitative restrictions, duties or other charges. 
+
+
+3.	 Notwithstanding paragraph 2 of this Article, 
+
+
+(a)	 goods in transit shall be subject to the Customs law; and 
+
+
+(b)	 goods in transit shall be liable to the charges usually made for carriage and for any services which may be rendered, provided such charges are not discriminatory and are inconformity with international transit regulations. 
+
+4. Where goods are imported from a third country into one Member State, each of the other Member States shall be free to regulate the transfer to it of such goods whether by a system of licensing and controlling importers or by other means. 
+
+
+5. The provisions of paragraph 4 of this Article shall apply to goods which, under the provisions of Article 38 of this Treaty, fail to be accepted as originating in a Member State.</article>
+      <article number="ARTICLE 46" name="Customs Cooperation And Administration" article_identifier="4359">Member States shall in accordance with the advice of the Trade, Customs Taxation, Statistics, Money and Payments Commission and the provisions of the Convention for Mutual Administrative Assistance in Customs Matters, take appropriate measures to harmonize and standardize their Customs regulations and procedures to ensure the effective application of the provisions of this Chapter and to facilitate the movement of goods and services across their frontiers.</article>
+      <article number="ARTICLE 47" name="Drawback" article_identifier="4360">1. The procedure to determine the eligibility for Community tariff treatment of goods in relation to which drawback is claimed or made use of in connection with their exportation from the Member States in the territory of which the goods have undergone the last process of production, shall be the subject of an additional Protocol. 
+
+
+2.	 For the purposes of this Article: 
+
+
+(a)	 "drawback" means any arrangement, including temporary duty-free admission, for the refund of all or part of the duties applicable to imported raw materials, provided that the arrangement, expressly or in effect, allows such refund or remission if goods are exported but not if they are retained for home use; 
+
+
+(b)	 "remission" includes exemption from duties for goods imported into free ports, free zones or other places which have similar Customs privileges; and 
+
+
+(c)	 "duties" means Customs duties and any other charge, with equivalent effect imposed on imported goods, except the non-protective element in such duties or charges.</article>
+      <article number="ARTICLE 48" name="Compensation For Loss Of Revenue" article_identifier="4361">1. The Council shall, on the report of the Executive Secretary and the recommendation of the Trade, Customs, Taxation, Statistics, Money and Payments Commission, determine the compensation to be paid to a Member State which has suffered loss of import duties as a result of the application of this Chapter. 
+
+
+2. The Council shall, in addition to compensation to be paid to Member States which suffer loss of revenue as a result of the application of this Chapter, recommend measures for promoting productive and export capacities of these countries so as to enable them to take full advantage of the benefits of trade liberalization. 
+
+
+3. The method of assessment of the loss of revenue and compensation shall be as stipulated in the Protocol on the Assessment of Loss of Revenue.</article>
+      <article number="ARTICLE 49" name="Exceptions And Safeguard Clauses" article_identifier="4362">1. In the event of serious disturbances occurring in the economy of a Member State following the application of the provisions of this Chapter, the Member State concerned shall, after informing the Executive Secretary and the other Member States, take the necessary safeguard measures pending the approval of the Council. 
+
+
+2. These measures shall remain in force for a maximum period of one year. They may not be extended beyond that period except with the approval of the Council. 
+
+
+3. The Council shall examine the method of application of these measures while they remain in force.</article>
+      <article number="ARTICLE 50" name="Trade Promotion" article_identifier="4363">1. Member States agree to undertake, through their public and private sectors, trade promotion activities such as: 
+
+
+(a)	 promotion of the use of local materials, intermediate goods and inputs, as well as finished products originating within the Community; 
+
+
+(b)	 participation in the periodic national fairs organised within the region, sectoral trade fairs, regional trade fairs and other similar activities; 
+2. At regional level, the Community shall undertake trade promotion activities which may include: 
+
+(a)	 organization, on a regular basis of an ECOWAS Trade Fair; Money, Finance and Payments 
+
+(b) 
+
+harmonization of the programming of national trade fairs and similar events; 
+(c) 
+
+establishment of an intra-Community trade information network; 
+(d) 
+
+study of supply and demand patterns in Member States and dissemination of the findings thereon within the Community; 
+(e) 
+
+promotion of the diversification of West African markets, and the marketing of Community products; 
+(f) 
+
+promotion of better terms of trade for West African commodities and improvement of access to international markets for Community products; and 
+(g) 
+
+participation, where appropriate, in international negotiations within the framework of GATT and UNCTAD and other trade-related negotiating fora.</article>
+      <article number="ARTICLE 51" name="Money, Finance And Payments" article_identifier="4364">In order to promote monetary and financial integration, and facilitate intra-Community trade in goods and services and the realization of the Community's objective of establishing a monetary union, Member States undertake to: 
+
+
+(a)	 study monetary and financial developments in the region; 
+
+
+(b)	 harmonize their monetary, financial and payments policies; 
+
+
+(c)	 facilitate the liberalization of intra-regional payments transactions and, as an interim measure, ensure limited convertibility of currencies; 
+
+
+(d)	 promote the role of commercial banks in intra-community trade financing; 
+
+
+(e)	 improve the multilateral system for clearing of payments transactions between Member States, and introduce a credit and guarantee fund mechanism; 
+
+
+(f)	 take necessary measures to promote the activities of the West Africa Monetary Agency in order to ensure convertibility of currencies and creation of a single currency zone; 
+
+
+(g)	 establish a Community Central Bank and a common currency zone.</article>
+      <article number="ARTICLE 52" name="Committee Of West African Central Banks" article_identifier="4365">1. There is hereby established a Committee of West African Central banks comprising the Governors of Central Banks of Member States. This Committee shall, in accordance with the provisions of this Treaty, prepare its own rules of procedure. 
+
+
+2. The Committee shall, from time to time, make recommendations to the Council on the operation of the clearing system of payments and other monetary issues within the Community.</article>
+      <article number="ARTICLE 53" name="Movement Of Capital And Capital Issues Committee" article_identifier="4366">1. For the purpose of ensuring the free movement of capital between Member States in accordance with the objectives of this Treaty, there is hereby established a Capital Issues Committee which shall comprise one representative of each of the Member States and which shall, subject to the provisions of this Treaty, prepare its own rules of procedure. 
+
+
+2. Member States shall, in appointing their representatives referred to in paragraph 1 of this Article, designate persons with financial, commercial or banking experience and qualifications. 
+
+
+3. The Capital Issues Committee, in the performance of the duties assigned to it under paragraph 1 of this Article, shall: 
+
+
+(a)	 ensure the unimpeded flow of capital within the Community through: 
+
+
+(i)	 the removal of controls on the transfer of capital among the Member States in accordance with a timetable determined by Council; 
+
+
+(ii)	 the encouragement of the establishment of national and regional stock exchanges; and 
+(iii)	 the interlocking of capital markets and stock exchanges. 
+
+(b)	 ensure that nationals of a Member State are given the opportunity of acquiring stocks, shares and other securities or otherwise of investing in enterprises in the territories of other Member States; 
+
+
+(c)	 establish a machinery for the wide dissemination in the Member States of stock exchange quotations of each Member State; 
+
+
+(d)	 establish appropriate machinery for the regulation of the capital issues market to ensure its proper functioning and the protection of the investors therein.</article>
+    </chapter>
+    <chapter number="CHAPTER IX" name="Establishment And Completion Of An Economic And Monetary Union" chapter_identifier="486">
+      <article number="ARTICLE 54" name="Establishment Of An Economic Union" article_identifier="4367">1. Member States undertake to achieve the status of an economic union within a maximum period of fifteen (15) years following the commencement of the regional trade liberalization scheme, 
+
+adopted by the Authority through its Decision A/DEC.1/9/83 of 20 May 1983 and launched on 1 January 1990. 
+
+2. Member States shall give priority to the role of the private sector and joint regional multinational enterprises in the regional economic integration process.</article>
+      <article number="ARTICLE 55" name="Completion Of Economic And Monetary Union" article_identifier="4368">1. Member States undertake to complete within five (5) years following the creation of a Custom Union, the establishment of an economic and monetary union through: 
+
+
+(i)	 the adoption of a common policy in all fields of socio economic activity particularly agriculture, industry, transport, communications, energy and scientific research; 
+
+
+(ii)	 the total elimination of all obstacles to the free movement of people, goods, capital and services and the right of entry, residence and establishment; 
+(iii)	 the harmonization of monetary, financial and fiscal policies, the setting up of West African monetary union, the establishment of a single regional Central Bank and the creation of a single West African currency. 
+
+2. The Authority may at any time, on the recommendation of the Council, decide that any stage of' the integration process shall be implemented more rapidly than otherwise provided for in this Treaty.</article>
+    </chapter>
+    <chapter number="CHAPTER X" name="Cooperation In Political, Judicial And Legal Affairs, Regional Security And Immigration" chapter_identifier="487">
+      <article number="ARTICLE 56" name="Political Affairs" article_identifier="4369">1. In pursuit of the integration objectives of the Community, Member States undertake to cooperate on political matters, and in particular, to take appropriate measures to ensure effective application of the provisions of this Treaty. 
+
+
+2. The signatory States to the Protocol on Non-Aggression the Protocol on Mutual Assistance on Defence, the Community Declaration of Political Principles and the African Charter on Human and Peoples' Rights agree to cooperate for the purpose of realizing, the objectives of these instruments.</article>
+      <article number="ARTICLE 57" name="Judicial And Legal Matters" article_identifier="4370">1. Member States undertake to cooperate in judicial and legal matters with a view to harmonizing their judicial and legal systems. 
+
+
+2. The modalities for the implementation of this arrangement shall be the subject matter of a Protocol.</article>
+      <article number="ARTICLE 58" name="Regional Security" article_identifier="4371">1. Member States undertake to work to safeguard and consolidate relations conducive to the maintenance of peace, stability and security within the region. 
+
+
+2. In pursuit of these objectives, Member States undertake to cooperate with the Community in establishing and strengthening appropriate mechanisms for the timely prevention and resolution of intra-State and inter-State conflicts, paying particular regard to the need to: 
+
+
+(a)	 maintain periodic and regular consultations between national border administration authorities; 
+
+
+(b)	 establish local or national joint commissions to examine any problems encountered in relations between neighbouring States; 
+
+
+(c)	 encourage exchanges and cooperation between communities, townships and administrative regions; 
+
+
+(d)	 organize meetings between relevant ministries on various aspects of inter-State relations; 
+
+
+(e)	 employ where appropriate, good offices, conciliation, meditation and other methods of peaceful settlement of disputes; 
+
+
+(f)	 establish a regional peace and security observation system and peacekeeping forces where appropriate; 
+
+
+(g)	 provide, where necessary and at the request of Member States, assistance to Member States for the observation of democratic elections. 
+
+3. The detailed provisions governing political cooperation, regional peace and stability shall be defined in the relevant Protocols.</article>
+      <article number="ARTICLE 59" name="Immigration" article_identifier="4372">1. Citizens of the community shall have the right of entry, residence and establishment and Member States undertake to recognise these rights of Community citizens in their territories in accordance with the provisions of the Protocols relating thereto. 
+
+
+2. Member States undertake to adopt all appropriate measures to ensure that Community citizens enjoy fully the rights referred to in paragraph 1 of this Article. 
+
+
+3. Member States undertake to adopt, at national level, all measures necessary for the effective implementation of the provisions of this Article.</article>
+    </chapter>
+    <chapter number="CHAPTER XI" name="Cooperation In Human Resources, Information, Social And Cultural Affairs" chapter_identifier="488">
+      <article number="ARTICLE 60" name="Human Resources" article_identifier="4373">1. Member States undertake to cooperate in the full development and utilization of their human right resources. 
+
+
+2.	 To this end, they shall take measures to: 
+
+
+(a)	 strengthen cooperation among themselves in the fields of education, training and employment; and to harmonize and coordinate their policies and programmes in these areas; 
+
+
+(b)	 consolidate their existing, training institutions, improve the efficacy of their educational systems, encourage exchanges between schools and universities, establish equivalences of academic, professional and technical qualifications, encourage literacy, promote the teaching and practice of the official languages of the Community, and establish regional centres of excellence in various disciplines; 
+
+
+(c)	 encourage the exchange of skilled manpower between Member States.</article>
+      <article number="ARTICLE 61" name="Social Affairs" article_identifier="4374">1. Member States undertake to cooperate with a view to mobilize, the various sections of the population and ensuring their effective integration and involvement in the social development of the region. 
+
+
+2.	 For the purposes of paragraph 1 of this Article, Member States undertake to: 
+
+
+(a)	 encourage the exchange of experiences and information on literacy, professional training and employment; 
+
+
+(b)	 harmonize their labour laws and social security legislations; 
+
+
+(c)	 promote women's and youth organizations and professional associations as a means of ensuring mass involvement in the activities of the Community; 
+
+
+(d)	 encourage and strengthen cooperation amongst themselves in health matters; and 
+
+
+(e)	 promote and enhance the practice of sports with a view to bringing together the youth of the region and ensuring their balanced development.</article>
+      <article number="ARTICLE 62" name="Cultural Affairs" article_identifier="4375">1. Member States undertake to pursue the objectives of the Community Cultural Framework Agreement. 
+
+
+2.	 To this end, Member States undertake to: 
+
+
+(a)	 encourage the promotion, by every means possible, of all forms of cultural exchange; 
+
+
+(b)	 promote, develop and, where necessary, improve structures and mechanisms for the production, propagation and utilization of cultural industries; and 
+
+
+(c)	 promote the learning and dissemination of a West African language as a factor in Community integration.</article>
+      <article number="ARTICLE 63" name="Women And Development" article_identifier="4376">1. Member States undertake to formulate, harmonize, coordinate and establish appropriate policies and mechanisms, for enhancement of the economic, social and cultural conditions of women. 
+
+
+2.	 To this end, Member States shall take all measures necessary to: 
+
+
+(a)	 identify and assess all constraints that inhibit women from maximizing their contribution to regional development efforts; and 
+
+
+(b)	 provide a framework within which the constraints will be addressed and for the incorporate of women's concerns and needs into the normal operations of the society; 
+
+3.	 At the Community level, Member States shall: 
+
+
+(a)	 stimulate dialogue among themselves on the kinds of projects and programmes aimed at integrating women into the development process; 
+
+
+(b)	 establish a mechanism for cooperation with bilateral, multilateral and non-governmental organizations; and 
+
+
+(c)	 promote and develop mechanisms to encourage the exchange of experiences and information between Member States.</article>
+      <article number="ARTICLE 64" name="Population And Development" article_identifier="4377">1. Member States undertake to adopt, individually and collectively, national population policies and mechanisms and take all necessary measures in order to ensure a balance between demographic factors and socio economic development. 
+
+
+2.	 To this end, Member States agree to: 
+
+
+(a)	 include population issues as central components in formulating and implementing national policies and programmes for accelerated and balanced socio economic development; 
+
+
+(b)	 formulate national population policies and establish national population institutions; 
+
+
+(c)	 undertake public sensitization on population matters, particularly among the target groups; and 
+
+
+(d)	 collect, analyse and exchange information and data on population issues.</article>
+      <article number="ARTICLE 65" name="Information Radio And Television" article_identifier="4378">Member States undertake to:
+(a)	 coordinate their efforts and pool their resources in order to promote the exchange of radio and television programmes at bilateral and regional levels; 
+
+
+(b)	 encourage the establishment of programme exchange centres at regional level and strengthen existing programme exchange centres; 
+
+
+(c)	 use their broadcasting and television systems to promote the attainment of the objectives of the Community.</article>
+      <article number="ARTICLE 66" name="The Press" article_identifier="4379">1. In order to involve more closely the citizens of the Community in the regional integration process, Member States agree to cooperate in the area of information. 
+
+
+2.	 To this end they undertake as follows: 
+
+
+(a)	 to maintain within their borders, and between one another, freedom of access for professionals of the communication industry and for information sources; 
+
+
+(b)	 to facilitate exchange of information between their press organs; to promote and foster effective dissemination of information within the Community; 
+
+
+(c)	 to ensure respect for the rights of journalists; 
+
+
+(d)	 to take measures to encourage investment capital, both public and private, in the communication industries in Member States; 
+
+
+(e)	 to modernize the media by introducing training facilities for new information techniques; and 
+
+
+(f)	 to promote and encourage dissemination of information in indigenous languages, strengthening cooperation between national press agencies and developing linkages between them.</article>
+    </chapter>
+    <chapter number="CHAPTER XII" name="Cooperation In Other Areas" chapter_identifier="489">
+      <article number="ARTICLE 67" name="Harmonization Of Policies In Other Areas" article_identifier="4380">Subject to the provisions of this Treaty, Member States undertake to consult with one another, through appropriate Community institutions, for the purpose of harmonizing and coordinating their respective policies in all other fields not specifically covered by this Treaty for the efficient functioning and development of the Community and for the implementation of the provisions of this Treaty.</article>
+    </chapter>
+    <chapter number="CHAPTER XIII" chapter_identifier="490">
+      <article number="ARTICLE 68" name="Land-Locked And Island Member States" article_identifier="4381">Member States, taking into consideration the economic social difficulties that may arise in certain Member States, particularly island and land-locked States, agree to grant them where appropriate, special treatment in respect of the application of certain provisions of this Treaty and to accord them any other assistance they may need.</article>
+    </chapter>
+    <chapter number="CHAPTER XIV" name="Financial Provisions" chapter_identifier="491">
+      <article number="ARTICLE 69" name="Budget Of The Community" article_identifier="4382">1. There shall be established a budget of the Community and, where appropriate, of any of the Institutions of the Community. 
+
+
+2. All incomes and expenditure of' the Community and its institutions shall be approved by the Council or other appropriate bodies for each financial year and shall be charged to the budget of the Community or the institution concerned. 
+
+
+3. A draft budget shall be proposed for each financial year by the Executive Secretary or by the Head of the Institution concerned and approved by the Council or other appropriate body on the recommendation of the Administration and Finance Commission. 
+
+
+4. The Administration and Finance Commission shall consider the draft budget and all financial issues concerning the institutions of the Community and shall examine issues pertaining mainly to administration and personnel management in the institutions of the community.</article>
+      <article number="ARTICLE 70" name="Regular Budgets Of The Community" article_identifier="4383">1. The regular budgets of the Community and its institutions shall be funded from a Community levy and such other sources as may be determined by the Council. 
+
+
+2. Until the entry into force of the Community levy, the regular budgets of the Community and its institutions shall be funded from the annual contributions by Member States.</article>
+      <article number="ARTICLE 71" name="Special Budgets Of The Community" article_identifier="4384">Special budgets shall be made available, where necessary, to meet the extra-budgetary expenditure of the Community. The Authority shall, on the recommendation of Council, determine the modalities for financing such special budgets of the Community.</article>
+      <article number="ARTICLE 72" name="Community Levy" article_identifier="4385">1. There is hereby instituted a Community levy for the purpose of generating resources for financing Community activities. 
+
+
+2. The Community levy shall be a percentage of the total value of import duty derivable from goods imported into the Community from third countries. 
+
+
+3. The actual level of the Community levy shall be determined by the Council. 
+
+
+4. The conditions for the application of the Community levy, the modalities for the transfer to the Community of the revenue generated and the utilization of the Community levy shall be defined in the relevant Protocol. 
+
+
+5. Member States undertake to facilitate the application of the provisions of this Article.</article>
+      <article number="ARTICLE 73" name="Contributions By Member States" article_identifier="4386">1. The mode by which the contributions of Member States shall be determined and the currencies in which the contributions are paid shall be as determined by Council. 
+
+
+2. Member States undertake to promptly transfer their assessed contributions to the Community.</article>
+      <article number="ARTICLE 74" name="Financial Regulations" article_identifier="4387">The Financial Regulations and Manual of Accounting Procedures of the Community shall govern the application of the provisions of this Chapter.</article>
+      <article number="ARTICLE 75" name="External Auditors" article_identifier="4388">1. The External Auditors of the Community shall be appointed for a period of two years renewable for two other terms of two years each. They can be relieved of their posts by the Authority on the recommendation of the Council. 
+
+
+2. Subject to the provisions of the preceding paragraph, the Council shall determine the rules governing the selection procedure and establish the responsibilities of the External Auditors.</article>
+    </chapter>
+    <chapter number="CHAPTER XV" name="Disputes" chapter_identifier="492">
+      <article number="ARTICLE 76" name="Settlement Of Disputes" article_identifier="4389">1. Any dispute regarding the interpretation or the application of the provisions of this Treaty shall be amicably settled through direct agreement without prejudice to the provisions of this Treaty and relevant Protocols. 
+
+
+2. Failing this, either party or any other Member States or the Authority may refer the matter to the Court of the Community whose decision shall be final and shall not be subject to appeal.</article>
+    </chapter>
+    <chapter number="CHAPTER XVI" name="Sanctions" chapter_identifier="493">
+      <article number="ARTICLE 77" name="Sanctions Applicable For Non-Fulfilment Of Obligations" article_identifier="4390">1. Where a Member State fails to fulfil its obligations to the Community, the Authority may decide to impose sanctions on that Member State. 
+
+
+2.	 These sanctions may include: 
+
+
+(i)	 suspension of new Community loans or assistance; 
+
+
+(ii)	 suspension of disbursement on-going Community projects or assistance programmes; 
+(iii)	 exclusion from presenting candidates for statutory and professional posts; 
+
+
+(iv)	 suspension voting rights; and 
+
+
+(v)	 suspension from participating in the activities of the Community. 
+
+3. Notwithstanding the provisions of paragraph 1 of this Article, the Authority may suspend the application of the provisions of the said Article if it is satisfied on the basis of a well supported and detailed report prepared by an independent body and submitted through the Executive Secretary, that the non-fulfilment of its obligations is due to causes and circumstances beyond the control of the said Member State; 
+
+
+4.	 The Authority shall decide on the modalities for the application of this Article.</article>
+    </chapter>
+    <chapter number="CHAPTER XVII" name="Relations Between The Community And The African Economic Community" chapter_identifier="494">
+      <article number="ARTICLE 78" name="The Community And The African Economic Community" article_identifier="4391">The integration of the region shall constitute an essential component of the integration of the African continent. Member States undertake to facilitate the coordination and harmonization of the policies and programmes of the Community with those of the African Economic Community.</article>
+    </chapter>
+    <chapter number="CHAPTER XVIII" name="Relations Between The Community And Other Regional Economic Communities" chapter_identifier="495">
+      <article number="ARTICLE 79" name="The Community And Other Regional Economic Communities" article_identifier="4392">1. In the context of realizing its regional objectives, the Community may enter into cooperation agreements with other regional Communities. 
+
+
+2. Such cooperation agreements entered into in accordance with the provisions of paragraph 1 of this Article shall be subject to prior approval by the Council upon the proposal of the Executive Secretary.</article>
+    </chapter>
+    <chapter number="CHAPTER XIX" name="Relations Between The Executive Secretariat And The Specialised Institutions Of The Community" chapter_identifier="496">
+      <article number="ARTICLE 80" name="The Executive Secretariat And The Specialised Institutions" article_identifier="4393">1. The Community shall determine the global integration policies and strategies to be adopted and define the integration objectives and programmes of all the institutions of the Community. 
+
+
+2. The Executive Secretariat shall be responsible for harmonizing and coordinating all activities and programmes of the institutions of the Community within the context of regional integration.</article>
+      <article number="ARTICLE 81" name="Relations Between The Community And Regional Non-Governmental Organizations" article_identifier="4394">1. The Community with a view to mobilizing the human and material resources for the economic integration of the region, shall cooperate with regional non-governmental organizations and voluntary development organizations in order to encourage the involvement of the peoples of the region in the process of economic integration and mobilize their technical, material and financial support. 
+
+
+2. To this end, the Community shall set up mechanism for consultation with such organizations.</article>
+      <article number="ARTICLE 82" name="Relations Between The Community And Regional Socio Economic Organizations And Associations" article_identifier="4395">1. The Community with a view to mobilizing the various actors in socio economic life for the integration of the region, shall cooperate with socio economic organizations and associations, in particular, producers, transport operators, workers, employers, university teachers and administrators, journalists, youth, women, artisans and other professional organizations and associations with a view to ensuring their involvement in the integration process of the region. 
+
+
+2. To this end, the Community shall set up a mechanism for consultation with such socio economic organizations and associations.</article>
+    </chapter>
+    <chapter number="CHAPTER XX" name="Relations Between The Community, Third Countries And International Organizations" chapter_identifier="497">
+      <article number="ARTICLE 83" name="Cooperation Agreements" article_identifier="4396">1. The Community may conclude cooperation agreements with third countries. 
+
+
+2. In pursuit of its objective, the community shall also cooperate with the organization of African Unity, the United Nations system, and any other international organization. 
+
+
+3. Cooperation agreements to be concluded in accordance with the provisions of paragraphs 1 and 2 of this Article shall be subject to prior approval by the Council upon the proposal of the Executive Secretary.</article>
+    </chapter>
+    <chapter number="CHAPTER XXI" name="Relations Between Member States, Non-Member States, Regional Organizations And International Organizations" chapter_identifier="498">
+      <article number="ARTICLE 84" name="Agreements Concluded By Member States" article_identifier="4397">1. Member States may conclude agreements among themselves and with non-Member States, regional organizations or any other international organization, provided that economic agreements are not incompatible with the provisions of this Treaty. They shall, at the request of the Executive Secretary, transmit copies of such economic agreements to the Executive Secretary who shall inform Council thereof. 
+
+
+2. In the event that agreements concluded before the entry into force of this Treaty between Member States or between Member States and non-Member States, regional organizations or any other international organizations are incompatible with the provisions of this Treaty, the Member State or Member States concerned shall take appropriate measures to eliminate such incompatibility. Member States shall, where necessary, assist each other to this end and adopt a common position.</article>
+      <article number="ARTICLE 85" name="International Negotiations" article_identifier="4398">1. Member States undertake to formulate and adopt common positions within the Community on issues relating to international negotiations with third parties in order to promote and safeguard the interests of the region. 
+
+
+2. To this end, the Community shall prepare studies and reports designed to help Member States to harmonize better their positions on the said issues.</article>
+    </chapter>
+    <chapter number="CHAPTER XXII" name="General And Final Provisions" chapter_identifier="499">
+      <article number="ARTICLE 86" name="Headquarters Of The Community" article_identifier="4399">The Headquarters of the Community shall be situated in the capital of the Federal Republic of Nigeria.</article>
+      <article number="ARTICLE 87" name="Official And Working Languages" article_identifier="4400">1. The official languages of the Community shall be all West African languages so designated by the Authority as well as English, French and Portuguese. 
+
+
+2. The working languages of the Community shall be English, French and Portuguese.</article>
+      <article number="ARTICLE 88" name="Status, Privileges And Immunities" article_identifier="4401">1.	 The Community shall enjoy international legal personality. 
+
+
+2.	 The Community shall have in the territory of each Member State: 
+
+
+(a)	 the legal powers required for the performance of the functions assigned to it under this Treaty; 
+
+
+(b)	 power to enter into contracts and acquire, hold and dispose of movable and immovable property. 
+
+3. In the exercise of its legal personality under this Article, the Community shall be represented by the Executive Secretary. 
+
+
+4. The privileges and immunities to be recognised and granted by the Member States to the officials of the Community, its institutions and their respective headquarters shall be as provided for in the General Convention on Privileges Immunities of the Community and the Headquarters Agreements.</article>
+      <article number="ARTICLE 89" name="Entry Into Force And Ratification" article_identifier="4402">This Treaty and the Protocols which shall form an integral part thereof shall respectively enter into force, upon ratification by at least nine signatory States, in accordance with the constitutional procedures of each signatory State.</article>
+      <article number="ARTICLE 90" name="Amendments And Revisions" article_identifier="4403">1.	 Any Member State may submit proposal for the amendment or revision of this Treaty. 
+
+
+2. Any such proposals shall he submitted to the Executive Secretary who shall notify other Member States thereof not later thirty (30) days after the receipt of such proposals. Amendments or revisions shall not be considered by the Authority unless Member States shall have been given at least three months notice thereof. 
+
+
+3. Amendments or revisions shall be adopted by the Authority in accordance with the provisions of' Article 9 of this Treaty and shall be submitted for ratification by all Member Sates in accordance with their respective constitutional procedures. They shall enter into force in accordance with Article 89 of this Treaty.</article>
+      <article number="ARTICLE 91" name="Withdrawal" article_identifier="4404">1. Any Member State wishing to withdraw from the Community shall give to the Executive Secretary one year's notice in writing who shall inform Member States thereof. At the expiration of this period, if such notice is not withdrawn, such a State shall cease to be a member of the Community. 
+
+
+2. During the period of one year referred to in the preceding paragraph, such a Member State shall continue to comply with the provisions of this Treaty and shall remain bound to discharge its obligations under this Treaty.</article>
+      <article number="ARTICLE 92" name="Transitional And Savings Provisions" article_identifier="4405">1. Upon the entry into force of this revised Treaty in according with the provisions of Article 89, the provisions of the United Nations, Vienna Convention on the Law of' Treaties adopted on 23 May 1969 shall apply to the determination of the rights and obligations of Member States under the 1975 ECOWAS Treaty and this revised Treaty. 
+
+
+2. The ECOWAS Treaty of' 1975 shall be deemed terminated when the Executive Secretariat has received instruments of ratification of this revised Treaty from all Member States. The Executive Secretary shall notify the Member States in writing thereof. 
+
+
+3. Notwithstanding the provisions of paragraph 2 of this Article, all Community Conventions, Protocols, Decisions and Resolutions made since 1975 shall remain valid and in force, except where they are incompatible with the present Treaty.</article>
+      <article number="ARTICLE 93" name="Depository Authority" article_identifier="4406">The present Treaty and all instruments of' ratification shall be deposited with the Executive Secretariat which shall transmit certified true copies of this Treaty to all Member States and notify them of the dates of deposit of instruments of ratification and shall register this Treaty with the Organization of African Unity, the United Nations Organization and such other organizations as the Council may determine.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="500">
+      <article article_identifier="4407">IN FAITH WHEREOF, WE, THE HEADS OF STATE AND GOVERNMENT OF THE MEMBER STATES OF THE ECONOMIC COMMUNITY OF WEST AFRICAN STATES (ECOWAS), HAVE SIGNED THIS TREATY. 
+
+DONE AT COTONOU, THIS 24TH DAY OF JULY 1993 IN SINGLE ORIGINAL IN THE ENGLISH, FRENCH AND PORTUGUESE LANGUAGES, ALL TEXTS BEING EQUALLY AUTHENTIC.</article>
+    </chapter>
+  </body>
+</treaty>

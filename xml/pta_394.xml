@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EFTA - Hong Kong, China</name>
+    <type>Free Trade Agreement &amp; Economic Integration Agreement</type>
+    <wto_rta_id>689</wto_rta_id>
+    <treaty_identifier>394</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV &amp; GATS Art. V</notification>
+    <date_signed>2011-06-21</date_signed>
+    <date_into_force>2012-10-01</date_into_force>
+    <date_notification>2012-09-27</date_notification>
+    <end_implementation>2012-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">CHE</partyisocode>
+      <partyisocode n="2">HKG</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">CHE</partyisocode>
+      <partyisocode n="2">HKG</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>East Asia; Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.efta.int/media/documents/legal-texts/free-trade-relations/hong-kong-china/EFTA-Hong Kong China Free Trade Agreement.pdf</source>
+    <source lang="en" type="annex">http://www.efta.int/free-trade/free-trade-agreements/hong-kong.aspx</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="3788">
+      <article article_identifier="32470">FREE TRADE AGREEMENT 
+BETWEEN 
+THE EFTA STATES 
+AND 
+HONG KONG, CHINA 
+
+
+Iceland, the Principality of Liechtenstein, the Kingdom of Norway, the Swiss Confederation (hereinafter referred to as the “EFTA States”) on the one part, and the Hong Kong Special Administrative Region of the People’s Republic of China (hereinafter referred to as “Hong Kong, China”), on the other, hereinafter individually referred to as a “Party” or collectively as the “Parties”: 
+
+RECOGNISING the common wish to strengthen the links between the EFTA States on the one part and Hong Kong, China on the other by establishing closer and lasting trade and investment relations; 
+
+REAFFIRMING their commitment to democracy, the rule of law, human rights and fundamental political and economic freedoms in accordance with their obligations under international law, and principles and objectives set out in the United Nations Charter and the Universal Declaration of Human Rights; 
+
+REAFFIRMING their commitment to pursue the objective of sustainable development and recognising the interdependence and mutual supportiveness of trade, environment and labour policies in this respect; 
+
+RECALLING their rights and obligations under multilateral environmental agreements applicable to them, and the respect for the fundamental principles and rights at work, including the principles set out in the relevant International Labour Organisation Conventions applicable to them; 
+
+AIMING to create new employment opportunities, raise the living standards of their people and improve their living conditions through liberalising trade and improving levels of protection of health and safety and of the environment;  
+
+DESIRING to create favourable conditions for the development and diversification of trade between them and for the promotion of commercial and economic co-operation in areas of common interest on the basis of equality, mutual benefit, non-discrimination and international law; 
+
+RECOGNISING the importance of trade facilitation in promoting efficient and transparent procedures to reduce costs and to enhance predictability for the trading communities of the Parties; 
+
+DETERMINED to promote and further strengthen the multilateral trading system, building on their respective rights and obligations under the Marrakesh Agreement establishing the World Trade Organisation (hereinafter referred to as the “WTO”) and the other agreements negotiated thereunder, thereby contributing to the harmonious development and expansion of world trade; 
+
+DETERMINED to implement this Agreement in line with the objectives to preserve and protect the environment through sound environmental management and to promote an optimal use of the world’s resources in accordance with the objective of sustainable development; 
+
+ACKNOWLEDGING the importance of good corporate governance and corporate social responsibility for sustainable development, and affirming their aim to encourage enterprises to take into account internationally recognised guidelines and principles where appropriate; 
+
+CONVINCED that this Agreement will enhance the competitiveness of their firms in global markets and create conditions encouraging economic, trade and investment relations between them; 
+
+HAVE AGREED, in pursuit of the above, to conclude the following Free Trade Agreement (hereinafter referred to as “this Agreement”):</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="General Provisions" chapter_identifier="3789">
+      <article number="ARTICLE 1.1" name="Objectives" article_identifier="32471">1. The Parties hereby establish a free trade area in accordance with the provisions of this Agreement and the complementary agreements on agriculture, concurrently concluded between the EFTA States and Hong Kong, China. 
+
+
+2. The objectives of this Agreement are: 
+
+
+(a) 	to achieve the liberalisation of trade in goods, in conformity with Article XXIV of the General Agreement on Tariffs and Trade 1994 (hereinafter referred to as the “GATT 1994”); 
+
+
+(b) 	to achieve the liberalisation of trade in services, in conformity with Article V of the General Agreement on Trade in Services (hereinafter referred to as the “GATS”); 
+
+
+(c) 	to mutually enhance investment opportunities; 
+
+
+(d) 	to facilitate and expand trade in goods and services; 
+
+
+(e) 	to ensure adequate and effective protection of intellectual property rights, in accordance with international standards applicable to the Parties;  
+
+
+(f) 	to improve access to each other’s government procurement markets on a mutual basis; 
+
+
+(g) 	to promote competition in their economies, particularly as it relates to economic relations between the Parties; 
+
+
+(h) 	to develop international trade in such a way as to contribute to the objective of sustainable development and to ensure that this objective is integrated and reflected in the Parties’ trade relationship; and 
+
+
+(i) 	to contribute thereby to the harmonious development and expansion of world trade.</article>
+      <article number="ARTICLE 1.3" name="Trade And Economic Relations Governed By This Agreement" article_identifier="32472">1. This Agreement shall apply to the trade and economic relations between, on the one side, the individual EFTA States and, on the other side, Hong Kong, China, but not to the trade relations between individual EFTA States, unless otherwise provided for in this Agreement. 
+
+
+2. As a result of the Customs Treaty of 29 March 1923 between Switzerland and Liechtenstein, Switzerland shall represent Liechtenstein in matters covered thereby.</article>
+      <article number="ARTICLE 1.4" name="Relationship To Other International Agreements" article_identifier="32473">1. The Parties confirm their rights and obligations under the Marrakesh Agreement establishing the WTO (hereinafter referred to as the “WTO Agreement”) and the other agreements negotiated thereunder to which they are a party and any other international agreements to which they are a party or which are applicable to a Party. If a Party considers that there is an inconsistency between this Agreement and any other international agreements to which they are a party or which are applicable to a Party, the Parties shall immediately consult with each other with a view to finding a mutually satisfactory solution in accordance with customary rules of public international law. 
+
+
+2. If a Party considers that the maintenance or establishment of customs unions, free trade areas, arrangements for frontier trade or other preferential agreements by another Party has the effect of altering the trade regime provided for by this Agreement, it may request consultations with that Party. That Party shall afford adequate opportunity for consultations with the requesting Party.1</article>
+      <article number="ARTICLE 1.5" name="Regional And Local Government" article_identifier="32474">Each Party shall take every available measure to ensure the observance of all obligations and commitments under this Agreement by its respective regional and local governments and authorities, and by non-governmental bodies in the exercise of governmental powers delegated to them by central, regional and local governments or authorities.</article>
+      <article number="ARTICLE 1.6" name="Transparency" article_identifier="32475">1. The Parties shall publish, make publicly available, or, if not publicly available, provide upon request, their laws, regulations, judicial decisions, administrative rulings of general application as well as their respective international agreements, that are relevant to this Agreement. 
+
+
+2. The Parties shall promptly respond to specific questions and provide, upon request, information to each other on matters referred to in paragraph 1. 
+
+
+3. Nothing in this Agreement shall require any Party to disclose information, in particular confidential information, that would impede law enforcement or violate domestic law, or otherwise be contrary to the public interest or would prejudice the legitimate commercial interests of any economic operator. 
+
+
+4. In case of any inconsistency between the provisions of this Article and provisions relating to transparency in other Chapters of this Agreement, the latter shall prevail to the extent of the inconsistency. 
+It is understood that consultations held pursuant to paragraph 2 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes (hereinafter referred to as the “WTO Dispute Settlement Understanding”). 
+Confidentiality 
+
+Where a Party provides information to another Party in accordance with this Agreement and designates the information as confidential,2 the Party receiving the information shall treat the information as confidential in accordance with its domestic law and practice. Such information shall be used only for the purpose for which the information is provided, and shall not be otherwise disclosed without the specific written permission of the Party providing the information. 
+
+It is understood that all information provided in relation to the rules of origin under Annex IV or the importation, exportation, advance rulings or transit of goods under Annex V shall be confidential, regardless of designation.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Trade In Goods" chapter_identifier="3790">
+      <article number="ARTICLE 2.1" name="Scope" article_identifier="32476">1. 	This Chapter applies to trade between the Parties relating to: 
+
+
+(a) 	products classified under Chapters 25 to 97 of the Harmonized Commodity Description and Coding System (HS), excluding products listed in Annex I; 
+
+
+(b) 	processed agricultural products specified in Annex II, with due regard to the arrangements provided for in that Annex; and 
+
+
+(c) 	fish and other marine products as provided for in Annex III. 
+2. Hong Kong, China and each EFTA State have concluded agreements on trade in agricultural products on a bilateral basis. These agreements form part of the instruments establishing a free trade area between the EFTA States and Hong Kong, China.</article>
+      <article number="ARTICLE 2.2" name="Rules Of Origin" article_identifier="32477">The rules of origin and methods of administrative co-operation are set out in Annex IV.</article>
+      <article number="ARTICLE 2.3" name="Elimination Of Customs Duties" article_identifier="32478">1. Upon entry into force of this Agreement, the Parties shall abolish all customs duties on imports and exports of products originating in an EFTA State or in Hong Kong, China as set out in paragraph 1 of Article 2.1. No new customs duties shall be introduced. 
+
+
+2. Customs duties include any duty or charge of any kind imposed in connection with the importation or exportation of a product, including any form of surtax or surcharge, but does not include any charge covered by Articles III and VIII of the GATT 1994.</article>
+      <article number="ARTICLE 2.4" name="Import And Export Restrictions" article_identifier="32479">The rights and obligations of the Parties in respect of export and import restrictions shall be governed by Article XI of the GATT 1994, which is hereby incorporated into and made part of this Agreement, mutatis mutandis.</article>
+      <article number="ARTICLE 2.5" name="Internal Taxation And Regulations" article_identifier="32480">1. The Parties commit themselves to apply any internal taxes and other charges and regulations in accordance with Article III of the GATT 1994. 
+
+
+2. Exporters may not benefit from repayment of indirect taxes in excess of the amount of indirect taxes levied on products exported to one of the Parties.</article>
+      <article number="ARTICLE 2.6" name="Sanitary And Phytosanitary Measures" article_identifier="32481">1. The rights and obligations of the Parties in respect of sanitary and phytosanitary measures shall be governed by the WTO Agreement on the Application of Sanitary and Phytosanitary Measures (hereinafter referred to as the “SPS Agreement”).  
+
+
+2. The Parties shall strengthen their co-operation in the field of sanitary and phytosanitary measures, with a view to increasing the mutual understanding of their respective systems and facilitating access to their respective markets.  
+
+
+3. Without prejudice to paragraph 1, the Parties agree to hold ad hoc consultations where a Party considers that another Party has taken measures which are likely to create, or have created, an obstacle to trade, in order to find an appropriate solution in conformity with the SPS Agreement. Such consultations may be conducted in person or via videoconference, teleconference, or any other agreed method. The Joint Committee established pursuant to Article 9.1 (hereinafter referred to as the “Joint Committee”) shall be informed of the commencement and results of such consultations.3 
+
+
+4. The Parties shall exchange names and addresses of designated contact points for matters relating to sanitary and phytosanitary measures in order to facilitate communication and the exchange of information.  
+It is understood that consultations held pursuant to paragraph 3 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Dispute Settlement Understanding.</article>
+      <article number="ARTICLE 2.7" name="Technical Regulations" article_identifier="32482">1. The rights and obligations of the Parties in respect of technical regulations, standards and conformity assessment procedures shall be governed by the WTO Agreement on Technical Barriers to Trade (hereinafter referred to as the “TBT Agreement”).  
+
+
+2. The Parties shall strengthen their co-operation in the field of technical regulations, standards and conformity assessment procedures, with a view to increasing the mutual understanding of their respective systems and facilitating access to their respective markets.  
+
+
+3. Without prejudice to paragraph 1, the Parties agree to hold ad hoc consultations where a Party considers that another Party has taken measures which are likely to create, or have created, an obstacle to trade, in order to find an appropriate solution in conformity with the TBT Agreement. Such consultations may be conducted in person or via videoconference, teleconference, or any other agreed method. The Joint Committee shall be informed of the commencement and results of such consultations.4 
+
+
+4. The Parties shall exchange names and addresses of designated contact points for matters relating to technical barriers to trade in order to facilitate communication and the exchange of information.</article>
+      <article number="ARTICLE 2.8" name="Trade Facilitation" article_identifier="32483">The Parties shall facilitate trade in accordance with the provisions set out in Annex V.</article>
+      <article number="ARTICLE 2.9" name="Sub-Committee On Rules Of Origin, Customs Procedures And Trade Facilitation" article_identifier="32484">1. A Sub-Committee of the Joint Committee on Rules of Origin, Customs Procedures and Trade Facilitation (hereinafter referred to as the “Sub-Committee”) is hereby established. 
+
+
+2. The mandate of the Sub-Committee is set out in Annex VI. 
+It is understood that consultations held pursuant to paragraph 3 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Dispute Settlement Understanding.</article>
+      <article number="ARTICLE 2.10" name="State Trading Enterprises" article_identifier="32485">The rights and obligations of the Parties in respect of state trading enterprises shall be governed by Article XVII of the GATT 1994 and the Understanding on the Interpretation of Article XVII of the GATT 1994, which are hereby incorporated into and made part of this Agreement, mutatis mutandis.</article>
+      <article number="ARTICLE 2.11" name="Subsidies And Countervailing Measures" article_identifier="32486">1. Hong Kong, China and Norway shall not apply countervailing measures as provided for under Article VI of the GATT 1994 and Part V of the WTO Agreement on Subsidies and Countervailing Measures (hereinafter referred to as the “SCM Agreement”) in relation to products originating in a Party referred to in this paragraph.  
+
+
+2. Subject to paragraph 1, the rights and obligations between Hong Kong, China and Norway in respect of subsidies shall be governed by Article XVI of the GATT 1994 and the SCM Agreement. 
+
+
+3. The rights and obligations of Hong Kong, China, Switzerland, Liechtenstein and Iceland relating to subsidies and countervailing measures in respect of products originating in a Party referred to in this paragraph shall be governed by Articles VI and XVI of the GATT 1994 and the SCM Agreement, except as provided for in paragraphs 4 and 5. 
+
+
+4. Before any investigation is initiated by a Party referred to in paragraph 3 to determine the existence, degree and effect of any alleged subsidy in another Party, as provided for in Article 11 of the SCM Agreement, the Party considering initiating an investigation shall notify in writing the Party whose products are subject to an investigation and allow for 45 days, or a longer period if agreed by the Parties, for consultations with that Party with a view to finding a mutually acceptable solution.5 
+
+
+5. An investigation referred to in paragraph 4 shall only be initiated when domestic producers expressly supporting an application pursuant to Article 11 of the SCM Agreement account for at least 50 per cent of the total production of the like products produced by the domestic industry. 
+It is understood that consultations held pursuant to paragraph 4 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Dispute Settlement Understanding.</article>
+      <article number="ARTICLE 2.12" name="Anti-Dumping" article_identifier="32487">A Party shall not apply anti-dumping measures as provided for under Article VI of the GATT 1994 and the WTO Agreement on Implementation of Article VI of the GATT 1994 in relation to products originating in another Party.</article>
+      <article number="ARTICLE 2.13" name="Global Safeguard Measures" article_identifier="32488">1. Hong Kong, China and Norway shall not initiate or take safeguard measures as provided for under Article XIX of the GATT 1994 and the WTO Agreement on Safeguards (hereinafter referred to as the “Safeguards Agreement”) in relation to products originating in a Party referred to in this paragraph. 
+
+
+2. The rights and obligations of Hong Kong, China, Switzerland, Liechtenstein and Iceland in respect of global safeguards shall be governed by Article XIX of the GATT 1994 and the Safeguards Agreement in relation to products originating in a Party referred to in this paragraph. In taking global safeguard measures, a Party shall, consistent with its obligations under the WTO Agreements, exclude imports of originating products from another Party referred to in this paragraph, in particular if such imports do not in and of themselves cause or threaten to cause serious injury.</article>
+      <article number="ARTICLE 2.14" name="Bilateral Safeguard Measures" article_identifier="32489">1. Where, as a result of the reduction or elimination of a customs duty under this Agreement, any product originating in Hong Kong, China or in Switzerland or in Iceland is being imported into another Party referred to in this paragraph in such increased quantities, in absolute terms or relative to domestic production, and under such conditions as to constitute a substantial cause of serious injury or threat thereof to the domestic industry of like or directly competitive products in the importing Party, the importing Party may take bilateral safeguard measures to the minimum extent necessary to remedy or prevent the injury, subject to the provisions of paragraphs 2 to 10.  
+
+
+2. Bilateral safeguard measures shall only be taken upon clear evidence that increased imports have caused or are threatening to cause serious injury pursuant to an investigation in accordance with the procedures laid down in the Safeguards Agreement.   
+
+
+3. The Party intending to take a bilateral safeguard measure under this Article shall immediately, and in any case before taking a measure, make notification to the other Parties referred to in paragraph 1. The notification shall contain all pertinent information, which shall include evidence of serious injury or threat thereof caused by increased imports, a precise description of the product concerned, and the proposed measure, as well as the proposed date of introduction, expected duration and timetable 
+
+
+4. If the conditions set out in paragraph 1 are met, the importing Party may take measures consisting in an increase of the rate of customs duty for the product to a level not exceeding the lesser of: 
+
+
+(a) 	the MFN rate of duty applied at the time the action is taken; or 
+
+
+(b) 	the MFN rate of duty applied on the day immediately preceding the date of the entry into force of this Agreement. 
+
+5. Bilateral safeguard measures shall be taken for a period not exceeding one year. In very exceptional circumstances, after review by the Parties referred to in paragraph 1, measures may be taken up to a total maximum period of three years. In order to facilitate adjustment in a situation where the expected duration of a safeguard measure is more than one year, the Party applying the measure shall progressively liberalise it at regular intervals during the period of application. No measures shall be applied to the import of a product, which has previously been subject to such a measure.  
+
+
+6. The Parties concerned shall, within 30 days from the date of notification referred to in paragraph 3, examine the information provided under paragraph 3 in order to facilitate a mutually acceptable resolution of the matter. In the absence of such resolution, the importing Party may adopt a bilateral safeguard measure pursuant to paragraph 4 to remedy the problem, and, in the absence of mutually agreed compensation, the Party against whose product the bilateral safeguard measure is taken may take compensatory action. The safeguard measure and the compensatory action shall be immediately notified to the other Parties referred to in paragraph 1. In the selection of the safeguard measure and the compensatory action, priority must be given to the action which least disturbs the functioning of this Agreement. The compensatory action shall normally consist of a suspension of concessions, having substantially equivalent trade effects or being substantially equivalent to the value of the additional duties expected to result from the bilateral safeguard measure, under any part of this Agreement. The Party taking compensatory action shall apply the action only for the minimum period necessary to achieve the substantially equivalent trade effects and, in any event, only while the measure under paragraph 4 is being applied. 
+
+
+7. Upon termination of the measure, the rate of customs duty shall be the rate which would have been in effect but for the measure. 
+
+
+8. In critical circumstances, where delay would cause damage which would be difficult to repair, a Party referred to in paragraph 1 may take a provisional bilateral safeguard measure pursuant to a preliminary determination that there is clear evidence that increased imports constitute a substantial cause of serious injury, or threat thereof, to its domestic industry. The Party intending to take such a measure shall immediately notify the other Parties referred to in paragraph 1. Within 30 days of the date of the notification, the pertinent procedures set out in paragraphs 2 to 6, including those for compensatory action, shall be initiated. Any compensation shall be based on the total 
+
+
+9. Any provisional bilateral safeguard measure shall be terminated within 200 days at the latest. The period of application of any such provisional bilateral safeguard measure shall be counted as part of the duration, and any extension thereof, under paragraph 5, of the measure set out in paragraph 4. Any tariff increases shall be promptly refunded if the investigation described in paragraph 2 does not result in a finding that the conditions of paragraph 1 are met. 
+
+
+10. Five years after the date of entry into force of this Agreement, the Parties referred to in paragraph 1 shall review whether there is a need to maintain the possibility to take bilateral safeguard measures between them. Following the review, these Parties, by consensus, may notify to the Joint Committee that this Article ceases to apply. This Article will be of no application as of the date set out in the notification.  
+
+
+11. A Party shall not simultaneously apply this Article and Article 2.13 to the import of the same product.</article>
+      <article number="ARTICLE 2.15" name="General Exceptions" article_identifier="32490">The rights and obligations of the Parties in respect of general exceptions shall be governed by Article XX of the GATT 1994, which is hereby incorporated into and made part of this Agreement, mutatis mutandis.</article>
+      <article number="ARTICLE 2.16" name="Security Exceptions" article_identifier="32491">The rights and obligations of the Parties in respect of security exceptions shall be governed by Article XXI of the GATT 1994, which is hereby incorporated into and made part of this Agreement, mutatis mutandis.</article>
+      <article number="ARTICLE 2.17" name="Balance Of Payments" article_identifier="32492">1. The Parties shall endeavour to avoid the imposition of restrictive measures for balance of payments purposes. 
+
+
+2. A Party in serious balance of payments difficulties, or under imminent threat thereof, may, in accordance with the conditions established under the GATT 1994 and the WTO Understanding on the Balance-of-Payments Provisions of the GATT 1994, adopt trade restrictive measures, which shall be of limited duration and non-
+
+
+3. The Party introducing a measure under this Article shall notify the other Parties thereof within 14 days after such a measure is taken.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Trade In Services" chapter_identifier="3791">
+      <article number="ARTICLE 3.1" name="Scope And Coverage" article_identifier="32493">1. This Chapter applies to measures by the Parties affecting trade in services and taken by central, regional or local governments and authorities as well as by nongovernmental bodies in the exercise of powers delegated by central, regional or local governments or authorities. It applies to all services sectors. 
+
+
+2. Notwithstanding paragraph 1, in respect of air transport services, this Chapter shall not apply to measures affecting air traffic rights, however granted, or measures affecting services directly related to the exercise of air traffic rights, except as provided for in paragraph 3 of the Annex on Air Transport Services to the GATS. The definitions of paragraph 6 of the Annex on Air Transport Services to the GATS are hereby incorporated and made part of this Chapter. 
+
+
+3. Articles 3.4 to 3.6 shall not apply to laws, regulations or requirements governing the procurement by governmental agencies of services purchased for governmental purposes and not with a view to commercial resale or with a view to use in the supply of services for commercial sale.</article>
+      <article number="ARTICLE 3.2" name="Incorporation Of Provisions From The Gats" article_identifier="32494">Wherever a provision of this Chapter provides that a provision of the GATS is incorporated into and made part of this Chapter, the term “Member” used in the GATS provision shall be understood as meaning “Party” and the term “territory” used in the GATS provision shall be understood as meaning “Area”.</article>
+      <article number="ARTICLE 3.3" name="Definitions" article_identifier="32495">For the purposes of this Chapter: 
+
+
+(a) 	the following definitions of Article I of the GATS are hereby incorporated into and made part of this Chapter: 
+
+
+(i) 	“trade in services”; 
+
+
+(ii) 	“services”; and 
+(iii) 	“a service supplied in the exercise of governmental authority”; 
+
+(b) 	“service supplier” means any person that supplies, or seeks to supply, a service;6 
+
+
+(c) 	“natural person of another Party” means: 
+
+
+(i) 	with respect to the EFTA States: a permanent resident of the Hong Kong Special Administrative Region of the People’s Republic of China under its domestic law who resides in the Area of any Party; 
+
+
+(ii) 	with respect to Hong Kong, China: a natural person who under the domestic law of an EFTA State is a national or a permanent resident of that EFTA State who resides in the Area of any Party; 
+
+(d) 	“juridical person of another Party” means a juridical person which is either: 
+(i) 	constituted or otherwise organised under the domestic law of that other Party, and is engaged in substantive business operations in the Area of: 
+
+
+(A) 	any Party; or 
+
+
+(B) 	any Member of the WTO and is owned or controlled by natural persons of that other Party or by juridical persons that meet all the conditions of subparagraph (i) (A); 
+or 
+
+(ii) 	in the case of the supply of a service through commercial presence, owned or controlled by: 
+
+
+(A) 	natural persons of that other Party; or 
+
+
+(B) 	juridical persons of that other Party identified under subparagraph (d) (i); 
+Where the service is not supplied or sought to be supplied directly by a juridical person but through other forms of commercial presence such as a branch or a representative office, the service supplier (i.e. the juridical person) shall, nonetheless, through such commercial presence be accorded the treatment provided for service suppliers under this Chapter. Such treatment shall be extended to the commercial presence through which the service is supplied or sought to be supplied and need not be extended to any other parts of the service supplier located outside the Area where the service is supplied or sought to be supplied. 
+
+
+(e) 	the following definitions of Article XXVIII of the GATS are hereby incorporated into and made part of this Chapter: 
+
+
+(i) 	“measure”; 
+
+
+(ii) 	“supply of a service”; 
+(iii) 	“measures by Members affecting trade in services”; 
+
+
+(iv) 	“commercial presence”; 
+
+
+(v) 	“sector” of a service; 
+
+
+(vi) 	“service of another Member”; 
+(vii) 	“monopoly supplier of a service”; 
+
+(viii) 	“service consumer”; 
+
+
+(ix) 	“person”; 
+
+
+(x) 	“juridical person”; 
+
+
+(xi) 	“owned”, “controlled” and “affiliated”; and 
+(xii)	 “direct taxes”; 
+
+(f) 	“Area” means: 
+
+
+(i) 	with respect to an EFTA State: 
+
+
+(A) 	its land territory, internal waters, and territorial sea, and the air-space above, in accordance with international law; and 
+
+
+(B) 	beyond the territorial sea, with respect to measures taken in the exercise of its sovereign right or jurisdiction in accordance with international law; 
+
+(ii) 	with respect to Hong Kong, China: the land and sea comprised within the boundary of the Hong Kong Special Administrative Region only, including Hong Kong Island, Kowloon, the New Territories, and the waters of Hong Kong; 
+(iii) 	with respect to Norway: “Area” does not include the Norwegian territory of Svalbard.</article>
+      <article number="ARTICLE 3.4" name="Most-Favoured-Nation Treatment" article_identifier="32496">1. Without prejudice to measures taken in accordance with Article VII of the GATS, and subject to Article 3.17, each Party shall accord immediately and unconditionally, with respect to any measure covered by this Chapter, to services and service suppliers of any other Party treatment no less favourable than the treatment it accords to like services and service suppliers of any non-party. 
+
+
+2. Treatment granted under other existing or future agreements concluded by one of the Parties and notified under Article V or Article V bis of the GATS shall not be subject to paragraph 1. 
+
+
+3. If a Party concludes an agreement of the type referred to in paragraph 2 after the entry into force of this Agreement or amends such agreement, it shall notify the other Parties without delay. The former Party shall, upon request by any other Party, negotiate the incorporation into this Agreement of a treatment no less favourable than that provided under such agreement. Any such incorporation should ensure an overall balance of commitments undertaken by each Party under this Chapter. 
+
+
+4. The rights and obligations of the Parties in respect of advantages accorded to adjacent countries shall be governed by paragraph 3 of Article II of the GATS, which is hereby incorporated into and made part of this Chapter.</article>
+      <article number="ARTICLE 3.5" name="Market Access" article_identifier="32497">Subject to Article 3.17, a Party shall not maintain or adopt either on the basis of a regional subdivision or on the basis of its entire Area measures defined as in subparagraphs 2 (a) to 2 (f) of Article XVI of the GATS,7 with respect to market access through the modes of supply identified in subparagraph (a) (i) of Article 3.3. 
+
+Unless otherwise specified in a Party’s List of Reservations under Annex X, in respect of market access, where the cross-border movement of capital is an essential part of a service supplied through the mode of supply referred to in subparagraph 2 (a) of Article I of the GATS, that Party is hereby committed to allow such movement of capital. Unless otherwise specified in a Party’s List of Reservations under Annex X, in respect of market access, where a service is supplied through the mode of supply referred to in subparagraph 2 (c) of Article I of the GATS, that Party is hereby committed to allow related transfers of capital into its Area.</article>
+      <article number="ARTICLE 3.6" name="National Treatment" article_identifier="32498">1. Subject to Article 3.17, each Party shall accord to services and service suppliers of any other Party, in respect of all measures affecting the supply of services, treatment no less favourable than that it accords to its own like services and service suppliers.8 
+
+
+2. A Party may meet the requirement of paragraph 1 by according to services and service suppliers of any other Party, either formally identical treatment or formally different treatment to that it accords to its own like services and service suppliers. 
+
+
+3. Formally identical or formally different treatment shall be considered to be less favourable if it modifies the conditions of competition in favour of services or service suppliers of the Party compared to like services or service suppliers of any other Party.</article>
+      <article number="ARTICLE 3.7" name="Domestic Regulation" article_identifier="32499">1. Each Party shall ensure that all measures of general application affecting trade in services are administered in a reasonable, objective and impartial manner. 
+
+
+2. Each Party shall maintain or institute as soon as practicable judicial, arbitral or administrative tribunals or procedures which provide, at the request of an affected service supplier, for the prompt review of and, where justified, appropriate remedies for, administrative decisions affecting trade in services. Where such procedures are not independent of the agency entrusted with the administrative decision concerned, the Party shall ensure that the procedures in fact provide for an objective and impartial review. 
+
+
+3. Where authorisation is required for the supply of a service, the competent authorities of each Party shall, within a reasonable period of time after the submission of an application considered complete under domestic law, inform the applicant of the decision concerning the application. At the request of the applicant, the competent authorities of the Party shall provide, without undue delay, information concerning the status of the application. 
+
+
+4. 	(a) Pending incorporation of results referred to in subparagraph 4 (c), each Party shall ensure that measures relating to qualification requirements and procedures, technical standards, and licensing requirements and procedures that it adopts or maintains are: 
+(i) 	based on objective and transparent criteria, such as competence and the ability to supply the service; and 
+
+This Article shall not be construed to require any Party to compensate for any inherent competitive disadvantages which result from the foreign character of the relevant services or service suppliers. 
+
+(ii) 	in the case of licensing procedures, not in themselves a restriction on the supply of the service. 
+
+
+(b) 	This paragraph shall not apply to a sector or subsector where a Party does not have any obligations on Market Access and National Treatment under its Appendix to Annex X. 
+
+
+(c) 	If the results of the negotiations related to paragraph 4 of Article VI of the GATS enter into effect, the Parties shall jointly review such results, and decide on incorporation of such results into this Agreement.  
+
+
+(d) 	The Parties confirm their rights and obligations under Article VI of the GATS. 
+
+5. In determining whether a Party is in conformity with its obligations under paragraph 4, account shall be taken of international standards of relevant international organisations9 applied by that Party. 
+
+
+6. Each Party shall provide for adequate procedures to verify the competence of professionals of any other Party.</article>
+      <article number="ARTICLE 3.8" name="Recognition" article_identifier="32500">1. For the purpose of the fulfilment, in whole or in part, of its relevant standards or criteria for the authorisation, licensing or certification of service suppliers, each Party shall give due consideration to any requests by another Party to recognise the education or experience obtained, requirements met, or licences or certifications granted in that other Party. Such recognition may be based upon an agreement or arrangement with that other Party, or otherwise be accorded autonomously. 
+
+
+2. Where a Party recognises, by agreement or arrangement, the education or experience obtained, requirements met, or licences or certifications granted, in a non-party, that Party shall afford another Party adequate opportunity to negotiate its accession to such an agreement or arrangement, whether existing or future, or to negotiate a comparable agreement or arrangement with it. Where a Party accords recognition autonomously, it shall afford adequate opportunity for another Party to demonstrate that the education or experience obtained, requirements met, or licences or certifications granted, in the Area of that other Party should also be recognised. 
+
+
+3. Any such agreement or arrangement or autonomous recognition shall be in conformity with the relevant provisions of the WTO Agreement, in particular paragraph 3 of Article VII of the GATS. 
+The term “relevant international organisations” refers to the international bodies whose membership is open to the Parties.</article>
+      <article number="ARTICLE 3.9" name="Movement Of Natural Persons" article_identifier="32501">1. This Article applies to measures affecting natural persons who are service suppliers of a Party, and natural persons of a Party who are employed by a service supplier of a Party, in respect of the supply of a service. 
+
+
+2. This Chapter shall not apply to measures affecting natural persons seeking access to the employment market of a Party, nor shall it apply to measures regarding nationality or permanent resident status, residence or employment on a permanent basis. 
+
+
+3. Natural persons covered by an EFTA State’s List of Reservations under Annex X or by Hong Kong, China’s List of Commitments on Movement of Natural Persons under Annex X shall be allowed to supply the service in accordance with the terms of that List. 
+
+
+4. This Chapter shall not prevent a Party from applying measures to regulate the entry of natural persons of another Party into, or their temporary stay in, its Area, including those measures necessary to protect the integrity of, and to ensure the orderly movement of natural persons across, its borders, provided that such measures are not applied in such a manner as to nullify or impair the benefits accruing to any Party under the terms set out in an EFTA State’s List of Reservations under Annex X or Hong Kong, China’s List of Commitments on Movement of Natural Persons under Annex X.10.</article>
+      <article number="ARTICLE 3.10" name="Transparency" article_identifier="32502">The rights and obligations of the Parties in respect of transparency shall be governed by paragraphs 1 and 2 of Article III and by Article III bis of the GATS, which are hereby incorporated into and made part of this Chapter.</article>
+      <article number="ARTICLE 3.11" name="Monopolies And Exclusive Service Suppliers" article_identifier="32503">The rights and obligations of the Parties in respect of monopolies and exclusive service suppliers shall be governed by paragraphs 1, 2 and 5 of Article VIII of the GATS, which are hereby incorporated into and made part of this Chapter. 
+
+10 	The sole fact of requiring a visa for natural persons of a Party and not for those of another Party or non-party shall not be regarded as nullifying or impairing benefits accruing to another Party under the terms of this Chapter.</article>
+      <article number="ARTICLE 3.12" name="Business Practices" article_identifier="32504">The rights and obligations of the Parties in respect of business practices shall be governed by Article IX of the GATS, which is hereby incorporated into and made part of this Chapter.</article>
+      <article number="ARTICLE 3.13" name="Subsidies" article_identifier="32505">1. A Party which considers that it is adversely affected by a subsidy of another Party may request ad hoc consultations with that Party on such matters. The requested Party shall enter into such consultations.11 
+
+
+2. The Parties shall review any disciplines agreed under Article XV of the GATS with a view to incorporating them into this Chapter.</article>
+      <article number="ARTICLE 3.14" name="Payments And Transfers" article_identifier="32506">1. Except under the circumstances envisaged in Article 3.15, a Party shall not apply restrictions on international transfers and payments for current transactions with another Party. 
+
+
+2. Nothing in this Chapter shall affect the rights and obligations of the Parties under the Articles of the Agreement of the International Monetary Fund (hereinafter referred to as the “IMF”), including the use of exchange actions which are in conformity with the Articles of the Agreement of the IMF, provided that a Party shall not impose restrictions on capital transactions inconsistently with the obligations under this Chapter regarding such transactions, except under Article 3.15 or at the request of the IMF.</article>
+      <article number="ARTICLE 3.15" name="Restrictions To Safeguard The Balance Of Payments" article_identifier="32507">1. The Parties shall endeavour to avoid the imposition of restrictions to safeguard the balance of payments. 
+
+
+2. Any restriction to safeguard the balance of payments adopted or maintained by a Party under and in conformity with Article XII of the GATS shall apply under this Chapter. 
+It is understood that consultations held pursuant to paragraph 1 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Dispute Settlement Understanding.</article>
+      <article number="ARTICLE 3.16" name="Exceptions" article_identifier="32508">The rights and obligations of the Parties in respect of general exceptions and security exceptions shall be governed by Article XIV and paragraph 1 of Article XIV bis of the GATS, which are hereby incorporated into and made part of this Chapter.</article>
+      <article number="ARTICLE 3.17" name="Lists Of Reservations And Commitments" article_identifier="32509">1. 	Articles 3.4 to 3.6 shall not apply to: 
+
+
+(a) 	existing measures that a Party may maintain, renew at any time or modify without reducing their level of conformity with Articles 3.4 to 3.6, with respect to an EFTA State consistent with its List of Reservations under Annex X and, with respect to Hong Kong, China consistent with its First List of Reservations under Annex X; and 
+
+
+(b) 	measures that a Party may adopt, maintain or modify, with respect to an EFTA State consistent with its List of Reservations under Annex X and, with respect to Hong Kong, China consistent with its Second List of Reservations under Annex X. 
+2. The commitments of a Party under Article 3.9 are set out, with respect to an EFTA State, in its List of Reservations under Annex X and, with respect to Hong Kong, China, in its List of Commitments on Movement of Natural Persons under Annex X.</article>
+      <article number="ARTICLE 3.18" name="Modification Of Lists Of Reservations And Commitments" article_identifier="32510">A Party that intends to modify its reservations or commitments under its Appendix to Annex X shall follow the procedures, which shall be adopted by the Joint Committee within 12 months following the entry into force of this Agreement.</article>
+      <article number="ARTICLE 3.19" name="Review" article_identifier="32511">With the objective of further liberalising trade in services between them, the Parties shall review at least every two years, or more frequently if so agreed, their respective Lists under Annex X, taking into account in particular any autonomous liberalisation and on-going work under the auspices of the WTO. The first such review shall take place no later than three years after the entry into force of this Agreement.</article>
+      <article number="ARTICLE 3.20" name="Relationship To Investment And Taxation Agreements" article_identifier="32512">This Chapter shall be without prejudice to the interpretation or application of other international agreements relating to investment and taxation to which Hong Kong, China and one or several EFTA States are parties.12</article>
+      <article number="ARTICLE 3.21" name="Annexes" article_identifier="32513">The following Annexes form an integral part of this Chapter: 
+
+
+(a) Annex VII with respect to disciplines on domestic regulation;13 
+
+
+(b) Annex VIII with respect to financial services; 
+
+
+(c) Annex IX with respect to telecommunications services; and  
+
+
+(d) Annex X containing the Lists of Reservations and Commitments. 
+12 	It is understood that any dispute settlement mechanism in an investment protection agreement to which one or several EFTA States and Hong Kong, China are parties is not applicable to alleged breaches of this Chapter. 
+
+13 	This Annex applies to Hong Kong, China, Iceland, Liechtenstein and Switzerland, but not to Norway.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Investment" chapter_identifier="3792">
+      <article number="ARTICLE 4.1" name="Scope And Coverage" article_identifier="32514">1. This Chapter shall apply to commercial presence in sectors other than services sectors covered by Chapter 3.15 
+
+
+2. This Chapter shall be without prejudice to the interpretation or application of other international agreements relating to investment and taxation to which one or several EFTA States and Hong Kong, China are parties.16</article>
+      <article number="ARTICLE 4.2" name="Definitions" article_identifier="32515">For the purposes of this Chapter, 
+
+
+(a) 	“juridical person” means any legal entity duly constituted or otherwise organised under domestic law, whether for profit or otherwise, and whether privately-owned or governmentally-owned, including any corporation, trust, partnership, joint venture, sole proprietorship or association; 
+
+
+(b) 	“juridical person of another Party” means a juridical person constituted or otherwise organised under the domestic law of that Party and engaged in substantive business operations in any Party; 
+
+
+(c) 	“natural person” means: 
+(i) 	with respect to an EFTA State, a person who has the nationality of that EFTA State or is a permanent resident of that EFTA State in accordance with its domestic law; 
+
+14 	It is understood that nothing in this Chapter shall be construed to impose any obligation with respect to investment protection matters, such as protection against expropriation, full protection and security and other investment protection matters. 
+
+15 	It is understood that services specifically exempted from the scope of Chapter 3 do not fall under the scope of this Chapter. 
+
+16 	It is understood that any dispute settlement mechanism in an investment protection agreement to which one or several EFTA States and Hong Kong, China are parties is not applicable to alleged breaches of this Chapter. 
+
+(ii) 	with respect to Hong Kong, China, a person who is a permanent resident of the Hong Kong Special Administrative Region of the People’s Republic of China in accordance with its domestic law; 
+
+(d) 	“commercial presence” means any type of business establishment, including through: 
+
+
+(i) 	the constitution, acquisition or maintenance of a juridical person, or 
+
+
+(ii) 	the creation or maintenance of a branch or a representative office, 
+in another Party for the purpose of performing an economic activity.</article>
+      <article number="ARTICLE 4.3" name="National Treatment" article_identifier="32516">Each Party shall accord to juridical and natural persons of another Party and to the commercial presence of such persons, treatment no less favourable than that it accords, in like situations, to its own juridical and natural persons and to the commercial presence of such persons.</article>
+      <article number="ARTICLE 4.4" name="Reservations" article_identifier="32517">1. 	Article 4.3 shall not apply to: 
+
+
+(a) 	any reservation of a Party as set out in Annex XI; 
+
+
+(b) 	an amendment to a reservation referred to in subparagraph (a), to the extent that the amendment does not decrease the conformity of the reservation with Article 4.3; and 
+
+
+(c) 	any new reservation adopted by a Party, and incorporated into Annex XI which does not affect the overall level of commitments of that Party under this Agreement; 
+to the extent that such reservations are inconsistent with Article 4.3. 
+
+
+2. As part of the reviews provided for in Article 4.10, the Parties undertake to review at least every three years the status of the reservations set out in Annex XI with a view to reducing or removing the reservations. 
+
+
+3. A Party may, at any time, either upon request of another Party or unilaterally, remove, in whole or in part, reservations set out in Annex XI by written notification to the other Parties. 
+
+
+4. A Party may, at any time, incorporate a new reservation into Annex XI in accordance with subparagraph 1 (c) by written notification to the other Parties. On receiving such written notification, another Party may request consultations regarding the reservation. At the written request of a Party, the Party incorporating the new reservation shall enter into consultations with the requesting Party within 30 days after the date of receipt of the request.17</article>
+      <article number="ARTICLE 4.5" name="Key Personnel" article_identifier="32518">1. Each Party shall, subject to its domestic law, endeavour to grant natural persons of another Party who have established or seek to establish commercial presence in that Party, and key personnel employed by natural or juridical persons of another Party, temporary entry and stay in that Party for the purpose of engaging in economic activities connected with commercial presence. 
+
+
+2. Each Party shall, subject to its domestic law, endeavour to permit natural or juridical persons of another Party, and their commercial presence, to employ, in connection with commercial presence, any key personnel of the natural or juridical person’s choice regardless of nationality and citizenship provided that such key personnel has been permitted to enter, stay and work in that Party and that the employment concerned conforms to the terms, conditions and time limits of the permission granted to such key personnel. 
+
+
+3. The Parties shall, subject to their respective domestic law, endeavour to grant temporary entry and stay and provide any necessary confirming documentation to the spouse and minor children of a person who has been granted temporary entry, stay and authorisation to work in accordance with paragraphs 1 and 2. The spouse and minor children shall be admitted for the period of the stay of that person.</article>
+      <article number="ARTICLE 4.6" name="Right To Regulate" article_identifier="32519">1. Nothing in this Chapter shall be construed to prevent a Party from adopting, maintaining or enforcing any measure consistent with this Chapter that is in the public interest, such as measures to meet health, safety or environmental concerns and reasonable measures for prudential purposes. 
+
+
+2. A Party should not waive or otherwise derogate from, or offer to waive or otherwise derogate from, such measures as an encouragement for the establishment, acquisition, expansion or retention in that Party of a commercial presence of persons of another Party or a non-party. 
+It is understood that consultations held pursuant to paragraph 4 shall be without prejudice to the rights and obligations of the Parties under Chapter 10 or under the WTO Dispute Settlement Understanding.</article>
+      <article number="ARTICLE 4.7" name="Payments And Transfers" article_identifier="32520">1. Except under the circumstances envisaged in Article 4.8, a Party shall not apply restrictions on current payments and capital movements relating to commercial presence activities in non-services sectors. 
+
+
+2. Nothing in this Chapter shall affect the rights and obligations of the Parties under the Articles of the Agreement of the IMF, including the use of exchange actions which are in conformity with the Articles of the Agreement of the IMF, provided that a Party shall not impose restrictions on capital transactions inconsistent with its obligations under this Chapter.</article>
+      <article number="ARTICLE 4.8" name="Restrictions To Safeguard The Balance Of Payments" article_identifier="32521">1. The Parties shall endeavour to avoid the imposition of restrictions to safeguard the balance of payments. 
+
+
+2. The rights and obligations of the Parties in respect of such restrictions shall be governed by paragraphs 1 to 3 of Article XII of the GATS, which are hereby incorporated into and made part of this Chapter, mutatis mutandis. 
+
+
+3. A Party adopting or maintaining such restrictions shall promptly notify the Joint Committee.</article>
+      <article number="ARTICLE 4.9" name="Exceptions" article_identifier="32522">The rights and obligations of the Parties in respect of general exceptions and security exceptions shall be governed by Article XIV and paragraph 1 of Article XIV bis of the GATS, which are hereby incorporated into and made part of this Chapter, mutatis mutandis.</article>
+      <article number="ARTICLE 4.10" name="Review" article_identifier="32523">This Chapter shall be subject to periodic review within the framework of the Joint Committee regarding the possibility of further developing the Parties’ commitments.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Protection Of Intellectual Property" chapter_identifier="3793">
+      <article number="ARTICLE 5" name="Protection Of Intellectual Property" article_identifier="32524">1. The Parties shall grant and ensure adequate, effective and non-discriminatory protection of intellectual property rights, and provide for measures for the enforcement of such rights against infringement thereof, counterfeiting and piracy, in accordance with the provisions of this Article, Annex XII and the international agreements referred to therein. 
+
+
+2. With regard to the protection of intellectual property, the Parties shall accord to each other’s nationals18 treatment no less favourable than that they accord to their own nationals. Exemptions from this obligation must be in accordance with the substantive provisions of Articles 3 and 5 of the WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (hereinafter referred to as the “TRIPS Agreement”). 
+
+
+3. With regard to the protection of intellectual property, the Parties shall accord to each other’s nationals treatment no less favourable than that they accord to nationals of any non-party. Exemptions from this obligation must be in accordance with the substantive provisions of the TRIPS Agreement, in particular Articles 4 and 5 thereof. 
+
+
+4. The Parties agree, upon request of any Party to the Joint Committee, to review the provisions contained in this Article and Annex XII, with a view to further developing adequate levels of protection and implementation. 
+For the purposes of this Chapter, the interpretation of “nationals” according to footnote 1 of the TRIPS Agreement applies.</article>
+    </chapter>
+    <chapter number="CHAPTER 6" name="Government Procurement" chapter_identifier="3794">
+      <article number="ARTICLE 6" name="Government Procurement" article_identifier="32525">1. The rights and obligations of the Parties in respect of government procurement shall be governed by the provisions on government procurement in the WTO agreements applicable between Hong Kong, China and the respective EFTA State, which are hereby incorporated into and made part of this Chapter, mutatis mutandis. 
+
+
+2. The Parties shall co-operate in the Joint Committee, with the aim of improving their suppliers’ access to each other’s government procurement markets and enhancing transparency in government procurement.</article>
+    </chapter>
+    <chapter number="CHAPTER 7" name="Competition" chapter_identifier="3795">
+      <article number="ARTICLE 7.1" name="Rules Of Competition Concerning Undertakings" article_identifier="32526">1. The Parties recognise that certain practices or conducts of undertakings which have as their object or effect the prevention, restriction or distortion of competition are incompatible with this Agreement in so far as they may affect trade between the Parties. 
+
+
+2. Paragraph 1 shall not be construed as to create any direct obligations for undertakings. 
+
+
+3. The Parties involved shall co-operate and consult in their dealings with anticompetitive practices as outlined in paragraph 1. 
+
+
+4. In the event that co-operation and consultation in accordance with paragraph 3 does not lead to any satisfactory result, the affected Party may request consultations in the Joint Committee with a view to reaching a mutually acceptable solution. The Parties involved shall give the Joint Committee all the assistance required to examine the case. 
+
+
+5. No Party may have recourse to dispute settlement procedures under this Agreement in respect of any issue arising from or relating to this Chapter.</article>
+      <article number="ARTICLE 7.2" name="Review" article_identifier="32527">The Parties agree to review this Chapter in the Joint Committee with a view to elaborating further steps in light of future developments. The first review shall take place within three years after the entry into force of this Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER 8" name="Trade And Environment" chapter_identifier="3796">
+      <article number="ARTICLE 8.1" name="Context And Objectives" article_identifier="32528">1. The Parties recall the Stockholm Declaration on the Human Environment of 1972, the Rio Declaration on Environment and Development of 1992, Agenda 21 on Environment and Development of 1992, and the Johannesburg Plan of Implementation on Sustainable Development of 2002. 
+
+
+2. The Parties recognise that economic development, social development and environmental protection are interdependent and mutually supportive components of sustainable development. They underline that closer economic partnership can play an important role in promoting sustainable development. 
+
+
+3. The Parties reaffirm their commitment to promote the development of international and bilateral trade in such a way as to contribute to the objective of sustainable development and to integrate and reflect this objective in the Parties’ trade relationship.</article>
+      <article number="ARTICLE 8.2" name="Scope" article_identifier="32529">Except as otherwise provided in this Chapter, this Chapter applies to measures adopted or maintained by the Parties affecting trade-related and investment-related aspects of environmental issues.</article>
+      <article number="ARTICLE 8.3" name="Right To Regulate And Levels Of Protection" article_identifier="32530">1. Recognising the right of each Party to establish its own level of environmental protection and to adopt or modify accordingly its domestic law and policies in a manner consistent with this Agreement, each Party will seek to ensure that its domestic law, policies and practices provide for and encourage high levels of environmental protection, consistent with standards, principles and agreements referred to in Article 8.5, and will strive to further improve the level of protection provided for in domestic law and policies. 
+
+
+2. The Parties recognise the importance, when preparing and implementing measures related to environmental protection that affect trade and investment between them, of taking account of relevant scientific, technical and other information, and relevant international standards, guidelines and recommendations.</article>
+      <article number="ARTICLE 8.4" name="Upholding Levels Of Protection In The Application And Enforcement Of Laws, Regulations Or Standards" article_identifier="32531">1. The Parties will faithfully enforce their environmental laws, regulations and standards. 
+
+
+2. 	Subject to Article 8.3, a Party will not: 
+
+
+(a) 	weaken or reduce the level of environmental protection provided by its laws, regulations or standards with the sole intention to encourage investment from another Party or to seek or enhance a competitive trade advantage of producers or service providers operating in that Party; or 
+
+
+(b) 	waive or otherwise derogate from, or offer to waive or otherwise derogate from, such laws, regulations or standards in order to encourage investment from another Party or to seek or enhance a competitive trade advantage of producers or service providers operating in that Party.</article>
+      <article number="ARTICLE 8.5" name="Multilateral Environmental Agreements And Environmental Principles" article_identifier="32532">The Parties reaffirm their commitment to the effective implementation in their respective domestic law and practices of the multilateral environmental agreements applicable to them, as well as their adherence to environmental principles reflected in the international instruments referred to in Article 8.1.</article>
+      <article number="ARTICLE 8.6" name="Promotion Of Trade And Investment Beneficial To The Environment" article_identifier="32533">1. The Parties will strive to facilitate and promote investment, trade in and dissemination of goods and services beneficial to the environment, including environmental technologies, sustainable renewable energy, energy efficient and ecolabelled goods and services, as well as to address non-tariff trade barriers for such goods and services. 
+
+
+2. The Parties will strive to facilitate and promote investment, trade in and dissemination of goods and services that contribute to sustainable development.19 
+
+
+3. The Parties will facilitate as appropriate co-operation between enterprises in relation to goods, services and technologies that contribute to sustainable development and are beneficial to the environment.</article>
+      <article number="ARTICLE 8.7" name="Co-Operation In International Fora" article_identifier="32534">The Parties will strive to strengthen their co-operation on trade and environment in appropriate international fora in which they participate.</article>
+      <article number="ARTICLE 8.8" name="Implementation And Consultations" article_identifier="32535">1. The Parties shall designate the administrative entities which shall serve as contact points for the purposes of this Chapter. 
+
+
+2. A Party may through the contact points referred to in paragraph 1 request expert consultations or consultations within the Joint Committee regarding any matter arising under this Chapter. The Parties shall make every attempt to arrive at a mutually satisfactory resolution of the matter. 
+
+
+3. Chapter 10 shall not apply to this Chapter.</article>
+      <article number="ARTICLE 8.9" name="Review" article_identifier="32536">The Parties shall, upon request by a Party, review in the Joint Committee progress achieved in pursuing the objectives set out in this Chapter, and consider relevant international developments to identify areas where further action could promote these objectives. 
+
+For example, goods and services which are subject to schemes such as fair and ethical trade.</article>
+    </chapter>
+    <chapter number="CHAPTER 9" name="Institutional Provisions" chapter_identifier="3797">
+      <article number="ARTICLE 9.1" name="Joint Committee" article_identifier="32537">1. The Parties hereby establish the Joint EFTA-Hong Kong, China Committee comprising representatives of each Party. The Parties shall be represented by senior officials delegated by them for this purpose. 
+
+
+2. 	The Joint Committee shall: 
+
+
+(a) 	supervise and review the implementation of this Agreement; 
+
+
+(b) 	keep under review the possibility of further removal of barriers to trade and other restrictive measures concerning trade between the EFTA States and Hong Kong, China; 
+
+
+(c) 	oversee the further development of this Agreement;  
+
+
+(d) 	supervise the work of all sub-committees and working groups established under this Agreement; 
+
+
+(e) 	endeavour to resolve any disagreement that may arise regarding the interpretation or application of this Agreement, without prejudice to the dispute settlement mechanism in accordance with Chapter 10; and 
+
+
+(f) 	consider any other matter that may affect the operation of this Agreement. 
+
+3. The Joint Committee may decide to set up such sub-committees and working groups as it considers necessary to assist it in accomplishing its tasks. Except where otherwise provided for in this Agreement, the sub-committees and working groups shall work under a mandate established by the Joint Committee. 
+
+
+4. The Joint Committee shall take decisions as provided for in this Agreement, and may make recommendations, by consensus. 
+
+
+5. The Joint Committee shall meet within one year from the entry into force of this Agreement. Thereafter, it shall meet whenever necessary but normally every two years. Its meetings shall be chaired jointly by a representative of the EFTA States and a representative of Hong Kong, China. The Joint Committee shall establish its rules of procedure. 
+
+
+6. Each Party may request at any time, through a notice in writing to the other Parties, that a special meeting of the Joint Committee be held. Such a meeting shall take place within 30 days from the date of receipt of the request, unless the Parties agree otherwise. 
+
+
+7. The Joint Committee shall consider proposals for amendments to this Agreement submitted by any Party. The Joint Committee may decide to amend the Annexes and Appendices to this Agreement, and subject to paragraph 8, it may set forth the date on which such a decision shall enter into force. Amendments to other parts of this Agreement shall be accepted and enter into force in accordance with Article 11.5.  
+
+
+8. If a representative of a Party in the Joint Committee has accepted a decision relating to the amendment to an Annex or Appendix in accordance with paragraph 7 subject to the fulfilment of its domestic legal requirements, the decision shall enter into force on the date that the last Party notifies that its internal requirements have been fulfilled, unless the decision itself specifies a later date. The Joint Committee may decide that the decision shall enter into force for those Parties that have fulfilled their internal requirements, provided that Hong Kong, China is one of those Parties.</article>
+    </chapter>
+    <chapter number="CHAPTER 10" name="Dispute Settlement" chapter_identifier="3798">
+      <article number="ARTICLE 10.1" name="Scope And Coverage" article_identifier="32538">1. The provisions of this Chapter shall apply to the settlement of any disputes, including through consultations, concerning the interpretation or application of this Agreement. 
+
+
+2. Disputes regarding the same matter arising under both this Agreement and the WTO Agreement may be settled in either forum at the discretion of the complaining Party20. The forum thus selected shall be used to the exclusion of the other. 
+
+
+3. For the purposes of paragraph 2, dispute settlement procedures under the WTO Agreement are deemed to be selected by a Party’s request for the establishment of a panel under Article 6 of the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes, whereas dispute settlement procedures under this Agreement are deemed to be selected upon a request for arbitration pursuant to paragraph 1 of Article 10.4. 
+
+
+4. Before a Party initiates dispute settlement proceedings under the WTO Agreement against another Party, that Party shall notify in writing all other Parties of its intention.</article>
+      <article number="ARTICLE 10.2" name="Good Offices, Conciliation Or Mediation" article_identifier="32539">1. Good offices, conciliation and mediation are procedures that are undertaken voluntarily if the Parties so agree. They may begin and be terminated at any time. They may continue while proceedings of an arbitration panel established in accordance with this Chapter are in progress. 
+
+
+2. Proceedings involving good offices, conciliation or mediation shall be confidential and without prejudice to the Parties’ rights in any further proceedings. 
+For the purposes of this Chapter, the terms “Party”, “Party to the dispute”, “complaining Party” and “Party complained against” can denote one or more Parties.</article>
+      <article number="ARTICLE 10.3" name="Consultations" article_identifier="32540">1. The Parties shall at all times endeavour to agree on the interpretation and application of this Agreement, and shall make every attempt through co-operation and consultations to reach a mutually satisfactory solution of any matter raised in accordance with this Article. 
+
+
+2. A Party may request in writing consultations with another Party with respect to any matter referred to in paragraph 1 of Article 10.1. The Party making the request shall provide the reasons for the request, including any indication of the legal basis for the complaint. That Party shall at the same time notify the other Parties in writing of the request. The Party to which the request is made shall reply to the request within 10 days from the date of receipt. Consultations shall take place in the Joint Committee, unless the Parties making and receiving the request for consultations agree otherwise. 
+
+
+3. Consultations shall commence within 30 days from the date of receipt of the request for consultations. Consultations on urgent matters, including those on perishable goods, shall commence within 15 days from the date of receipt of the request for consultations. If the Party to which the request is made does not reply within 10 days or does not enter into consultations within 30 days from the date of receipt of the request for consultations, or within 15 days for urgent matters, the Party making the request is entitled to request the establishment of an arbitration panel in accordance with Article 
+10.4. 
+
+
+4. The Parties to the dispute shall provide sufficient information to enable a full examination of how the measure or other matter is inconsistent with this Agreement and treat any confidential information exchanged in the course of consultations in the same manner as the Party providing the information. 
+
+
+5. The consultations shall be confidential and without prejudice to the rights of the Parties in any further proceedings. 
+
+
+6. The Parties to the dispute shall inform the other Parties of any mutually agreed resolution of the matter.</article>
+      <article number="ARTICLE 10.4" name="Establishment Of Arbitration Panel" article_identifier="32541">1. If the consultations referred to in Article 10.3 fail to settle a dispute within 60 days, or 30 days in relation to urgent matters, including those on perishable goods, from the date of receipt of the request for consultations by the Party complained against, the complaining Party may request the establishment of an arbitration panel by means of a written request to the Party complained against. A copy of this request shall be communicated to the other Parties so that they may determine whether to participate in the arbitration process.  
+
+
+2. The request for the establishment of an arbitration panel shall identify the specific measure or other matter at issue and provide a brief summary of the legal and factual basis of the complaint. 
+
+
+3. Unless the Parties to the dispute otherwise agree within 20 days from the date of receipt of the request for the establishment of the arbitration panel, the terms of reference for the arbitration panel shall be: 
+
+“To examine, in the light of the relevant provisions of this Agreement, the matter referred to in the request for the establishment of an arbitration panel pursuant to Article 10.4 and to make findings of law and fact together with the reasons, as well as recommendations, if any, for the resolution of the dispute and the implementation of the ruling.” 
+
+4. Where more than one Party requests the establishment of an arbitration panel relating to the same matter or where the request involves more than one Party complained against, and whenever feasible, a single arbitration panel should be established to examine complaints relating to the same matter. 
+
+
+5. A Party which is not a Party to the dispute shall be entitled, on delivery of a written notice to the Parties to the dispute and the arbitration panel, to make written submissions to the arbitration panel, receive written submissions, including annexes, from the Parties to the dispute, attend hearings and make oral statements. When delivering such a written notice, that Party shall include an explanation of its particular interest in the dispute.</article>
+      <article number="ARTICLE 10.5" name="Composition Of The Arbitration Panel" article_identifier="32542">1. The arbitration panel shall comprise three members. 
+
+
+2. Each Party to the dispute shall appoint a member within 30 days from the date of receipt of the request to establish an arbitration panel. 
+
+
+3. The Parties to the dispute shall appoint by common agreement the third member, who shall chair the arbitration panel, within 45 days from the date of receipt of the request to establish an arbitration panel. 
+
+
+4. The Chair shall not be a national or permanent resident of one of the Parties to the dispute and shall not have his or her usual place of residence in any of the Parties to the dispute.  
+
+
+5. If all the members have not been appointed within 45 days from the date of receipt of the request to establish an arbitration panel, the President of the International Court of Justice should, at the request of either Party to the dispute, make the necessary appointments within 30 days from the date of receipt of the request to the President of the International Court of Justice. If the President of the International Court of Justice is a national or permanent resident of one of the Parties to the dispute, or is unable to act, 
+
+
+6. For the purpose of paragraph 2, where there are multiple Parties as the complaining Party or as the Party complained against, unless they have agreed to another method of appointment of members, the multiple Parties shall jointly appoint a member. 
+
+
+7. 	All members shall: 
+
+
+(a) 	have expertise or experience in law, international trade, other matters covered by this Agreement, or the resolution of disputes arising under international trade agreements; 
+
+
+(b) 	be chosen strictly on the basis of objectivity, reliability, and sound judgment; 
+
+
+(c) 	be independent of, and not be affiliated with or take instructions from, any Party; 
+
+
+(d) 	not have dealt with the matter under dispute in any capacity; and 
+
+
+(e) 	serve in their individual capacities and not as government representatives or representatives of any organisation. 
+
+8. The date of establishment of the arbitration panel shall be the date on which the Chair is appointed. 
+
+
+9. Any member may be challenged if circumstances give rise to justifiable doubts as to the member’s compliance with this Chapter or the Model Rules of Procedures referred to in paragraph 1 of Article 10.6. A Party to the dispute who intends to make a challenge shall send a notice of its challenge to the other Party to the dispute, the member being challenged and the other members within 30 days after the appointment or after the circumstances became known. The notification shall be in writing and shall state the reasons for the challenge. If the other Party to the dispute does not agree to the challenge or the challenged members does not withdraw, the decision on the challenge should be made by the President of the International Court of Justice within 30 days from the date of receipt of the request. If the President of the International Court of Justice is a national or permanent resident of one of the Parties to the dispute, or is unable to act, the decision on the challenge should be made by the Vice-President or the next most senior Member who is not a national or permanent resident of one of the Parties to the dispute within 30 days from the date of receipt of the request. 
+
+
+10. If a member appointed under this Article resigns or becomes unable to act, a successor shall be appointed, within 21 days from the date a written notice is received by the Parties to the dispute of the need for a successor, in the same manner as prescribed for the appointment of the original member. The successor shall have all the powers and duties of the original member. The work of the arbitration panel shall be suspended pending appointment of the successor.</article>
+      <article number="ARTICLE 10.6" name="Procedures Of The Arbitration Panel" article_identifier="32543">1. Unless otherwise specified in this Agreement or agreed between the Parties to the dispute, the procedures of the arbitration panel shall be governed by Model Rules of Procedures which shall be adopted by the Joint Committee within one year from the date of entry into force of this Agreement. 
+
+
+2. The arbitration panel shall examine the matter referred to it in the request for the establishment of an arbitration panel in light of the relevant provisions of this Agreement interpreted in accordance with rules of interpretation of public international law. 
+
+
+3. Unless the Parties to the dispute agree otherwise, the arbitration panel shall decide on the place of the hearings. The hearings of the arbitration panel shall be open to the public, unless the Parties to the dispute agree otherwise. 
+
+
+4. Decisions of the arbitration panel shall be taken by a majority of the members. Any member may furnish separate opinions on matters not unanimously agreed. The arbitration panel shall not disclose which members are associated with majority or minority opinions. 
+
+
+5. The arbitration panel may, at the request of any Party to the dispute, allow one or more Parties to be joined in the arbitration as a Party to the dispute, unless the arbitration panel finds, after giving all Parties, including the Party to be joined, the opportunity to be heard, that joinder should not be permitted because of prejudice to any of those Parties. The arbitration panel may give a single ruling or several rulings in respect of all Parties so involved in the arbitration.</article>
+      <article number="ARTICLE 10.7" name="Panel Reports" article_identifier="32544">1. The arbitration panel shall normally submit an initial report containing its findings and rulings to the Parties to the dispute within 90 days from the date of establishment of the arbitration panel. In no case should it do so later than five months from this date. A Party to the dispute may submit written comments to the arbitration panel on its initial report within 14 days from the date of receipt of the report. The arbitration panel shall normally present to the Parties to the dispute a final report within 30 days from the date of receipt of the initial report. 
+
+
+2. The final report, as well as any report under Articles 10.9 and 10.10, shall be communicated to the Parties. The reports shall be made public, unless the Parties to the dispute decide otherwise. 
+
+
+3. Any ruling of the arbitration panel under any provision of this Chapter shall be final and binding upon the Parties to the dispute.</article>
+      <article number="ARTICLE 10.8" name="Suspension Or Termination Of Arbitration Panel Proceedings" article_identifier="32545">1. Where the Parties to the dispute agree, an arbitration panel may suspend its work at any time for a period not exceeding 12 months. If the work of an arbitration panel has been suspended for more than 12 months, the arbitration panel’s authority for considering the dispute shall lapse, unless the Parties to the dispute agree otherwise. 
+
+
+2. A complaining Party may withdraw its complaint at any time before the final report has been issued. Such withdrawal shall be without prejudice to its right to introduce a new complaint regarding the same issue at a later point in time. 
+
+
+3. The Parties to the dispute may agree at any time to terminate the proceedings of an arbitration panel established under this Agreement by jointly notifying in writing the Chair of that arbitration panel. 
+
+
+4. An arbitration panel may, at any stage of the proceedings, prior to release of the final report, propose that the Parties to the dispute seek to settle the dispute amicably.</article>
+      <article number="ARTICLE 10.9" name="Implementation Of The Final Panel Report" article_identifier="32546">1. The Party complained against shall promptly comply with the ruling in the final report. If it is impracticable to comply immediately, the Parties to the dispute shall endeavour to agree on a reasonable period of time to do so. In the absence of such agreement within 45 days, from the date of the issuance of the final report, either Party to the dispute may request the original arbitration panel to determine the length of the reasonable period of time, in light of the particular circumstances of the case. The ruling of the arbitration panel shall normally be given within 60 days from the date of receipt of that request. 
+
+
+2. The Party complained against shall, promptly or within the reasonable period of time as agreed or determined pursuant to paragraph 1, notify the other Party to the dispute of the measure adopted in order to comply with the ruling in the final report, and provide a detailed description of how the measure ensures compliance sufficient to allow the other Party to the dispute to assess the measure. 
+
+
+3. In case of disagreement as to the existence or consistency of a measure taken to comply with the ruling in the final report in accordance with paragraph 1, such disagreement shall be decided by the same arbitration panel upon request of either Party to the dispute before compensation can be sought or suspension of benefits can be applied in accordance with Article 10.10. The ruling of the arbitration panel shall normally be given within 90 days from the date of receipt of the request.</article>
+      <article number="ARTICLE 10.10" name="Compensation And Suspension Of Benefits" article_identifier="32547">1. If the arbitration panel has found in accordance with paragraph 3 of Article 10.9 that the Party complained against failed to properly comply with the ruling in the final panel report, or the Party complained against has notified the complaining Party that it does not intend to comply with the ruling, that Party shall, if so requested by the complaining Party, enter into consultations with a view to agreeing on a mutually acceptable compensation. If no such agreement has been reached within 20 days from the date of receipt of the request, the complaining Party shall be entitled to suspend the application of benefits granted under this Agreement but only equivalent to those affected by the measure or other matter that the arbitration panel has found to be inconsistent with this Agreement. 
+
+
+2. In considering what benefits to suspend, the complaining Party shall first seek to suspend benefits in the same sector or sectors as that affected by the measure or other matter that the arbitration panel has found to be inconsistent with this Agreement. The complaining Party that considers it is not practicable or effective to suspend benefits in the same sector or sectors may suspend benefits in other sectors.  
+
+
+3. The complaining Party shall notify the Party complained against of the benefits which it intends to suspend, the grounds for such suspension and when suspension will commence, no later than 30 days before the date on which the suspension is due to take effect. Within 15 days from the date of receipt of that notification, the Party complained against may request the original arbitration panel to rule on whether the benefits which the complaining Party intends to suspend are equivalent to those affected by the measure or matter found to be inconsistent with this Agreement, and whether the proposed suspension is in accordance with paragraphs 1 and 2. The ruling of the arbitration panel shall be given within 45 days from the date of receipt of that request. Benefits shall not be suspended until the arbitration panel has given its ruling. 
+
+
+4. Compensation and suspension of benefits shall be temporary measures and shall only be applied by the complaining Party until the measure or other matter found to be inconsistent with this Agreement, has been withdrawn or amended so as to bring it into conformity with this Agreement, or until the Parties to the dispute have resolved the dispute otherwise. 
+
+
+5. At the request of a Party to the dispute, the original arbitration panel shall rule on the conformity with the final report of any implementing measures adopted after the suspension of benefits and, in light of such ruling, whether the suspension of benefits shall be terminated or modified. The ruling of the arbitration panel shall be given within 30 days from the date of receipt of that request.</article>
+      <article number="ARTICLE 10.11" name="Other Provisions" article_identifier="32548">1. Whenever possible, the arbitration panel referred to in Articles 10.9 and 10.10 shall comprise the same members who issued the final report. If a member of the original arbitration panel is unavailable, the appointment of a replacement member shall be conducted in accordance with the selection procedure for the original member. 
+
+
+2. Any time period mentioned in this Chapter may be modified by mutual agreement of the Parties to the dispute. 
+
+
+3. When an arbitration panel considers that it cannot comply with any timeframe imposed on it under this Chapter, it shall inform the Parties to the dispute in writing of the reasons for the delay together with an estimate of the additional time required. Any additional time required should not exceed 30 days unless the Parties to the dispute otherwise agree.</article>
+    </chapter>
+    <chapter number="CHAPTER 11" name="Final Provisions" chapter_identifier="3799">
+      <article number="ARTICLE 11.1" name="Fulfilment Of Obligations" article_identifier="32549">The Parties shall take any general or specific measures required to fulfil their obligations under this Agreement.</article>
+      <article number="ARTICLE 11.2" name="Footnotes, Annexes And Appendices" article_identifier="32550">The footnotes, Annexes and Appendices to this Agreement constitute an integral part of this Agreement.</article>
+      <article number="ARTICLE 11.3" name="Agreement On Labour" article_identifier="32551">The Parties shall enhance their dialogue and co-operation on labour matters through the Agreement on Labour between Hong Kong, China and the EFTA States concluded by the Parties separately from but alongside this Agreement.</article>
+      <article number="ARTICLE 11.4" name="Review Relating To Sustainable Development" article_identifier="32552">The Parties will, upon request by a Party, review issues relating to sustainable development in light of international developments in this field.</article>
+      <article number="ARTICLE 11.5" name="Amendments" article_identifier="32553">1. Any Party may submit proposals for amendments to this Agreement to the Joint Committee for consideration and approval. 
+
+
+2. Except for amendments to the Annexes and Appendices made in accordance with paragraph 7 of Article 9.1, amendments to this Agreement shall, after consideration and approval by the Joint Committee, be submitted to the Parties for ratification, acceptance or approval in accordance with their respective domestic legal requirements. 
+
+
+3. Unless otherwise agreed by the Parties, amendments shall enter into force on the first day of the third month following the deposit of the last instrument of ratification, acceptance or approval. 
+
+
+4. The text of the amendments and the instruments of ratification, acceptance or approval shall be deposited with the Depositary.</article>
+      <article number="ARTICLE 11.6" name="Accession" article_identifier="32554">1. Any State becoming a Member of the European Free Trade Association may accede to this Agreement, provided that the Joint Committee approves its accession on terms and conditions to be agreed upon by the Parties. The instrument of accession shall be deposited with the Depositary. 
+
+
+2. In relation to an acceding State, this Agreement shall enter into force on the first day of the third month following the deposit of its instrument of accession, or the approval of the terms of accession by the existing Parties, whichever is later.</article>
+      <article number="ARTICLE 11.7" name="Withdrawal And Expiration" article_identifier="32555">1. Each Party may withdraw from this Agreement by means of a written notification to the Depositary. The withdrawal shall take effect six months after the date on which the notification is received by the Depositary. 
+
+
+2. If Hong Kong, China withdraws, this Agreement shall expire when its withdrawal becomes effective. 
+
+
+3. Any EFTA State which withdraws from the Convention establishing the European Free Trade Association shall ipso facto on the same day as the withdrawal takes effect cease to be a Party to this Agreement. A copy of the notification of withdrawal from the Convention shall promptly be submitted to the other Parties.</article>
+      <article number="ARTICLE 11.8" name="Entry Into Force" article_identifier="32556">1. This Agreement is subject to ratification, acceptance or approval in accordance with the respective domestic legal requirements of the Parties. The instruments of ratification, acceptance or approval shall be deposited with the Depositary. 
+
+
+2. This Agreement shall enter into force on 1 June 2012, in relation to those Parties which have deposited their instruments of ratification, acceptance or approval with the Depositary at least two months before that date, provided that Hong Kong, China is among those Parties. 
+
+
+3. In case this Agreement does not enter into force on 1 June 2012, it shall enter into force on the first day of the third month after at least one EFTA State and Hong Kong, China have deposited their instrument of ratification, acceptance, or approval with the Depositary. 
+
+
+4. In relation to an EFTA State depositing its instrument of ratification, acceptance or approval after this Agreement has entered into force, this Agreement shall enter into force on the first day of the third month following the deposit of its instrument. 
+
+
+5. This Agreement shall not enter into force between an EFTA State and Hong Kong, China, unless the Agreement on Agriculture referred to in paragraph 2 of Article 
+2.1 between that EFTA State and Hong Kong, China enters into force simultaneously. It shall remain in force as long as such Agreement on Agriculture remains in force between those Parties.</article>
+      <article number="ARTICLE 11.9" name="Depositary" article_identifier="32557">The Government of Norway shall act as Depositary.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="3800">
+      <article article_identifier="32558">IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement. 
+
+Done at Schaan, this 21st day of June 2011, in one original in the English language, which shall be deposited with the Depositary, who shall transmit certified copies to the Parties. 
+
+For Iceland 	For the Hong Kong Special Administrative Region of the People’s Republic of China 
+
+........................................... 	.................................................... 
+
+
+For the Principality of Liechtenstein 
+
+........................................... 
+
+
+For the Kingdom of Norway 
+
+........................................... 
+
+
+For the Swiss Confederation 
+
+...........................................</article>
+    </chapter>
+  </body>
+</treaty>

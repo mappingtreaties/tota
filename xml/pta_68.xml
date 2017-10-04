@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Former Yugoslav Republic of Macedonia</name>
+    <type>Free Trade Agreement &amp; Economic Integration Agreement</type>
+    <wto_rta_id>77</wto_rta_id>
+    <treaty_identifier>68</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV &amp; GATS Art. V</notification>
+    <date_signed>2001-04-09</date_signed>
+    <date_into_force>2001-06-01</date_into_force>
+    <date_notification>2001-10-23</date_notification>
+    <end_implementation>2011-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">LUX</partyisocode>
+      <partyisocode n="13">MKD</partyisocode>
+      <partyisocode n="14">NLD</partyisocode>
+      <partyisocode n="15">PRT</partyisocode>
+      <partyisocode n="16">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MKD</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399388804412&amp;uri=CELEX:22001A0504(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22001A0504(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22001A0504(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399388804412&amp;uri=CELEX:22001A0504(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399388804412&amp;uri=CELEX:22001A0504(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399388804412&amp;uri=CELEX:22001A0504(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="909">
+      <article article_identifier="7577">Interim Agreement
+
+  on trade and trade-related matters between the European Community, of
+  the one part, and the former Yugoslav Republic of Macedonia, of the
+  other part
+
+  THE EUROPEAN COMMUNITY,
+
+  hereinafter referred to as the "Community",
+
+  of the one part, and
+
+  THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA,
+
+  of the other part,
+
+  WHEREAS:
+
+  (1) The Stabilisation and Association Agreement between the European
+  Communities and their Member States, of the one part, and the former
+  Yugoslav Republic of Macedonia, of the other part, was signed by way
+  of Exchange of Letters in Luxembourg on 9 April 2001.
+
+  (2) The Stabilisation and Association Agreement is intended to
+  establish a close and lasting relationship based on reciprocity and
+  mutual interest, which should allow the former Yugoslav Republic of
+  Macedonia to further strengthen and extend the already established
+  relationship.
+
+  (3) It is necessary to ensure the development of trade links by
+  strengthening and widening the relations established previously,
+  notably by the Cooperation Agreement signed on 29 April 1997 by way of
+  Exchange of Letters, which entered into force on 1 January 1998.
+
+  (4) To this end it is necessary to implement as speedily as possible,
+  by means of an Interim Agreement, provisions of the Stabilisation and
+  Association Agreement on trade and trade related matters.
+
+  (5) It is necessary to ensure that pending the entry into force of the
+  Stabilisation and Association Agreement and the establishment of the
+  Stabilisation and Association Council, the Cooperation Council set up
+  by the Cooperation Agreement can exercise the powers assigned by the
+  Stabilisation and Association Agreement to the Stabilisation and
+  Association Council, which are necessary in order to implement the
+  Interim Agreement,
+
+  HAVE DECIDED to conclude this Agreement and to this end have
+  designated as their Plenipotentiaries:
+
+  THE EUROPEAN COMMUNITY:
+
+  Anna Lindh,
+
+  Minister for Foreign Affairs of the Kingdom of Sweden,
+
+  President-in-office of the Council of the European Union,
+
+  Christopher Patten,
+
+  Member of the Commission of the European Communities,
+
+  THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA:
+
+  Ljubco Georgievski,
+
+  Prime Minister of the Government of the Former Yugoslav Republic of
+  Macedonia,
+
+  WHO, having exchanged their full powers, found in good and due form,
+
+  HAVE AGREED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="TITLE I" name="General Principles" chapter_identifier="910">
+      <article number="ARTICLE 1" article_identifier="7578">Respect for the democratic principles and human rights as proclaimed
+  in the Universal Declaration of Human Rights and as defined in the
+  Helsinki Final Act and the Charter of Paris for a New Europe, respect
+  for international law principles and the rule of law as well as the
+  principles of market economy as reflected in the Document of the CSCE
+  Bonn Conference on Economic Cooperation, shall form the basis of the
+  domestic and external policies of the Parties and constitute essential
+  elements of this Agreement.
+
+  FREE MOVEMENT OF GOODS</article>
+      <article number="ARTICLE 2" article_identifier="7579">1. The Community and the former Yugoslav Republic of Macedonia shall
+  gradually establish a free trade area over a period lasting a maximum
+  of ten years starting from the entry into force of this Agreement in
+  accordance with the provisions of this Agreement and in conformity
+  with those of the GATT 1994 and the WTO. In so doing they shall take
+  into account the specific requirements laid down hereinafter.
+
+  2. The combined nomenclature of goods shall be applied to the
+  classification of goods in trade between the two Parties.
+
+  3. For each product the basic duty to which the successive reductions
+  set out in this Agreement are to be applied shall be the duty actually
+  applied erga omnes on the day preceding the signature of this
+  Agreement.
+
+  4. If, after the signature of this Agreement, any tariff reduction is
+  applied on an erga omnes basis, in particular reductions resulting
+  from the tariff negotiations in the WTO, such reduced duties shall
+  replace the basic duty referred to in paragraph 3 as from the date
+  when such reductions are applied.
+
+  5. The Community and the former Yugoslav Republic of Macedonia shall
+  communicate to each other their respective basic duties.</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Industrial Products" chapter_identifier="911">
+      <article number="ARTICLE 3" article_identifier="7580">1. The provisions of this Chapter shall apply to products originating
+  in the Community or the former Yugoslav Republic of Macedonia listed
+  in chapters 25 to 97 of the combined nomenclature, with the exception
+  of the products listed in Annex I paragraph 1, (ii) of the Agreement
+  on agriculture (GATT 1994).
+
+  2. The provisions of Articles 4 and 5 shall neither apply to textile
+  products nor to steel products, as specified in Articles 9 and 10.
+
+  3. Trade between the Parties in products covered by the Treaty
+  establishing the European Atomic Energy Community shall be conducted
+  in accordance with the provisions of that Treaty.</article>
+      <article number="ARTICLE 4" article_identifier="7581">1. Customs duties on imports into the Community of products
+  originating in the former Yugoslav Republic of Macedonia shall be
+  abolished upon the entry into force of this Agreement.
+
+  2. Quantitative restrictions on imports into the Community and
+  measures having equivalent effect shall be abolished on the date of
+  entry into force of this Agreement with regard to products originating
+  in the former Yugoslav Republic of Macedonia.</article>
+      <article number="ARTICLE 5" article_identifier="7582">1. Customs duties on imports into the former Yugoslav Republic of
+  Macedonia of goods originating in the Community other than those
+  listed in Annexes I and II shall be abolished upon the entry into
+  force of this Agreement.
+
+  2. Customs duties on imports into the former Yugoslav Republic of
+  Macedonia of goods originating in the Community which are listed in
+  Annex I shall be progressively reduced in accordance with the
+  following timetable:
+
+  - on 1 January of the first year after the entry into force of this
+  Agreement each duty shall be reduced to 90 % of the basic duty,
+
+  - on 1 January of the second year after the entry into force of this
+  Agreement each duty shall be reduced to 80 % of the basic duty,
+
+  - on 1 January of the third year after the entry into force of this
+  Agreement each duty shall be reduced to 70 % of the basic duty,
+
+  - on 1 January of the fourth year after the entry into force of this
+  Agreement each duty shall be reduced to 60 % of the basic duty,
+
+  - on 1 January of the fifth year after the entry into force of this
+  Agreement each duty shall be reduced to 50 % of the basic duty,
+
+  - on 1 January of the sixth year after the entry into force of this
+  Agreement each duty shall be reduced to 40 % of the basic duty,
+
+  - on 1 January of the seventh year after the entry into force of this
+  Agreement each duty shall be reduced to 30 % of the basic duty,
+
+  - on 1 January of the eighth year after the entry into force of this
+  Agreement each duty shall be reduced to 20 % of the basic duty,
+
+  - on 1 January of the ninth year after the entry into force of this
+  Agreement each duty shall be reduced to 10 % of the basic duty,
+
+  - on 1 January of the tenth year after the entry into force of this
+  Agreement the remaining duties shall be abolished.
+
+  3. Customs duties on imports into the former Yugoslav Republic of
+  Macedonia of goods originating in the Community which are listed in
+  Annex II shall be progressively reduced and eliminated in accordance
+  with the timetable specified in the Annex.
+
+  4. Quantitative restrictions on imports into the former Yugoslav
+  Republic of Macedonia of goods originating in the Community and
+  measures having equivalent effect shall be abolished upon the date of
+  entry into force of this Agreement.</article>
+      <article number="ARTICLE 6" article_identifier="7583">The Community and the former Yugoslav Republic of Macedonia shall
+  abolish upon the entry into force of this Agreement in trade between
+  themselves any charges having an effect equivalent to customs duties
+  on imports.</article>
+      <article number="ARTICLE 7" article_identifier="7584">1. The Community and the former Yugoslav Republic of Macedonia shall
+  abolish any customs duties on exports and charges having equivalent
+  effect upon the entry into force of this Agreement.
+
+  2. The Community and the former Yugoslav Republic of Macedonia shall
+  abolish between themselves any quantitative restrictions on exports
+  and measures having equivalent effect upon the entry into force of
+  this Agreement.</article>
+      <article number="ARTICLE 8" article_identifier="7585">The former Yugoslav Republic of Macedonia declares its readiness to
+  reduce its customs duties in trade with the Community more rapidly
+  than is provided for in Article 5 if its general economic situation
+  and the situation of the economic sector concerned so permit.
+
+  The Cooperation Council shall make recommendations to this effect.</article>
+      <article number="ARTICLE 9" article_identifier="7586">Protocol 1 lays down the arrangements applicable to the textile
+  products referred to therein.</article>
+      <article number="ARTICLE 10" article_identifier="7587">Protocol 2 lays down the arrangements applicable to steel products
+  referred to therein.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Agriculture And Fisheries" chapter_identifier="912">
+      <article number="ARTICLE 11" article_identifier="7588">Definition
+
+  1. The provisions of this chapter shall apply to trade in agricultural
+  and fishery products originating in the Community or former Yugoslav
+  Republic of Macedonia.
+
+  2. The term "agricultural and fishery products" refers to
+  the products listed in chapters 1 to 24 of the combined nomenclature
+  and the products listed in Annex I paragraph 1, (ii) of the Agreement
+  on agriculture (GATT, 1994).
+
+  3. This definition includes fish and fisheries products covered by
+  chapter 3, heading Nos 1604 and 1605, and subheading Nos 0511 91, 2301
+  20 00 and No ex 1902 20(1).</article>
+      <article number="ARTICLE 12" article_identifier="7589">Protocol 3 lays down the trade arrangements for processed agricultural
+  products that are listed therein.</article>
+      <article number="ARTICLE 13" article_identifier="7590">1. On the date of entry into force of this Agreement, the Community
+  shall abolish all quantitative restrictions and measures having
+  equivalent effect, on imports of agricultural and fishery products
+  originating in the former Yugoslav Republic of Macedonia.
+
+  2. On the date of entry into force of this Agreement, the former
+  Yugoslav Republic of Macedonia shall abolish all quantitative
+  restrictions and measures having equivalent effect, on imports of
+  agricultural and fishery products originating in the Community.</article>
+      <article number="ARTICLE 14" article_identifier="7591">Agricultural products
+
+  1. From the date of entry into force of this Agreement, the Community
+  shall abolish the customs duties and charges having equivalent effect,
+  on imports of agricultural products originating in the former Yugoslav
+  Republic of Macedonia, other than those of heading Nos 0102, 0201,
+  0202 and 2204 of the combined nomenclature.
+
+  For the products covered by chapters 7 and 8 of the combined
+  nomenclature, for which the Common Customs Tariff provides for the
+  application of ad valorem customs duties and a specific customs duty,
+  the elimination applies only to the ad valorem part of the duty.
+
+  2. From the date of entry into force of this Agreement, the Community
+  shall fix the customs duties applicable to imports into the Community
+  of "baby-beef" products defined in Annex III and originating
+  in the former Yugoslav Republic of Macedonia, at 20 % of the ad
+  valorem duty and 20 % of the specific duty as laid down in the Common
+  Customs Tariff of the European Communities, within the limit of an
+  annual tariff quota of 1650 tonnes expressed in carcass weight.
+
+  3. From the date of entry into force of this Agreement, the former
+  Yugoslav Republic of Macedonia shall:
+
+  (a) abolish the customs duties applicable on imports of certain
+  agricultural products originating in the Community, listed in Annex IV
+  (a);
+
+  (b) abolish the customs duties applicable on imports of certain
+  agricultural products originating in the Community, listed in Annex IV
+  (b) within the limits of tariff quotas indicated for each product in
+  that Annex. For the quantities exceeding the tariff quotas the former
+  Yugoslav Republic of Macedonia shall reduce progressively the customs
+  duties in accordance with the timetable indicated for each product in
+  that Annex;
+
+  (c) reduce progressively the customs duties applicable on imports of
+  certain agricultural products originating in the Community, listed in
+  Annex IV (c) within the limits of tariff quotas and in accordance with
+  the timetable indicated for each product in that Annex.
+
+  4. The trade arrangements to apply to wine and spirit products will be
+  defined in a separate wine and spirit agreement.</article>
+      <article number="ARTICLE 15" article_identifier="7592">Fisheries products
+
+  1. From the entry into force of this Agreement the Community shall
+  totally eliminate customs duties on fish and fisheries products
+  originating in the former Yugoslav Republic of Macedonia. Products
+  listed in Annex V (a) shall be subject to the provisions laid down
+  therein.
+
+  2. From the entry into force of this Agreement the former Yugoslav
+  Republic of Macedonia shall abolish all charges having an equivalent
+  effect to a custom duty and reduce customs duties on fish and
+  fisheries products originating in the European Community by 50 % of
+  the MFN duty. The residual duties shall be reduced over a period of
+  six years to be eliminated at the end of this period.
+
+  The rules contained in this paragraph shall not apply to products
+  listed in Annex V (b) which shall be subject to tariff reductions laid
+  down in the said Annex.</article>
+      <article number="ARTICLE 16" article_identifier="7593">1. Taking account of the volume of trade in agricultural and fishery
+  products between the Parties, of their particular sensitivities, of
+  the rules of the Community common policies for agriculture and
+  fisheries, of the rules of the agricultural policies of the former
+  Yugoslav Republic of Macedonia, of the role of agriculture in the
+  former Yugoslav Republic of Macedonia's economy, of the production and
+  export potential of its traditional branches and markets and of the
+  consequences of the multilateral trade negotiations under the WTO, the
+  Community and the former Yugoslav Republic of Macedonia shall examine
+  in the Cooperation Council, no later than 1 January 2003, product by
+  product and on an orderly and appropriate reciprocal basis, the
+  opportunities for granting each other further concessions with a view
+  to implementing greater liberalisation of the trade in agricultural
+  and fishery products.
+
+  2. The provisions of this chapter shall in no way affect the
+  application, on a unilateral basis, of more favourable measures by one
+  or the other Party.</article>
+      <article number="ARTICLE 17" article_identifier="7594">Notwithstanding other provisions of this Agreement, and in particular
+  Article 24, given the particular sensitivity of the agricultural and
+  fisheries markets, if imports of products originating in one of the
+  two Parties, which are the subject of concessions granted pursuant to
+  Articles 12, 14 and 15, cause serious disturbance to the markets or to
+  their domestic regulatory mechanisms, in the other Party, both Parties
+  shall enter into consultations immediately to find an appropriate
+  solution. Pending such solution, the Party concerned may take the
+  appropriate measures it deems necessary.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Common Provisions" chapter_identifier="913">
+      <article number="ARTICLE 18" article_identifier="7595">The provisions of this chapter shall apply to trade in all products
+  between the Parties except where otherwise provided herein or in
+  Protocols 1, 2 and 3.</article>
+      <article number="ARTICLE 19" name="Standstill" article_identifier="7596">1. From the date of entry into force of this Agreement, no new customs
+  duties on imports or exports or charges having equivalent effect shall
+  be introduced, nor shall those already applied be increased, in trade
+  between the Community and the former Yugoslav Republic of Macedonia.
+
+  2. From the date of entry into force of this Agreement, no new
+  quantitative restriction on imports or exports or measure having
+  equivalent effect shall be introduced, nor shall those existing be
+  made more restrictive, in trade between the Community and the former
+  Yugoslav Republic of Macedonia.
+
+  3. Without prejudice to the concessions granted under Article 13, the
+  provisions of paragraphs 1 and 2 of this Article shall not restrict in
+  any way the pursuit of the respective agricultural policies of the
+  former Yugoslav Republic of Macedonia and the Community nor the taking
+  of any measures under those policies in so far as the import regime in
+  the Annexes III, IV (a), (b), (c) and V (a), (b) is not affected.</article>
+      <article number="ARTICLE 20" name="Prohibition Of Fiscal Discrimination" article_identifier="7597">1. The Parties shall refrain from, and abolish where existing, any
+  measure or practice of an internal fiscal nature establishing, whether
+  directly or indirectly, discrimination between the products of one
+  Party and like products originating in the territory of the other
+  Party.
+
+  2. Products exported to the territory of one of the Parties may not
+  benefit from repayment of internal indirect taxation in excess of the
+  amount of indirect taxation imposed on them.</article>
+      <article number="ARTICLE 21" article_identifier="7598">The provisions concerning the abolition of customs duties on imports
+  shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 22" name="Customs Unions, Free Trade Areas, Cross-Border Arrangements" article_identifier="7599">1. This Agreement shall not preclude the maintenance or establishment
+  of customs unions, free trade areas or arrangements for frontier trade
+  except in so far as they alter the trade arrangements provided for in
+  this Agreement.
+
+  2. During the transitional periods specified in Articles 4 and 5, this
+  Agreement shall not affect the implementation of the specific
+  preferential arrangements governing the movement of goods either laid
+  down in frontier agreements previously concluded between one or more
+  Member States and the Socialist Federal Republic of Yugoslavia and
+  succeeded to by the former Yugoslav Republic of Macedonia or resulting
+  from the bilateral agreements concluded by the former Yugoslav
+  Republic of Macedonia in order to promote regional trade.
+
+  3. Consultations between the Parties shall take place within the
+  Cooperation Council concerning the agreements described in paragraphs
+  1 and 2 of this Article and, where requested, on other major issues
+  related to their respective trade policies towards third countries. In
+  particular in the event of a third country acceding to the Community,
+  such consultations shall take place so as to ensure that account is
+  taken of the mutual interests of the Community and the former Yugoslav
+  Republic of Macedonia stated in this Agreement.</article>
+      <article number="ARTICLE 23" name="Dumping" article_identifier="7600">1. If one of the Parties finds that dumping is taking place in trade
+  with the other Party within the meaning of Article VI of the GATT
+  1994, it may take appropriate measures against this practice in
+  accordance with the Agreement on implementation of Article VI of the
+  GATT 1994 and its own related internal legislation.
+
+  2. As regards paragraph 1 of this Article, the Cooperation Council
+  shall be informed of the dumping case as soon as the authorities of
+  the importing Party have initiated an investigation. When no end has
+  been put to the dumping within the meaning of Article VI of the GATT
+  or no other satisfactory solution has been reached within 30 days of
+  the matter being referred to the Cooperation Council, the importing
+  Party may adopt the appropriate measures.</article>
+      <article number="ARTICLE 24" name="General Safeguard Clause" article_identifier="7601">1. Where any product of one Party is being imported into the territory
+  of the other Party in such increased quantities and under such
+  conditions as to cause or threaten to cause:
+
+  - serious injury to the domestic industry of like or directly
+  competitive products in the territory of the importing Party; or
+
+  - serious disturbances in any sector of the economy or difficulties
+  which could bring about serious deterioration in the economic
+  situation of a region of the importing Party,
+
+  the importing Party may take appropriate measures under the conditions
+  and in accordance with the procedures laid down in this Article.
+
+  2. The Community and the former Yugoslav Republic of Macedonia shall
+  only apply safeguard measures between themselves in accordance with
+  the provisions of this Agreement. Such measures shall not exceed what
+  is necessary to remedy the difficulties which have arisen, and should
+  normally consist of the suspension of the further reduction of any
+  applicable rate of duty provided for under this Agreement for the
+  product concerned or the increase of the rate of duty for that
+  product.
+
+  Such measures shall contain clear elements progressively leading to
+  their elimination at the end of the set period, at the latest.
+  Measures shall not be taken for a period exceeding one year. In very
+  exceptional circumstances, measures may be taken up to a total maximum
+  period of three years. No safeguard measure shall be applied to the
+  import of a product that has previously been subject to such a measure
+  for a period of, at least, three years since the expiry of the
+  measure.
+
+  3. In the cases specified in this Article, before taking the measures
+  provided for therein or, in the cases to which paragraph 4(b) of this
+  Article applies, as soon as possible, the Community or the former
+  Yugoslav Republic of Macedonia, as the case may be, shall supply the
+  Cooperation Council with all relevant information, with a view to
+  seeking a solution acceptable to the two Parties.
+
+  4. For the implementation of the above paragraphs the following
+  provisions shall apply:
+
+  (a) The difficulties arising from the situation referred to in this
+  Article shall be referred for examination to the Cooperation Council,
+  which may take any decisions needed to put an end to such
+  difficulties. If the Cooperation Council or the exporting Party has
+  not taken a decision putting an end to the difficulties or no other
+  satisfactory solution has been reached within 30 days of the matter
+  being referred to the Cooperation Council, the importing Party may
+  adopt the appropriate measures to remedy the problem in accordance
+  with this Article. In the selection of safeguard measures priority
+  must be given to those which least disturb the functioning of the
+  arrangements established in this Agreement.
+
+  (b) Where exceptional and critical circumstances requiring immediate
+  action make prior information or examination, as the case may be,
+  impossible, the Party concerned may, in the situations specified in
+  this Article, apply forthwith precautionary measures necessary to deal
+  with the situation and shall inform the other Party immediately
+  thereof.
+
+  5. The safeguard measures shall be notified immediately to the
+  Cooperation Council and shall be the subject of periodic consultations
+  within that body, particularly with a view to establishing a timetable
+  for their abolition as soon as circumstances permit.
+
+  6. In the event of the Community or the former Yugoslav Republic of
+  Macedonia subjecting imports of products liable to give rise to the
+  difficulties referred to in this Article to an administrative
+  procedure having at its purpose the rapid provision of information on
+  the trend of trade flows, it shall inform the other Party.</article>
+      <article number="ARTICLE 25" name="Shortage Clause" article_identifier="7602">1. Where compliance with the provisions of this Title leads to:
+
+  (a) a critical shortage, or threat thereof, of foodstuffs or other
+  products essential to the exporting Party; or
+
+  (b) re-export to a third country of a product against which the
+  exporting Party maintains quantitative export restrictions, export
+  duties or measures or charges having equivalent effect, and where the
+  situations referred to above give rise, or are likely to give rise to
+  major difficulties for the exporting Party, that Party may take
+  appropriate measures under the conditions and in accordance with the
+  procedures laid down in this Article.
+
+  2. In the selection of measures, priority must be given to those which
+  least disturb the functioning of the arrangements in this Agreement.
+  Such measures shall not be applied in a manner which would constitute
+  a means of arbitrary or unjustifiable discrimination where the same
+  conditions prevail, or a disguised restriction on trade and shall be
+  eliminated when the conditions no longer justify their maintenance.
+
+  3. Before taking the measures provided for in paragraph 1 of this
+  Article or, as soon as possible in cases to which paragraph 4 of this
+  Article applies, the Community or the former Yugoslav Republic of
+  Macedonia, as the case may be, shall supply the Cooperation Council
+  with all relevant information, with a view to seeking a solution
+  acceptable to the Parties. The Parties within the Cooperation Council
+  may agree on any means needed to put an end to the difficulties. If no
+  agreement is reached within 30 days of the matter being referred to
+  the Cooperation Council, the exporting Party may apply measures under
+  this Article on the exportation of the product concerned.
+
+  4. Where exceptional and critical circumstances requiring immediate
+  action make prior information or examination, as the case may be,
+  impossible, the Community or the former Yugoslav Republic of
+  Macedonia, whichever is concerned, may apply forthwith the
+  precautionary measures necessary to deal with the situation and shall
+  inform the other Party immediately thereof.
+
+  5. Any measures applied pursuant to this Article shall be immediately
+  notified to the Cooperation Council and shall be the subject of
+  periodic consultations within that body, particularly with a view to
+  establishing a timetable for their elimination as soon as
+  circumstances permit.</article>
+      <article number="ARTICLE 26" name="State Monopolies" article_identifier="7603">The former Yugoslav Republic of Macedonia shall progressively adjust
+  any State monopolies of a commercial character so as to ensure that,
+  by the end of the fifth year following the entry into force of this
+  Agreement, no discrimination regarding the conditions under which
+  goods are procured and marketed exists between nationals of the Member
+  States and of the former Yugoslav Republic of Macedonia. The
+  Cooperation Council shall be informed about the measures adopted to
+  attain this objective.</article>
+      <article number="ARTICLE 27" article_identifier="7604">Protocol 4 lays down the rules of origin for the application of tariff
+  preferences provided for in this Agreement.</article>
+      <article number="ARTICLE 28" name="Restrictions Authorised" article_identifier="7605">This Agreement shall not preclude prohibitions or restrictions on
+  imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security; the protection of health
+  and life of humans, animals or plants; the protection of national
+  treasures of artistic, historic or archaeological value or the
+  protection of intellectual, industrial and commercial property, or
+  rules relating to gold and silver. Such prohibitions or restrictions
+  shall not, however, constitute a means of arbitrary discrimination or
+  a disguised restriction on trade between the Parties.</article>
+      <article number="ARTICLE 29" article_identifier="7606">Both Parties agree to cooperate to reduce the potential for fraud in
+  the application of the trade provisions of this Agreement.
+
+  Notwithstanding other provisions of this Agreement, and in particular
+  Articles 17, 24 and 36 and Protocol 4, where one Party finds that
+  there is sufficient evidence of fraud such as a significant increase
+  in trade of products by one Party to the other Party, beyond the level
+  reflecting economic conditions such as normal production and export
+  capacities, or failure to provide administrative cooperation as
+  required for the verification of evidence of origin by the other
+  Party, both Parties shall enter into consultations immediately to find
+  an appropriate solution. Pending such solution, the Party concerned
+  may take the appropriate measures it deems necessary. In the selection
+  of the measure priority must be given to those which least disturb the
+  functioning of the arrangements established in this Agreement.</article>
+      <article number="ARTICLE 30" article_identifier="7607">The application of this Agreement shall be without prejudice to the
+  application of the provisions of Community law to the Canary Islands.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Payments, Competition And Other Economic Provisions" chapter_identifier="914">
+      <article number="ARTICLE 31" article_identifier="7608">The Parties undertake to authorise, in freely convertible currency, in
+  accordance with the provisions of Article VIII of the Articles of
+  Agreement of the International Monetary Fund, any payments and
+  transfers on the current account of balance of payments between the
+  Community and the former Yugoslav Republic of Macedonia.</article>
+      <article number="ARTICLE 32" article_identifier="7609">1. The Parties shall endeavour wherever possible to avoid the
+  imposition of restrictive measures, including measures relating to
+  imports, for balance of payments purposes. A Party adopting such
+  measures shall present as soon as possible to the other Party a
+  timetable for their removal.
+
+  2. Where one or more Member States or the former Yugoslav Republic of
+  Macedonia is in serious balance of payments difficulties, or under
+  imminent threat thereof, the Community or the former Yugoslav Republic
+  of Macedonia, as the case may be, may, in accordance with the
+  conditions established under the WTO Agreement, adopt restrictive
+  measures, including measures relating to imports, which shall be of
+  limited duration and may not go beyond what is strictly necessary to
+  remedy the balance of payments situation. The Community or the former
+  Yugoslav Republic of Macedonia, as the case may be, shall inform the
+  other Party forthwith.
+
+  3. Any restrictive measures shall not apply to transfers related to
+  investment and in particular to the repatriation of amounts invested
+  or reinvested or any kind of revenues stemming there from.</article>
+      <article number="ARTICLE 33" name="Competition And Other Economic Provisions" article_identifier="7610">1. The following are incompatible with the proper functioning of the
+  Agreement, in so far as they may affect trade between the Community
+  and the former Yugoslav Republic of Macedonia:
+
+  (i) all agreements between undertakings, decisions by associations of
+  undertakings and concerted practices between undertakings which have
+  as their object or effect the prevention, restriction or distortion of
+  competition;
+
+  (ii) abuse by one or more undertakings of a dominant position in the
+  territories of the Community or of the former Yugoslav Republic of
+  Macedonia as a whole or in a substantial part thereof;
+
+  (iii) any public aid which distorts or threatens to distort
+  competition by favouring certain undertakings or certain products.
+
+  2. Any practices contrary to this Article shall be assessed on the
+  basis of criteria arising from the application of the rules of
+  Articles 81, 82 and 87 of the Treaty establishing the European
+  Community.
+
+  3. (a) For the purposes of applying the provisions of paragraph
+  1(iii), the Parties recognise that during the first four years after
+  the entry into force of this Agreement, any public aid granted by the
+  former Yugoslav Republic of Macedonia shall be assessed taking into
+  account the fact that the former Yugoslav Republic of Macedonia shall
+  be regarded as an area identical to those areas of the Community
+  described in Article 87(3)(a) of the Treaty establishing the European
+  Community.
+
+  (b) Each Party shall ensure transparency in the area of public aid,
+  inter alia by reporting annually to the other Party on the total
+  amount and the distribution of the aid given and by providing, upon
+  request, information on aid schemes. Upon request by one Party, the
+  other Party shall provide information on particular individual cases
+  of public aid.
+
+  Each Party shall ensure that the provisions of this Article are
+  applied within five years of the Agreement's entry into force.
+
+  4. With regard to products referred to in chapter II of Title II:
+
+  - paragraph 1(iii) shall not apply.
+
+  - any practices contrary to paragraph 1(i) shall be assessed according
+  to the criteria established by the Community on the basis of Articles
+  36 and 37 of the Treaty establishing the European Community and
+  specific Community instruments adopted on this basis.
+
+  5. If the Community or the former Yugoslav Republic of Macedonia
+  considers that a particular practice is incompatible with the terms of
+  paragraph 1, and:
+
+  - if such practice causes or threatens to cause serious injury to the
+  interests of the other Party or material injury to its domestic
+  industry, including its services industry, it may take appropriate
+  measures after consultation within the Cooperation Council or after 30
+  working days following referral for such consultation.
+
+  In the case of practices incompatible with paragraph 1(iii), such
+  appropriate measures may, where the WTO Agreement applies thereto,
+  only be adopted in accordance with the procedures and under the
+  conditions laid down thereby or the relevant Community internal
+  legislation.
+
+  6. The Parties shall exchange information taking into account the
+  limitations imposed by the requirements of professional and business
+  confidentiality.</article>
+      <article number="ARTICLE 34" article_identifier="7611">With regard to public undertakings, and undertakings to which special
+  or exclusive rights have been granted, each Party shall ensure that as
+  from the third year following the date of entry into force of this
+  Agreement, the principles of the Treaty establishing the European
+  Community, in particular Article 86 thereof, are upheld.</article>
+      <article number="ARTICLE 35" name="Intellectual, Industrial And Commercial Property" article_identifier="7612">1. Pursuant to the provisions of this Article and Annex VI, the
+  Parties confirm the importance that they attach to ensure adequate and
+  effective protection and enforcement of intellectual, industrial and
+  commercial property rights.
+
+  2. The former Yugoslav Republic of Macedonia shall take the necessary
+  measures in order to guarantee no later than five years after entry
+  into force of this Agreement a level of protection of intellectual,
+  industrial and commercial property rights similar to that existing in
+  the Community, including effective means of enforcing such rights.
+
+  3. The former Yugoslav Republic of Macedonia undertakes to accede,
+  within the period referred above, to the multilateral conventions on
+  intellectual, industrial and commercial property rights referred to in
+  Annex VI.
+
+  4. If problems in the area of intellectual, industrial and commercial
+  property affecting trading conditions occur, they shall be referred
+  urgently to the Cooperation Council, at the request of either Party,
+  with a view to reaching mutually satisfactory solutions.</article>
+      <article number="ARTICLE 36" name="Customs" article_identifier="7613">Mutual assistance between administrative authorities in customs
+  matters of the Parties shall take place in accordance with the
+  provisions of Protocol 5.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Institutional, General And Final Provisions" chapter_identifier="915">
+      <article number="ARTICLE 37" article_identifier="7614">The Cooperation Council set up by the Cooperation Agreement signed on
+  29 April 1997, by way of Exchange of Letters between the European
+  Community and the former Yugoslav Republic of Macedonia, shall perform
+  the duties assigned to it by this Agreement according to the same
+  modalities as practised so far in the context of the Cooperation
+  Agreement.</article>
+      <article number="ARTICLE 38" article_identifier="7615">1. The Cooperation Council shall, for the purpose of attaining the
+  objectives of this Agreement, have the power to take decisions within
+  the scope of the Agreement in the cases provided for therein. The
+  decisions taken shall be binding on the Parties, which shall take the
+  measures necessary to implement the decisions taken.
+
+  2. The Cooperation Council may also make appropriate recommendations.
+  It shall draw up its decisions and recommendations by agreement
+  between the Parties.
+
+  3. The Cooperation Council may be assisted in the performance of his
+  duties by a Joint Committee composed by representatives of the
+  Community, on the one hand, and of representatives of the Government
+  of the former Yugoslav Republic of Macedonia, on the other, normally
+  at senior civil servant level.
+
+  The duties of the Joint Committee should include the preparation of
+  meetings of the Cooperation Council.
+
+  4. The Cooperation Council may delegate to the Joint Committee any of
+  its powers. In that event the Joint Committee shall take decisions in
+  accordance with the conditions laid down in paragraphs 1 and 2.
+
+  5. The Joint Committee should, as necessary, adopt its own rules of
+  procedure. The Joint Committee would meet once a year. Special
+  meetings may be convened by mutual agreement, at the request of either
+  party. The Joint Committee would be chaired alternately by each of the
+  Parties. Whenever possible the Agenda of the Joint Committee shall be
+  agreed beforehand.</article>
+      <article number="ARTICLE 39" article_identifier="7616">Each Party may refer to the Cooperation Council any dispute relating
+  to the application or interpretation of this Agreement. The
+  Cooperation Council may settle the dispute by means of a binding
+  decision.</article>
+      <article number="ARTICLE 40" article_identifier="7617">Within the scope of this Agreement, each Party undertakes to ensure
+  that natural and legal persons of the other Party have access free of
+  discrimination in relation to its own nationals to the competent
+  courts and administrative organs of the Parties to defend their
+  individual rights and their property rights.</article>
+      <article number="ARTICLE 41" article_identifier="7618">Nothing in this Agreement shall prevent a Party from taking any
+  measures:
+
+  (a) which it considers necessary to prevent the disclosure of
+  information contrary to its essential security interests;
+
+  (b) which relate to the production of, or trade in, arms, munitions or
+  war materials or to research, development or production indispensable
+  for defence purposes, provided that such measures do not impair the
+  conditions of competition in respect of products not intended for
+  specifically military purposes;
+
+  (c) which it considers essential to its own security in the event of
+  serious internal disturbances affecting the maintenance of law and
+  order, in time of war or serious international tension constituting a
+  threat of war or in order to carry out obligations it has accepted for
+  the purpose of maintaining peace and international security.</article>
+      <article number="ARTICLE 42" article_identifier="7619">1. In the fields covered by this Agreement and without prejudice to
+  any special provisions contained therein:
+
+  - the arrangements applied by the former Yugoslav Republic of
+  Macedonia in respect of the Community shall not give rise to any
+  discrimination between the Member States, their nationals or their
+  companies or firms;
+
+  - the arrangements applied by the Community in respect of the former
+  Yugoslav Republic of Macedonia shall not give rise to any
+  discrimination between the nationals of the former Yugoslav Republic
+  of Macedonia or its companies or firms.
+
+  2. The provisions of paragraph 1 shall be without prejudice to the
+  right of the Parties to apply the relevant provisions of their fiscal
+  legislation to taxpayers who are not in identical situations as
+  regards their place of residence.</article>
+      <article number="ARTICLE 43" article_identifier="7620">1. The Parties shall take any general or specific measures required to
+  fulfil their obligations under this Agreement. They shall see to it
+  that the objectives set out in this Agreement are attained.
+
+  2. If either Party considers that the other Party has failed to fulfil
+  an obligation under this Agreement, it may take appropriate measures.
+  Before so doing, except in cases of special urgency, it shall supply
+  the Cooperation Council with all relevant information required for a
+  thorough examination of the situation with a view to seeking a
+  solution acceptable to the Parties.
+
+  In the selection of measures, priority must be given to those which
+  least disturb the functioning of this Agreement. These measures shall
+  be notified immediately to the Cooperation Council and shall be the
+  subject of consultations within the Cooperation Council if the other
+  Party so requests.</article>
+      <article number="ARTICLE 44" article_identifier="7621">The Parties agree to consult promptly through appropriate channels at
+  the request of either Party to discuss any matter concerning the
+  interpretation or implementation of this Agreement and other relevant
+  aspects of the relations between the Parties.
+
+  The provisions of this Article shall in no way affect and are without
+  prejudice to Articles 17, 24, 25 and 29.</article>
+      <article number="ARTICLE 45" article_identifier="7622">Protocols 1, 2, 3, 4 and 5 and Annexes I to VI shall form an integral
+  part of this Agreement.</article>
+      <article number="ARTICLE 46" article_identifier="7623">This Agreement shall be applicable until the entry into force of the
+  Stabilisation and Association Agreement signed in Luxembourg on 9
+  April 2001.
+
+  Either Party may denounce this Agreement by notifying the other Party.
+  This Agreement shall cease to apply six months after the date of such
+  notification.</article>
+      <article number="ARTICLE 47" article_identifier="7624">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Community, applies and
+  under the conditions laid down in this Treaty, and to the territory of
+  the former Yugoslav Republic of Macedonia on the other.</article>
+      <article number="ARTICLE 48" article_identifier="7625">The Secretary General of the Council of the European Union shall be
+  the depository of the Agreement.</article>
+      <article number="ARTICLE 49" article_identifier="7626">This Agreement is drawn up in duplicate each of the official languages
+  of the Parties, each of these texts being equally authentic.</article>
+      <article number="ARTICLE 50" article_identifier="7627">The Parties shall approve this Agreement in accordance with their own
+  procedures.
+
+  This Agreement shall enter into force on the first day of the second
+  month following the date on which the Parties notify each other that
+  the procedures referred to in the first paragraph have been completed.
+
+  Upon the entry into force of this Agreement, Articles 13 to 32 of the
+  Cooperation Agreement between the European Community and the former
+  Yugoslav Republic of Macedonia signed on 29 April 1997 by way of
+  Exchange of Letters, shall be suspended.
+
+  (1) is "stuffed pasta containing more than 20 % by weight of
+  fish, crustaceans, molluscs or other aquatic invertebrates".</article>
+    </chapter>
+  </body>
+</treaty>

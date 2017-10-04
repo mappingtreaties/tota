@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - San Marino</name>
+    <type>Customs Union</type>
+    <wto_rta_id>386</wto_rta_id>
+    <treaty_identifier>322</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1991-12-16</date_signed>
+    <date_into_force>2002-04-01</date_into_force>
+    <date_notification>2010-02-24</date_notification>
+    <end_implementation>2002-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">LUX</partyisocode>
+      <partyisocode n="13">NLD</partyisocode>
+      <partyisocode n="14">PRT</partyisocode>
+      <partyisocode n="15">SMR</partyisocode>
+      <partyisocode n="16">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SMR</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392072653&amp;uri=CELEX:22002A0328(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22002A0328(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22002A0328(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392072653&amp;uri=CELEX:22002A0328(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392072653&amp;uri=CELEX:22002A0328(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392072653&amp;uri=CELEX:22002A0328(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="497">
+      <article number="ARTICLE 1" article_identifier="23260">The purpose of this Agreement between the European Economic Community
+  and the Republic of San Marino is to establish a customs union between
+  the two Parties and promote comprehensive cooperation between them
+  with the aim of contributing to the social and economic development of
+  the Republic of San Marino and strengthening relations between the
+  Parties.</article>
+    </chapter>
+    <chapter number="TITLE I" name="Customs Union" chapter_identifier="498">
+      <article number="ARTICLE 2" article_identifier="23261">A customs union is hereby established between the European Economic
+  Community and the Republic of San Marino for products covered by
+  Chapters 1 to 97 of the Common Customs Tariff, except products falling
+  within the scope of the Treaty establishing the European Coal and
+  Steel Community.</article>
+      <article number="ARTICLE 3" article_identifier="23262">1. The provisions of this Title shall apply to:
+
+  (a) goods produced in the Community or in the Republic of San Marino,
+  including those obtained wholly or in part from products which come
+  from third countries and are in free circulation in the Community or
+  in San Marino;
+
+  (b) goods which come from third countries and are in free circulation
+  in the Community or in the Republic of San Marino.
+
+  2. Products coming from third countries shall be considered to be in
+  free circulation in the Community or in the Republic of San Marino if
+  the import formalities have been complied with and any customs duties
+  or charges having equivalent effect which are payable have been
+  levied, and there has been no total or partial drawback of such duties
+  or charges in respect of the said products.</article>
+      <article number="ARTICLE 4" article_identifier="23263">The provisions of this Title shall also apply to goods obtained or
+  produced in the Community or in the Republic of San Marino in the
+  manufacture of which were used products coming from third countries
+  and not in free circulation either in the Community or in San Marino.
+  These provisions shall, however, apply to those goods only if the
+  exporting Contracting Party levies the customs duties laid down in the
+  Community for third country products used in their manufacture.</article>
+      <article number="ARTICLE 5" article_identifier="23264">1. The Contracting Parties shall refrain from introducing between
+  themselves any new customs duties on imports or exports or charges
+  having equivalent effect.
+
+  2. The Republic of San Marino also undertakes not to adjust duties
+  referred to in paragraph 1 as applied to imports from the Community on
+  1 January 1991, without prejudice to existing commitments between San
+  Marino and Italy pursuant to the Exchange of Letters of 21 December
+  1972.</article>
+      <article number="ARTICLE 6" article_identifier="23265">1. Trade between the Community and the Republic of San Marino shall be
+  exempt from all import and export duties and charges having equivalent
+  effect, subject to the provisions of paragraphs 2 and 3.
+
+  2. In order that the charges having equivalent effect currently
+  applied to imports from the Community may be abolished on 1 January
+  1996, the Republic of San Marino undertakes to introduce, within six
+  months of the entry into force of this Agreement, a supplementary tax
+  corresponding to that currently levied on imported goods, to be
+  chargeable on domestic products intended for home consumption. The
+  supplementary tax will apply in full on the above date. It shall be
+  applicable as a countervailing measure and shall be calculated on the
+  added value of domestic products at rates equal to those applied to
+  imported goods of a similar kind.
+
+  3. (a) On the entry into force of the Agreement, the Community, with
+  the exception of the Kingdom of Spain and the Portuguese Republic,
+  shall admit imports from the Republic of San Marino exempt from
+  customs duty.
+
+  (b) From the entry into force of the Agreement, the Kingdom of Spain
+  and the Portuguese Republic shall apply the same customs duties in
+  respect of the Republic of San Marino as they apply in respect of the
+  Community as constituted on 31 December 1985.
+
+  4. In trade in agricultural products between the Community and San
+  Marino, the Republic of San Marino undertakes to adopt Community
+  veterinary, plant health and quality regulations where necessary for
+  the proper functioning of the Agreement.</article>
+      <article number="ARTICLE 7" article_identifier="23266">1. From the entry into force of the Agreement the Republic of San
+  Marino shall apply in respect of countries not members of the
+  Community:
+
+  - the Common Customs Tariff,
+
+  - laws, regulations and administrative provisions applicable to
+  customs matters in the Community and necessary for the proper
+  functioning of the customs union,
+
+  - the common commercial policy of the Community,
+
+  - Community regulations on trade in agricultural products covered by
+  Annex II to the Treaty establishing the European Economic Community,
+  with the exception of refunds and compensatory amounts accorded for
+  exports,
+
+  - Community veterinary, plant health and quality regulations where
+  necessary for the proper functioning of the Agreement.
+
+  The provisions referred to in this paragraph shall be those applicable
+  at the time in the Community.
+
+  2. The provisions referred to in the second to fifth indents of
+  paragraph 1 shall be determined in greater detail be the Cooperation
+  Committee.
+
+  3. By way of derogation from the first indent of paragraph 1,
+  publications, works of art, scientific or teaching materials and
+  medical supplies or equipment offered to the Government of the
+  Republic of San Marino, insignia, medals, stamps, printed matter and
+  other similar objects or paper destined for use by the Government
+  shall be exempt from customs duties.</article>
+      <article number="ARTICLE 8" article_identifier="23267">1. (a) Over a period of five years from the entry into force of the
+  Agreement, and beyond that period if no agreement can be reached in
+  accordance with 1(b), the Republic of San Marino shall authorise the
+  Community, acting on behalf of, and for, San Marino, to carry out
+  customs clearance formalities, in particular release for free
+  circulation of products sent from third countries to San Marino. Such
+  formalities will be effected by Community customs offices.
+
+  (b) At the end of this period, and under Article 26, the Republic of
+  San Marino may exercise its right to carry out customs clearance
+  formalities, following agreement of the Contracting Parties.
+
+  2. Where import duties are payable on goods pursuant to paragraph 1,
+  these duties shall be levied on behalf of the Republic of San Marino.
+  San Marino shall undertake not to refund these sums directly or
+  indirectly to the parties concerned, subject to the provisions of
+  paragraph 4.
+
+  3. The Cooperation Committee shall decide on:
+
+  (a) possible changes to the list of the customs offices competent to
+  clear the goods referred to in paragraph 1 and the procedure for
+  forwarding the said goods to the Republic of San Marino;
+
+  (b) the arrangements for assigning to the San Marino Exchequer the
+  amounts collected in accordance with paragraph 2, and the percentage
+  to be deducted by the European Economic Community to cover
+  administrative costs in accordance with the relevant regulations in
+  force within the Community;
+
+  (c) any other arrangements necessary for the proper implementation of
+  this Article.
+
+  4. The taxes and levies on imports of agricultural products may be
+  used by San Marino for aiding production or exports. San Marino
+  undertakes, however, not to accord higher export refunds or
+  compensatory amounts than those accorded by the European Economic
+  Community for exports to third countries.</article>
+      <article number="ARTICLE 9" article_identifier="23268">Quantitative restrictions on imports and exports and all measures
+  having equivalent effect between the Community and the Republic of San
+  Marino shall be prohibited from the entry into force of the Agreement.</article>
+      <article number="ARTICLE 10" article_identifier="23269">The Agreement shall not preclude prohibitions or restrictions on
+  imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security, the protection of health
+  and life of humans, animals or plants, the protection of national
+  treasures possessing artistic, historic or archaeological value, the
+  protection of industrial or commercial property, or controls relating
+  to gold and silver. Such prohibitions or restrictions shall not,
+  however, constitute a means of arbitrary discrimination or a disguised
+  restriction on trade between the Contracting Parties.</article>
+      <article number="ARTICLE 11" article_identifier="23270">The Contracting Parties shall refrain from any domestic tax measure or
+  practice leading directly or indirectly to discrimination between the
+  products of one Contracting Party and similar products from the other
+  Contracting Party.
+
+  Products sent to the territory of one of the Contracting Parties shall
+  not be eligible for a refund of domestic charges which is higher than
+  the charges which have been levied directly or indirectly.</article>
+      <article number="ARTICLE 12" article_identifier="23271">1. If serious disturbances arise in any sector of the economy of one
+  of the Contracting Parties, the Contracting Party concerned may take
+  the necessary safeguard measures in accordance with the procedures,
+  and subject to the conditions, of the paragraphs below.
+
+  2. In the case referred to in paragraph 1, before taking the measures
+  provided for therein or, in the cases covered by paragraph 3, as soon
+  as possible, the Contracting Party in question shall provide the
+  Cooperation Committee with all relevant information required for a
+  detailed examination of the situation with a view to seeking a
+  solution acceptable to the Contracting Parties. At the request of the
+  other Contracting Party, consultations shall take place within the
+  Cooperation Committee before the Contracting Party concerned takes
+  appropriate measures.
+
+  3. Where exceptional circumstances require immediate action making
+  prior examination impossible, the Contracting Party concerned may
+  apply forthwith such precautionary measures as are strictly necessary
+  to remedy the situation.
+
+  4. In the selection of measures, priority must be given to those which
+  least disturb the functioning of the Agreement. Such measures must not
+  exceed the limits of what is strictly necessary to counteract the
+  difficulties that have arisen.
+
+  The safeguard measures must be notified immediately to the Cooperation
+  Committee, which shall hold regular consultations on them,
+  particularly with a view to their abolition as soon as circumstances
+  permit.</article>
+      <article number="ARTICLE 13" article_identifier="23272">1. In addition to the cooperation provided for in Article 23(8), the
+  administrative authorities of the Contracting Parties responsible for
+  implementing the provisions of this Agreement shall assist each other
+  in other cases so as to ensure compliance with the provisions.
+
+  2. Procedures for the application of paragraph 1 shall be laid down by
+  the Cooperation Committee.</article>
+    </chapter>
+    <chapter number="TITLE II" name="Cooperation" chapter_identifier="499">
+      <article number="ARTICLE 14" article_identifier="23273">The Community and the Republic of San Marino shall institute
+  cooperation with the aim of strengthening existing links between them
+  on as broad a basis as possible for the mutual benefit of the Parties,
+  taking account of their respective powers. Cooperation shall focus on
+  the priority areas referred to in Articles 15 to 18 of this Title.</article>
+      <article number="ARTICLE 15" article_identifier="23274">The Contracting Parties undertake to encourage the growth and
+  diversification of the industrial and services sectors of the economy
+  of San Marino, focusing their cooperation activities on small and
+  medium-sized enterprises.</article>
+      <article number="ARTICLE 16" article_identifier="23275">The Contracting Parties undertake to cooperate on matters relating to
+  environmental protection and improvement with the aim of resolving the
+  problems caused by contamination of water, soil and air, by erosion
+  and by deforestation. They will pay special attention to the problems
+  of pollution in the Adriatic Sea.</article>
+      <article number="ARTICLE 17" article_identifier="23276">In accordance with their respective laws, the Contracting Parties
+  shall support cooperation in the tourism sector through operations
+  such as the exchange of officials and experts on tourism, exchanges of
+  information and tourist statistics, and training in hotel management
+  and administration. In this context, the Contracting Parties shall pay
+  particular attention to the promotion of out-of-season tourism in San
+  Marino.</article>
+      <article number="ARTICLE 18" article_identifier="23277">The Contracting Parties agree to undertake joint operations in
+  communications, information and cultural matters to strengthen
+  existing links between them.
+
+  Such operations may take the following forms:
+
+  - exchanges of information on subjects of mutual interest in the
+  fields of culture and information,
+
+  - events of a cultural nature,
+
+  - cultural exchanges,
+
+  - academic exchanges.</article>
+      <article number="ARTICLE 19" article_identifier="23278">The Contracting Parties may enlarge the scope of this Agreement by
+  mutual consent in order to supplement the areas of cooperation through
+  agreements on specific sectors or activities.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Social Provisions" chapter_identifier="500">
+      <article number="ARTICLE 20" article_identifier="23279">The treatment accorded by each Member State to workers of San Marino
+  nationality employed in its territory shall be free from any
+  discrimination based on nationality in relation to its own nationals
+  as regards working conditions or remuneration.
+
+  The Republic of San Marino shall accord the same treatment to workers
+  who are nationals of a Member State and employed in its territory.</article>
+      <article number="ARTICLE 21" article_identifier="23280">1. Subject to the provisions of the following paragraphs, workers of
+  San Marino nationality and any members of their families living with
+  them shall enjoy, in the field of social security, treatment free from
+  discrimination based on nationality in relation to nationals of Member
+  States in which they are employed.
+
+  2. All periods of insurance, employment or residence completed by such
+  workers in the various Member States shall be added together for the
+  purpose of pensions and annuities in respect of old age, death and
+  invalidity, and also for the purpose of medical care for the workers
+  and for members of their families resident in the Community.
+
+  3. The workers in question shall receive family allowances for members
+  of their families who are resident in the Community.
+
+  4. The workers in question shall be able to transfer freely to San
+  Marino, at the rates applied by virtue of the law of the debtor Member
+  State or States, any pensions or annuities in respect of disability,
+  old age, death, industrial accident or occupational disease.
+
+  5. The Republic of San Marino shall accord to workers who are
+  nationals of a Member State and employed in its territory, and to
+  members of their families, treatment similar to that specified in
+  paragraphs 1, 3 and 4.</article>
+      <article number="ARTICLE 22" article_identifier="23281">1. Before the end of the first year following the entry into force of
+  this Agreement, the Cooperation Committee shall adopt provisions to
+  implement the principles set out in Article 21.
+
+  2. The Cooperation Committee shall adopt detailed rules for
+  administrative cooperation providing the necessary management and
+  control guarantees for the application of the provisions referred to
+  in paragraph 1.
+
+  3. The provisions adopted by the Cooperation Committee shall not
+  affect the rights or obligations arising from bilateral agreements
+  between San Marino and Member States of the Community where those
+  agreements provide for more favourable treatment of nationals of San
+  Marino or the Member States.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="General And Final Provisions" chapter_identifier="2808">
+      <article number="ARTICLE 23" article_identifier="23282">1. A Cooperation Committee is hereby set up with responsibility for
+  administering the Agreement and ensuring that it is properly
+  implemented. To that end it shall formulate recommendations. It shall
+  take decisions in the cases provided for in the Agreement. The
+  decisions shall be executed by the Contracting Parties in accordance
+  with their own regulations.
+
+  2. With a view to the proper implementation of the Agreement, the
+  Contracting Parties shall carry out exchanges of information and, at
+  the request of either Party, shall consult together in the Cooperation
+  Committee.
+
+  3. The Cooperation Committee shall draw up its own rules of procedure.
+
+  4. The Cooperation Committee shall be composed, on the one hand, of
+  representatives of the Commission, assisted by delegates of the Member
+  States and, on the other, of representatives of the Republic of San
+  Marino.
+
+  5. The Cooperation Committee shall take decisions by common accord.
+
+  6. The Cooperation Committee shall be chaired by each of the
+  Contracting Parties in turn in accordance with the arrangements to be
+  established in its Rules of Procedure.
+
+  7. The Cooperation Committee shall meet at the request of either of
+  the Contracting Parties, to be lodged at least one month before the
+  date of the intended meeting. Where the Committee is convened under
+  Article 12, it shall meet within eight working days of the date on
+  which the date is lodged.
+
+  8. In accordance with the procedure laid down in paragraph 1, the
+  Cooperation Committee shall establish methods of administrative
+  cooperation for the purposes of applying Articles 3 and 4, taking as a
+  basis the methods adopted by the Community in respect of trade between
+  the Member States.</article>
+      <article number="ARTICLE 24" article_identifier="23283">1. Any disputes arising between the Contracting Parties over the
+  interpretation of the Agreement shall be put before the Cooperation
+  Committee.
+
+  2. If the Cooperation Committee does not succeed in settling the
+  dispute at its next meeting, each Party may notify the other of the
+  designation of an arbitrator; the other Party shall then be required
+  to designate a second arbitrator within two months.
+
+  The Cooperation Committee shall designate a third arbitrator.
+
+  The arbitrators' decisions shall be taken by majority vote.
+
+  Each Party in the dispute shall be required to take the measures
+  needed to ensure the application of the arbitrators' decision.</article>
+      <article number="ARTICLE 25" article_identifier="23284">In trade covered by the Agreement:
+
+  - the arrangements applied by the Republic of San Marino in respect of
+  the Community may not give rise to any discrimination between the
+  Member States, their nationals, or their companies,
+
+  - the arrangements applied by the Community in respect of San Marino
+  may not give rise to any discrimination between San Marino nationals
+  or companies.</article>
+      <article number="ARTICLE 26" article_identifier="23285">This Agreement is concluded for an unlimited duration. Within no more
+  than five years of its entry into force, the two Parties shall begin
+  consultations to examine the results of its application and, if
+  necessary, open negotiations on its amendment in the light of that
+  examination.</article>
+      <article number="ARTICLE 27" article_identifier="23286">Either Contracting Party may denounce this Agreement by notifying the
+  other Contracting Party in writing. In that case, the Agreement shall
+  cease to have effect six months after the date of such notification.</article>
+      <article number="ARTICLE 28" article_identifier="23287">This Agreement replaces provisions of agreements concluded between
+  Member States of the Community and the Republic of San Marino that
+  conflict with it, or which are identical.</article>
+      <article number="ARTICLE 29" article_identifier="23288">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Economic Community is
+  applied and under the conditions laid down in that Treaty and, on the
+  other, to the territory of the Republic of San Marino.</article>
+      <article number="ARTICLE 30" article_identifier="23289">This Agreement will be approved by the Contracting Parties in
+  accordance with their own procedures.
+
+  This Agreement shall enter into force on the first day of the second
+  month following notification that the procedures referred to in the
+  first subparagraph have been complied with.</article>
+      <article number="ARTICLE 31" article_identifier="23290">The Annex to this Agreement shall form an integral part thereof.</article>
+      <article number="ARTICLE 32" article_identifier="23291">This Agreement is drawn up in two originals in the Danish, Dutch,
+  English, French, German, Greek, Italian, Portuguese and Spanish
+  languages, each text being equally authentic.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="2809">
+      <article article_identifier="23292">Hecho en Bruselas, el dieciséis de diciembre de mil novecientos
+  noventa y uno./Udfærdiget i Bruxelles, den sekstende december nitten
+  hundrede og enoghalvfems./Geschehen zu Brüssel am sechzehnten Dezember
+  neunzehnhunderteinundneunzig./Έγινε στις Βρυξέλλες, στις δέκα έξι
+  Δεκεμβρίου χίλια εννιακόσια ενενήντα ένα./Done at Brussels on the
+  sixteenth day of December in the year one thousand nine hundred and
+  ninety-one./Fait à Bruxelles, le seize décembre mil neuf cent
+  quatre-vingt-onze./Fatto a Bruxelles, addì sedici dicembre
+  millenovecentonovantuno./Gedaan te Brussel, de zestiende december
+  negentienhonderd eenennegentig./Feito em Bruxelas, em dezasseis de
+  Dezembro de mil novecentos e noventa e um.
+
+  Pour Sa Majesté le Roi des Belges/Voor Zijne Majesteit de Koning der
+  Belgen
+
+  &gt;PIC FILE= "L_2002084EN.004801.TIF"&gt;
+
+  For Hendes Majestæt Danmarks Dronning
+
+  &gt;PIC FILE= "L_2002084EN.004802.TIF"&gt;
+
+  Für den Präsidenten der Bundesrepublik Deutschland
+
+  &gt;PIC FILE= "L_2002084EN.004803.TIF"&gt;
+
+  Για τον Πρόεδρο της Ελληνικής Δημοκρατίας
+
+  &amp;gt;PIC FILE= "L_2002084EN.004804.TIF"&amp;gt;
+
+  Por Su Majestad el Rey de España
+
+  &gt;PIC FILE= "L_2002084EN.004901.TIF"&gt;
+
+  Pour le Président de la République française
+
+  &gt;PIC FILE= "L_2002084EN.004902.TIF"&gt;
+
+  For the President of Ireland/Thar ceann Uachtarán na hEireann
+
+  &gt;PIC FILE= "L_2002084EN.004903.TIF"&gt;
+
+  Per il presidente della Repubblica italiana
+
+  &gt;PIC FILE= "L_2002084EN.004904.TIF"&gt;
+
+  Pour Son Altesse Royale le Grand-Duc de Luxembourg
+
+  &gt;PIC FILE= "L_2002084EN.004905.TIF"&gt;
+
+  Voor Hare Majesteit de Koningin der Nederlanden
+
+  &gt;PIC FILE= "L_2002084EN.004906.TIF"&gt;
+
+  Pelo Presidente da República Portuguesa
+
+  &gt;PIC FILE= "L_2002084EN.005001.TIF"&gt;
+
+  For Her Majesty the Queen of the United Kingdom of Great Britain and
+  Northern Ireland
+
+  &gt;PIC FILE= "L_2002084EN.005002.TIF"&gt;
+
+  Por el Consejo de las Comunidades Europeas/For Rådet for De Europæiske
+  Fællesskaber/Für den Rat der Europäischen Gemeinschaften/Για το
+  Συμβούλιο των Ευρωπαϊκών Κοινοτήτων/For the Council of the European
+  Communities/Pour le Conseil des Communautés européennes/Per il
+  Consiglio delle Comunità europee/Voor de Raad van de Europese
+  Gemeenschappen/Pelo Conselho das Comunidades Europeias
+
+  &gt;PIC FILE= "L_2002084EN.005003.TIF"&gt;
+
+  Per la Repubblica di San Marino
+
+  &gt;PIC FILE= "L_2002084EN.005004.TIF"&gt;</article>
+    </chapter>
+  </body>
+</treaty>

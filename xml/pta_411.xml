@@ -1,0 +1,1957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Papua New Guinea / Fiji</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>759</wto_rta_id>
+    <treaty_identifier>411</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2009-07-30</date_signed>
+    <date_into_force>2009-12-20</date_into_force>
+    <date_notification>2011-10-18</date_notification>
+    <end_implementation>2023-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FJI</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">PNG</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FJI</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HRV</partyisocode>
+      <partyisocode n="16">HUN</partyisocode>
+      <partyisocode n="17">IRL</partyisocode>
+      <partyisocode n="18">ITA</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">PNG</partyisocode>
+      <partyisocode n="25">POL</partyisocode>
+      <partyisocode n="26">PRT</partyisocode>
+      <partyisocode n="27">ROU</partyisocode>
+      <partyisocode n="28">SVK</partyisocode>
+      <partyisocode n="29">SVN</partyisocode>
+      <partyisocode n="30">SWE</partyisocode>
+    </parties>
+    <composition>Plurilateral; One Party is an RTA</composition>
+    <region>Europe; Oceania</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391908038&amp;uri=CELEX:22009A1016(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22009A1016(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22009A1016(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391908038&amp;uri=CELEX:22009A1016(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391908038&amp;uri=CELEX:22009A1016(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391908038&amp;uri=CELEX:22009A1016(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="4098">
+      <article article_identifier="35388">Interim Partnership Agreement
+
+  between the European Community, of the one part, and the Pacific
+  States, of the other part
+
+  THE EUROPEAN COMMUNITY, hereinafter referred to as "the EC
+  Party",
+
+  of the one part, and
+
+  THE REPUBLIC OF THE FIJI ISLANDS,
+
+  THE INDEPENDENT STATE OF PAPUA NEW GUINEA (hereinafter referred to as
+  "Papua New Guinea"),
+
+  hereinafter referred to as "the Pacific States",
+
+  of the other part,
+
+  HAVING REGARD TO the Partnership Agreement between the Members of the
+  African, Caribbean and Pacific Group of States of the one part, and
+  the European Community and its Member States of the other part, signed
+  in Cotonou on 23 June 2000 and revised in 2005 (hereinafter referred
+  to as the "Cotonou Agreement");
+
+  HAVING REGARD TO the fact that the trade preferences granted under the
+  Cotonou Agreement will expire on 31 December 2007;
+
+  HAVING REGARD TO the negative impact on the exports from Pacific
+  States to the European Community that may result from the expiration
+  of the Cotonou trade preferences in case no WTO compatible successor
+  trade arrangement is in place by 31 December 2007 and that it is
+  therefore necessary to establish an Interim Partnership Agreement that
+  would safeguard the trade and development interests of the Pacific
+  States affected;
+
+  HAVING REGARD TO the fact that the EC Party has offered improved
+  market access within the framework of the negotiations on Economic
+  Partnership Agreements (EPAs) and that Pacific States wish to start
+  benefiting from this offer as from 1 January 2008;
+
+  REAFFIRMING their continuing commitment to the ongoing negotiations
+  aiming at the conclusion of a comprehensive EPA by 31 December 2008
+  which will contain all relevant elements and include all interested
+  Pacific Islands;
+
+  REAFFIRMING that development cooperation will be a crucial element of
+  the comprehensive EPA and an essential factor for the realisation of
+  its objectives;
+
+  REAFFIRMING their commitment to the objectives and the implementation
+  of the Cotonou Agreement and desiring to build upon those commitments;
+
+  REAFFIRMING their commitment to the respect for human rights,
+  democratic principles, the rule of law and to good governance, which
+  constitute essential and fundamental elements of the Cotonou
+  Agreement, and to sustainable and equitable development, along with
+  greater involvement of an active and organised civil society and the
+  private sector, which, along with the market economy, are the main
+  elements recognised in the Cotonou Agreement as contributing to
+  achieving the objectives of the partnership;
+
+  REAFFIRMING their commitment to work together towards the achievement
+  of the objectives of the Cotonou Agreement of poverty eradication,
+  sustainable development and the gradual integration of the Pacific
+  States into the world economy, with due regard for their political
+  choices and development priorities;
+
+  REAFFIRMING their commitment to support the regional integration
+  process within the Pacific region, and in particular to foster
+  regional economic integration as a key instrument for their
+  integration into the world economy and helping them face the
+  challenges of globalisation and achieving the economic and social
+  development to which they aim;
+
+  DESIRING to cooperate closely at the national level within the
+  framework of the existing structures as set out in the Cotonou
+  Agreement to maximise the synergies between development cooperation
+  and the objectives of this Agreement;
+
+  DESIRING to progressively remove barriers to trade between them; while
+  taking into account the principles of asymmetry and flexibility;
+
+  DESIRING to establish a framework for improved arrangements for trade
+  between the Pacific States and the European Community that are
+  consistent with their obligations under the World Trade Organisation
+  ("WTO");
+
+  DESIRING to establish an institutional framework for their Interim
+  Partnership Agreement and a mechanism to resolve any disputes that
+  might arise in that relationship consistently with the objectives of
+  this Agreement,
+
+  HAVE DECIDED TO CONCLUDE THIS AGREEMENT:</article>
+    </chapter>
+    <chapter number="PART I" name="Trade Partnership For Sustainable Development" chapter_identifier="4099">
+      <article number="ARTICLE 1" name="Objectives" article_identifier="35389">The objectives of this Agreement are to:
+
+  (a) enable Pacific States to start benefiting from the improved market
+  access offered by the EC Party within the framework of the EPA
+  negotiations and, at the same time, avoid trade disruption between
+  Pacific States and the European Community in view of the expiry of the
+  trade preferences granted under the Cotonou Agreement on 31 December
+  2007 and pending the conclusion of a comprehensive EPA between the
+  Pacific States and the EC Party, and its Member States as the case may
+  be;
+
+  (b) promote sustainable development and the gradual integration of
+  Pacific States into the world economy, in conformity with the their
+  political choices and development priorities;
+
+  (c) establish a free trade area between the Parties based on the
+  common interest, and fulfil this objective by the progressive
+  liberalisation of trade in a manner compliant with applicable WTO
+  rules and the principle of asymmetry, commensurate to the specific
+  needs and capacity constraints of the Pacific States, in terms of
+  levels and timing for commitments under this Agreement;
+
+  (d) set up the appropriate dispute settlement arrangements;
+
+  (e) set up the appropriate institutional arrangements.</article>
+      <article number="ARTICLE 2" name="Principles" article_identifier="35390">1. This Agreement is based on the Fundamental Principles as well as
+  the Essential and Fundamental Elements set out in Articles 2 and 9 of
+  the Cotonou Agreement. This Agreement shall build on the provisions of
+  the Cotonou Agreement and the previous ACP-EC Partnership Agreements
+  in the area of regional cooperation and integration as well as
+  economic and trade cooperation.
+
+  2. The Parties agree that the Cotonou Agreement and this Agreement
+  shall be implemented in a complementary and mutually reinforcing
+  manner.</article>
+      <article number="ARTICLE 3" name="Sustainable Development" article_identifier="35391">1. The Parties reaffirm that the objective of sustainable development
+  shall be an integral part of the provisions of this Agreement,
+  consistent with the overarching objectives and principles set out in
+  Articles 1, 2 and 9 of the Cotonou Agreement, and especially the
+  general commitment to reduce and eventually eradicate poverty in a way
+  that is consistent with the objectives of sustainable development.
+
+  2. The Parties understand this objective to apply in the case of the
+  present Agreement as a commitment that:
+
+  (a) the application of this Agreement shall fully take into account
+  the human, cultural, economic, social, health and environmental best
+  interests of their respective populations and of future generations;
+
+  (b) decision-taking methods embrace the fundamental principles of
+  ownership, participation and dialogue.
+
+  3. As a result the Parties agree to work cooperatively towards the
+  realisation of a sustainable development centred on the human person,
+  who is the main beneficiary of development.</article>
+      <article number="ARTICLE 4" name="Regional Integration" article_identifier="35392">1. This Agreement builds upon and aims at deepening regional
+  integration and the Parties undertake to cooperate to further develop
+  it.
+
+  2. Nothing in this Agreement shall prevent any Party from entering
+  into any Agreement for the establishment of a free trade area, customs
+  union or other free trade Agreement with any third countries.</article>
+      <article number="ARTICLE 5" name="Cooperation In International Fora" article_identifier="35393">1. The Parties shall endeavour to cooperate in all international fora
+  where issues relevant to this Agreement are discussed.
+
+  2. The Parties recognise the valuable contribution that regional
+  organisations can make to the achievement of the objectives of this
+  Agreement. The Parties agree to work closely with existing Pacific
+  regional organisations and programmes wherever useful and possible to
+  support the implementation of this Agreement.
+
+  TRADE IN GOODS</article>
+      <article number="ARTICLE 6" name="Scope" article_identifier="35394">This Agreement shall apply to products originating in the European
+  Community or in the Pacific States and falling within Chapters 01 to
+  97 set out in the EC Party's and the Pacific States’ respective tariff
+  nomenclatures in conformity with the rules of classification
+  applicable to the Harmonised Commodity Description and Coding System
+  (HS).</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Customs Duties" chapter_identifier="4100">
+      <article number="ARTICLE 7" name="Customs Duties And Other Charges" article_identifier="35395">1. A customs duty includes any duty or charge of any kind imposed on
+  or in connection with the importation of goods, including any form of
+  surtax or surcharge, but does not include:
+
+  (a) internal taxes or other internal charges imposed consistently with
+  Article 23;
+
+  (b) any antidumping, countervailing or safeguard measure applied
+  consistently with Chapter 2 of Part II;
+
+  (c) fees or other charges imposed consistently with paragraph 2.
+
+  2. Fees and charges referred to in paragraph 1(c) shall be limited in
+  amount to the approximate cost of services rendered and shall not
+  represent indirect protection for domestic products or a taxation of
+  imports for fiscal purposes. Any such fees and charges shall not be
+  applied on an ad valorem basis.</article>
+      <article number="ARTICLE 8" name="Rules Of Origin" article_identifier="35396">For the purposes of this Chapter, "originating" means
+  qualifying under the rules of origin set out in Protocol II to this
+  Agreement. In the period of the five years following the entry into
+  force of this Agreement the Parties shall review the operation of
+  these provisions, with a view to further simplifying the concepts and
+  methods used for the purpose of determining origin in the light of the
+  development needs of the Pacific States. In such review, full
+  consideration shall be given to providing certainty for investors, the
+  development of technologies and production processes and all other
+  factors, including on-going reforms of rules of origin and the
+  establishment of appropriate mechanisms for administrative cooperation
+  between the Parties and the Pacific States as the case may be, which
+  may require modifications to the provisions of this Protocol. Not
+  later than one year before the end of this period, the Parties shall
+  open negotiations on the Protocol with a view to modifying or
+  replacing it. Any such modification or replacement shall be effected
+  by a decision of the Trade Committee.</article>
+      <article number="ARTICLE 9" name="Classification Of Goods" article_identifier="35397">The classification of goods in trade between the EC Party and the
+  Pacific States shall be that set out in the respective tariff
+  nomenclatures based on the Harmonised Commodity Description and Coding
+  System.</article>
+      <article number="ARTICLE 10" name="Elimination Of Customs Duties On Exports" article_identifier="35398">Neither the EC Party nor the Pacific States may maintain or institute
+  any duties, taxes or other fees and charges imposed on or in
+  connection with the exportation of goods to the other Party, or any
+  internal taxes, fees and charges on goods exported to the other Party
+  that are in excess of those imposed on like products destined for
+  internal sale, except:
+
+  (a) when these measures are necessary, in conjunction with domestic
+  measures, for ensuring fiscal solvency of a Pacific State or for the
+  protection of the environment; and
+
+  (b) in exceptional circumstances, where a Pacific State can justify
+  specific protection to develop infant industries, that Pacific State
+  may introduce temporary export taxes on a limited number of products
+  destined for the EC market after mutual Agreement with the EC Party
+  [1].</article>
+      <article number="ARTICLE 11" name="Customs Duties On Products Originating In The Pacific States" article_identifier="35399">Products originating in the Pacific States shall be imported in the EC
+  Party free of customs duties, except for the products indicated, and
+  under the conditions set out in Annex I.</article>
+      <article number="ARTICLE 12" name="Customs Duties On Products Originating In The Ec Party" article_identifier="35400">Customs duties on imports of products originating in the EC Party
+  shall be reduced or eliminated in accordance with the provisions set
+  out in Annex II.</article>
+      <article number="ARTICLE 13" name="Modification Of Tariff Commitments" article_identifier="35401">In the event of serious difficulties in respect of imports of a given
+  product, the Pacific State facing such difficulty may request that the
+  Trade Committee review the schedule of customs duty reductions and
+  eliminations with a view to modify where necessary the time schedule
+  for reduction or elimination by common accord.
+
+  The Trade Committee by agreement may modify Annex II in any manner
+  deemed appropriate.
+
+  The Parties shall ensure that any such modifications do not result in
+  an incompatibility of this Agreement with the requirements of Article
+  XXIV of the General Agreement on Tariffs and Trade (GATT) 1994.</article>
+      <article number="ARTICLE 14" name="Standstill" article_identifier="35402">No new customs duties shall be introduced in trade, nor shall those
+  already applied be increased between the Parties as from the entry
+  into force of the Agreement for all products subject to liberalising
+  commitments.</article>
+      <article number="ARTICLE 15" name="Circulation Of Goods" article_identifier="35403">1. Customs duties shall be levied only once for goods originating in
+  the EC Party or in the Pacific States. Once customs duties have been
+  levied, goods originating in any of the Parties shall circulate within
+  the territory of the EC Party or of the Pacific States respectively
+  without any further payment of customs duties.
+
+  2. Notwithstanding paragraph 1 and for goods of tariff headings whose
+  duties have not yet been eliminated in all of the Pacific States, any
+  customs duty paid upon importation in a Pacific State shall be
+  refunded fully and without delay when the goods leave the customs
+  territory of first importation. Such product shall then pay the duty
+  in the country of consumption.
+
+  3. The Parties agree to cooperate with a view to facilitating the
+  circulation of goods and simplifying customs procedures as provided
+  for under Chapter 4.</article>
+      <article number="ARTICLE 16" name="Non-Discrimination Clause" article_identifier="35404">1. With respect to matters covered by this Chapter, the EC Party shall
+  accord to Pacific States any more favourable treatment applicable as a
+  result of the EC Party becoming party to a free trade agreement with
+  third parties after the signature of this Agreement.
+
+  2. With respect to the subject matter covered by this Chapter, the
+  Pacific States shall accord to the EC Party any more favourable
+  treatment applicable as a result of the Pacific States becoming party
+  to a free trade agreement with any major trading economy after the
+  signature of this Agreement.
+
+  3. Where a Pacific State or the Pacific States can demonstrate that
+  they have been offered by a third Party a substantially more
+  favourable treatment in goods, including rules of origin, than that
+  offered by the EC Party, the Parties will consult and may jointly
+  decide how best to implement the provisions of paragraph 2.
+
+  4. The provisions of this Chapter shall not be so construed as to
+  oblige the EC Party or any Pacific State to extend reciprocally any
+  preferential treatment applicable as a result of the EC Party or any
+  Pacific State being party to a free trade agreement with third parties
+  on the date of signature of this Agreement.
+
+  5. For the purposes of this Article, "free trade agreement"
+  means an agreement substantially liberalising trade and providing for
+  the absence or elimination of substantially all discrimination between
+  or among parties thereto through the elimination of existing
+  discriminatory measures and/or the prohibition of new or more
+  discriminatory measures, either at the entry into force of that
+  agreement or on the basis of a reasonable time frame.
+
+  6. For the purposes of this Article, "major trading economy"
+  means any developed country, or any country accounting for a share of
+  world merchandise exports above 1 percent in the year before the entry
+  into force of the free trade agreement referred to in paragraph 2, or
+  any group of countries acting individually, collectively or through a
+  free trade agreement accounting collectively for a share of world
+  merchandise exports above 1,5 percent in the year before the entry
+  into force of the free trade agreement referred to in paragraph 2 [2].</article>
+      <article number="ARTICLE 17" name="Special Provisions On Administrative Cooperation In Customs Matters" article_identifier="35405">1. The Parties agree that administrative cooperation is essential for
+  the implementation and the control of the preferential treatment
+  granted under this Part and underline their commitment to combat
+  irregularities and fraud in customs and related matters.
+
+  2. Where a Party or a Pacific State as the case may be has made a
+  finding, on the basis of objective information, of a failure to
+  provide administrative cooperation and/or of irregularities or fraud,
+  the Party or Pacific State concerned may temporarily suspend the
+  relevant preferential treatment of the product(s) concerned in
+  accordance with this Article.
+
+  3. For the purpose of this Article a failure to provide administrative
+  cooperation shall mean, inter alia:
+
+  (a) a repeated failure to respect the obligations to verify the
+  originating status of the product(s) concerned;
+
+  (b) a repeated refusal or undue delay in carrying out and/or
+  communicating the results of subsequent verification of the proof of
+  origin;
+
+  (c) a repeated refusal or undue delay in obtaining authorisation to
+  conduct administrative cooperation missions to verify the authenticity
+  of documents or accuracy of information relevant to the granting of
+  the preferential treatment in question.
+
+  For the purpose of this Article, a finding of irregularities or fraud
+  may be made, inter alia, where there is a rapid increase, without
+  satisfactory explanation, in imports of goods exceeding the usual
+  level of production and the export capacity of the other Party or
+  Pacific State as the case may be, which is linked to objective
+  information concerning irregularities or fraud.
+
+  4. The application of a temporary suspension pursuant to paragraph 2
+  shall be subject to the following conditions:
+
+  (a) The Party or Pacific State as the case may be which has made a
+  finding, on the basis of objective information, of a failure to
+  provide administrative cooperation and/or of irregularities or fraud
+  shall without undue delay notify the Trade Committee of its finding
+  together with the objective information and enter into consultations
+  within the Trade Committee, on the basis of all relevant information
+  and objective findings, with a view to reaching a solution acceptable
+  to both the EC Party and the Pacific States or State as the case may
+  be.
+
+  (b) Where the Parties have entered into consultations within the Trade
+  Committee as above and have failed to agree on an acceptable solution
+  within three months following the notification, the Party or Pacific
+  State concerned may temporarily suspend the relevant preferential
+  treatment of the product(s) concerned. A temporary suspension shall be
+  notified to the Trade Committee without undue delay.
+
+  (c) Temporary suspensions under this Article shall be limited to that
+  necessary to protect the financial interests of the Party or Pacific
+  State concerned. They shall not exceed a period of six months, which
+  may be renewed. Temporary suspensions shall be notified immediately
+  after their adoption to the affected Party or Pacific State and the
+  Trade Committee. They shall be subject to periodic consultations
+  within the Trade Committee in particular with a view to their
+  termination as soon as the conditions for their application are no
+  longer given.
+
+  5. At the same time as the notification to the Trade Committee under
+  paragraph 4(a) of this Article, the Party or Pacific State concerned
+  should publish a notice to importers in its official gazette or
+  journal. The notice to importers should indicate for the product
+  concerned and for the specific origin concerned that there is a
+  finding, on the basis of objective information, of a failure to
+  provide administrative cooperation and/or of irregularities or fraud.</article>
+      <article number="ARTICLE 18" name="Management Of Administrative Errors" article_identifier="35406">The Parties recognise each others’ rights to correct errors during the
+  implementation of this Agreement. Where errors are identified, either
+  Party may request the Trade Committee to examine the possibilities of
+  adopting appropriate measures with a view to resolving the situation.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Trade Defence Instruments" chapter_identifier="4101">
+      <article number="ARTICLE 19" name="Anti-Dumping And Countervailing Measures" article_identifier="35407">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall prevent the EC Party or Pacific States, both WTO
+  members and non-WTO members, whether individually or collectively,
+  from adopting anti-dumping or countervailing measures in accordance
+  with the relevant WTO agreements. For the purpose of this Article,
+  origin shall be determined in accordance with the non-preferential
+  rules of origin of the Parties.
+
+  2. The EC Party may not impose definitive anti-dumping or
+  countervailing duties in respect of products imported from Pacific
+  States before considering the possibility of constructive remedies
+  foreseen in the relevant WTO agreements, in accordance with EC law. In
+  that respect, the EC Party shall provide appropriate assistance to the
+  exporters from the Pacific States which are proposing such
+  constructive remedies.
+
+  3. Where an anti-dumping or countervailing measure has been imposed on
+  behalf of two or more Pacific States by a regional or sub-regional
+  authority, there shall be one single forum of judicial review,
+  including the stage of appeals.
+
+  4. Where anti-dumping or countervailing measures can be imposed on a
+  regional or sub-regional basis and on a national basis the Parties or
+  Pacific States as the case may be shall ensure that such measures are
+  not applied simultaneously in respect of the same product by regional
+  or sub-regional authorities on the one hand, and national authorities
+  on the other.
+
+  5. The EC Party shall notify the exporting Pacific States of the
+  receipt of a properly documented complaint before initiating any
+  investigation.
+
+  6. The provisions of this Article shall be applicable to all
+  investigations initiated after this Agreement enters into force.
+
+  7. The provisions of this Article shall not be subject to the Dispute
+  Settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 20" name="Multilateral Safeguards" article_identifier="35408">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall prevent the Pacific States and the EC Party from
+  adopting measures in accordance with Article XIX of the GATT 1994, the
+  Agreement on Safeguards, and Article 5 of the Agreement on
+  Agriculture. For the purpose of this Article, origin shall be
+  determined in accordance with the non-preferential rules of origin of
+  the Parties.
+
+  2. Notwithstanding paragraph 1, the EC Party may, in the light of the
+  overall development objectives of this Agreement and the small size of
+  the economies of the Pacific States, exclude imports from any Pacific
+  State from any measures taken pursuant to Article XIX of the GATT
+  1994, the WTO Agreement on Safeguards and Article 5 of the Agreement
+  on Agriculture.
+
+  3. The provisions of paragraph 2 shall apply for a period of five
+  years, beginning with the date of entry into force of the Agreement.
+  Not later than 120 days before the end of this period, the Parties
+  shall review the operation of those provisions in the light of the
+  development needs of the Pacific States, with a view to determining
+  whether to extend their application for a further period.
+
+  4. The provisions of paragraph 1 shall not be subject to the Dispute
+  Settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 21" name="Bilateral Safeguards" article_identifier="35409">1. Notwithstanding Article 20, after having examined alternative
+  solutions, the EC Party or a Pacific State may apply safeguard
+  measures of limited duration which derogate from the provisions of
+  Articles 11 and 12, under the conditions and in accordance with the
+  procedures laid down in this Article.
+
+  2. Safeguard measures referred to in paragraph 1 may be taken where a
+  product originating in the EC Party or a Pacific State is being
+  imported into the territory of the EC Party or a Pacific State in such
+  increased quantities and under such conditions as to cause or threaten
+  to cause:
+
+  (a) serious injury to the domestic industry producing like or directly
+  competitive products in the territory of the importing Parties or
+  Pacific States, or
+
+  (b) disturbances in a sector or industry of the economy, whether of an
+  economic or social nature, or difficulties which could bring about
+  serious deterioration in the economic situation of the importing
+  Parties or Pacific States, or
+
+  (c) disturbances in the markets of agricultural like or directly
+  competitive products [3] or mechanisms regulating those markets.
+
+  3. Safeguard measures referred to in this Article shall not exceed
+  what is necessary to remedy or prevent the serious injury or
+  disturbances, as defined in paragraphs 2 and 5(b). Those safeguard
+  measures of the importing Parties or Pacific States may only consist
+  of one or more of the following:
+
+  (a) suspension of the further reduction of the rate of import duty for
+  the product concerned, as provided for under this Agreement;
+
+  (b) increase in the customs duty on the product concerned up to a
+  level which does not exceed the customs duty applied to imports
+  originating in other WTO Members, and
+
+  (c) introduction of tariff quotas on the product concerned.
+
+  4. Without prejudice to paragraphs 1, 2 and 3 above, where any product
+  originating in one or more Pacific State(s) is being imported in such
+  increased quantities and under such conditions as to cause or threaten
+  to cause one of the situations referred to under subparagraphs 2(a),
+  (b) and (c) above to one or several of the EC Party's Outermost
+  Regions, the EC Party may take surveillance or safeguard measures
+  limited to the region or regions concerned in accordance with the
+  procedures laid down in paragraphs 6 to 9.
+
+  5. (a) Without prejudice to paragraphs 1, 2 and 3 above, where any
+  product originating in the EC Party is being imported in such
+  increased quantities and under such conditions as to cause or threaten
+  to cause one of the situations referred to under subparagraphs 2(a),
+  (b) and (c) above to a Pacific State, the Pacific State concerned may
+  take surveillance or safeguard measures limited to its territory in
+  accordance with the procedures laid down in paragraphs 6 to 9.
+
+  (b) A Pacific State may take safeguard measures where a product
+  originating in the EC Party as a result of the reduction of duties is
+  being imported into its territory in such increased quantities and
+  under such conditions as to cause or threaten to cause disturbances to
+  an infant industry producing like or directly competitive products.
+  These measures shall be taken in order to promote development of
+  productive and sustainable industries with a view to raising the
+  general standard of living of the people. This provision is only
+  applicable for a period of twenty years from the date of entry into
+  force of this Agreement. Measures must be taken in accordance with the
+  procedures laid down in paragraphs 6 to 9 except that the initial
+  duration of measures may be of seven years in the case of non-Least
+  Developed Countries (non-LDCs) with a joint review for a possible
+  extension for further three years and in the case of Small Islands
+  States and Pacific LDC States for twelve years with joint review for a
+  possible extension for a further three years. No Pacific State shall,
+  at any time, raise tariffs under this provision on goods originating
+  in the EC Party on more than 3 per cent of tariff lines or on more
+  than 15 per cent of the total value of goods originating in the EC
+  Party calculated as the average value of imports over the last three
+  years.
+
+  6. (a) Safeguard measures referred to in this Article shall only be
+  maintained for such a time as may be necessary to prevent or remedy
+  serious injury or disturbances as defined in paragraphs 2, 4 and 5
+  above.
+
+  (b) Safeguard measures referred to in this Article shall not be
+  applied for a period exceeding two years. In exceptional
+  circumstances, such measures may be extended for a further period of
+  no more than two years. Where a Pacific State applies a safeguard
+  measure, or where the EC Party applies a measure limited to the
+  territory of one or more of its outermost regions, such measures may
+  however be applied for a period not exceeding four years and, in
+  exceptional circumstances, extended for a further period of four
+  years.
+
+  (c) Safeguard measures referred to in this Article that exceed one
+  year shall contain clear elements progressively leading to their
+  elimination at the end of the set period, at the latest.
+
+  (d) No safeguard measure referred to in this Article shall be applied
+  to the import of a product that has previously been subject to such a
+  measure, for a period of at least one year from the expiry of the
+  measure.
+
+  7. For the implementation of the above paragraphs, the following
+  provisions shall apply:
+
+  (a) Where the EC Party or a Pacific State takes the view that one of
+  the circumstances set out in paragraphs 2, 4 and/or 5 exists, it shall
+  immediately refer the matter to the Trade Committee for examination.
+
+  (b) The Trade Committee may make any recommendation needed to remedy
+  the circumstances which have arisen. If no recommendation has been
+  made by the Trade Committee aimed at remedying the circumstances, or
+  no other satisfactory solution has been reached within 30 days of the
+  matter being referred to the Trade Committee, the importing EC Party
+  or the Pacific State may adopt the appropriate measures to remedy the
+  circumstances in accordance with this Article.
+
+  (c) Before taking any measure provided for in this Article or, in the
+  cases to which paragraph 8 of this Article applies, as soon as
+  possible, the EC Party or the Pacific State concerned shall supply the
+  Trade Committee with all relevant information required for a thorough
+  examination of the situation, with a view to seeking a solution
+  acceptable to the parties concerned.
+
+  (d) In the selection of safeguard measures pursuant to this Article,
+  priority must be given to those which least disturb the operation of
+  this Agreement.
+
+  (e) Any safeguard measure taken pursuant to this Article shall be
+  notified immediately to the Trade Committee and shall be the subject
+  of periodic consultations within that body, particularly with a view
+  to establishing a timetable for their abolition as soon as
+  circumstances permit.
+
+  8. Where exceptional circumstances require immediate action, the
+  importing EC Party or Pacific State concerned may take the measures
+  provided for in paragraph 3, 4 and/or 5 on a provisional basis without
+  complying with the requirements of paragraph 7. Such action may be
+  taken for a maximum period of 180 days where measures are taken by the
+  EC Party and 200 days where measures are taken by the Pacific State,
+  or where measures taken by the EC Party are limited to the territory
+  of one or more of its outermost regions. The duration of any such
+  provisional measure shall be counted as a part of the initial period
+  and any extension referred to in paragraph 6. In the taking of such
+  provisional measures, the interest of the Parties, and especially of
+  Small Island States, shall be taken into account. The importing Party
+  or Pacific State as the case may be shall inform the other party
+  concerned and it shall immediately refer the matter to the Trade
+  Committee for examination.
+
+  9. If an importing Party or Pacific State as the case may be subjects
+  imports of a product to an administrative procedure having as its
+  purpose the rapid provision of information on the trend of trade flows
+  liable to give rise to the problems referred to in this Article, it
+  shall inform the Trade Committee without delay.
+
+  10. Safeguard measures adopted under the provisions of this Article
+  shall not be subject to WTO Dispute Settlement provisions.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Non-Tariff Measures" chapter_identifier="4102">
+      <article number="ARTICLE 22" name="Prohibition Of Quantitative Restrictions" article_identifier="35410">Unless otherwise specified in this Agreement, all prohibitions or
+  restrictions applying to the import or export of goods between the EC
+  Party and the Pacific States, other than customs duties and taxes, and
+  fees and other charges, whether made effective through quotas, import
+  or export licenses or other measures, shall be eliminated upon the
+  entry into force of this Agreement. No such new measures shall be
+  introduced. The provisions of this Article shall be without prejudice
+  to the provisions of Chapter 2 of Part II.</article>
+      <article number="ARTICLE 23" name="National Treatment On Internal Taxation And Regulation" article_identifier="35411">1. Imported products originating in the other Party shall not be
+  subject, either directly or indirectly, to internal taxes or other
+  internal charges of any kind in excess of those applied, directly or
+  indirectly, to like national products. Moreover, the Parties shall not
+  otherwise apply internal taxes or other internal charges so as to
+  afford protection to national production.
+
+  2. Imported products originating in the other Party shall be accorded
+  treatment no less favourable than that accorded to like national
+  products in respect of all laws, regulations and requirements
+  affecting their internal sale, offering for sale, purchase,
+  transportation, distribution or use. The provisions of this paragraph
+  shall not prevent the application of differential internal
+  transportation charges which are based exclusively on the economic
+  operation of the means of transport and not on the nationality of the
+  product.
+
+  3. No Party shall establish or maintain any internal quantitative
+  regulation relating to the mixture, processing or use of products in
+  specified amounts or proportions which requires, directly or
+  indirectly, that any specified amount or proportion of any product
+  which is the subject of the regulation must be supplied from domestic
+  sources. Moreover, no Party or Pacific State shall otherwise apply
+  internal quantitative regulations so as to afford protection to
+  national production.
+
+  4. The provisions of this Article shall not prevent the payment of
+  subsidies or the granting of tax incentives for the purpose of
+  developing industries to national producers, including payments to
+  national producers derived from the proceeds of internal taxes or
+  charges applied consistently with the provisions of this Article and
+  subsidies implemented through governmental purchases of national
+  products.
+
+  5. The provisions of this Article shall not apply to laws,
+  regulations, procedures or practices governing public procurement.</article>
+      <article number="ARTICLE 24" name="Agricultural Export Subsidies" article_identifier="35412">1. With regard to any product as defined in paragraph 3, for which the
+  Pacific States have committed to the elimination of customs duties,
+  the EC Party undertakes to phase out existing subsidies granted upon
+  the exportation of that product to the territories of the Pacific
+  States.
+
+  2. Parties will consult each other no later than 18 December 2007 with
+  a view to determining the modalities of the elimination of existing
+  subsidies mentioned under paragraph 1.
+
+  3. This Article applies to products as covered by Annex 1 of the WTO
+  Agreement on Agriculture.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Customs And Trade Facilitation" chapter_identifier="4103">
+      <article number="ARTICLE 25" name="Objectives" article_identifier="35413">The objectives of this Chapter are to:
+
+  (a) assist the integration of the Pacific States into the
+  international economy, and in particular facilitate trade between the
+  Parties;
+
+  (b) reinforce cooperation on customs issues with a view to ensuring
+  that the relevant legislation and procedures, as well as the
+  administrative capacity of the relevant administrations, enable the
+  effective and efficient administration of customs, and facilitate
+  trade.</article>
+      <article number="ARTICLE 26" name="Relationship With Existing Programmes And Assistance" article_identifier="35414">The Parties shall endeavour to coordinate and integrate their
+  cooperation on trade facilitation and trade promotion with the work of
+  other actors, regional organisations, and national bodies and
+  organisations with the objective of avoiding unnecessary duplication
+  of existing programmes and maximising the benefits from the resources
+  devoted to trade facilitation, in particular, where appropriate,
+  through:
+
+  (a) sharing of information between the Parties, actors, regional and
+  international organisations and their members;
+
+  (b) utilisation of the expertise and resources of other regional or
+  international organisations;
+
+  (c) cooperation between the Parties with and within other regional and
+  international organisations;
+
+  (d) cooperation with other regional and international organisations in
+  the development, establishment and implementation of international
+  agreements on harmonised standards and procedures, or the
+  establishment of new regional organisations;
+
+  (e) participation of other regional organisations, and their members,
+  in the trade facilitation and trade promotion programme; and
+
+  (f) any other form of cooperation, coordination or integration of
+  activities the Parties decide is appropriate.</article>
+      <article number="ARTICLE 27" name="Customs And Administrative Cooperation" article_identifier="35415">1. The Parties agree to:
+
+  (a) exchange information concerning customs legislation and
+  procedures;
+
+  (b) develop joint initiatives in mutually agreed areas;
+
+  (c) establish, wherever possible, common positions on customs issues
+  in international fora;
+
+  (d) promote coordination between all related agencies, both internally
+  and across borders.
+
+  2. Notwithstanding paragraph 1, the administrations of the Parties
+  shall provide mutual administrative assistance in customs matters in
+  accordance with the provisions of Protocol I.</article>
+      <article number="ARTICLE 28" name="Customs Procedures" article_identifier="35416">1. The EC Party and the Pacific States agree that their respective
+  customs legislation, provisions and procedures shall draw upon the
+  international instruments and standards applicable in the field of
+  customs and trade, including the substantive elements of the revised
+  Kyoto Convention on the Simplification and Harmonization of Customs
+  Procedures, the WCO Framework of Standards to Secure and Facilitate
+  Global Trade, the WCO data set and the Convention on the Harmonized
+  Commodity Description and Coding System.
+
+  2. The EC Party and the Pacific States agree that their respective
+  trade and customs legislation, provisions and procedures shall be
+  based upon:
+
+  (a) the need to protect and facilitate legitimate trade through
+  effective enforcement of and compliance with legislative requirements;
+
+  (b) the need to avoid unnecessary or discriminatory burdens on
+  economic operators, to provide safeguards against fraud, to provide
+  simplified procedures for compliant traders and to encourage
+  compliance, as well as the need to avoid applying excessive penalties
+  for minor breaches of customs regulations or procedural requirements;
+
+  (c) the application of modern customs techniques, including risk
+  assessment, simplified procedures for entry and release of goods, post
+  release controls, and company audit methods;
+
+  (d) the progressive development of systems, including those based upon
+  Information Technology, to facilitate the electronic exchange of data
+  between traders, customs administrations and other related agencies;
+
+  (e) the need to facilitate transit movements;
+
+  (f) the need to avoid any requirement for the mandatory use of customs
+  brokers. Transparent, non-discriminatory and proportionate rules in
+  respect of the licensing of customs brokers shall apply;
+
+  (g) the need to avoid, except in exceptional circumstances, any
+  requirements for the mandatory use of pre-shipment inspections, as
+  defined by the WTO Agreement on Pre-Shipment Inspections, or their
+  equivalent.
+
+  3. The implementation of paragraph 1 and paragraph 2 (c) and (d) of
+  this Article by Small Island States shall be done as appropriate,
+  taking into account the small size and capacity of their
+  administrations.
+
+  4. The Parties agree that:
+
+  (a) a single administrative document or electronic equivalent should
+  be applied in the EC Party and the Pacific States respectively. The
+  Pacific States will continue efforts to this end, with a view to
+  implementation at an early stage during the life of this Agreement. A
+  joint review of the situation will be carried out five years after the
+  entry into force of the Agreement;
+
+  (b) a system of binding rulings on customs matters should be provided,
+  notably on tariff classification and rules of origin, in accordance
+  with rules laid down in their respective legislation.
+
+  5. In order to improve working methods, as well as to ensure
+  non-discrimination, transparency, efficiency, integrity and
+  accountability of operations, the Parties or the Pacific States, as
+  the case may be, shall:
+
+  (a) provide effective, prompt and non-discriminatory procedures
+  enabling the right of appeal against customs and other agency
+  administrative actions, rulings and decisions affecting imports,
+  exports or goods in transit. Procedures for appeal shall be easily
+  accessible, including to small or medium enterprises and any costs
+  shall be reasonable and commensurate with costs in providing for
+  appeals;
+
+  (b) ensure that measures are put in place in order to achieve high
+  standards of integrity in the customs service, in line with the
+  relevant international conventions and instruments in this field.</article>
+      <article number="ARTICLE 29" name="Relations Of Customs With The Business Community" article_identifier="35417">The EC Party and the Pacific States agree:
+
+  (a) to foster cooperation between operators and relevant
+  administrations;
+
+  (b) to ensure that all legislation, procedures and fees and charges
+  are made publicly available, wherever possible through electronic
+  means, together, where appropriate and possible, with the
+  justification for them;
+
+  (c) to make publicly available relevant notices of an administrative
+  nature, including agency requirements and entry procedures, hours of
+  operation and operating procedures for customs offices at ports and
+  border crossing points, and points of contact for information
+  enquiries;
+
+  (d) on the need, wherever possible, for timely and regular
+  consultation with the business community on legislative proposals and
+  procedures related to customs and trade issues. To this end,
+  appropriate mechanisms for regular consultations between
+  administrations and the business community, shall be established by
+  each Party;
+
+  (e) that new or amended legislation and procedures and their entry
+  into force should be introduced in a way that provides traders with
+  sufficient information in order to become well prepared for complying
+  with them;
+
+  (f) to work to ensure that their respective customs and related
+  requirements and procedures continue to meet the needs of the trading
+  community, follow best practices, and remain as little
+  trade-restrictive as possible.</article>
+      <article number="ARTICLE 30" name="Customs Valuation" article_identifier="35418">1. The Parties agree to apply Article VII of the GATT 1994 and the
+  Agreement on the Implementation of Article VII of the GATT 1994 to
+  trade in goods covered by Part II of this Agreement.
+
+  2. Notwithstanding paragraph 1, the Pacific States which are not
+  members of the WTO on the date of entry into force of this Agreement
+  shall apply rules on customs valuation consistently with Article VII
+  of the GATT 1994 and the Agreement on the Implementation of Article
+  VII of the GATT 1994 to trade in goods covered by Part II of this
+  Agreement within five years of this Agreement coming into force.</article>
+      <article number="ARTICLE 31" name="Harmonisation Of Customs Standards At Regional Level" article_identifier="35419">1. The Parties shall promote regional integration in the field of
+  customs and shall strive to develop common legislation, procedures and
+  requirements, in line with the relevant international standards.
+
+  2. A regular follow-up of the implementation of the provisions of this
+  Article shall be carried out.</article>
+      <article number="ARTICLE 32" name="Review Clause" article_identifier="35420">The Parties agree to review the implementation of this Chapter no
+  later than three years after the entry into force of this Agreement,
+  with a view to determining further steps to be taken.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Technical Barriers To Trade And Sanitary And Phytosanitary Measures" chapter_identifier="4104">
+      <article number="ARTICLE 33" name="Scope And Definitions" article_identifier="35421">1. The provisions of this Chapter shall apply to technical
+  regulations, standards and conformity assessment procedures
+  (hereinafter referred to as "TBT measures"), as defined in
+  the WTO Agreement on Technical Barriers to Trade (hereinafter referred
+  to as "the TBT Agreement"), and to Sanitary and
+  Phytosanitary Measures (hereinafter referred to as "SPS
+  measures"), as defined in the WTO Agreement on the Application of
+  Sanitary and Phytosanitary Measures (hereinafter referred to as
+  "the SPS Agreement"), in so far as they affect trade covered
+  by Part II of this Agreement.
+
+  2. For the purposes of this Chapter the definitions used by the TBT
+  Agreement and the SPS Agreement shall apply.</article>
+      <article number="ARTICLE 34" name="Objectives" article_identifier="35422">1. The Parties agree to cooperate in order to facilitate and increase
+  trade in goods between them, by identifying, preventing and
+  eliminating obstacles to trade arising from TBT and SPS measures.
+
+  2. The Parties agree to cooperate to strengthen regional trade in
+  Pacific regional integration and cooperation on matters concerning TBT
+  and SPS measures.
+
+  3. The Parties shall cooperate to facilitate compliance with SPS
+  measures applying to exports, whilst safeguarding human, animal and
+  plant safety and health, in particular through building the capacity
+  of the public and private sectors in the Pacific States and assisting
+  the Pacific States to improve their regulatory frameworks and related
+  institutions.
+
+  4. The Parties shall cooperate with a view to reinforcing regional
+  integration and promoting the capacity of private and public sectors
+  to comply with TBT and SPS measures.</article>
+      <article number="ARTICLE 35" name="Priority Products" article_identifier="35423">To better achieve the objectives of this Chapter, the Parties agree to
+  define a list of priority products for export from the Pacific States
+  to the EC Party and a list of priority products for trade among the
+  Pacific States. These lists shall be contained in Annex III. A and
+  III. B respectively, which shall be reviewed and may be modified by a
+  decision of the Trade Committee as and when appropriate.</article>
+      <article number="ARTICLE 36" name="Rights And Obligations" article_identifier="35424">1. The Parties agree to apply the SPS and TBT agreements to trade in
+  goods covered by Part II of this Agreement.
+
+  2. Notwithstanding paragraph 1, the SPS and TBT-related measures of
+  the Pacific States that are not WTO members on the date of entry into
+  force of this Agreement shall be applied in accordance with the
+  requirements of the SPS and TBT agreements.
+
+  3. The EC Party will take full account of the capacity constraints in
+  the short-term of non-WTO members to comply with the provisions of
+  this Article.
+
+  4. Where necessary and possible, the Parties agree that the provisions
+  concerning special and differential treatment in the WTO SPS and TBT
+  agreements are applicable to the trade between the Parties to this
+  Agreement, including Pacific States that are not WTO members.</article>
+      <article number="ARTICLE 37" name="Equivalence" article_identifier="35425">1. The Parties recognise the importance of making operational the
+  provisions of Article 4 of the SPS Agreement and enabling the Pacific
+  States to have the equivalence of their SPS measures recognised by
+  developed importing countries.
+
+  2. The Parties reaffirm the Decision on the implementation of Article
+  4 of the Agreement on the Application of Sanitary and Phytosanitary
+  Measures of 23 July 2004 of the WTO Committee on Sanitary and
+  Phytosanitary Measures. The EC Party agrees to give due consideration
+  to reasonable requests from one or more of the Pacific States to
+  examine the equivalence of their SPS measures in areas of particular
+  export interest to the Pacific States.</article>
+      <article number="ARTICLE 38" name="Competent Authorities" article_identifier="35426">1. The respective SPS authorities of the Parties shall be the
+  competent authorities in the Pacific States and in the EC Party for
+  the implementation of the measures referred to in this Chapter.
+
+  2. The Parties shall, in accordance with this Agreement, inform each
+  other of their respective competent SPS authorities and of any changes
+  thereto.</article>
+      <article number="ARTICLE 39" name="Resolution Of Sps And Tbt Problems" article_identifier="35427">1. The Parties shall provide the necessary information to facilitate
+  access to information on TBT-related and SPS measures and their
+  implementation and enforcement, and future developments in these
+  areas, and to facilitate the avoidance and/or resolution of any
+  difficulties that might arise between the EC Party and the Pacific
+  States.
+
+  2. The Parties shall inform and consult each other as early as
+  possible with a view to finding a mutually agreed solution when a TBT
+  or SPS measure results in a barrier to trade.
+
+  3. Nothing in this Chapter shall impair the rights of the Parties
+  under other international agreements, including the right to resort to
+  the good offices or dispute settlement mechanisms of international
+  organisations or those established under any international agreement.</article>
+      <article number="ARTICLE 40" name="Transparency And Exchange Of Information" article_identifier="35428">1. The Parties confirm their commitments to implement the transparency
+  provisions set out in the SPS Agreement and the TBT Agreement to
+  facilitate access to relevant information on TBT or SPS measures.
+
+  2. The EC Party agrees to cooperate with initiatives of the Pacific
+  States to establish a mechanism to permit efficient notifications of
+  TBT and SPS measures at a regional level.
+
+  3. The Parties shall endeavour to inform each other at an early stage
+  of proposals to modify or introduce TBT or SPS measures that may
+  affect trade between the Parties, where appropriate making use of
+  existing systems.
+
+  4. In particular with regard to TBT measures, the Parties agree, inter
+  alia, to:
+
+  (a) intensify their collaboration, with a view to facilitating access
+  to their respective markets, by increasing the mutual knowledge and
+  understanding of their respective systems in the field of technical
+  regulations, standards, metrology, accreditation and conformity
+  assessment;
+
+  (b) exchange information, identify and implement appropriate
+  mechanisms for particular issues or sectors, e.g., alignment to
+  international standards and reliance on the supplier's declaration of
+  conformity;
+
+  (c) develop common views and approaches on technical regulatory
+  practices, including transparency, consultation, proportionality, the
+  use of international standards, conformity assessment, and market
+  surveillance.</article>
+      <article number="ARTICLE 41" name="Implementation" article_identifier="35429">The Parties agree that the Trade Committee shall be competent under
+  this Chapter to:
+
+  (a) monitor and review its implementation;
+
+  (b) provide coordination and consultation on TBT and SPS issues;
+
+  (c) identify and review priority sectors and products and the
+  resulting priority areas for cooperation; and
+
+  (d) make recommendations for modifications to this Chapter.
+
+  Exceptions</article>
+      <article number="ARTICLE 42" name="General Exception Clause" article_identifier="35430">Subject to the requirement that such measures are not applied in a
+  manner which would constitute a means of arbitrary or unjustifiable
+  discrimination between the Parties where like conditions prevail, or a
+  disguised restriction on trade in goods, services or establishment,
+  nothing in this Agreement shall be construed to prevent the adoption
+  or enforcement by the EC Party or Pacific States of measures which:
+
+  (a) are necessary to protect public security and public morals or to
+  maintain public order;
+
+  (b) are necessary to protect human, animal or plant life or health;
+
+  (c) are necessary to secure compliance with laws or regulations not
+  inconsistent with the provisions of this Agreement, including those
+  relating to:
+
+  (i) the prevention of deceptive and fraudulent practices or to deal
+  with the effects of a default on contracts;
+
+  (ii) the protection of the privacy of individuals in relation to the
+  processing and dissemination of personal data and the protection of
+  confidentiality of individual records and accounts;
+
+  (iii) safety;
+
+  (iv) customs enforcement; or
+
+  (v) protection of intellectual property rights;
+
+  (d) relate to the importation or exportation of gold or silver;
+
+  (e) are necessary for the protection of national treasures of
+  artistic, historic or archaeological value;
+
+  (f) relate to the conservation of exhaustible natural resources if
+  such measures are made effective in conjunction with restrictions on
+  domestic production or consumption of goods, domestic supply or
+  consumption of services and on domestic investors;
+
+  (g) relate to the products of prison labour; or
+
+  (h) are inconsistent with Article 23, provided that the difference in
+  treatment is aimed at ensuring the effective or equitable imposition
+  or collection of direct taxes in respect of economic activities,
+  investors or service suppliers of the EC Party or a Pacific State.</article>
+      <article number="ARTICLE 43" name="Security Exceptions" article_identifier="35431">1. Nothing in this Agreement shall be construed:
+
+  (a) to require the EC Party or a Pacific State to furnish any
+  information the disclosure of which it considers contrary to its
+  essential security interests;
+
+  (b) to prevent the EC Party or a Pacific State from taking any action
+  which it considers necessary for the protection of its essential
+  security interests:
+
+  (i) relating to fissionable and fusionable materials or the materials
+  from which they are derived;
+
+  (ii) relating to economic activities carried out directly or
+  indirectly for the purpose of supplying or provisioning a military
+  establishment;
+
+  (iii) connected with the production of or trade in arms, munitions and
+  war materials;
+
+  (iv) relating to government procurement indispensable for national
+  security or for national defence purposes; or
+
+  (v) taken in time of war or other emergency in international
+  relations; or
+
+  (c) to prevent the EC Party or a Pacific State from taking any action
+  in order to carry out obligations it has accepted for the purpose of
+  maintaining international peace and security.
+
+  2. The Trade Committee shall be informed to the fullest extent
+  possible of measures taken under paragraphs 1(b) and (c) and of their
+  termination.</article>
+      <article number="ARTICLE 44" name="Taxation" article_identifier="35432">1. Nothing in this Agreement or in any arrangement adopted under this
+  Agreement shall be construed to prevent the EC Party or a Pacific
+  State from distinguishing, in the application of the relevant
+  provisions of their fiscal legislation, between taxpayers who are not
+  in the same situation, in particular with regard to their place of
+  residence or with regard to the place where their capital is invested.
+
+  2. Nothing in this Agreement or in any arrangement adopted under this
+  Agreement shall be construed to prevent the adoption or enforcement of
+  any measure aimed at preventing the avoidance or evasion of taxes
+  pursuant to the tax provisions of agreements to avoid double taxation
+  or other tax arrangements or domestic fiscal legislation.
+
+  3. Nothing in this Agreement shall affect the rights and obligations
+  of the EC Party or a Pacific State under any tax convention. In the
+  event of any inconsistency between this Agreement and any such
+  convention, that convention shall prevail to the extent of the
+  inconsistency.</article>
+      <article number="ARTICLE 45" name="Balance Of Payments Difficulties" article_identifier="35433">1. Where a Pacific State or the EC Party is in serious balance of
+  payments and external financial difficulties, or under threat thereof,
+  and in particular where a Party or Pacific State determines that:
+
+  (a) there is a serious decline or an imminent threat of serious
+  decline in its monetary reserves, or in the case of a Pacific State
+  with very low monetary reserves, its monetary reserves have failed to
+  achieve a reasonable rate of increase;
+
+  (b) there is a serious decline in its fiscal position due to a decline
+  in government revenue from the collection of customs duties; or
+
+  (c) there has been a natural disaster that has or is likely to cause a
+  serious decline in government revenue or private sector revenue,
+
+  that Party or Pacific State may impose or increase tariffs for the
+  minimum period necessary and to the minimum extent necessary to arrest
+  or prevent the serious decline in reserves, or to enable reserves to
+  increase at a reasonable rate, or to arrest or prevent a serious
+  decline in the fiscal position.
+
+  2. The Pacific States and the EC Party shall endeavour to avoid the
+  application of the restrictive measures referred to in paragraph 1.
+
+  3. Parties or Pacific States applying restrictions under this Article
+  may determine the incidence of the restrictions on imports of
+  different products or classes of products in such a way as to give
+  priority to the importation of those products which are more
+  essential.
+
+  4. Any restrictive measure adopted or maintained under this Article
+  shall be consistent with any WTO and IMF obligations of the Party or
+  Pacific State adopting or maintaining the restrictive measure. The
+  Party or Pacific State adopting and maintaining the restrictive
+  measure shall take all reasonable steps to ensure that the measure
+  does not disproportionately impact on imports covered by this
+  Agreement from another Party.
+
+  5. Any restricted measure adopted or maintained under this Article
+  shall be non-discriminatory, of limited duration, shall not go beyond
+  what is necessary to remedy the balance of payments and external
+  financial situation and shall:
+
+  (a) avoid unnecessary damage to the commercial or economic interests
+  of any other Party or Pacific State;
+
+  (b) not prevent unreasonably the importing of any goods in minimum
+  commercial quantities, the exclusion of which would impair regular
+  channels of trade; and
+
+  (c) not prevent the importing of commercial samples or prevent
+  compliance with patent, trade mark, copyright, or similar procedures.
+
+  6. Any Pacific State or the EC Party maintaining or having adopted
+  restrictive measures, or any changes thereto, shall promptly notify
+  them to the Party or Pacific States from which the affected imports
+  originate and present, as soon as possible, a time schedule for their
+  removal.
+
+  7. Consultation shall be held promptly between the Party or Pacific
+  State adopting and maintaining the restrictive measure and the Party
+  or Pacific States from which the affected imports originate. Such
+  consultations shall assess the balance of payments situation of the
+  concerned Pacific State or the EC Party and the restrictions adopted
+  or maintained under this Article, taking into account, inter alia,
+  such factors as:
+
+  (a) the nature and extent of the balance of payments and the external
+  financial difficulties;
+
+  (b) the external economic and trading environment;
+
+  (c) alternative corrective measures which may be available.
+
+  The consultations shall address the compliance of any restrictive
+  measures with paragraphs 3 and 4. All findings of statistical and
+  other facts presented by the International Monetary Fund relating to
+  foreign exchange, monetary reserves and balance of payments shall be
+  accepted and conclusions shall be based on the assessment by the Fund
+  of the balance of payments and the external financial situation of the
+  Pacific State concerned or the EC Party.
+
+  8. If there is a persistent and widespread application of restrictions
+  under this Article, indicating the existence of a general
+  disequilibrium which is restricting international trade, the EC Party
+  and the Pacific States shall review the Agreement to consider whether
+  other measures might be taken to remove the underlying causes of the
+  disequilibrium.</article>
+      <article number="ARTICLE 46" name="Food Security" article_identifier="35434">1. The Parties acknowledge that the removal of barriers to trade
+  between the Parties, as envisaged in this Agreement, may pose
+  significant challenges to producers in the agricultural and food
+  sectors of a Party or a Pacific State, and agree to consult with each
+  other on these issues.
+
+  2. Where compliance with the provisions of this Agreement leads to
+  problems with the availability of, or access to, foodstuffs or other
+  products essential to ensure food security of a Party or Pacific State
+  and where this situation gives rise or is likely to give rise to major
+  difficulties for such a Party or Pacific State, that Party or Pacific
+  State may take appropriate measures in accordance with the procedures
+  laid down in Article 21, paragraph 2(c).
+
+  DISPUTE AVOIDANCE AND SETTLEMENT</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Objective And Scope" chapter_identifier="4105">
+      <article number="ARTICLE 47" name="Objective" article_identifier="35435">The objective of this Part is to avoid and settle any dispute between
+  the EC Party and the Pacific States with a view to arriving at a
+  mutually agreed solution.</article>
+      <article number="ARTICLE 48" name="Scope" article_identifier="35436">1. This Part shall apply to any dispute concerning the interpretation
+  and application of this Agreement except where otherwise expressly
+  provided for in this Agreement.
+
+  2. Notwithstanding paragraph 1, the procedure set out in Article 98 of
+  the Cotonou Agreement shall be applicable in the event of a dispute
+  concerning development finance cooperation as provided for by the
+  Cotonou Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Consultations And Mediation" chapter_identifier="4106">
+      <article number="ARTICLE 49" name="Consultations" article_identifier="35437">1. The Parties shall endeavour to resolve any dispute referred to in
+  Article 48 by entering into consultations in good faith with the aim
+  of reaching an agreed solution.
+
+  2. A Party shall seek consultations by means of a written request to
+  the other Party, copied to the Trade Committee, identifying the
+  measure at issue and the provisions of the Agreement that it considers
+  the measure not to be in conformity with.
+
+  3. Consultations shall be held within 40 days of the date of the
+  submission of the request. The consultations shall be deemed concluded
+  within 60 days of the date of the submission of the request, unless
+  both Parties to the dispute agree to continue consultations. All
+  information disclosed during the consultations shall remain
+  confidential.
+
+  4. Consultations on matters of urgency, including those regarding
+  perishable or seasonal goods shall be held within 15 days of the date
+  of the submission of the request, and shall be deemed concluded within
+  30 days of the date of the submission of the request.
+
+  5. If consultations are not held within the timeframes laid down in
+  this Article, or if consultations have been concluded and no agreement
+  has been reached on a mutually agreed solution, the complaining Party
+  may request the establishment of an arbitration panel in accordance
+  with Article 51.</article>
+      <article number="ARTICLE 50" name="Mediation" article_identifier="35438">1. If consultations fail to produce a mutually agreed solution, the
+  Parties to the dispute may, by agreement, seek recourse to a mediator.
+  Unless the Parties to the dispute agree otherwise, the terms of
+  reference for the mediation shall be the matter referred to in the
+  request for consultations.
+
+  2. Unless the Parties to the dispute agree on a mediator within ten
+  days of the date of the agreement to request mediation, the presiding
+  co-chair of the Trade Committee, or his or her delegate, shall select
+  by lot a mediator from the pool of individuals who are on the list
+  referred to in Article 65 and are not nationals of either Party to the
+  dispute. The selection shall be made within 20 days of the date of the
+  submission of agreement to request mediation and in the presence of a
+  representative of each Party to the dispute. The mediator will convene
+  a meeting with the Parties to the dispute no later than 30 days after
+  being selected. The mediator shall receive the submissions of each
+  Party to the dispute no later than 15 days before the meeting and
+  notify an opinion no later than 45 days after having been selected.
+
+  3. The mediator's opinion may include a recommendation on how to
+  resolve the dispute consistent with the provisions of this Agreement.
+  The mediator's opinion is non-binding.
+
+  4. The Parties to the dispute may agree to amend the time limits
+  referred to in paragraph 2. The mediator may also decide to amend
+  these time limits upon request of any of the Parties to the dispute or
+  on his own initiative, given the particular difficulties experienced
+  by the Party concerned or the complexities of the case.
+
+  5. The proceedings involving mediation, in particular all information
+  disclosed and positions taken by the Parties to the dispute during
+  these proceedings shall remain confidential.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Dispute Settlement Procedures" chapter_identifier="4107">
+      <article number="ARTICLE 51" name="Initiation Of The Arbitration Procedure" article_identifier="35439">1. Where the Parties to the dispute have failed to resolve the dispute
+  by recourse to consultations as provided for in Article 49, and, if
+  applicable, by recourse to mediation as provided for in Article 50,
+  the complaining Party may request the establishment of an arbitration
+  panel.
+
+  2. The request for the establishment of an arbitration panel shall be
+  made in writing to the Party complained against and the Trade
+  Committee. The complaining Party or Pacific State shall identify in
+  its request the specific measures at issue, and it shall explain how
+  such measures constitute a breach of the provisions of this Agreement.</article>
+      <article number="ARTICLE 52" name="Establishment Of The Arbitration Panel" article_identifier="35440">1. An arbitration panel shall be composed of three arbitrators.
+
+  2. Within ten days of the date of the submission of the request for
+  the establishment of an arbitration panel to the Trade Committee, the
+  Parties to the dispute shall consult each other in order to reach an
+  agreement on the composition of the arbitration panel.
+
+  3. In the event that the Parties to the dispute are unable to agree on
+  its composition within the time frame laid down in paragraph 2, either
+  Party may request the presiding co-chair of the Trade Committee, or
+  her or his delegate, to select all three members by lot from the list
+  established under Article 65, one among the individuals proposed by
+  the complaining Party or Pacific State, one among the individuals
+  proposed by the Party or Pacific State complained against and one
+  among the individuals selected by the Parties to act as chairperson.
+  Where the Parties agree on one or more of the members of the
+  arbitration panel, any remaining members shall be selected by the same
+  procedure.
+
+  4. The presiding co-chair of the Trade Committee, or her or his
+  delegate, shall select the arbitrators within five days of the request
+  referred to in paragraph 3 by either Party and in the presence of a
+  representative of each Party.
+
+  5. The date of establishment of the arbitration panel shall be the
+  date on which the three arbitrators are selected.</article>
+      <article number="ARTICLE 53" name="Interim Panel Report" article_identifier="35441">The arbitration panel shall notify to the Parties an interim report
+  containing both the descriptive section and its findings and
+  conclusions, as a general rule, not later than 120 days from the date
+  of establishment of the arbitration panel. Any Party to the dispute
+  may submit written comments to the arbitration panel on precise
+  aspects of its interim report within 15 days of the notification of
+  the report.</article>
+      <article number="ARTICLE 54" name="Arbitration Panel Ruling" article_identifier="35442">1. The arbitration panel shall notify its ruling to the Parties to the
+  dispute and to the Trade Committee within 150 days from the date of
+  the establishment of the arbitration panel. Where it considers that
+  this deadline cannot be met, the chairperson of the arbitration panel
+  must notify the Parties to the dispute and the Trade Committee in
+  writing, stating the reasons for the delay and the date on which the
+  panel plans to conclude its work. Under no circumstances should the
+  ruling be notified later than 180 days from the date of the
+  establishment of the arbitration panel.
+
+  2. In cases of urgency, including those involving perishable and
+  seasonal goods, the arbitration panel shall make every effort to
+  notify its ruling within 75 days from the date of its establishment.
+  Under no circumstance should it take longer than 90 days from its
+  establishment. The arbitration panel may give a preliminary ruling
+  within 10 days of its establishment on whether it deems the case to be
+  urgent.
+
+  Compliance</article>
+      <article number="ARTICLE 55" name="Compliance With The Arbitration Panel Ruling" article_identifier="35443">Each Party to the dispute or as the case may be, the relevant Pacific
+  State shall take any measure necessary to comply with the arbitration
+  panel ruling, and the Parties to the dispute will endeavour to agree
+  on the period of time to comply with the ruling.</article>
+      <article number="ARTICLE 56" name="The Reasonable Period Of Time For Compliance" article_identifier="35444">1. No later than 30 days after the notification of the arbitration
+  panel ruling to the Parties to the dispute, the Party complained
+  against shall notify the complaining Party and the Trade Committee of
+  the time it will require for compliance (reasonable period of time).
+
+  2. If there is disagreement between the Parties to the dispute on the
+  reasonable period of time to comply with the arbitration panel ruling,
+  the complaining Party shall, within 20 days of the notification made
+  under paragraph 1, request in writing the arbitration panel to
+  determine the length of the reasonable period of time. Such request
+  shall be notified simultaneously to the other Party to the dispute and
+  to the Trade Committee. The arbitration panel shall notify its ruling
+  to the Parties to the dispute and to the Trade Committee within 30
+  days from the date of the submission of the request.
+
+  3. The arbitration panel shall, in determining the length of the
+  reasonable period of time, take into consideration the length of time
+  that it will normally take the Party complained against or, as the
+  case may be, the relevant Pacific State to adopt comparable
+  legislative or administrative measures to those identified by such
+  Party or as the case may be, the relevant Pacific State as being
+  necessary to ensure compliance. The arbitration panel shall also take
+  into consideration capacity constraints which may affect the defending
+  Party's adoption of the necessary measures.
+
+  4. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures set out in Article
+  52 shall apply. The time limit for notifying the ruling shall be 45
+  days from the date of the submission of the request referred to in
+  paragraph 2.
+
+  5. The reasonable period of time may be extended by agreement of the
+  Parties to the dispute.</article>
+      <article number="ARTICLE 57" name="Review Of Any Measure Taken To Comply With The Arbitration Panel" article_identifier="35445">ruling
+
+  1. The Party complained against shall notify the other Party and the
+  Trade Committee before the end of the reasonable period of time of any
+  measure that it has taken to comply with the arbitration panel ruling.
+
+  2. In the event that there is disagreement between the Parties to the
+  dispute concerning the compatibility of any measure notified under
+  paragraph 1, with the provisions of this Agreement, the complaining
+  Party may request in writing the arbitration panel to rule on the
+  matter. Such request shall identify the specific measure at issue and
+  it shall explain how such measure is incompatible with the provisions
+  of this Agreement. The arbitration panel shall notify its ruling
+  within 90 days of the date of the submission of the request. In cases
+  of urgency, including those involving perishable and seasonal goods,
+  the arbitration panel shall notify its ruling within 45 days of the
+  date of the submission of the request.
+
+  3. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures set out in Article
+  52 shall apply. The time limit for notifying the ruling shall be 105
+  days from the date of the submission of the request referred to in
+  paragraph 2.</article>
+      <article number="ARTICLE 58" name="Temporary Remedies In Case Of Non-Compliance" article_identifier="35446">1. If the Party or Pacific State concerned fails to notify any measure
+  taken to comply with the arbitration panel ruling before the expiry of
+  the reasonable period of time, or if the arbitration panel rules that
+  the measure notified under Article 57, paragraph 1 is not compatible
+  with the provisions of this Agreement, the Party complained against
+  or, as the case may be, the relevant Pacific State shall, if so
+  requested by the complaining Party or Pacific State, present an offer
+  for compensation. Such compensation may include or consist of
+  financial compensation although nothing in this Agreement shall oblige
+  the Party complained against, or as the case may be, the relevant
+  Pacific State, to offer such financial compensation.
+
+  2. If no agreement on compensation is reached within 30 days of the
+  end of the reasonable period of time or of the arbitration panel’s
+  ruling under Article 57 that a measure taken to comply is not
+  compatible with the provisions of this Agreement, the complaining
+  Party or Pacific State shall be entitled, upon notification to the
+  other Party, to adopt appropriate measures. Such measures may be
+  adopted either by the complaining Party, or as the case may be, the
+  relevant Pacific State.
+
+  3. In adopting appropriate measures, the complaining Party, or as the
+  case may be, the relevant Pacific State, shall select measures
+  proportionate to the violation that least affect the attainment of the
+  objectives of this Agreement and shall take into consideration their
+  impact on the economy or development of the Party or individual
+  Pacific States complained against.
+
+  4. The EC Party shall exercise due restraint in adopting appropriate
+  measures pursuant to paragraphs 1 and 2 of this Article, in
+  particular, where the failure to comply with the Agreement stems from
+  capacity constraints.
+
+  5. Compensation or appropriate measures shall be temporary and shall
+  be applied only until any measure found to violate the provisions of
+  this Agreement has been withdrawn or amended so as to bring it into
+  conformity with those provisions or until the Parties have agreed to
+  settle the dispute.</article>
+      <article number="ARTICLE 59" name="Review Of Any Measure Taken To Comply After The Adoption Of Appropriate Measures" article_identifier="35447">1. The Party or Pacific State complained against shall notify the
+  other Party or Pacific State to the dispute and the Trade Committee of
+  any measure it has taken to comply with the ruling of the arbitration
+  panel and of its request for an end to application of appropriate
+  measures by the complaining Party or Pacific State.
+
+  2. If the Parties to the dispute do not reach an agreement on the
+  compatibility of the notified measure with the provisions of this
+  Agreement within 30 days of the date of the submission of the
+  notification, the complaining Party or Pacific State shall request in
+  writing the arbitration panel to rule on the matter. Such request
+  shall be notified to the other Party or Pacific State to the dispute
+  and to the Trade Committee. The arbitration panel ruling shall be
+  notified to the Parties to the dispute and to the Trade Committee
+  within 45 days of the date of the submission of the request. If the
+  arbitration panel rules that any measure taken to comply is not in
+  conformity with the provisions referred to in this Agreement, the
+  arbitration panel will determine whether the complaining Party or, as
+  the case may be, the relevant Pacific State can continue to apply
+  appropriate measures. If the arbitration panel rules that any measure
+  taken to comply is in conformity with the provisions of this
+  Agreement, the appropriate measures shall be terminated.
+
+  3. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures laid down in
+  Article 52 shall apply. The period for notifying the ruling shall be
+  60 days from the date of the submission of the request referred to in
+  paragraph 2.
+
+  Common provisions</article>
+      <article number="ARTICLE 60" name="Mutually Agreed Solution" article_identifier="35448">The Parties to the dispute may reach an agreed solution to a dispute
+  under Part III at any time. They shall notify the Trade Committee of
+  any such solution. Upon adoption of the mutually agreed solution, the
+  procedure shall be terminated.</article>
+      <article number="ARTICLE 61" name="Rules Of Procedure And Code Of Conduct" article_identifier="35449">1. Dispute settlement procedures under Part III of this Agreement
+  shall be governed by the Rules of Procedure and the Code of Conduct
+  which shall be adopted by the Parties.
+
+  2. The Parties may decide to modify the Rules of Procedure and the
+  Code of Conduct.
+
+  3. Any meeting of the arbitration panel shall be open to the public in
+  accordance with the Rules of Procedure, unless the arbitration panel
+  decides otherwise on its own motion or at the request of the Parties
+  to the dispute.</article>
+      <article number="ARTICLE 62" name="Information And Technical Advice" article_identifier="35450">At the request of a Party to the dispute, or upon its own initiative,
+  the arbitration panel may obtain information from any source,
+  including the Parties involved in the dispute, it deems appropriate
+  for the arbitration panel proceeding. The arbitration shall also have
+  the right to seek the relevant opinion of experts as it deems
+  appropriate. Interested parties are authorised to submit amicus curiae
+  briefs to the arbitration panels in accordance with the Rules of
+  Procedure. Any information obtained in this manner must be disclosed
+  to each of the Parties to the dispute and submitted for their
+  comments.</article>
+      <article number="ARTICLE 63" name="Languages Of The Submissions" article_identifier="35451">1. The written and oral submissions of the Parties to the dispute
+  shall be made in any of the official languages of the Parties.
+
+  2. The Parties shall endeavour to agree on a common working language
+  for any specific proceedings under this Part. If the Parties are
+  unable to agree on a common working language, each Party or Pacific
+  State shall arrange for and bear the costs of the translation of its
+  submitted documents and interpretation at the hearings into the
+  language chosen by the Party or Pacific State complained against,
+  unless such language is an official language of that Party or Pacific
+  State [4].</article>
+      <article number="ARTICLE 64" name="Arbitration Panel Rulings" article_identifier="35452">1. The arbitration panel shall make every effort to take any decision
+  by consensus. Where, nevertheless, a decision cannot be arrived at by
+  consensus, the matter at issue shall be decided by majority vote.
+
+  2. The ruling shall set out the findings of fact, the applicability of
+  the relevant provisions of this Agreement and the reasoning behind any
+  findings and conclusions that it makes. The Trade Committee shall make
+  the arbitration panel rulings publicly available unless it decides not
+  to do so.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="General Provisions" chapter_identifier="4108">
+      <article number="ARTICLE 65" name="List Of Arbitrators" article_identifier="35453">1. The Trade Committee shall, not later than three months after the
+  provisional application of this Agreement, establish a list of 15
+  individuals who are willing and able to serve as arbitrators. Each of
+  the Parties shall select five individuals to serve as arbitrators. The
+  two Parties shall also agree on five individuals who are not nationals
+  of either Party and who shall act as chairpersons of the arbitration
+  panel. The Trade Committee will ensure that the list is always
+  maintained at this level.
+
+  2. Arbitrators shall have specialised knowledge or experience of law
+  and international trade. They shall be independent, serve in their
+  individual capacities and not take instructions from any organisation
+  or government, or be affiliated with the government of any of the
+  Parties, and shall comply with the Code of Conduct annexed to the
+  Rules of Procedures.</article>
+      <article number="ARTICLE 66" name="Relation With Wto Obligations" article_identifier="35454">1. Arbitration bodies set up under this Agreement shall not arbitrate
+  disputes on each Party's or, as the case may be the relevant Pacific
+  State's rights and obligations under the Agreement establishing the
+  WTO.
+
+  2. Recourse to the dispute settlement provisions of this Agreement
+  shall be without prejudice to any action in the WTO framework,
+  including dispute settlement action. However, where a Party, or as the
+  case may be, the relevant Pacific State has, with regard to a
+  particular measure, instituted a dispute settlement proceeding, either
+  under Article 51(1) of this Agreement or under the WTO Agreement, it
+  may not institute a dispute settlement proceeding regarding the same
+  measure in the other forum until the first proceeding has ended. For
+  purposes of this paragraph, dispute settlement proceedings under the
+  WTO Agreement are deemed to be initiated by a Party's or, as the case
+  may be, Pacific State's request for the establishment of a panel under
+  Article 6 of the Understanding on Rules and Procedures Governing the
+  Settlement of Disputes of the WTO.
+
+  3. Nothing in this Agreement shall preclude a Party or Pacific State
+  from implementing the suspension of obligations authorised by the
+  Dispute Settlement Body of the WTO. Nothing in the WTO Agreement shall
+  preclude Parties from suspending benefits under this Agreement.</article>
+      <article number="ARTICLE 67" name="Time-Limits" article_identifier="35455">1. All time limits laid down in this Part, including the limits for
+  the arbitration panels to notify their rulings, shall be counted in
+  calendar days from the day following the act or fact to which they
+  refer.
+
+  2. Any time limit referred to in this Part may be extended by mutual
+  agreement of the Parties to the dispute.</article>
+    </chapter>
+    <chapter number="PART IV" name="Institutional Provisions" chapter_identifier="4109">
+      <article number="ARTICLE 68" name="Trade Committee" article_identifier="35456">1. A Trade Committee is hereby established that is composed of
+  representatives of the Parties.
+
+  2. The Trade Committee shall establish its rules of procedure and be
+  co-chaired by a representative of the EC Party and a representative
+  from the Pacific States. The two co-chairs shall alternate in
+  presiding the meetings. Whoever is presiding a meeting shall be
+  considered "presiding co-chair" for the purposes of this
+  Agreement until the moment in time when the next meeting commences and
+  the role of a presiding co-chair shall be assumed by the other Party.
+
+  3. The Trade Committee shall deal with all matters necessary for the
+  implementation of this Agreement.
+
+  4. In the performance of its functions, the Trade Committee may:
+
+  (a) set up and oversee any special committees or bodies necessary for
+  the implementation of this Agreement;
+
+  (b) meet at any time agreed by the Parties;
+
+  (c) consider any issues under this Agreement and take appropriate
+  action in the exercise of its functions; and
+
+  (d) take decisions or make recommendations in cases provided for in
+  this Agreement.
+
+  5. The Trade Committee will delegate specific implementing
+  decision-making powers to the special committees as provided for in
+  the relevant provisions of the Agreement, in particular the Special
+  Committee on Customs Cooperation and Rules of Origin.</article>
+    </chapter>
+    <chapter number="PART V" name="General And Final Provisions" chapter_identifier="4110">
+      <article number="ARTICLE 69" name="Modalities For The Continuation Of Negotiations" article_identifier="35457">1. The EC Party and the Pacific States covered by this Agreement are
+  committed to the continuation and successful conclusion of the
+  currently ongoing negotiations for a comprehensive Economic
+  Partnership Agreement (EPA) in line with the Cotonou Agreement and
+  previous Ministerial Declarations and Conclusions, including all
+  components and involving all interested countries in the Pacific
+  region. They confirm their commitment to the objective of concluding
+  those negotiations by 31 December 2008.
+
+  2. The Parties recognise that development cooperation will be a
+  crucial element of the comprehensive EPA and an essential factor for
+  the realisation of its objectives. They reaffirm their commitment to
+  supporting the objective that development cooperation for regional
+  economic cooperation and integration as provided for in the Cotonou
+  Agreement shall be carried out so as to maximise the expected benefits
+  of the comprehensive EPA.
+
+  3. The Parties note that this Interim Partnership Agreement does not
+  predetermine the positions that the region will be taking in the
+  negotiations for a comprehensive EPA on development cooperation. They
+  agree that provisions on development cooperation will be finalised in
+  the wider context of the Pacific ACP States as soon as possible. In
+  the meantime, they further agree to cooperate closely at the national
+  level within the framework of the existing structures as set out in
+  the Cotonou Agreement to facilitate implementation and the realisation
+  of benefits and maximise the synergies between development cooperation
+  and the objectives of this Agreement.
+
+  4. The full Economic Partnership Agreement shall, upon its entry into
+  force, replace this Agreement which will then cease to exist.</article>
+      <article number="ARTICLE 70" name="Definitions And Fulfilment Of Obligations" article_identifier="35458">1. For the purposes of this Agreement the "Contracting
+  Parties" shall be the European Community, referred to as the
+  "EC Party", on the one part, and Papua New Guinea and the
+  Republic of the Fiji Islands, referred to as the "Pacific
+  States", on the other part.
+
+  2. For the purposes of this Agreement:
+
+  (a) the term "Parties" shall refer to the Pacific States
+  listed in paragraph 1 acting collectively and the EC Party. The term
+  "Party" shall refer to the Pacific States listed in
+  paragraph 1 acting collectively or the EC Party, as the case may be;
+
+  (b) the term "Pacific States" shall refer to the Pacific
+  States listed in paragraph 1 acting individually.
+
+  3. For the purposes of this Agreement, where applicable "Small
+  Island States" means the Cook Islands, Kiribati, Nauru, Niue,
+  Palau, Republic of Marshall Islands and Tuvalu.
+
+  4. For the purposes of this Agreement, "least developed
+  country" means any Pacific State designated by the United Nations
+  as a least developed country on the entry into force of this
+  Agreement.
+
+  5. The Pacific States and the EC Party shall adopt any general or
+  specific measures required for them to fulfil their obligations under
+  this Agreement and shall ensure that they comply with the objectives
+  laid down in this Agreement.</article>
+      <article number="ARTICLE 71" name="Coordinators And Exchange Of Information" article_identifier="35459">1. In order to facilitate communication and to ensure the effective
+  implementation of the Agreement the Parties shall designate a
+  coordinator within a reasonable period of time after the provisional
+  application of this Agreement. The designation of coordinators is
+  without prejudice to the specific designation of competent authorities
+  under specific Titles or Chapters of this Agreement.
+
+  2. On the request of the Parties, the coordinators shall indicate the
+  office or official responsible for any matter pertaining to the
+  implementation of this Agreement and provide the required support to
+  facilitate communication with the requesting Party.
+
+  3. On request of the other Party, and to the extent legally possible,
+  the Parties through their coordinators shall provide information and
+  reply promptly to any question relating to an actual or proposed
+  measure that might affect trade between the Parties.
+
+  4. The EC Party and the Pacific States shall ensure that their laws,
+  regulations, procedures and administrative rulings of general
+  application relating to any trade matter covered by this Agreement are
+  promptly published or made publicly available, which may include
+  making the information available on the official, publicly and
+  fee-free accessible websites of the EC Party or Pacific States
+  concerned. Such measures shall also be brought to the attention of the
+  other Party.
+
+  5. Without prejudice to specific transparency provisions in this
+  Agreement, the information referred to in paragraph 4 shall be
+  considered to have been brought to the attention of the other Party
+  when the information has been made available by appropriate
+  notification to the WTO and to the coordinator of the Pacific States.</article>
+      <article number="ARTICLE 72" name="Regional Preference" article_identifier="35460">1. Nothing in this Agreement shall oblige the EC Party or a Pacific
+  State to extend to another Party to this Agreement any more favourable
+  treatment applied by the EC Party or a Pacific State as part of its
+  respective regional integration process.
+
+  2. Any more favourable treatment and advantage that may be granted
+  under this Agreement by any Pacific State to the EC Party shall also
+  be provided to all other Pacific States which are a Party to this
+  Agreement.</article>
+      <article number="ARTICLE 73" name="Relations With The Cotonou Agreement" article_identifier="35461">1. With the exception of development cooperation provisions provided
+  for in Title II of Part 3 of the Cotonou Agreement, in case of any
+  inconsistency between the provisions of this Agreement and the
+  provisions of Title II of Part 3 of the Cotonou Agreement, the
+  provisions of this Agreement shall prevail.
+
+  2. Nothing in this Agreement shall be construed so as to prevent the
+  application of all provisions of the Cotonou Agreement outside Title
+  II of Part 3 and according to the procedures set by the said
+  Agreement.</article>
+      <article number="ARTICLE 74" name="Relations With The Wto Agreement" article_identifier="35462">The EC Party and the Pacific States agree that nothing in this
+  Agreement requires the EC Party or the Pacific States, where
+  applicable, to act in a manner inconsistent with their existing WTO
+  obligations.</article>
+      <article number="ARTICLE 75" name="Relationship With Other International Agreements" article_identifier="35463">Nothing in this Agreement shall be regarded as exempting any Party
+  from its existing obligations, or abrogating the rights of any Party,
+  under any existing international agreement, unless a contrary
+  intention is expressly stated.</article>
+      <article number="ARTICLE 76" name="Entry Into Force And Duration" article_identifier="35464">1. This Agreement shall enter into force on the first day of the month
+  following the date on which the Contracting Parties have notified each
+  other in writing that their respective internal procedures necessary
+  for its entry into force have been completed.
+
+  2. Pending entry into force of the Agreement, the EC Party and Pacific
+  States agree to provisionally apply the Agreement. Such application
+  may be undertaken by provisional application pursuant to the laws of
+  the EC Party and of the Pacific States or by ratification of the
+  Agreement. The Agreement shall be applied provisionally 10 days after
+  the Contracting Parties have notified each other in writing of the
+  completion of the procedures necessary for this purpose.
+
+  3. Where a Pacific State accedes to this Agreement, the Agreement
+  shall be applied provisionally in the same manner as foreseen in
+  paragraph 2, once the EC Party and that Pacific State have given
+  notice accordingly.
+
+  4. Notwithstanding paragraph 2, the EC Party and the Pacific States
+  may take steps to apply the Agreement, before provisional application,
+  to the extent feasible.
+
+  5. Any Party may give written notice to the other of its intention to
+  denounce this Agreement.
+
+  6. Denunciation shall take effect twelve months after notification to
+  the other Party.</article>
+      <article number="ARTICLE 77" name="Territorial Application" article_identifier="35465">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Community applies and under
+  the conditions laid down in that Treaty, and, on the other hand, to
+  the territories of the Pacific States. References in this Agreement to
+  "territory" shall be understood in this sense.</article>
+      <article number="ARTICLE 78" name="Revision Clause" article_identifier="35466">The Trade Committee may review this Agreement, its implementation,
+  operation and performance where necessary and make appropriate
+  suggestions to the Parties for its amendment.</article>
+      <article number="ARTICLE 79" name="Outermost Regions And The European Community" article_identifier="35467">Nothing in this Agreement shall prevent the EC Party from applying
+  existing measures aimed at addressing the structural, social and
+  economic situation of the outermost region pursuant to Article 299(2)
+  of the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 80" name="Accession Of The Pacific Islands" article_identifier="35468">1. This Agreement shall remain open for accession of all Pacific
+  Island States party to the Cotonou Agreement and Pacific Islands whose
+  structural characteristics and economic and social situation are
+  comparable to those of the countries which are Parties to the Cotonou
+  Agreement on the basis of the submission of a GATT 1994 Article XXIV
+  compliant market access offer. Any request for accession shall be
+  presented to the Parties of this Agreement which will take a decision.
+
+  2. If the request is approved, the Pacific Island concerned shall
+  accede to this Agreement by depositing an act of accession which shall
+  be transmitted to the Contracting Parties.</article>
+      <article number="ARTICLE 81" name="Authentic Texts" article_identifier="35469">This Agreement is drawn up in duplicate in the Bulgarian, Czech,
+  Danish, Dutch, English, Estonian, Finnish, French, German, Greek,
+  Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese,
+  Romanian, Slovak, Slovenian, Spanish and Swedish languages, each of
+  these texts being equally authentic.</article>
+      <article number="ARTICLE 82" name="Annexes" article_identifier="35470">The Annexes and Protocols to this Agreement shall form an integral
+  part thereof.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="4111">
+      <article article_identifier="35471">IN WITNESS WHEREOF, the undersigned Plenipotentiaries have affixed
+  their signatures below this Agreement.
+
+  Съставено в Лондон на тридесети юли две хиляди и девета година
+
+  Hecho en Londres, el treinta de julio de dos mil nueve.
+
+  V Londýně dne třicátého července dva tisíce devět.
+
+  Udfærdiget i London den tredivte juli to tusind og ni.
+
+  Geschehen zu London am dreißigsten Juli zweitausendneun.
+
+  Kahe tuhande üheksanda aasta juulikuu kolmekümnendal päeval Londonis.
+
+  Έγινε στο Λονδίνο, στις τριάντα Ιουλίου δύο χιλιάδες εννιά.
+
+  Done at London on the thirtieth day of July in the year two thousand
+  and nine.
+
+  Fait à Londres, le trente juillet deux mille neuf.
+
+  Fatto a Londra, addì trenta luglio duemilanove.
+
+  Londonā, divi tūkstoši devītā gada trīsdesmitajā jūlijā.
+
+  Priimta du tūkstančiai devintų metų liepos trisdešimtą dieną Londone.
+
+  Kelt Londonban, a kétezer-kilencedik év július harmincadik napján.
+
+  Magħmul f’Londra, fit-tletin jum ta’ Lulju tas-sena elfejn u disgħa.
+
+  Gedaan te Londen, de dertigste juli tweeduizend negen.
+
+  Sporządzono w Londynie dnia trzydziestego lipca roku dwa tysiące
+  dziewiątego.
+
+  Feito em Londres, em trinta de Julho de dois mil e nove.
+
+  Încheiat la Londra, la treizeci iulie două mii nouă.
+
+  V Londýne dňa tridsiateho júla dvetisícdeväť.
+
+  V Londonu, dne tridesetega julija leta dva tisoč devet.
+
+  Tehty Lontoossa kolmantenakymmenentenä päivänä heinäkuuta vuonna
+  kaksituhattayhdeksän.
+
+  Som skedde i London den trettionde juli tjugohundranio.
+
+  За Европейската общност
+
+  Por la Comunidad Europea
+
+  Za Evropské společenství
+
+  For Det Europæiske Fællesskab
+
+  Für die Europäische Gemeinschaft
+
+  Euroopa Ühenduse nimel
+
+  Για την Ευρωπαϊκή Κοινότητα
+
+  For the European Community
+
+  Pour la Communauté européenne
+
+  Per la Comunità europea
+
+  Eiropas Kopienas vārdā
+
+  Europos bendrijos vardu
+
+  Az Európai Közösség részéről
+
+  Għall-Komunità Ewropea
+
+  Voor de Europese Gemeenschap
+
+  W imieniu Wspólnoty Europejskiej
+
+  Pela Comunidade Europeia
+
+  Pentru Comunitatea Europeană
+
+  Za Európske spoločenstvo
+
+  Za Evropsko skupnost
+
+  Euroopan yhteisön puolesta
+
+  För Europeiska gemenskapen
+
+  For the Republic of the Fiji Islands
+
+  For the Independent State of Papua New Guinea
+
+  [1] The Parties recognise that any such measure shall be applied on a
+  Most Favoured Nation (MFN) basis.
+
+  [2] For this calculation official data by the WTO on leading exporters
+  in world merchandise trade (excluding intra-EU trade) shall be used.
+
+  [3] For the purpose of this Article agricultural products are those
+  covered by Annex I of the WTO Agreement on Agriculture.
+
+  [4] The official language of the Pacific States is English and the
+  official languages of the EC Party are those indicated in Article 81.
+
+  --------------------------------------------------</article>
+    </chapter>
+  </body>
+</treaty>

@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Jordan</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>68</wto_rta_id>
+    <treaty_identifier>61</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1997-11-24</date_signed>
+    <date_into_force>2002-05-01</date_into_force>
+    <date_notification>2002-12-17</date_notification>
+    <end_implementation>2013-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">JOR</partyisocode>
+      <partyisocode n="13">LUX</partyisocode>
+      <partyisocode n="14">NLD</partyisocode>
+      <partyisocode n="15">PRT</partyisocode>
+      <partyisocode n="16">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">JOR</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe; Middle East</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1453991790168&amp;uri=OJ:JOL_2002_129_R_0001_01</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1453991790168&amp;uri=OJ:JOL_2002_129_R_0001_01</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=OJ:JOL_2002_129_R_0001_01&amp;from=FR</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1453991790168&amp;uri=OJ:JOL_2002_129_R_0001_01</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1453991790168&amp;uri=OJ:JOL_2002_129_R_0001_01</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1453991790168&amp;uri=OJ:JOL_2002_129_R_0001_01</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="71">
+      <article number="ARTICLE 1" article_identifier="7147">1. 	An Association is hereby established between the Community and its Member States, of the one part, and Jordan, of principles and fundamental human rights as set out in the 
+
+2. 	The aims of this Agreement are: 
+
+— 	to provide an appropriate framework for the political dialogue, allowing the development of close political 
+— 	to establish the conditions for the progressive liberalisation of trade in goods, services and capital, 
+— 	to foster the development of balanced economic and social relations between the Parties through dialogue and cooperation, 1. A regular political dialogue shall be established between the Parties
+— 	to improve living and employment conditions, and enhance productivity and financial stability, 
+— 	to encourage regional cooperation with a view to the consolidation of peaceful coexistence and economic and 
+political stability,
+to promote cooperation in other areas which are of particular on those issues likely to have substantial effects reciprocal interest. on one or the other Party,</article>
+      <article number="ARTICLE 2" article_identifier="7148">Relations between the Parties, as well as all the provisions of the Agreement itself, shall be based on respect of democratic principles and fundamental human rights as set out in the universal declaration on human rights, which guides their internal and international policy and constitutes an essential element of this Agreement.</article>
+    </chapter>
+    <chapter number="TITLE I" name="Relations Between The Parties," chapter_identifier="844">
+      <article number="ARTICLE 3" article_identifier="7149">1. A regular political dialogue shall be established between the Parties. It shall strengthen their relations, contribute to the development of a lasting partnership and increase mutual understanding and solidarity.
+
+ 2. The political dialogue and cooperation will in particular: 
+
+
+
+
+— 	develop better mutual understanding and an increasing convergence of positions on international issues, and in particular on those issues likely to have substantial effects on one or the other Party,
+
+
+— 	
+
+
+— 	enable each Party to consider the position and interests of the other,
+
+
+— 	enhance regional security and stability,
+
+
+— 	promote common initiatives.</article>
+      <article number="ARTICLE 4" article_identifier="7150">The political dialogue shall cover all subjects of common interest, and shall aim to open the way to new forms of cooperation with a view to common goals, in particular peace, security, human rights, democracy and regional development.</article>
+      <article number="ARTICLE 5" article_identifier="7151">1. The political dialogue shall facilitate the pursuit of joint initiatives and shall take place at regular intervals and whenever necessary, in particular: 
+
+
+(a) 	at ministerial level, mainly in the framework of the Association Council; 
+
+
+(b) 	at senior official level between representatives of Jordan, of the one part, and of the Presidency of the Council and of the Commission, of the other; 
+
+
+(c) 	by taking full advantage of all diplomatic channels including regular briefings by officials, consultations on the occasion of international meetings and contacts between diplomatic representatives in third countries; 
+
+
+(d) 	by any other means which would make a useful contribution to consolidating, developing and stepping up this dialogue. 
+2. There shall be a political dialogue between the European Parliament and the Jordanian Parliament.
+FREE MOVEMENT OF GOODS 
+
+BASIC PRINCIPLES</article>
+      <article number="ARTICLE 6" article_identifier="7152">The Community and Jordan shall gradually establish a free trade area over a transitional period lasting a maximum of 12 years starting from the date of the entry into force of this Agreement in accordance with the provisions of this Agreement and in conformity with those of the General Agreement on Tariffs and Trade (1994), hereinafter referred to as the ‘GATT’.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Industrial Products" chapter_identifier="845">
+      <article number="ARTICLE 7" article_identifier="7153">The provisions of this chapter shall apply to products originating in the Community and Jordan other than those listed in Annex II to the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 8" article_identifier="7154">No new customs duties on imports, or any other charge having equivalent effect, shall be introduced on trade between the Community and Jordan.</article>
+      <article number="ARTICLE 9" article_identifier="7155">Imports into the Community of products originating in Jordan shall be allowed free of customs duties and of any other charge having equivalent effect and free of quantitative restrictions and of any other measure having equivalent effect.</article>
+      <article number="ARTICLE 10" article_identifier="7156">1. 
+
+(a) 
+
+The provisions of this chapter shall not preclude the 
+
+
+
+
+retention by the Community of an agricultural 
+
+
+
+
+component in respect of goods originating in Jordan 
+
+
+
+
+and listed in Annex I. 
+
+
+(b) 
+
+The agricultural component may take the form of a 
+
+
+
+
+flat-rate amount or an ad valorem duty. 
+
+
+(c) 
+
+The provisions of Chapter 2 applicable to agricul
+
+
+
+
+tural products shall apply mutatis mutandis to the 
+
+
+
+
+agricultural component. 
+2. 
+
+(a) 
+
+The provisions of this chapter shall not preclude the 
+
+
+
+
+retention by Jordan of an agricultural component in 
+
+
+
+
+respect of goods originating in the Community and 
+
+
+
+
+listed in Annex II. 
+
+
+(b) 
+
+The agricultural components which, pursuant to 
+
+
+
+
+subparagraph (a), Jordan may charge on imports 
+
+
+
+
+from the Community shall not exceed 50 % of the 
+
+
+
+
+basic duty rate charged on imports from countries 
+
+
+
+
+not benefiting from preferential trading arrange
+
+
+
+
+ments but benefiting from most-favoured-nation 
+
+
+
+
+treatment. 
+
+
+(c) 
+
+If Jordan proves that the equivalence of the duties 
+
+
+
+
+applicable to the agricultural products incorporated 
+
+
+
+
+in the goods listed in Annex II exceed the maximum 
+
+
+
+
+rate set out in subparagraph (b) the Association 
+
+
+
+
+Council may agree on a higher rate. 
+
+(d) 	Jordan may enlarge the list of goods to which this agricultural component applies, provided the goods are included in Annex I. Before its adoption, this agricultural component shall be notified for examination to the Association Committee which may take any decision needed. 
+
+
+(e) 	For the products listed in Annex II originating in the Community, Jordan shall apply from the entry into force of the Agreement customs duties on import and charges having equivalent effect not higher than those in force on 1 January 1996. 
+
+3. As regards the industrial element of the products listed in Annex II originating in the Community, Jordan shall progressively abolish the customs duties on imports or charges having equivalent effect according to the provisions of Article 11. 
+
+
+4. Where, in trade between the Community and Jordan, the charge applicable to a basic agricultural product is reduced, or where such reductions are the result of mutual concessions for processed agricultural products, the agricultural components applied in conformity with paragraphs 1 and 2 may be reduced. 
+
+
+5. The reduction provided for in paragraph 4, the list of goods concerned and, where applicable, the tariff quotas to which the reduction refers, shall be established by the Association Council.</article>
+      <article number="ARTICLE 11" article_identifier="7157">1. Customs duties and charges having equivalent effect applicable on import into Jordan of products originating in the Community, other than those listed in Annexes II, III and IV, shall be abolished upon the entry into force of this Agreement. 
+
+
+2. Pursuant to Article 10(2)(b) and (3), the total customs duties and charges having equivalent effect applicable on import into Jordan of processed agricultural products originating in the Community listed in Annex II shall be progressively abolished in accordance with the following schedule: 
+
+— 	four years after the date of entry into force of this Agreement each duty and charge shall be reduced by 10 % of the basic duty, 
+
+
+— 	five years after the date of entry into force of this Agreement each duty and charge shall be reduced by 20 % of the basic duty, 
+
+
+— 	six years after the date of entry into force of this Agreement each duty and charge shall be reduced by 30 % of the basic duty, 
+
+
+— 	seven years after the date of entry into force of this Agreement each duty and charge shall be reduced by 40 % of the basic duty, 
+
+
+— 	eight years after the date of entry into force of this Agreement each duty and charge shall be reduced by 50 % of the basic duty. 
+3. Customs duties and charges having equivalent effect applicable on import into Jordan of products originating in the Community listed in list A of Annex III shall be progressively abolished in accordance with the following schedule: 
+
+— 	on the date of entry into force of this Agreement each duty and charge shall be reduced to 80 % of the basic duty, 
+
+— 	one year after the date of entry into force of this Agreement each duty and charge shall be reduced to 60 % of the basic duty, 
+
+
+— 	two years after the date of entry into force of this Agreement each duty and charge shall be reduced to 40 % of the basic duty, 
+
+
+— 	three years after the date of entry into force of this Agreement each duty and charge shall be reduced to 20 % of the basic duty, 
+
+
+— 	four years after the date of entry into force of this Agreement the remaining duty and charge shall be abolished. 
+4. Customs duties and charges having equivalent effect applicable on import into Jordan of products originating in the Community listed in list B of Annex III shall be progressively abolished in accordance with the following schedule: 
+
+
+— 	four years after the date of entry into force of this Agreement each duty and charge shall be reduced to 90 % of the basic duty, 
+
+
+— 	five years after the date of entry into force of this Agreement each duty and charge shall be reduced to 80 % of the basic duty, 
+
+
+— 	six years after the date of entry into force of this Agreement each duty and charge shall be reduced to 70 % of the basic duty, 
+
+
+— 	seven years after the date of entry into force of this Agreement each duty and charge shall be reduced to 60 % of the basic duty, 
+
+
+— 	eight years after the date of entry into force of this Agreement each duty and charge shall be reduced to 50 % of the basic duty, 
+
+
+— 	nine years after the date of entry into force of this Agreement each duty and charge shall be reduced to 40 % of the basic duty, 
+
+
+— 	10 years after the date of entry into force of this Agreement each duty and charge shall be reduced to 30 % of the basic duty, 
+
+
+— 	11 years after the date of entry into force of this Agreement each duty and charge shall be reduced to 20 % of the basic duty, 
+
+
+— 	12 years after the date of entry into force of this Agreement the remaining duty and charge shall be abolished. 
+5. As regards the products listed in Annex IV, the arrange-These measures shall be applied for a period not exceeding ments to be applied shall be re-examined by the Association five years unless a longer duration is authorised by the Council four years after the date of entry into force of the Association Committee. They shall cease to apply at the latest Agreement. At the time of that re-examination, the Association on the expiry of the maximum transitional period of 12 years. Council shall establish a tariff dismantling schedule for the products appearing in Annex IV. 
+
+No such measures may be introduced in respect of a product if more than four years have elapsed since the elimination of all duties and quantitative restrictions or charges or measures 6. In the event of serious difficulties for a given product, the relevant timetables in accordance with paragraphs 2, 3 and 
+having equivalent effect concerning that product. 4 may be reviewed by the Association Committee by common accord on the understanding that the timetable for which the 
+
+Jordan shall inform the Association Committee of any excepreview has been requested may not be extended in respect of tional measures it intends to take and, at the request of the the product concerned beyond the maximum transitional Community, consultations shall be held on such measures and period of 12 years. If the Association Committee has not taken the sectors to which they apply before they are implemented. 
+
+a decision within 30 days of its application to review the When taking such measures Jordan shall provide the Com-timetable, Jordan may suspend the timetable provisionally for mittee with a timetable for the elimination of the customs a period which may not exceed one year. 
+
+duties introduced under this Article. This timetable shall provide for a phasing-out of these duties in equal annual instalments starting at the latest two years after their introduc7. For each product the basic duty to which the successive tion. The Association Committee may decide on a different reductions laid down in paragraphs 2, 3 and 4 are to be timetable.
+
+applied shall be that actually applied vis-à-vis the Community on 1 January 1996. 
+
+2. By way of derogation from the fourth subparagraph of 
+
+8. If, after 1 January 1996, any tariff reduction is applied paragraph 1, the Association Committee may exceptionally, in on an erga omnes basis, the reduced duties shall replace the order to take account of the difficulties involved in setting up basic duties referred to in paragraph 7 as from the date when a new industry and when certain sectors are undergoing such reductions are applied. restructuring or facing serious difficulties, authorise Jordan to 
+
+maintain the measures already taken pursuant to paragraph 1 for a maximum period of three years beyond the 12-year 
+
+9. Jordan shall notify the Community of its basic duties. transitional period.</article>
+      <article number="ARTICLE 12" article_identifier="7158">The provisions concerning the abolition of customs duties on imports shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 13" article_identifier="7159">1. Exceptional measures of limited duration which derogate from the provisions of Article 11 may be taken by Jordan in the form of an increase or reintroduction of customs duties.
+These measures may only concern infant industries, or certain sectors undergoing restructuring or facing serious difficulties, particularly where these difficulties produce major social problems.
+Customs duties applicable on import into Jordan of products originating in the Community introduced by these measures may not exceed 25 % ad valorem and shall maintain an element of preference for products originating in the Community. The total yearly average value of imports of the products which are subject to these measures may not exceed 20 % of the total yearly average value of imports of industrial products originating in the Community during the last three years for which statistics are available.
+These measures shall be applied for a period not exceeding five years unless a longer duration is authorised by the Association Committee. They shall cease to apply at the latest on the expiry of the maximum transitional period of 12 years.
+No such measures may be introduced in respect of a product if more than four years have elapsed since the elimination of all duties and quantitative restrictions or charges or measures having equivalent effect concerning that product.
+Jordan shall inform the Association Committee of any excep- tional measures it intends to take and, at the request of the Community, consultations shall be held on such measures and the sectors to which they apply before they are implemented. When taking such measures Jordan shall provide the Com- mittee with a timetable for the elimination of the customs duties introduced under this Article. This timetable shall provide for a phasing-out of these duties in equal annual instalments starting at the latest two years after their introduc- tion. The Association Committee may decide on a different timetable.
+2. By way of derogation from the fourth subparagraph of paragraph 1, the Association Committee may exceptionally, in order to take account of the difficulties involved in setting up a new industry and when certain sectors are undergoing restructuring or facing serious difficulties, authorise Jordan to maintain the measures already taken pursuant to paragraph 1 for a maximum period of three years beyond the 12-year transitional period.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Agricultural Products" chapter_identifier="846">
+      <article number="ARTICLE 14" article_identifier="7160">The provisions of this Chapter shall apply to products originating in the Community and Jordan and listed in Annex II to the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 15" article_identifier="7161">The Community and Jordan shall gradually implement greater liberalisation of their reciprocal trade in agricultural products.</article>
+      <article number="ARTICLE 16" article_identifier="7162">1. Agricultural products originating in Jordan shall benefit on import into the Community from the provisions set out in Protocol 1.
+2. Agricultural products originating in the Community shall benefit on import into Jordan from the provisions set out in Protocol 2.</article>
+      <article number="ARTICLE 17" article_identifier="7163">1. From 1 January 2002, the Community and Jordan shall assess the situation with a view to determining the liberalisation measures to be applied by the Community and Jordan with effect from 1 January 2003 in accordance with the objective set out in Article 15.
+2. Without prejudice to the provisions of the preceding paragraph and taking account of the patterns of trade in agricultural products between the Parties and the particular sensitivity of such products, the Community and Jordan may examine on a regular basis in the Association Council, product by product and on a reciprocal basis, the possibilities of granting each other further concessions.
+COMMON PROVISIONS</article>
+      <article number="ARTICLE 18" article_identifier="7164">1. No new quantitative restriction on imports and measures having equivalent effect shall be introduced in trade between the Community and Jordan.
+2. Quantitative restrictions on imports and measures having equivalent effect on trade between the Community and Jordan shall be abolished upon the entry into force of this Agreement.
+3. The Community and Jordan shall not apply to exports between themselves either customs duties or charges having equivalent effect, or quantitative restrictions or measures having equivalent effect.</article>
+      <article number="ARTICLE 19" article_identifier="7165">1. In the event of specific rules being introduced as a result of the implementation of its agricultural policy or of any alteration of the current rules or in the event of any alteration or extension of the provisions relating to the implementation of its agricultural policy, the Party concerned may amend the arrangements resulting from the Agreement in respect of the products concerned.
+2. In such cases the Party concerned shall inform the Association Committee. At the request of the other Party, the Association Committee shall meet to take due account of the interests of the other Party.
+3. If the Community or Jordan, in applying paragraph 1, modifies the arrangements made by this Agreement for agricultural products, they shall accord imports originating in the other Party an advantage comparable to that provided for in this Agreement.
+4. The application of this Article may be the subject of consultations in the Association Council.</article>
+      <article number="ARTICLE 20" article_identifier="7166">1. Products originating in Jordan shall not on importation into the Community be accorded a treatment more favourable than that which the Member States apply among themselves.
+2. Application of the provisions of this Agreement shall be without prejudice to Council Regulation (EEC) No 1911/91 of 26 June 1991 on the application of the provisions of Community law to the Canary Islands.</article>
+      <article number="ARTICLE 21" article_identifier="7167">1. The Parties shall refrain from any measure or practice of an internal fiscal nature establishing, whether directly or indirectly, discrimination between the products of one Party and like products originating in the territory of the other Party.
+2. Products exported to the territory of one of the Parties may not benefit from repayment of indirect internal taxation in excess of the amount of indirect taxation imposed on them either directly or indirectly.</article>
+      <article number="ARTICLE 22" article_identifier="7168">1. The agreement shall not preclude the maintenance or establishment of customs unions, free trade areas or arrangements for frontier trade, except in so far as they alter the trade arrangements provided for in the Agreement.
+2. Consultation between the Community and Jordan shall take place within the Association Council concerning agree- ments establishing customs unions or free trade areas and, where appropriate, on other major issues related to their respective trade policy with third countries. In particular, in the event of a third country acceding to the Union, such consultation shall take place so as to ensure that account may be taken of the mutual interests of the Community and Jordan.</article>
+      <article number="ARTICLE 23" article_identifier="7169">If one of the Parties finds that dumping is taking place in trade with the other Party within the meaning of Article VI of the GATT, it may take appropriate measures against this practice in accordance with the Agreement on implementation of Article VI of the GATT and with its relevant internal legislation, under the conditions and in accordance with the procedures laid down in Article 26.</article>
+      <article number="ARTICLE 24" article_identifier="7170">Where any product is being imported in such increased quantities and under such conditions as to cause or threaten to cause:
+— serious injury to domestic producers of like or directly competitive products in all or part of the territory of one of the Parties, or
+— serious disturbances in any sector of the economy,
+the Party concerned may take appropriate measures under the conditions and in accordance with the procedures laid down in Article 26.</article>
+      <article number="ARTICLE 25" article_identifier="7171">Where compliance with the provisions of Article 18(3) leads to:
+(i) re-export towards a third country against which the exporting Party maintains, for the product concerned, quantitative export restrictions, export duties or measures having equivalent effect; or
+(ii) a serious shortage, or threat thereof, of a product essential to the exporting Party,
+and where the situations above referred to give rise, or are likely to give rise to major difficulties for the exporting Party, that Party may take appropriate measures under the conditions and in accordance with the procedures laid down in Article 26. The measures shall be non-discriminatory and be eliminated when conditions no longer justify their maintenance.</article>
+      <article number="ARTICLE 26" article_identifier="7172">1. In the event of the Community or Jordan subjecting imports of products liable to give rise to the difficulties referred to in Article 24 to an administrative procedure, the purpose of which is to provide rapid information on the trend of trade flows, it shall inform the other Party.
+2. In the cases specified in Articles 23, 24 and 25, before taking the measures provided for therein, or, as soon as possible in cases to which paragraph 3(d) applies, the Party in question shall supply the Association Committee with all relevant information required for a thorough examination of the situation with a view to seeking a solution acceptable to the Parties.
+In the selection of appropriate measures, priority must be given to those which least disturb the functioning of the Agreement.
+The safeguard measures shall be notified immediately to the Association Committee and shall be the subject of periodic consultations within the Committee, particularly with a view to their abolition as soon as circumstances permit.
+3. For the implementation of paragraph 2, the following provisions shall apply:
+(a) as regards Article 23, the exporting Party shall be informed of the dumping case as soon as the authorities of the importing Party have initiated an investigation. Where no end has been put to the dumping within the meaning of Article VI of GATT or no other satisfactory solution has been reached within 30 days of the notifi- cation being made, the importing Party may adopt the appropriate measures;
+(b) as regards Article 24, the difficulties arising from the situation referred to in that Article shall be referred for examination to the Association Committee, which may take any decision needed to put an end to such difficulties.
+If the Association Committee or the exporting Party has not taken a decision putting an end to the difficulties or no other satisfactory solution has been reached within 30 days of the matter being referred, the importing Party may adopt the appropriate measures to remedy the problem. These measures must not exceed the scope of what is necessary to remedy the difficulties which have arisen;
+(c) as regards Article 25, the difficulties arising from the situations referred to in that Article shall be referred for examination to the Association Committee.
+The Association Committee may take any decision needed to put an end to the difficulties. If it has not taken such a decision within 30 days of the matter being referred to it, the exporting Party may apply appropriate measures on the exportation of the product concerned;
+(d) where exceptional circumstances requiring immediate action make prior information or examination, as the case may be, impossible, the Party concerned may, in the situations specified in Articles 23, 24 and 25, apply forthwith such precautionary measures as are strictly necessary to remedy the situation, and shall inform the other Party immediately.</article>
+      <article number="ARTICLE 27" article_identifier="7173">Nothing in this Agreement shall preclude prohibitions or restrictions on imports, exports or goods in transit justified on grounds of public morality, public policy or public security; the protection of health and life of humans, animals or plants; the protection of national treasures possessing artistic, historic or archaeological value; or the protection of intellectual, industrial and commercial property or regulations concerning gold and silver. Such prohibitions or restrictions shall not, however, constitute a means of arbitrary discrimination or a disguised restriction on trade between the Parties.</article>
+      <article number="ARTICLE 28" article_identifier="7174">The concept of ‘originating products’ for the application of the provisions of this title and the methods of administrative cooperation relating to them are set out in Protocol 3.</article>
+      <article number="ARTICLE 29" article_identifier="7175">The Combined Nomenclature shall be used for the classifi- cation of goods in trade between the Parties.
+RIGHT OF ESTABLISHMENT AND SERVICES</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Right Of Establishment" chapter_identifier="847">
+      <article number="ARTICLE 30" article_identifier="7176">1. (a) The Community and its Member States shall grant for the establishment of Jordanian companies treat- ment no less favourable than that accorded to like companies of any third country.
+(b) Without prejudice to the reservations listed in Annex V, the Community and its Member States shall grant to subsidiaries of Jordanian companies established in a Member State treatment no less favourable than that accorded to any like Com- munity company, in respect of their operations.
+(c) The Community and its Member States shall grant to branches of Jordanian companies, established in a Member State, treatment no less favourable than that accorded to like branches of companies of any third country, in respect of their operations.
+
+2. (a) Without prejudice to the reservations listed in Annex VI, Jordan shall grant for the establishment of Community companies in its territory treatment no less favourable than that accorded to its own companies or to companies of any third country, whichever is the better.
+(b) Jordan shall grant to subsidiaries and branches of Community companies, established in its territory, in respect of their operations, treatment no less favourable than that accorded to its own companies or branches, or to Jordanian subsidiaries or branches of companies of any third country, whichever is the better.
+
+3. The provisions of paragraphs 1(b) and 2(b) cannot be used so as to circumvent a Party’s legislation and regulations applicable to access to specific sectors or activities by subsidiar- ies or branches of companies of the other Party established in the territory of such first Party.
+
+The treatment referred to in paragraphs 1(b), 1(c) and 2(b) shall benefit companies, subsidiaries, and branches established in the Community and Jordan respectively at the date of entry into force of this Agreement and companies, subsidiaries and branches established after that date once they are established.</article>
+      <article number="ARTICLE 31" article_identifier="7177">1. The provisions of Article 30 shall not apply to air transport, inland waterways transport and maritime transport.
+2. However, in respect of activities undertaken by shipping agencies for the provision of international maritime transport services, including intermodal activities involving a sea leg, each Party shall permit to the companies of the other Party their commercial presence in its territory in the form of subsidiaries or branches, under conditions of establishment and operation no less favourable than those accorded to its own companies or to subsidiaries or branches of companies of any third country whichever are the better. Such activities include, but are not limited to:
+(a) marketing and sales of maritime transport and related services through direct contact with customers, from quotation to invoicing, whether these services are oper- ated or offered by the service supplier itself or by service suppliers with which the service seller has established standing business arrangements;
+(b) purchase and use, on their own account or on behalf of their customer (and the resale to their customers) of any transport and related services, including inward transport services by any mode, particularly inland waterways, road and rail, necessary for the supply of an integrated service;
+(c) preparation of documentation concerning transport documents, customs documents, or other documents related to the origin and character of the goods trans- ported;
+(d) provision of business information of any means, includ- ing computerised information systems and electronic data interchange (subject to any non-discriminatory restrictions concerning telecommunications);
+(e) setting up of any business arrangement, including partici- pation in the company’s stock and the appointment of personnel recruited locally (or, in the case of foreign personnel, subject to the relevant provisions of this Agreement), with any locally established shipping agency;
+(f) acting on behalf of the companies, organising the call of the ship or taking over cargoes when required.</article>
+      <article number="ARTICLE 32" article_identifier="7178">For the purpose of this Agreement:
+(a) a ‘Community company’ or ‘Jordanian company’ respect- ively shall mean a company set up in accordance with the laws of a Member State or of Jordan respectively and having its registered office or central administration or principal place of business in the territory of the Community or Jordan respectively.
+However, should the company, set up in accordance with the laws of a Member State or Jordan respectively, have only its registered office in the territory of the Community or Jordan respectively, the company shall be considered a Community or Jordanian company respectively if its operations possess a real and continuous link with the economy of one of the Member States or Jordan respectively;
+(b) ‘subsidiary’ of a company shall mean a company which is controlled by the first company;
+(c) ‘branch’ of a company shall mean a place of business not having legal personality which has the appearance of permanency, such as the extension of a parent body, has a management and is materially equipped to negotiate business with third parties so that the latter, although knowing that there will if necessary be a legal link with the parent body, the head office of which is abroad, do not have to deal directly with such parent body but may transact business at the place of business constituting the extension;
+(d) ‘establishment’ shall mean the right of Community or Jordanian companies as referred to in point (a) to take up economic activities by means of the setting up of subsidiaries and branches in Jordan or in the Community respectively;
+(e) ‘operation’ shall mean the pursuit of economic activities;
+(f) ‘economic activities’ shall mean activities of an industrial, commercial and professional character;
+(g) ‘national of a Member State or of Jordan’ shall mean a physical person who is a national of one of the Member States or of Jordan respectively;
+(h) with regard to international maritime transport, including intermodal operations involving a sea leg, nationals of the Member States or of Jordan established outside the Community or Jordan respectively, and shipping companies established outside the Community or Jordan and controlled by nationals of a Member State or Jordanian nationals respectively, shall also be beneficiaries of the provisions of this chapter and Chapter 2 if their vessels are registered in that Member State or in Jordan respectively in accordance with their respective legis- lation.</article>
+      <article number="ARTICLE 33" article_identifier="7179">1. The Parties shall use their best endeavours to avoid taking any measures or actions which render the conditions for the establishment and operation of each other’s companies more restrictive than the situation existing on the day preced- ing the date of signature of the Agreement.
+2. The provisions of this Article are without prejudice to those of Article 44. The situations covered by Article 44 shall be solely governed by its provisions to the exclusion of any other.</article>
+      <article number="ARTICLE 34" article_identifier="7180">1. A Community company or Jordanian company estab- lished in the territory of Jordan or the Community respectively shall be entitled to employ, or have employed by one of its subsidiaries or branches, in accordance with the legislation in force in the host country of establishment, in the territory of Jordan and the Community respectively, employees who are nationals of Community Member States and Jordan respectively, provided that such employees are key personnel as defined in paragraph 2, and that they are employed exclusively by such companies, subsidiaries or branches. The residence and work permits of such employees shall only cover the period of such employment.
+2. Key personnel of the abovementioned companies herein referred to as ‘organisations’ are ‘intra-corporate transferees’ as defined in (c) in the following categories, provided that the organisation is a legal person and that the persons concerned have been employed by it or have been partners in it (other than as majority shareholders), for at least the year immediately preceding such movement:
+(a) persons working in a senior position with an organis- ation, who primarily direct the management of the establishment, receiving general supervision or direction principally from the board of directors or stockholders of the business or their equivalent, including:
+— directing the establishment or a department or subdivision of the establishment,
+— supervising and controlling the work of other super- visory, professional or managerial employees,
+— having the authority personally to recruit and dis- miss or recommend recruiting, dismissing or other personnel actions;
+(b) persons working within an organisation who possess uncommon knowledge essential to the establishment’s service, research equipment, techniques or management. The assessment of such knowledge may reflect, apart from knowledge specific to the establishment, a high level of qualification referring to a type of work or trade requiring specific technical knowledge, including membership of an accredited profession;
+(c) an ‘intra-corporate transferee’ is defined as a natural person working within an organisation in the territory of a Party, and being temporarily transferred in the context of pursuit of economic activities in the territory of the other Party; the organisation concerned must have its principal place of business in the territory of a Party and the transfer be to an establishment (branch, subsidiary) of that organisation, effectively pursuing like economic activities in the territory of the other Party.
+3. The entry into and the temporary presence within the respective territories of Jordan and the Community of nationals of the Member States or of Jordan respectively, shall be permitted, when these representatives of companies are per- sons working in a senior position, as defined in paragraph 2(a), within a company, and are responsible for the establishment of a Jordanian or a Community company, in the Community or Jordan respectively, when:
+— those representatives are not engaged in making direct sales or supplying services, and
+— the company has no other representative, office, branch or subsidiary in a Community Member State or Jordan respectively.</article>
+      <article number="ARTICLE 35" article_identifier="7181">In order to make it easier for Community nationals and Jordanian nationals to take up and pursue regulated pro- fessional activities in Jordan and the Community respectively, the Association Council shall examine what steps are necessary to be taken to provide for the mutual recognition of qualifi- cations.</article>
+      <article number="ARTICLE 36" article_identifier="7182">The provisions of Article 30 do not preclude the application by a Party of particular rules concerning the establishment and operation in its territory of branches of companies of another Party not incorporated in the territory of the first Party, which are justified by legal or technical differences between such branches as compared to branches of companies incorporated in its territory or, as regards financial services, for prudential reasons. The difference in treatment shall not go beyond what is strictly necessary as a result of such legal or technical differences or, as regards financial services, for prudential reasons.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Cross-Border Supply Of Services" chapter_identifier="848">
+      <article number="ARTICLE 37" article_identifier="7183">1. The Parties shall use their best endeavours to allow progressively the supply of services by Community or Jordani- an companies which are established in the territory of a Party other than that of the person for whom the services are intended, taking into account the development of the services sectors in the Parties.
+2. The Association Council shall make recommendations for the implementation of the objective mentioned in para- graph 1.</article>
+      <article number="ARTICLE 38" article_identifier="7184">With a view to assuring a coordinated development of transport between the Parties, adapted to their commercial needs, the conditions of mutual market access and provision of services in transport by road, rail and inland waterways and, if applicable, in air transport may be dealt with by specific agreements where appropriate negotiated between the Parties after the entry into force of this Agreement.</article>
+      <article number="ARTICLE 39" article_identifier="7185">1. With regard to maritime transport the Parties undertake to apply effectively the principle of unrestricted access to the international market and traffic on a commercial basis.
+(a) The above provision does not prejudice the rights and obligations arising under the United Nations Convention on a Code of Conduct for Liner Conferences, as applicable to a Party to this Agreement. Non-conference lines shall be free to operate in competition with a conference line as long as they adhere to the principle of fair competition on a commercial basis.
+(b) The Parties affirm their commitment to a freely competi- tive environment as being an essential feature of the dry and liquid bulk trade.
+
+2. In applying the principles of paragraph 1, the Parties shall:
+(a) not introduce cargo-sharing arrangements in future bilat- eral Agreements with third countries concerning dry and liquid bulk and liner trade. However, this does not exclude the possibility of such arrangements concerning liner cargo in those exceptional circumstances where liner shipping companies from one or other Party to this Agreement would not otherwise have an effective oppor- tunity to ply for trade to and from the third country concerned;
+(b) abolish, upon entry into force of this Agreement, all unilateral measures, administrative, technical and other obstacles which could constitute a disguised restriction or have discriminatory effects on the free supply of services in international maritime transport.
+Each Party shall grant, inter alia, a treatment no less favourable than that accorded to its own ships, for the ships used for the transport of goods, passengers or both, and operated by nationals or companies of the other Party, with respect to access to ports, the use of infrastructure and auxiliary maritime services of those ports, as well as related fees and charges, customs facilities and the assignment of berths and facilities for loading and unloading.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="General Provisions" chapter_identifier="849">
+      <article number="ARTICLE 40" article_identifier="7186">1. The Parties undertake to consider development of this title with a view to the establishment of an ‘economic integration agreement’ as defined in Article V of the General Agreement on Trade in Services (GATS).
+2. The objective provided for in paragraph 1 shall be subject to a first examination by the Association Council at the latest five years after the entry into force of this Agreement.
+3. The Association Council shall, when making such exam- ination, take into account progress made in the approximation of laws between the Parties in the relevant activities.</article>
+      <article number="ARTICLE 41" article_identifier="7187">1. The provisions of this Title shall be applied subject to limitations justified on grounds of public policy, public security or public health.
+2. They shall not apply to activities which in the territory of either Party are connected, even occasionally, with the exercise of official authority.</article>
+      <article number="ARTICLE 42" article_identifier="7188">For the purpose of this title, nothing in this Agreement shall prevent the Parties from applying their laws and regulations regarding entry and stay, work, labour conditions and estab- lishment of natural persons and supply of services, provided that, in so doing, they do not apply them in a manner as to nullify or impair the benefits accruing to any Party under the terms of a specific provision of the Agreement. This provision does not prejudice the application of Article 41.</article>
+      <article number="ARTICLE 43" article_identifier="7189">Companies which are controlled and exclusively owned by Jordanian companies and Community companies jointly shall also be beneficiaries of the provisions of this title.</article>
+      <article number="ARTICLE 44" article_identifier="7190">Treatment granted by either Party to the other hereunder shall, as from the day one month prior to the date of entry into force of the relevant obligations of the GATS, in respect of sectors or measures covered by the GATS, in no case be more favourable than that accorded by such first Party under the provisions of the GATS and this in respect of each service sector, subsector and mode of supply.</article>
+      <article number="ARTICLE 45" article_identifier="7191">For the purpose of this title, no account shall be taken of treatment accorded by the Community, its Member States or Jordan pursuant to commitments entered into in economic integration agreements in accordance with the principles of Article V of the GATS.</article>
+      <article number="ARTICLE 46" article_identifier="7192">1. Notwithstanding any other provisions of the Agreement, a Party shall not be prevented from taking measures for prudential reasons, including for the protection of investors, depositors, policy holders or persons to whom a fiduciary duty is owed by a financial service supplier, or to ensure the integrity and stability of the financial system. Where such measures do not conform with the provisions of the Agree- ment, they shall not be used as a means of avoiding the obligations of a Party under the Agreement.
+2. Nothing in the Agreement shall be construed to require a Party to disclose information relating to the affairs and accounts of individual customers or any confidential or proprietary information in the possession of public entities.</article>
+      <article number="ARTICLE 47" article_identifier="7193">The provisions of this Agreement shall not prejudice the application by each Party of any measures necessary to prevent the circumvention of its measures concerning third country access to its market, through the provisions of this Agreement.
+PAYMENTS, CAPITAL MOVEMENTS 
+AND OTHER ECONOMIC MATTERS</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Payments And Capital Movements" chapter_identifier="850">
+      <article number="ARTICLE 48" article_identifier="7194">Subject to the provisions of Articles 51 and 52, current payments connected with the movement of goods, persons, services and capital within the framework of this Agreement shall be free of restrictions.</article>
+      <article number="ARTICLE 49" article_identifier="7195">1. Within the framework of the provisions of this Agree- ment, subject to the provisions of Articles 50 and 51, and without prejudice to Annex VI referred to in Article 30(2)(a), there shall be no restrictions on the movement of capital from the Community to Jordan and on the movement of capital involving direct investment from Jordan to the Community.
+2. The outflow of Jordanian capital to the Community, other than direct investment, shall be subject to the prevailing laws in Jordan.
+3. The Parties will hold consultations with a view to achieving complete liberalisation of capital movements as soon as conditions are met.</article>
+      <article number="ARTICLE 50" article_identifier="7196">Subject to other provisions in this Agreement and other international obligations of the Community and Jordan, the provisions of Article 49 shall be without prejudice to the application of any restrictions which exist between them on the date of entry into force of this Agreement, in respect of the movement of capital between them involving direct investment, including real estate, and establishment.
+However, the transfer abroad of investments made in Jordan by Community residents or in the Community by Jordanian residents and of any profits stemming therefrom shall not be affected.</article>
+      <article number="ARTICLE 51" article_identifier="7197">Where, in exceptional circumstances, movements of capital between the Community and Jordan cause, or threaten to cause, serious difficulties for the operation of exchange-rate policy or monetary policy in the Community or Jordan, the Community or Jordan respectively may, in conformity with the conditions laid down within the framework of the GATS and with Articles VIII and XIV of the Articles of Agreement of the International Monetary Fund, take safeguard measures with regard to movements of capital between the Community and Jordan for a period not exceeding six months if such measures are strictly necessary.</article>
+      <article number="ARTICLE 52" article_identifier="7198">Where one or more Member States of the Community or Jordan face or risk facing serious difficulties concerning balance of payments, the Community and Jordan respectively may, in conformity with the conditions laid down within the frame- work of the GATT and with Articles VIII and XIV of the Articles of Agreement of the International Monetary Fund, take restrictive measures with regard to current payments if such measures are strictly necessary. The Community or Jordan, as appropriate, shall inform the other Party immedi- ately thereof and shall provide as soon as possible a timetable for the removal of such measures.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Competition And Other Economic Matters" chapter_identifier="851">
+      <article number="ARTICLE 53" article_identifier="7199">1. The following are incompatible with the proper functioning of the Agreement, in so far as they may affect trade between the Community and Jordan: 
+
+
+(a) 	all agreements between undertakings, decisions by associations of undertakings and concerted practices between undertakings which have as their object or effect the prevention, restriction or distortion of competition; 
+
+
+(b) 	abuse by one or more undertakings of a dominant position in the territories of the Community or Jordan as a whole or in a substantial part thereof; 
+
+
+(c) 	any public aid which distorts or threatens to distort competition by favouring certain undertakings or the production of certain goods. 
+
+2. Any practice contrary to this Article shall be assessed on the basis of the criteria resulting from the application of the rules contained in Articles 85, 86 and 92 of the Treaty establishing the European Community, and, for products covered by the Treaty establishing the European Coal and Steel Community, by those contained in Articles 65 and 66 of that Treaty and the Community rules on State aids, including secondary legislation. 
+
+
+3. The Association Council shall, within five years of the entry into force of the Agreement, adopt by decision the necessary rules for the implementation of paragraphs 1 and 2. 
+
+Until these rules are adopted, the provisions of the Agreement on interpretation and application of Articles VI, XVI and XXIII of the GATT shall be applied as the rules for the implementation of paragraph 1(c) and the relevant parts of paragraph 2. 
+
+4. 	(a) For the purposes of applying the provisions of paragraph 1(c), the Parties recognise that, during the first five years of the entry into force of the Agreement, any public aid granted by Jordan to undertakings shall be assessed taking into account the fact that Jordan shall be regarded as an area identical to those areas of the Community where the standard of living is abnormally low or where there is serious underemployment, as described in Article 92(3)(a) of the Treaty establishing the European Community. 
+The Association Council shall, taking into account the economic situation of Jordan, decide whether that period should be extended for further periods of five years. 
+
+(b) 	Each Party shall ensure transparency in the area of public aid, inter alia, by reporting annually to the other Party on the total amount and the distribution of the aid given and by providing, upon request, information on aid schemes. Upon request by one Party, the other Party shall provide information on particular individual cases of public aid. 
+
+5. 	With regard to products referred to in Title II, Chapter 2: 
+
+
+— 	paragraph 1(c) does not apply, 
+
+
+— 	any practices contrary to paragraph 1(a) shall be assessed according to the criteria established by the Community on the basis of Articles 42 and 43 of the Treaty establishing the European Community and in particular those established in Council Regulation No 26/62. 
+6. If the Community or Jordan considers that a particular practice is incompatible with the terms of paragraph 1, and: 
+
+
+— 	is not adequately dealt with under the implementing rules referred to in paragraph 3, or 
+
+
+— 	in the absence of such rules, and if such practice causes or threatens to cause serious prejudice to the interest of the other Party or material injury to its domestic industry, including its services industry, 
+it may take appropriate measures after consultation within the Association Committee or after 30 working days following referral for such consultation. 
+
+With reference to practices incompatible with paragraph 1(c) of this Article, such appropriate measures, when the GATT is applicable to them, may only be adopted in accordance with the procedures and under the conditions laid down by the GATT or by any other relevant instrument negotiated under its auspices and applicable to the Parties. 
+
+7. Notwithstanding any provisions to the contrary adopted in conformity with paragraph 3, the Parties shall exchange information taking into account the limitations imposed by the requirements of professional and business secrecy.</article>
+      <article number="ARTICLE 54" article_identifier="7200">The Member States and Jordan shall progressively adjust, without prejudice to their commitments respectively taken or to be taken under the GATT, any State monopolies of a commercial character, so as to ensure that, by the end of the fifth year following the entry into force of this Agreement, no discrimination regarding the conditions under which goods are procured and marketed exists between nationals of the Member States and Jordan. The Association Committee will be informed about the measures adopted to implement this objective.</article>
+      <article number="ARTICLE 55" article_identifier="7201">With regard to public enterprises and enterprises to which special or exclusive rights have been granted, the Association Council shall ensure that as from the fifth year following the date of entry into force of this Agreement there is neither enacted nor maintained any measure distorting trade between the Community and Jordan to an extent contrary to the Parties’ interests. This provision should not obstruct the performance in law or in fact of the particular tasks assigned to these enterprises.</article>
+      <article number="ARTICLE 56" article_identifier="7202">1. Pursuant to the provisions of this Article and of
+Annex VII, the Parties shall grant and ensure adequate and effective protection of intellectual, industrial and commercial
+property rights in accordance with the highest international
+standards, including effective means of enforcing such rights.
+2. The implementation of this Article and of Annex VII shall be regularly reviewed by the Parties. If problems in the area of intellectual, industrial and commercial property affecting trading conditions were to occur, urgent consultation shall be undertaken, at the request of either Party, with a view to reaching mutually satisfactory solutions.</article>
+      <article number="ARTICLE 57" article_identifier="7203">The Parties shall aim to reduce differences in standardisation and conformity assessment. To this end the Parties shall conclude where appropriate agreements on mutual recognition in the field of conformity assessment.</article>
+      <article number="ARTICLE 58" article_identifier="7204">The Parties agree on the objective of a gradual liberalisation of public procurement. The Association Council will hold consultations on the implementation of this objective.</article>
+    </chapter>
+    <chapter number="TITLE V" name="Economic Cooperation" chapter_identifier="852">
+      <article number="ARTICLE 59" name="Objectives" article_identifier="7205">1. The Parties undertake to intensify economic cooperation in their mutual interest and in accordance with the overall objectives of the Agreement.
+2. The aim of economic cooperation shall be to support Jordan’s own efforts to achieve sustainable economic and social development.</article>
+      <article number="ARTICLE 60" name="Scope" article_identifier="7206">1. Cooperation shall focus primarily on sectors suffering from internal difficulties or affected by the overall process of liberalisation of the Jordanian economy, and in particular by the liberalisation of trade between Jordan and the Community.
+2. Similarly, cooperation shall focus on areas likely to bring the economies of the Community and Jordan closer together, particularly those which will generate growth and employ-
+3. The Parties will encourage economic cooperation between Jordan and other countries of the region.
+4. Conservation of the environment and ecological balance shall be taken into account in the implementation of the various sectors of economic cooperation to which it is relevant.
+5. The Parties may agree to extend economic cooperation to other sectors not covered by the provisions of this Title.</article>
+      <article number="ARTICLE 61" name="Methods And Modalities" article_identifier="7207">Economic cooperation shall be implemented in particular by:
+(a) a regular economic dialogue between the Parties, which covers all areas of macroeconomic policy;
+(b) regular exchange of information and ideas in every sector of cooperation including meetings of officials and experts;
+(c) transfer of advice, expertise and training;
+(d) implementation of joint actions such as seminars and workshops;
+(e) technical, administrative and regulatory assistance; (f) encouragement of joint ventures.</article>
+      <article number="ARTICLE 62" name="Regional Cooperation" article_identifier="7208">The Parties will encourage operations having a regional impact or associating other countries of the region, with a view to promoting regional cooperation. 
+
+Such operations may include: 
+
+
+— 	trade at intra-regional level, 
+
+
+— 	environmental issues, 
+
+
+— 	development of economic infrastructures, 
+
+
+— 	scientific and technological research, 
+
+
+— 	cultural matters, 
+
+
+— 	customs matters,</article>
+      <article number="ARTICLE 63" name="Education And Training" article_identifier="7209">The Parties shall cooperate with the objective of identifying and employing the most effective means of improving significantly the education and vocational training situation, in particular with regard to public and private enterprises, trade-related services, public administrations and authorities, technical agencies, standardisation and certification bodies and other relevant organisations. In this context, vocational training for industrial restructuring will receive special attention. 
+
+Cooperation shall also encourage the establishment of links between specialised bodies in the Community and in Jordan and shall promote the exchange of information and experiences and the pooling of technical resources.</article>
+      <article number="ARTICLE 64" name="Scientific And Technological Cooperation" article_identifier="7210">Cooperation has the objective of: 
+
+(a) 	encouraging the establishment of durable links between the scientific communities of the Parties, notably through: 
+
+
+— 	the access of Jordan to Community R &amp; D pro-grammes, in conformity with the existing provisions concerning the participation of third countries, 
+
+
+— 	the participation of Jordan in the networks of decentralised cooperation, 
+
+
+— 	the promotion of synergy between training and research; 
+
+(b) 	strengthening the research capacity of Jordan; 
+
+
+(c) 	stimulating technological innovation, transfer of new technologies, and dissemination of know-how, in particular with a view to accelerating the adjustment of Jordanian industrial capability.</article>
+      <article number="ARTICLE 65" name="Environment" article_identifier="7211">1. Cooperation is aimed at preventing deterioration of the environment, controlling pollution and ensuring the rational use of natural resources, with a view to ensuring sustainable development and promoting regional environmental projects. 
+
+
+2. 	Cooperation shall focus, in particular, on: 
+
+— 	desertification, 
+
+
+— 	quality of sea water and the control and prevention of marine pollution, 
+
+
+— 	water resource management, 
+
+
+— 	appropriate use of energy, 
+
+
+— 	waste management, 
+
+
+— 	the impact of industrial development on the environment in general and the safety of industrial plant in particular, 
+
+
+— 	the impact of agriculture on soil and water quality, 
+
+
+— 	environmental education and awareness, 
+
+
+— 	use of advanced tools of environment management, environmental monitoring methods and surveillance, including in particular the use of the Environmental Information System (EIS) and environmental impact assessment techniques, 
+
+
+— 	salinisation.</article>
+      <article number="ARTICLE 66" name="Industrial Cooperation" article_identifier="7212">Cooperation shall promote and encourage in particular: 
+
+
+— 	industrial cooperation between economic operators in the Community and in Jordan, including access for Jordan to the Community’s networks for the rapprochement of businesses and to networks created in the context of decentralised cooperation, 
+
+
+— 	the modernisation and restructuring of Jordanian industry, 
+
+— 	the establishment and promotion of an environment favourable to the development of private enterprise, in order to stimulate the growth and the diversification of industrial production, 
+
+
+— 	cooperation between small and medium-sized enterprises in the Community and in Jordan, 
+
+
+— 	technology transfer, innovation and R &amp; D, 
+
+
+— 	diversification of industrial output in Jordan, 
+
+
+— 	the enhancement of human resources, 
+
+
+— 	improvement of access to investment finance, 
+
+
+— 	stimulation of innovation, 
+
+
+— 	improvement of information support services.</article>
+      <article number="ARTICLE 67" name="Investments And Promotion Of Investments" article_identifier="7213">The objective of cooperation will be the creation of a favourable and stable environment for investment in Jordan. The cooperation will entail the development of: 
+
+
+— 	harmonised and simplified administrative procedures; co-investment machinery, especially for small and medium-sized enterprises of both Parties; and information channels and means of identifying investment opportunities, 
+
+
+— 	a legal environment conducive to investment between the two Parties, where appropriate through the conclusion by the Member States and Jordan of investment protection agreements and agreements to prevent double taxation, 
+
+
+— 	access to the capital market for the financing of productive investments, 
+
+
+— 	joint ventures between Jordanian and Community business.</article>
+      <article number="ARTICLE 68" name="Standardisation And Conformity Assessment" article_identifier="7214">Cooperation in this field will be aimed in particular at: 
+
+
+(a) 	increasing the application of Community rules in the field of standardisation, metrology, quality standards, and recognition of conformity; 
+
+
+(b) 	upgrading the level of Jordanian conformity assessment bodies, with a view to the establishment, in due time and to the extent feasible, of agreements of mutual recognition of conformity assessment; 
+
+
+(c) 	developing structures and bodies for the protection of intellectual, industrial and commercial property, for standardisation and for setting quality standards.</article>
+      <article number="ARTICLE 69" name="Approximation Of Laws" article_identifier="7215">The Parties shall use their best endeavours to approximate their respective laws in order to facilitate the implementation of this Agreement.</article>
+      <article number="ARTICLE 70" name="Financial Services" article_identifier="7216">The Parties shall cooperate with a view to the approximation of their standards and rules, in particular: 
+
+
+(a) 	to strengthen and restructure the financial sector in Jordan; 
+
+
+(b) 	to improve accounting and supervisory and regulatory systems of banking, insurance and other financial sectors in Jordan.</article>
+      <article number="ARTICLE 71" name="Agriculture" article_identifier="7217">The Parties shall focus cooperation in particular on: 
+
+
+— 	support for policies implemented by them to diversify production, 
+
+
+— 	promotion of environment-friendly agriculture, 
+
+
+— 	closer relations between businesses, groups and organisations representing trades and professions in Jordan and in the Community on a voluntary basis, 
+
+
+— 	technical assistance and training, 
+
+
+— 	harmonisation of phytosanitary and veterinary standards, 
+
+
+— 	integrated rural development, including improvement in basic services and development of associated economic activities, 
+
+
+— 	cooperation among rural regions, exchange of experience and know-how concerning rural development.</article>
+      <article number="ARTICLE 72" name="Transport" article_identifier="7218">Cooperation is aimed at: 
+
+— 	the restructuring and modernisation of road, port and airport infrastructures linked to the main trans-European communication routes of common interest, 
+
+— 	the establishment and enforcement of operating standards comparable to those prevailing in the Community, 
+
+
+— 	the upgrading of technical equipment to bring it up to Community standards for road/rail transport, container traffic and transhipment, 
+
+
+— 	the gradual easing of transit requirements, 
+
+
+— 	the improvement of management of airports, railways and air traffic control, including cooperation between the relevant national bodies.</article>
+      <article number="ARTICLE 73" name="Information Infrastructures And Telecommunications" article_identifier="7219">Cooperation shall focus on: 
+
+
+(a) 	telecommunications in general; 
+
+
+(b) 	standardisation, conformity testing and certification for information technology and telecommunications; 
+
+
+(c) 	dissemination of new information technologies, particularly in relation to networks and the interconnection of networks (ISDN (integrated services digital networks) and EDI (electronic data interchange)); 
+
+
+(d) 	stimulating research on and development of new communication and information technology facilities to develop the market in equipment, services and applications related to information technology and to communications, services and installations.</article>
+      <article number="ARTICLE 74" name="Energy" article_identifier="7220">The priority areas of cooperation will be: 
+
+
+— 	the promotion of renewable energies and indigenous energy sources, 
+
+
+— 	the promotion of energy-saving and energy efficiency, 
+
+
+— 	applied research into databank networks in the economic and social sectors, linking Community and Jordanian operators in particular, 
+
+
+— 	support for the modernisation and development of energy networks and for their link-up to Community networks. 
+Cooperation will also focus on facilitating transit of gas, oil and electricity.</article>
+      <article number="ARTICLE 75" name="Tourism" article_identifier="7221">Priorities for cooperation in this sphere shall be: 
+
+
+— 	improving the knowledge of the tourist industry and ensuring greater consistency of policies affecting tourism, 
+
+
+— 	promoting a good seasonal spread of tourism, 
+
+
+— 	promoting cooperation between regions and cities of neighbouring countries, 
+
+
+— 	improving information for tourists and the protection of their interests, 
+
+
+— 	highlighting the importance of the cultural heritage for tourism, 
+
+
+— 	ensuring that the interaction between tourism and the environment is suitably maintained, 
+
+
+— 	making tourism more competitive through support for increased professionalism, in particular with regard to hotel management, 
+
+
+— 	exchanging information on planned tourism development and tourism marketing projects, tourism shows, exhibitions, conventions and publications.</article>
+      <article number="ARTICLE 76" name="Customs" article_identifier="7222">1. The Parties commit themselves to developing customs cooperation to ensure that the provisions on trade are observed. Cooperation will focus in particular on: 
+
+
+(a) 	the simplification of controls and procedures concerning the customs clearance of goods; 
+
+
+(b) 	the use of the single administrative document and a system to link up the Community’s and Jordan’s transit arrangements. 
+2. Without prejudice to other forms of cooperation envisaged in this Agreement, notably for the fight against drugs and money laundering, the Parties’ administrations will provide mutual assistance in accordance with the provisions of Protocol 4.</article>
+      <article number="ARTICLE 77" name="Cooperation On Statistics" article_identifier="7223">The main objective of cooperation in this field will be to harmonise methodology in order to create a reliable basis for handling statistics on trade, population, migration and generally all the fields which are covered by this Agreement and lend themselves to the establishment of statistics.</article>
+      <article number="ARTICLE 78" name="Money Laundering" article_identifier="7224">1. The Parties shall cooperate with a view in particular to preventing the use of their financial systems to launder the proceeds arising from criminal activities in general and drug trafficking in particular. 
+
+
+2. Cooperation in this field shall include, in particular, technical and administrative assistance aimed at establishing standards relating to the fight against money laundering, equivalent to those adopted by the Community and other relevant international bodies, in particular the Financial Action Task Force (FATF).</article>
+      <article number="ARTICLE 79" name="Fight Against Drugs" article_identifier="7225">1. 	The Parties shall cooperate with a view in particular to: 
+
+
+— 	improving the effectiveness of policies and measures to counter the supply of, and illicit trafficking in, narcotic drugs and psychotropic substances and the reduction of the abuse of these products, 
+
+
+— 	encouraging a joint approach to reducing the illicit consumption thereof. 
+
+2. The Parties shall determine together, in accordance with their respective legislation, the strategies and cooperation methods appropriate for attaining these objectives. Their operations, other than joint operations, shall form the subject of consultations and close coordination. 
+
+The relevant public and private sector bodies, in accordance with their own powers, working with the competent bodies of Jordan, the Community and its Member States, may take part in these operations. 
+
+3. Cooperation shall take the form of exchanges of information and, where appropriate, joint activities on: 
+— 	establishment or extension of social and health institutions and information centres for the treatment and rehabilitation of drug addicts, 
+
+
+— 	implementation of projects in the areas of prevention, training and epidemiological research, 
+
+
+— 	establishment of standards relating to the prevention of the diversion of precursors and other essential substances used for the illicit production of narcotic drugs and psychotropic substances, equivalent to those adopted by the Community and the international authorities concerned, notably by the Chemical Action Task Force (CATF). 
+COOPERATION IN SOCIAL 
+AND CULTURAL MATTERS</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Social Dialogue" chapter_identifier="853">
+      <article number="ARTICLE 80" article_identifier="7226">1. A regular dialogue shall be established between the Parties on all social issues of mutual interest. 
+
+
+2. This dialogue shall be used to seek ways and means to further progress as regards the movement of workers and the equal treatment and social integration of Jordanian and Community nationals legally residing in their host countries. 
+
+
+3. 	The dialogue shall focus on problems related to: 
+
+(a) 	migrant communities’ living and working conditions; 
+
+
+(b) 	migration; 
+
+
+(c) 	illegal immigration and the conditions attaching to the repatriation of illegal immigrants under the legislation on residence and establishment in the host country; 
+
+
+(d) 	projects and programmes on equality of treatment for Jordanian and Community nationals, reciprocal awareness of cultures and civilizations, the development of tolerance and the elimination of discrimination.</article>
+      <article number="ARTICLE 81" article_identifier="7227">Social dialogue shall be conducted at the same level and following the same procedures as those provided for in Title I of this Agreement, which can be used as a framework for this dialogue.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Social Cooperation Actions" chapter_identifier="854">
+      <article number="ARTICLE 82" article_identifier="7228">1. The Parties acknowledge the importance of social develop- ment which should go hand in hand with any economic development. They give particular priority to respect of basic social rights.
+2. To consolidate social cooperation between the Parties, actions and programmes shall be undertaken on any issue of interest to them.
+Priority shall be given to the following actions:
+(a) reduction of migratory pressures through job creation and the development of training in areas with a high emigration rate;
+(b) reintegration of repatriated illegal immigrants;
+(c) promotion of the role of women in social and economic development, particularly through education and the media, in line with Jordanian policy in this area;
+(d) development and consolidation of Jordanian family plan- ning and mother and child protection programmes;
+(e) improving the social security system;
+(f) improving the healthcare system;
+(g) improving living conditions in underprivileged, densely populated areas;
+(h) implementation and financing of exchange and leisure programmes for mixed groups of young Jordanians and Europeans residing in the Member States, with a view to promoting mutual cultural understanding and tolerance.</article>
+      <article number="ARTICLE 83" article_identifier="7229">Cooperation projects may be coordinated with the Member States and the appropriate international organisations.</article>
+      <article number="ARTICLE 84" article_identifier="7230">A working party shall be set up by the Association Council by the end of the first year following entry into force of this Agreement. Its brief shall be to evaluate the implementation of the provisions of Chapters 1 and 2 on an ongoing basis.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Cultural Cooperation And Exchange Of Information" chapter_identifier="855">
+      <article number="ARTICLE 85" article_identifier="7231">1. To foster mutual knowledge and understanding, and in line with projects that have already been developed along these lines, the Parties shall undertake, in a spirit of mutual cultural respect, to establish firm foundations for a continuing cultural dialogue and to promote long-term cultural cooperation in any appropriate field of activity.
+2. The Parties shall, in identifying cooperation projects and programmes and joint activities, give special attention to young people, to self-expression and communication skills using written and audiovisual media, to heritage conservation issues and to the dissemination of culture.
+3. The Parties agree that existing cultural cooperation programmes in the Community and the Member States can be extended to Jordan.
+4. The Parties shall promote activities of mutual interest in the field of information and communications.</article>
+    </chapter>
+    <chapter number="TITLE VII" name="Financial Cooperation" chapter_identifier="856">
+      <article number="ARTICLE 86" article_identifier="7232">In order to achieve the objectives of this Agreement, a financial cooperation package shall be made available to Jordan in accordance with the appropriate procedures and the financial resources required.
+These procedures shall be agreed by both Parties using the most appropriate instruments after the Agreement has entered into force.
+In addition to the areas covered by Titles V and VI of the Agreement, financial cooperation shall focus on:
+— promoting reforms designed to modernise the economy, — upgrading economic infrastructure,
+— promoting private investment and job-creating activities,
+— responding to the economic repercussions for Jordan of the gradual introduction of a free trade area, notably by upgrading and restructuring industry,
+— accompanying the policies implemented in the social sector.</article>
+      <article number="ARTICLE 87" article_identifier="7233">In the framework of the existing Community Financial Instru- ments aimed at supporting the structural adjustment pro- grammes in the Mediterranean countries, and in close cooper- ation with the Jordanian authorities and other donors, particu- larly with other international financial institutions, the Com- munity will examine suitable ways of supporting structural policies carried out by Jordan to restore financial equilibrium in the main financial aggregates and encourage the creation of an economic environment conducive to increased growth, while at the same time improving the social well-being of the population.</article>
+      <article number="ARTICLE 88" article_identifier="7234">In order to ensure that a coordinated approach is adopted to any exceptional macroeconomic and financial problems that might arise as a result of the implementation of this Agreement, the Parties shall use the regular economic dialogue provided for in Title V to give particular attention to monitoring trade and financial trends in relations between the Community and Jordan.</article>
+    </chapter>
+    <chapter number="TITLE VIII" name="Institutional, General And Final Provisions" chapter_identifier="857">
+      <article number="ARTICLE 89" article_identifier="7235">An Association Council is hereby established which shall meet at ministerial level once a year and when circumstances require, at the initiative of its Chairman and in accordance with the conditions laid down in its Rules of Procedure.
+It shall examine any major issues arising within the framework of this Agreement and any other bilateral or international issues of mutual interest.</article>
+      <article number="ARTICLE 90" article_identifier="7236">1. The Association Council shall consist of the members of the Council of the European Union and members of the Commission of the European Communities, on the one hand, and members of the Government of Jordan, on the other.
+2. Members of the Association Council may arrange to be represented in accordance with the provisions laid down in its Rules of Procedure.
+3. The Association Council shall establish its Rules of Procedure.
+4. The Association Council shall be chaired in turn by a member of the Council of the European Union and a member of the Government of Jordan, in accordance with the provisions laid down in its Rules of Procedure.</article>
+      <article number="ARTICLE 91" article_identifier="7237">The Association Council shall, for the purpose of attaining the objectives of the Agreement, have the power to take decisions in the cases provided for therein.
+The decisions taken shall be binding on the Parties which shall take the measures necessary to implement the decisions taken. The Association Council may also make appropriate recommendations.
+It shall draw up its decisions and recommendations by agreement between the two Parties.</article>
+      <article number="ARTICLE 92" article_identifier="7238">1. Subject to the powers of the Council, an Association Committee is hereby established which shall be responsible for the implementation of the Agreement.
+2. The Association Council may delegate to the Association Committee, in full or in part, any of its powers.</article>
+      <article number="ARTICLE 93" article_identifier="7239">1. The Association Committee, which shall meet at official level, shall consist of representatives of members of the Council of the European Union and of members of the Commission of the European Communities, on the one hand, and of representatives of the Government of Jordan, on the other.
+2. The Association Committee shall establish its Rules of Procedure.
+3. The Association Committee shall be chaired in turn by a representative of the Presidency of the Council of the European Union and by a representative of the Government of Jordan.</article>
+      <article number="ARTICLE 94" article_identifier="7240">1. The Association Committee shall have the power to take decisions for the management of the Agreement as well as in the areas in which the Council has delegated its powers to it.
+2. It shall draw up its decisions by agreement between the two Parties. These decisions shall be binding on the Parties which shall take the measures necessary to implement the decisions taken.</article>
+      <article number="ARTICLE 95" article_identifier="7241">The Association Council may decide to set up any working group or body necessary for the implementation of the Agreement.</article>
+      <article number="ARTICLE 96" article_identifier="7242">The Association Council shall take all appropriate measures to facilitate cooperation and contacts between the European Parliament and the Jordanian Parliament.</article>
+      <article number="ARTICLE 97" article_identifier="7243">1. Each of the Parties may refer to the Association Council any dispute relating to the application or interpretation of this Agreement.
+2. The Association Council may settle the dispute by means a decision.
+3. Each Party shall be bound to take the measures involved carrying out the decision referred to in paragraph 2.
+4. In the event of it not being possible to settle the dispute in accordance with paragraph 2 of this Article, either Party
+may notify the other of the appointment of an arbitrator; the other Party must then appoint a second arbitrator within two months. For the application of this procedure, the Community and the Member States shall be deemed to be one Party to the dispute.
+
+The Association Council shall appoint a third arbitrator. The arbitrators’ decisions shall be taken by majority vote.
+Each Party to the dispute must take the steps required to implement the decision of the arbitrators.</article>
+      <article number="ARTICLE 98" article_identifier="7244">Nothing in the Agreement shall prevent a Party from taking any measures:
+(a) which it considers necessary to prevent the disclosure of information contrary to its essential security interests;
+(b) which relate to the production of, or trade in, arms, munitions or war materials or to research, development or production indispensable for defence purposes, provided that such measures do not impair the conditions of competition in respect of products not intended for specifically military purposes;
+(c) which it considers essential to its own security in the event of serious internal disturbances affecting the maintenance of law and order, in time of war or serious international tension constituting threat of war or in order to carry out obligations it has accepted for the purpose of maintaining peace and international security.</article>
+      <article number="ARTICLE 99" article_identifier="7245">In the fields covered by this Agreement and without prejudice to any special provisions contained therein:
+— the arrangements applied by Jordan in respect of the Community shall not give rise to any discrimination between the Member States, their nationals or their companies or firms,
+— the arrangements applied by the Community in respect of Jordan shall not give rise to discrimination between Jordanian nationals or its companies or firms.</article>
+      <article number="ARTICLE 100" article_identifier="7246">As regards direct taxation, nothing in the Agreement shall have the effect of:
+— extending the fiscal advantages granted by either Party in any international agreement or arrangement by which it is bound,
+— preventing the adoption or application by either Party of any measure aimed at preventing the avoidance or evasion of taxes,
+— opposing the right of either Party to apply the relevant provisions of its tax legislation to taxpayers who are not in identical situations, in particular as regards their place of residence.</article>
+      <article number="ARTICLE 101" article_identifier="7247">1. The Parties shall take any general or specific measures required to fulfil their obligations under the Agreement. They shall see to it that the objectives set out in the Agreement are attained.
+2. If either Party considers that the other Party has failed to fulfil an obligation under the Agreement, it may take appropri- ate measures. Before so doing, except in cases of special urgency, it shall supply the Association Council with all relevant information required for a thorough examination of the situation with a view to seeking a solution acceptable to the Parties.
+In the selection of measures priority must be given to those which least disturb the functioning of the Agreement. These measures shall be notified immediately to the Association Council and shall be the subject of consultations within the Association Council if the other Party so requests.
+
+Article 102 
+
+Protocols 1 to 4 and Annexes I to VII shall form an integral part of this Agreement. Declarations and Exchanges of Letters shall appear in the Final Act, which shall likewise form an integral part of this Agreement. 
+
+Article 103 
+
+For the purposes of this Agreement the term ‘Parties’ shall mean, on the one part, the Community or the Member States, or the Community and the Member States, in accordance with their respective powers, and, on the other part, Jordan. 
+
+Article 104 
+
+The Agreement is concluded for an unlimited period. 
+
+Each of the Parties may denounce the Agreement by notifying the other Party. The Agreement shall cease to apply six months after the date of such notification. 
+
+Article 105 
+
+This Agreement shall apply, on the one hand, to the territories in which the Treaties establishing the European Community, and the European Coal and Steel Community are applied and under the conditions laid down in those Treaties and, on the other hand, to the territory of Jordan. 
+
+Article 106 
+
+This Agreement, drawn up in duplicate in the Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish and Arabic languages, each of these texts being equally authentic, shall be deposited with the General Secretariat of the Council of the European Union. 
+
+Article 107 
+
+
+1. This Agreement will be approved by the Parties in accordance with their own procedures. 
+
+This Agreement shall enter into force on the first day of the second month following the date on which the Parties notify each other that the procedures referred to in the first paragraph have been completed. 
+
+2. Upon its entry into force this Agreement shall replace the Cooperation Agreement between the European Economic Community and the Hashemite Kingdom of Jordan, and the Agreement between the Member States of the European Coal and Steel Community and the Hashemite Kingdom of Jordan, signed in Brussels on 18 January 1977.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="858">
+      <article article_identifier="7248">Hecho en Bruselas, el veinticuatro de noviembre de mil novecientos noventa y siete. 
+Udfærdiget i Bruxelles, den fireogtyvende november nitten hundrede og sygoghalvfems. 
+Geschehen zu Brüssel am vierundzwanzigsten November neunzehnhundertsiebenundneunzig. 
+'ιβΔλο ρηΔν ΦΙ΄�οΑκκον, ρηΔν οΔΑΓξρΔ ηοΑρροΙΔν ΒξοµαΙΔΑξ΄ ΝΔΑκΔχ ολλΔχΓξΑρΔχ ολολΚΑληχ οωηχΑ. 
+Done at Brussels on the twenty-fourth day of November in the year one thousand nine hundred and ninety-seven. 
+Fait à Bruxelles, le vingt-quatre novembre mil neuf cent quatre-vingt-dix-sept. 
+Fatto a Bruxelles, addı` ventiquattro novembre millenovecentonovantasette. 
+Gedaan te Brussel, de vierentwintigste november negentienhonderd zevenennegentig. 
+Feito em Bruxelas, em vinte e quatro de Novembro de mil novecentos e noventa e sete. 
+Tehty Brysselissä kahdentenakymmenentenäneljäntenä päivänä marraskuuta vuonna tuhatyhdeksänsataayhdeksän
+
+kymmentäseitsemän. 
+Som skedde i Bryssel den tjugofjärde november nittonhundranittiosju. 
+
+Pour le Royaume de Belgique Voor het Koninkrijk België Für das Königreich Belgien 
+Cette signature engage également la Communauté française, la Communauté flamande, la Communauté germanophone, la Région wallonne, la Région flamande et la Région de Bruxelles-Capitale. 
+
+Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest. 
+
+Diese Unterschrift verbindet zugleich die Deutschsprachige Gemeinschaft, die Flämische Gemeinschaft, die Französische Gemeinschaft, die Wallonische Region, die Flämische Region und die Region Brüssel-Hauptstadt. 
+
+På Kongeriget Danmarks vegne 
+Für die Bundesrepublik Deutschland 
+υΔχ ηΚλ ικκΚλΔΓΚΑ τΚµξΓΙχηΔΑχ 
+Por el Reino de Espan˜a 
+Pour la République française 
+Thar cheann Na hE´ ireann For Ireland 
+Per la Repubblica italiana 
+Pour le Grand-Duché de Luxembourg 
+Voor het Koninkrijk der Nederlanden Für die Republik O¨ sterreich 
+Pela Repu´ blica Portuguesa 
+Suomen tasavallan puolesta 
+För Konungariket Sverige 
+For the United Kingdom of Great Britain and Northern Ireland 
+Por las Comunidades Europeas For De Europæiske Fællesskaber Für die Europäischen Gemeinschaften 
+
+υΔχ ηΔν ι΄ΙΟωχΔ¨ΓοΑν εξΔλξΑηΚηον 
+
+For the European Communities Pour les Communautés européennes Per le Comunità europee Voor de Europese Gemeenschappen Pelas Comunidades Europeias Euroopan yhteisöjen puolesta På Europeiska gemenskapernas vägnar</article>
+    </chapter>
+  </body>
+</treaty>

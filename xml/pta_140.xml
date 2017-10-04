@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Montenegro</name>
+    <type>Free Trade Agreement &amp; Economic Integration Agreement</type>
+    <wto_rta_id>154</wto_rta_id>
+    <treaty_identifier>140</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV &amp; GATS Art. V</notification>
+    <date_signed>2007-10-15</date_signed>
+    <date_into_force>2008-01-01</date_into_force>
+    <date_notification>2008-01-16</date_notification>
+    <end_implementation>2013-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HUN</partyisocode>
+      <partyisocode n="15">IRL</partyisocode>
+      <partyisocode n="16">ITA</partyisocode>
+      <partyisocode n="17">LTU</partyisocode>
+      <partyisocode n="18">LUX</partyisocode>
+      <partyisocode n="19">LVA</partyisocode>
+      <partyisocode n="20">MLT</partyisocode>
+      <partyisocode n="21">MNE</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SVK</partyisocode>
+      <partyisocode n="27">SVN</partyisocode>
+      <partyisocode n="28">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">MNE</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390917160&amp;uri=CELEX:22007A1228(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22007A1228(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22007A1228(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390917160&amp;uri=CELEX:22007A1228(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390917160&amp;uri=CELEX:22007A1228(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390917160&amp;uri=CELEX:22007A1228(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1475">
+      <article article_identifier="11700">Interim Agreement
+
+  on trade and trade-related matters between the European Community, of
+  the one part, and the Republic of Montenegro, of the other part
+
+  THE EUROPEAN COMMUNITY,
+
+  hereinafter referred to as "the Community",
+
+  of the one part, and
+
+  THE REPUBLIC OF MONTENEGRO,
+
+  hereinafter referred to as "Montenegro",
+
+  of the other part,
+
+  together referred to as "the Parties",
+
+  WHEREAS:
+
+  (1) The Stabilisation and Association Agreement between the European
+  Communities and its Member States, of the one part, and Montenegro, of
+  the other part (hereinafter referred to as "the Stabilisation and
+  Association Agreement" or "the SAA"), was signed in
+  Luxembourg on the fifteenth day of October in the year 2007.
+
+  (2) The Stabilisation and Association Agreement is intended to
+  establish a close and lasting relationship based on reciprocity and
+  mutual interest, which should allow Montenegro to further strengthen
+  and extend the already established relationship with the European
+  Union.
+
+  (3) It is necessary to ensure the development of trade links by
+  strengthening and widening the relations established previously.
+
+  (4) To this end it is necessary to implement as speedily as possible,
+  by means of an Interim Agreement (hereinafter referred to as
+  "this Agreement"), provisions of the Stabilisation and
+  Association Agreement on trade and trade-related matters.
+
+  (5) Some of the provisions included in Protocol 4 on land transport to
+  the Stabilisation and Association Agreement, which are related to road
+  transit traffic, are directly linked to the free movement of goods and
+  should consequently be included in this Agreement.
+
+  (6) In the absence of pre-existing contractual structures this
+  Agreement establishes an Interim Committee for the implementation of
+  this Agreement,
+
+  HAVE DECIDED to conclude this Agreement and to this end have
+  designated as their plenipotentiaries:
+
+  THE EUROPEAN COMMUNITY:
+
+  Luís AMADO,
+
+  Minister for Foreign Affairs of the Portuguese Republic,
+
+  President-in-Office of the Council of the European Union
+
+  Olli REHN,
+
+  Member of the Commission of the European Communities (hereinafter
+  referred to as "European Commission") with responsibility
+  for Enlargement
+
+  MONTENEGRO:
+
+  Željko ŠTURANOVIĆ,
+
+  Prime Minister
+
+  WHO, having exchanged their full powers, found in good and due form,
+
+  HAVE AGREED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="TITLE I" name="General Principles" chapter_identifier="1476">
+      <article number="ARTICLE 1" article_identifier="11701">Respect for the democratic principles and human rights as proclaimed
+  in the Universal Declaration of Human Rights and as defined in the
+  Convention for the Protection of Human Rights and Fundamental
+  Freedoms, in the Helsinki Final Act and the Charter of Paris for a New
+  Europe, respect for international law principles, including full
+  cooperation with the International Criminal Tribunal for the former
+  Yugoslavia (ICTY), and the rule of law as well as the principles of
+  market economy as reflected in the Document of the CSCE Bonn
+  Conference on Economic Cooperation, shall form the basis of the
+  domestic and external policies of the Parties and constitute essential
+  elements of this Agreement.</article>
+      <article number="ARTICLE 2" article_identifier="11702">This Agreement shall be fully compatible with and implemented in a
+  manner consistent with the relevant WTO provisions, in particular
+  Article XXIV of the General Agreement on Tariffs and Trade 1994 (GATT
+  1994) and Article V of the General Agreement on Trade in Services
+  (GATS).
+
+  FREE MOVEMENT OF GOODS</article>
+      <article number="ARTICLE 3" article_identifier="11703">1. The Community and Montenegro shall gradually establish a bilateral
+  free trade area over a period lasting a maximum of five years starting
+  from the entry into force of this Agreement in accordance with the
+  provisions of this Agreement and in conformity with those of the GATT
+  1994 and the WTO. In so doing they shall take into account the
+  specific requirements laid down hereinafter.
+
+  2. The Combined Nomenclature shall be applied to the classification of
+  goods in trade between the Parties.
+
+  3. For the purpose of this Agreement customs duties and charges having
+  equivalent effect to customs duties include any duty or charge of any
+  kind imposed in connection with the importation or exportation of a
+  good, including any form of surtax or surcharge in connection with
+  such importation or exportation, but do not include any:
+
+  (a) charges equivalent to an internal tax imposed consistently with
+  the provisions of paragraph 2 of Article III of the GATT 1994;
+
+  (b) antidumping or countervailing measures;
+
+  (c) fees or charges commensurate with the costs of services rendered.
+
+  4. For each product, the basic duty to which the successive tariff
+  reductions set out in this Agreement are to be applied shall be:
+
+  (a) the Community Common Customs Tariff, established pursuant to
+  Council Regulation (EEC) No 2658/87 [1] actually applied erga omnes on
+  the day of the signature of this Agreement;
+
+  (b) the Montenegrin applied tariff [2].
+
+  5. If, after the signature of this Agreement, any tariff reduction is
+  applied on an erga omnes basis, in particular reductions resulting:
+
+  (a) from the tariff negotiations in the WTO or,
+
+  (b) in the event of the accession of Montenegro to the WTO or,
+
+  (c) from subsequent reductions after the accession of Montenegro to
+  the WTO,
+
+  such reduced duties shall replace the basic duty referred to in
+  paragraph 4 as from the date when such reductions are applied.
+
+  6. The Community and Montenegro shall communicate to each other their
+  respective basic duties and any changes thereof.</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Industrial Products" chapter_identifier="1477">
+      <article number="ARTICLE 4" name="Definition" article_identifier="11704">1. The provisions of this Chapter shall apply to products originating
+  in the Community or in Montenegro listed in Chapters 25 to 97 of the
+  Combined Nomenclature, with the exception of the products listed in
+  Annex I, paragraph I, (ii) of the WTO Agreement on Agriculture.
+
+  2. Trade between the Parties in products covered by the Treaty
+  establishing the European Atomic Energy Community shall be conducted
+  in accordance with the provisions of that Treaty.</article>
+      <article number="ARTICLE 5" name="Community Concessions On Industrial Products" article_identifier="11705">1. Customs duties on imports into the Community and charges having
+  equivalent effect shall be abolished upon the entry into force of this
+  Agreement on industrial products originating in Montenegro.
+
+  2. Quantitative restrictions on imports into the Community and
+  measures having equivalent effect shall be abolished upon the entry
+  into force of this Agreement on industrial products originating in
+  Montenegro.</article>
+      <article number="ARTICLE 6" name="Montenegrin Concessions On Industrial Products" article_identifier="11706">1. Customs duties on imports into Montenegro of industrial products
+  originating in the Community other than those listed in Annex I shall
+  be abolished upon the entry into force of this Agreement.
+
+  2. Charges having equivalent effect to customs duties on imports into
+  Montenegro shall be abolished upon the entry into force of this
+  Agreement on industrial products originating in the Community.
+
+  3. Customs duties on imports into Montenegro of industrial products
+  originating in the Community which are listed in Annex I shall be
+  progressively reduced and abolished in accordance with the timetable
+  indicated in that Annex.
+
+  4. Quantitative restrictions on imports into Montenegro of industrial
+  products originating in the Community and measures having equivalent
+  effect shall be abolished upon the date of entry into force of this
+  Agreement.</article>
+      <article number="ARTICLE 7" name="Duties And Restrictions On Exports" article_identifier="11707">1. The Community and Montenegro shall abolish any customs duties on
+  exports and charges having equivalent effect in trade between them
+  upon the entry into force of this Agreement.
+
+  2. The Community and Montenegro shall abolish between themselves any
+  quantitative restrictions on exports and measures having equivalent
+  effect upon the entry into force of this Agreement.</article>
+      <article number="ARTICLE 8" name="Faster Reductions In Customs Duties" article_identifier="11708">Montenegro declares its readiness to reduce its customs duties in
+  trade with the Community more rapidly than is provided for in Article
+  6 if its general economic situation and the situation of the economic
+  sector concerned so permit.
+
+  The Interim Committee shall analyse the situation in this respect and
+  make the relevant recommendations.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Agriculture And Fisheries" chapter_identifier="1478">
+      <article number="ARTICLE 9" name="Definition" article_identifier="11709">1. The provisions of this Chapter shall apply to trade in agricultural
+  and fishery products originating in the Community or in Montenegro.
+
+  2. The term "agricultural and fishery product" refers to the
+  products listed in Chapters 1 to 24 of the Combined Nomenclature and
+  the products listed in Annex I, paragraph I, (ii) of the WTO Agreement
+  on Agriculture.
+
+  3. This definition includes fish and fishery products covered by
+  chapter 3, headings 1604and 1605, and sub-headings 051191, 230120 and
+  ex190220 ("stuffed pasta containing more than 20 % by weight of
+  fish, crustaceans, molluscs or other aquatic invertebrates").</article>
+      <article number="ARTICLE 10" name="Processed Agricultural Products" article_identifier="11710">Protocol 1 lays down the trade arrangements for processed agricultural
+  products which are listed therein.</article>
+      <article number="ARTICLE 11" name="Community Concessions On Imports Of Agricultural Products Originating In Montenegro" article_identifier="11711">1. From the date of entry into force of this Agreement, the Community
+  shall abolish all quantitative restrictions and measures having
+  equivalent effect, on imports of agricultural products originating in
+  Montenegro.
+
+  2. From the date of entry into force of this Agreement, the Community
+  shall abolish the customs duties and charges having equivalent effect,
+  on imports of agricultural products originating in Montenegro other
+  than those of headings 0102, 0201, 0202, 1701, 1702 and 2204 of the
+  Combined Nomenclature.
+
+  For the products covered by Chapters 7 and 8 of the Combined
+  Nomenclature, for which the Common Customs Tariff provides for the
+  application of ad valour customs duties and a specific customs duty,
+  the elimination applies only to the ad valour part of the duty.
+
+  3. From the date of entry into force of this Agreement, the Community
+  shall fix the customs duties applicable to imports into the Community
+  of "baby beef" products defined in Annex II and originating
+  in Montenegro at 20 % of the ad valour duty and 20 % of the specific
+  duty as laid down in the Common Customs Tariff, within the limit of an
+  annual tariff quota of 800 tonnes expressed in carcass weight.</article>
+      <article number="ARTICLE 12" name="Montenegrin Concessions On Agricultural Products" article_identifier="11712">1. From the date of entry into force of this Agreement, Montenegro
+  shall abolish all quantitative restrictions and measures having
+  equivalent effect, on imports of agricultural products originating in
+  the Community.
+
+  2. From the date of entry into force of this Agreement, Montenegro
+  shall:
+
+  (a) abolish the customs duties applicable on imports of certain
+  agricultural products originating in the Community, listed in Annex
+  III(a);
+
+  (b) reduce progressively the customs duties applicable on imports of
+  certain agricultural products originating in the Community, listed in
+  Annex III(b) in accordance with the timetable indicated for each
+  product in that Annex;
+
+  (c) reduce progressively the customs duties to 50 % applicable on
+  imports of certain agricultural products originating in the Community,
+  listed in Annex III(c) in accordance with the timetable indicated for
+  each product in that Annex.</article>
+      <article number="ARTICLE 13" name="Wine And Spirit Drinks Protocol" article_identifier="11713">The arrangements applicable to the wine and spirit drinks products
+  referred to in Protocol 2 are laid down in that Protocol.</article>
+      <article number="ARTICLE 14" name="Community Concessions On Fish And Fishery Products" article_identifier="11714">1. From the date of entry into force of this Agreement, the Community
+  shall abolish all quantitative restrictions and measures having
+  equivalent effect on imports of fish and fishery products originating
+  in Montenegro.
+
+  2. From the entry into force of this Agreement the Community shall
+  eliminate all customs duties on fish and fishery products originating
+  in Montenegro other than those listed in Annex IV. Products listed in
+  Annex IV shall be subject to the provisions laid down therein.</article>
+      <article number="ARTICLE 15" name="Montenegrin Concessions On Fish And Fishery Products" article_identifier="11715">1. From the date of entry into force of this Agreement, Montenegro
+  shall abolish all quantitative restrictions and measures having
+  equivalent effect on imports of fish and fishery products originating
+  in the Community.
+
+  2. From the entry into force of this Agreement, Montenegro shall
+  eliminate customs duties on fish and fishery products originating in
+  the Community other than those listed in Annex V. Products listed in
+  Annex V shall be subject to the provisions laid down therein.</article>
+      <article number="ARTICLE 16" name="Review Clause" article_identifier="11716">Taking account of the volume of trade in agricultural and fishery
+  products between the Parties, of their particular sensitivities, of
+  the rules of the Community common policies and of the policies for
+  agriculture and fisheries in Montenegro of the role of agriculture and
+  fisheries in the economy of Montenegro, of the consequences of the
+  multilateral trade negotiations in the framework of the WTO as well as
+  of the eventual accession of Montenegro to the WTO, the Community and
+  Montenegro shall examine in the Interim Committee, no later than 3
+  years after the entry into force of this Agreement, product by product
+  and on an orderly and appropriate reciprocal basis, the opportunities
+  for granting each other further concessions with a view to
+  implementing greater liberalisation of the trade in agricultural and
+  fishery products.</article>
+      <article number="ARTICLE 17" name="Safeguard Clause Concerning Agriculture And Fisheries" article_identifier="11717">Notwithstanding other provisions of this Agreement, and in particular
+  Article 26, given the particular sensitivity of the agricultural and
+  fisheries markets, if imports of products originating in one Party,
+  which are the subject of concessions granted pursuant to Articles 10,
+  11, 12, 13, 14, and 15, cause serious disturbance to the markets or to
+  their domestic regulatory mechanisms, in the other Party, both Parties
+  shall enter into consultations immediately to find an appropriate
+  solution. Pending such solution, the Party concerned may take the
+  appropriate measures it deems necessary.</article>
+      <article number="ARTICLE 18" name="Protection Of Geographical Indications For Agricultural And Fishery Products And Foodstuffs Other Than Wine And Spirits" article_identifier="11718">1. Montenegro shall provide protection for the geographical
+  indications of the Community registered in the Community under Council
+  Regulation (EC) No 510/2006 of 20 March 2006 on the protection of
+  geographical indications and designations of origin for agricultural
+  products and foodstuffs [3], in accordance with the terms of this
+  Article. Geographical indications of Montenegro shall be eligible for
+  registration in the Community under the conditions set out in that
+  Regulation.
+
+  2. Montenegro shall prohibit any use in its territory of the names
+  protected in the Community for comparable products not complying with
+  the geographical indication's specification. This shall apply even
+  where the true geographical origin of the good is indicated, the
+  geographical indication in question is used in translation, the name
+  is accompanied by terms such as "kind", "type",
+  "style", "imitation", "method" or other
+  expressions of the sort.
+
+  3. Montenegro shall refuse the registration of a trademark the use of
+  which corresponds to the situations referred to in paragraph 2.
+
+  4. Trademarks the use of which corresponds to the situations referred
+  to in paragraph 2, which have been registered in Montenegro or
+  established by use, shall no longer be used after 1 January 2009.
+  However, this shall not apply to trademarks registered in Montenegro
+  and trademarks established by use which are owned by nationals of
+  third countries, provided they are not of such a nature as to deceive
+  in any way the public as to the quality, the specification and the
+  geographical origin of the goods.
+
+  5. Any use of the geographical indications protected in accordance
+  with paragraph 1 as terms customary in common language as the common
+  name for such goods in Montenegro shall cease at the latest on 1
+  January 2009.
+
+  6. Montenegro shall ensure that goods exported from its territory
+  after 1 January 2009 do not infringe the provisions of this Article.
+
+  7. Montenegro shall ensure the protection referred to in paragraphs 1
+  to 6 on its own initiative as well as at the request of an interested
+  party.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Common Provisions" chapter_identifier="1479">
+      <article number="ARTICLE 19" name="Scope" article_identifier="11719">The provisions of this Chapter shall apply to trade in all products
+  between the Parties except where otherwise provided herein or in
+  Protocol 1.</article>
+      <article number="ARTICLE 20" name="Improved Concessions" article_identifier="11720">The provisions of this Title shall in no way affect the application,
+  on a unilateral basis, of more favourable measures by any of the
+  Parties.</article>
+      <article number="ARTICLE 21" name="Standstill" article_identifier="11721">1. From the date of entry into force of this Agreement, no new customs
+  duties on imports or exports or charges having equivalent effect shall
+  be introduced, nor shall those already applied be increased, in trade
+  between the Community and Montenegro.
+
+  2. From the date of entry into force of this Agreement, no new
+  quantitative restriction on imports or exports or measure having
+  equivalent effect shall be introduced, nor shall those existing be
+  made more restrictive, in trade between the Community and Montenegro.
+
+  3. Without prejudice to the concessions granted under Articles 11, 12,
+  13, 14 and 15, the provisions of paragraphs 1 and 2 of this Article
+  shall not restrict in any way the pursuit of the respective
+  agricultural and fishery policies of Montenegro and of the Community
+  and the taking of any measures under those policies insofar as the
+  import regime in Annexes II-V and Protocol 1 is not affected.</article>
+      <article number="ARTICLE 22" name="Prohibition Of Fiscal Discrimination" article_identifier="11722">1. The Community and Montenegro shall refrain from, and abolish where
+  existing, any measure or practice of an internal fiscal nature
+  establishing, whether directly or indirectly, discrimination between
+  the products of one Party and like products originating in the
+  territory of the other Party.
+
+  2. Products exported to the territory of one of the Parties may not
+  benefit from repayment of internal indirect taxation in excess of the
+  amount of indirect taxation imposed on them.</article>
+      <article number="ARTICLE 23" name="Duties Of A Fiscal Nature" article_identifier="11723">The provisions concerning the abolition of customs duties on imports
+  shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 24" name="Customs Unions, Free Trade Areas, Cross-Border Arrangements" article_identifier="11724">1. This Agreement shall not preclude the maintenance or establishment
+  of customs unions, free trade areas or arrangements for frontier trade
+  except insofar as they alter the trade arrangements provided for in
+  this Agreement.
+
+  2. During the transitional periods specified in Article 3, this
+  Agreement shall not affect the implementation of the specific
+  preferential arrangements governing the movement of goods either laid
+  down in frontier Agreements previously concluded between one or more
+  Member States and Serbia and Montenegro or resulting from the
+  bilateral Agreements specified in Title III concluded by Montenegro in
+  order to promote regional trade.
+
+  3. Consultations between the Parties shall take place within the
+  Interim Committee concerning the Agreements described in paragraphs 1
+  and 2 of this Article and, where requested, on other major issues
+  related to their respective trade policies towards third countries. In
+  particular in the event of a third country acceding to the Union, such
+  consultations shall take place so as to ensure that account is taken
+  of the mutual interests of the Community and Montenegro stated in this
+  Agreement.</article>
+      <article number="ARTICLE 25" name="Dumping And Subsidy" article_identifier="11725">1. None of the provisions in this Agreement shall prevent any of the
+  Parties from taking trade defence action in accordance with paragraph
+  2 of this Article and Article 26.
+
+  2. If one of the Parties finds that dumping and/or countervail able
+  subsidiation is taking place in trade with the other Party, that Party
+  may take appropriate measures against this practice in accordance with
+  the WTO Agreement on Implementation of Article VI of the GATT 1994 or
+  the WTO Agreement on Subsidies and Countervailing Measures and the
+  respective related internal legislation.</article>
+      <article number="ARTICLE 26" name="Safeguards Clause" article_identifier="11726">1. The provisions of Article XIX GATT 1994 and the WTO Agreement on
+  Safeguards are applicable between the parties.
+
+  2. Notwithstanding paragraph 1 of this Article, where any product of
+  one Party is being imported into the territory of the other Party in
+  such increased quantities and under such conditions as to cause or
+  threaten to cause:
+
+  (a) serious injury to the domestic industry of like or directly
+  competitive products in the territory of the importing Party or
+
+  (b) serious disturbances in any sector of the economy or difficulties
+  which could bring about serious deterioration in the economic
+  situation of a region of the importing Party,
+
+  the importing Party may take appropriate bilateral safeguard measures
+  under the conditions and in accordance with the procedures laid down
+  in this Article.
+
+  3. Bilateral safeguard measures directed at imports from the other
+  Party shall not exceed what is necessary to remedy the problems, as
+  defined in paragraph 2, which have arisen as a result of application
+  of this Agreement. The safeguard measure adopted should consist of a
+  suspension in the increase or in the reduction of the margins of
+  preferences provided for under this Agreement for the product
+  concerned up to a maximum limit corresponding to the basic duty
+  referred to in Article 3 paragraph 4(a) and (b) and paragraph 5 for
+  the same product. Such measures shall contain clear elements
+  progressively leading to their elimination at the end of the set
+  period, at the latest, and shall not be taken for a period exceeding
+  two years.
+
+  In very exceptional circumstances, measures may be extended for a
+  further period of maximum two years. No bilateral safeguard measure
+  shall be applied to the import of a product that has previously been
+  subject to such a measure for a period of, at least, 4 years since the
+  expiry of the measure.
+
+  4. In the cases specified in this Article, before taking the measures
+  provided for therein or, in the cases to which paragraph 5(b) of this
+  Article applies, as soon as possible, the Community on the one part or
+  Montenegro on the other part, shall supply the Interim Committee with
+  all relevant information required for a thorough examination of the
+  situation, with a view to seeking a solution acceptable to the Parties
+  concerned.
+
+  5. For the implementation of the paragraphs 1, 2, 3 and 4 the
+  following provisions shall apply:
+
+  (a) The problems arising from the situation referred to in this
+  Article shall be immediately referred for examination to the Interim
+  Committee, which may take any decisions needed to put an end to such
+  problems.
+
+  If the Interim Committee or the exporting Party has not taken a
+  decision putting an end to the problems, or no other satisfactory
+  solution has been reached within 30 days of the matter being referred
+  to the Interim Committee, the importing Party may adopt the
+  appropriate measures to remedy the problem in accordance with this
+  Article. In the selection of safeguard measures, priority must be
+  given to those which least disturb the functioning of the arrangements
+  established in this Agreement. Safeguard measures applied in
+  accordance with Article XIX GATT 1994 and the WTO Agreement on
+  Safeguards shall preserve the level/margin of preference granted under
+  this Agreement.
+
+  (b) Where exceptional and critical circumstances requiring immediate
+  action make prior information or examination, as the case may be,
+  impossible, the Party concerned may, in the situations specified in
+  this Article, apply forthwith provisional measures necessary to deal
+  with the situation and shall inform the other Party immediately
+  thereof.
+
+  The safeguard measures shall be notified immediately to the Interim
+  Committee and shall be the subject of periodic consultations within
+  that body, particularly with a view to establishing a timetable for
+  their abolition as soon as circumstances permit.
+
+  6. In the event of the Community on the one part or Montenegro on the
+  other part subjecting imports of products liable to give rise to the
+  problems referred to in this Article to an administrative procedure
+  having as its purpose the rapid provision of information on the trend
+  of trade flows, it shall inform the other Party.</article>
+      <article number="ARTICLE 27" name="Shortage Clause" article_identifier="11727">1. Where compliance with the provisions of this Title leads to:
+
+  (a) a critical shortage, or threat thereof, of foodstuffs or other
+  products essential to the exporting Party; or
+
+  (b) re-export to a third country of a product against which the
+  exporting Party maintains quantitative export restrictions, export
+  duties or measures or charges having equivalent effect, and where the
+  situations referred to above give rise, or are likely to give rise to
+  major difficulties for the exporting Party
+
+  that Party may take appropriate measures under the conditions and in
+  accordance with the procedures laid down in this Article.
+
+  2. In the selection of measures, priority must be given to those which
+  least disturb the functioning of the arrangements in this Agreement.
+  Such measures shall not be applied in a manner which would constitute
+  a means of arbitrary or unjustifiable discrimination where the same
+  conditions prevail, or a disguised restriction on trade and shall be
+  eliminated when the conditions no longer justify their maintenance.
+
+  3. Before taking the measures provided for in paragraph 1 or, as soon
+  as possible in cases to which paragraph 4 applies, the Community or
+  Montenegro, shall supply the Interim Committee with all relevant
+  information, with a view to seeking a solution acceptable to the
+  Parties. The Parties within the Interim Committee may agree on any
+  means needed to put an end to the difficulties. If no agreement is
+  reached within 30 days of the matter being referred to the Interim
+  Committee, the exporting Party may apply measures under this Article
+  on the exportation of the product concerned.
+
+  4. Where exceptional and critical circumstances requiring immediate
+  action make prior information or examination, as the case may be,
+  impossible, the Community or Montenegro may apply forthwith the
+  precautionary measures necessary to deal with the situation and shall
+  inform the other Party immediately thereof.
+
+  5. Any measures applied pursuant to this Article shall be immediately
+  notified to the Interim Committee and shall be the subject of periodic
+  consultations within that body, particularly with a view to
+  establishing a timetable for their elimination as soon as
+  circumstances permit.</article>
+      <article number="ARTICLE 28" name="State Monopolies" article_identifier="11728">With regard to any state monopolies of a commercial character,
+  Montenegro shall ensure that, by the entry into force of this
+  Agreement, no discrimination regarding the conditions under which
+  goods are procured and marketed exists between nationals of the Member
+  States of the European Union and Montenegro.</article>
+      <article number="ARTICLE 29" name="Rules Of Origin" article_identifier="11729">Except if otherwise stipulated in this Agreement, Protocol 3 lays down
+  the rules of origin for the application of the provisions of this
+  Agreement.</article>
+      <article number="ARTICLE 30" name="Restrictions Authorised" article_identifier="11730">This Agreement shall not preclude prohibitions or restrictions on
+  imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security; the protection of health
+  and life of humans, animals or plants; the protection of national
+  treasures of artistic, historic or archaeological value or the
+  protection of intellectual, industrial and commercial property, or
+  rules relating to gold and silver. Such prohibitions or restrictions
+  shall not, however, constitute a means of arbitrary discrimination or
+  a disguised restriction on trade between the Parties.</article>
+      <article number="ARTICLE 31" name="Failure To Provide Administrative Cooperation" article_identifier="11731">1. The Parties agree that administrative cooperation is essential for
+  the implementation and the control of the preferential treatment
+  granted under this Title and underline their commitment to combat
+  irregularities and fraud in customs and related matters.
+
+  2. Where a Party has made a finding, on the basis of objective
+  information, of a failure to provide administrative cooperation and/or
+  of irregularities or fraud under this Title, the Party concerned may
+  temporarily suspend the relevant preferential treatment of product(s)
+  concerned in accordance with this article.
+
+  3. For the purpose of this Article a failure to provide administrative
+  cooperation shall mean, inter alia:
+
+  (a) a repeated failure to respect the obligations to verify the
+  originating status of the product(s) concerned;
+
+  (b) a repeated refusal or undue delay in carrying out and/or
+  communicating the results of subsequent verification of the proof of
+  origin;
+
+  (c) a repeated refusal or undue delay in obtaining authorisation to
+  conduct administrative cooperation missions to verify the authenticity
+  of documents or accuracy of information relevant to the granting of
+  the preferential treatment in question.
+
+  For the purpose of this Article a finding of irregularities or fraud
+  may be made, inter alia, where there is a rapid increase, without
+  satisfactory explanation, in imports of goods exceeding the usual
+  level of production and export capacity of the other Party, which is
+  linked to objective information concerning irregularities or fraud.
+
+  4. The application of a temporary suspension shall be subject to the
+  following conditions:
+
+  (a) The Party which has made a finding, on the basis of objective
+  information, of a failure to provide administrative cooperation and/or
+  of irregularities or fraud shall without undue delay notify the
+  Interim Committee of its finding together with the objective
+  information and enter into consultations within the Interim Committee,
+  on the basis of all relevant information and objective findings, with
+  a view to reaching a solution acceptable to both Parties.
+
+  (b) Where the Parties have entered into consultations within the
+  Interim Committee as above and have failed to agree on an acceptable
+  solution within 3 months following the notification, the Party
+  concerned may temporarily suspend the relevant preferential treatment
+  of the product(s) concerned. A temporary suspension shall be notified
+  to the Interim Committee without undue delay.
+
+  (c) Temporary suspensions under this Article shall be limited to that
+  necessary to protect the financial interests of the Party concerned.
+  They shall not exceed a period of six months, which may be renewed.
+  Temporary suspensions shall be notified immediately after their
+  adoption to the Interim Committee. They shall be subject to periodic
+  consultations within the Interim Committee in particular with a view
+  to their termination as soon as the conditions for their application
+  are no longer given.
+
+  5. At the same time as the notification to the Interim Committee under
+  paragraph 4(a) of this Article, the Party concerned should publish a
+  notice to importers in its Official Journal. The notice to importers
+  should indicate for the product concerned that there is a finding, on
+  the basis of objective information, of a failure to provide
+  administrative cooperation and/or of irregularities or fraud.</article>
+      <article number="ARTICLE 32" article_identifier="11732">In case of error by the competent authorities in the proper management
+  of the preferential system at export, and in particular in the
+  application of the provisions of Protocol 3 to the present Agreement
+  where this error leads to consequences in terms of import duties, the
+  contracting Party facing such consequences may request Interim
+  Committee to examine the possibilities of adopting all appropriate
+  measures with a view to resolving the situation.</article>
+      <article number="ARTICLE 33" article_identifier="11733">The application of this Agreement shall be without prejudice to the
+  application of the provisions of Community law to the Canary Islands.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Other Trade And Trade-Related Provisions" chapter_identifier="1480">
+      <article number="ARTICLE 34" name="Transit Traffic" article_identifier="11734">Definitions (Protocol 4 SAA, Article 3(a) and (b))
+
+  For the purposes of this Agreement, the following definitions shall
+  apply:
+
+  (a) Community transit traffic: the carriage, by a carrier established
+  in the Community, of goods in transit through the territory of
+  Montenegro "en route" to or from a Member State of the
+  Community;
+
+  (b) Montenegrin transit traffic: the carriage, by a carrier
+  established in Montenegro, of goods in transit from Montenegro through
+  Community territory and destined for a third country or of goods from
+  a third country destined for Montenegro;
+
+  General Provisions (Protocol 4 SAA, Article 11(2), (3) and (5))
+
+  1. The Parties hereby agree to grant unrestricted access to Community
+  transit traffic through Montenegro and to Montenegrin transit traffic
+  through the Community with effect from the date of entry into force of
+  this Agreement.
+
+  2. If, as a result of the rights granted under paragraph 1, transit
+  traffic by Community hauliers increases to such a degree as to cause
+  or threaten to cause serious harm to road infrastructure and/or
+  traffic fluidity on the axes defined in the Memorandum of
+  Understanding for developing a core transport infrastructure network
+  for South East Europe which was signed by ministers from the region,
+  and the European Commission, in June 2004, and under the same
+  circumstances problems arise on Community territory close to the
+  borders of Montenegro, the matter shall be submitted to the Interim
+  Committee in accordance with Article 45 of this Agreement. The Parties
+  may propose exceptional temporary, non-discriminatory measures as are
+  necessary to limit or mitigate such harm.
+
+  3. The Parties shall refrain from taking any unilateral action that
+  might lead to discrimination between Community carriers or vehicles
+  and carriers or vehicles from Montenegro. Each Contracting Party shall
+  take all steps necessary to facilitate road transport to or through
+  the territory of the other Contracting Party.
+
+  Simplification of formalities (Protocol 4 SAA, Article 19(1) and (3))
+
+  1. The Parties agree to simplify the flow of goods by rail and road,
+  whether bilateral or in transit.
+
+  2. The Parties agree, to the extent necessary, to take joint action
+  on, and to encourage, the adoption of further simplification measures.
+
+  Implementation (Protocol 4 SAA, Article 21(1) and (2)(d))</article>
+      <article number="ARTICLE 35" article_identifier="11735">The Parties undertake to authorise, in freely convertible currency, in
+  accordance with the provisions of Article VIII of the Articles of the
+  Agreement of the International Monetary Fund, any payments and
+  transfers on the current account of balance of payments between the
+  Community and Montenegro.</article>
+      <article number="ARTICLE 36" article_identifier="11736">1. The Parties shall endeavour wherever possible to avoid the
+  imposition of restrictive measures, including measures relating to
+  imports, for balance of payments purposes. A Party adopting such
+  measures shall present as soon as possible to the other Party a
+  timetable for their removal.
+
+  2. Where one or more Member States or Montenegro is in serious balance
+  of payments difficulties, or under imminent threat thereof, the
+  Community or Montenegro, as the case may be, may, in accordance with
+  the conditions established under the WTO Agreement, adopt restrictive
+  measures, including measures relating to imports, which shall be of
+  limited duration and may not go beyond what is strictly necessary to
+  remedy the balance of payments situation. The Community or Montenegro,
+  as the case may be, shall inform the other Party forthwith.
+
+  3. Any restrictive measures shall not apply to transfers related to
+  investment and in particular to the repatriation of amounts invested
+  or reinvested or any kind of revenues stemming therefrom.</article>
+      <article number="ARTICLE 37" article_identifier="11737">The provisions of this Agreement shall not prejudice the application
+  by either Party of any measure necessary to prevent the circumvention
+  of its measures concerning third-country access to its market through
+  the provisions of this Agreement.</article>
+      <article number="ARTICLE 38" name="Competition And Other Economic Provisions" article_identifier="11738">1. The following are incompatible with the proper functioning of this
+  Agreement, insofar as they may affect trade between the Community and
+  Montenegro:
+
+  (i) all Agreements between undertakings, decisions by associations of
+  undertakings and concerted practices between undertakings which have
+  as their object or effect the prevention, restriction or distortion of
+  competition;
+
+  (ii) abuse by one or more undertakings of a dominant position in the
+  territories of the Community or Montenegro as a whole or in a
+  substantial part thereof;
+
+  (iii) any State aid which distorts or threatens to distort competition
+  by favouring certain undertakings or certain products.
+
+  2. Any practices contrary to this Article shall be assessed on the
+  basis of criteria arising from the application of the competition
+  rules applicable in the Community, in particular from Articles 81, 82,
+  86 and 87 of the Treaty establishing the European Community
+  (hereinafter referred to as "EC Treaty") and interpretative
+  instruments adopted by the Community institutions.
+
+  3. The Parties shall ensure that an operationally independent
+  authority is entrusted with the powers necessary for the full
+  application of paragraph 1(i) and (ii) of this Article, regarding
+  private and public undertakings and undertakings to which special
+  rights have been granted.
+
+  4. Montenegro shall establish an operationally independent authority
+  which is entrusted with the powers necessary for the full application
+  of paragraph 1(iii) within one year from the date of entry into force
+  of this Agreement. This authority shall have, inter alia, the powers
+  to authorise State aid schemes and individual aid grants in conformity
+  with paragraph 2, as well as the powers to order the recovery of State
+  aid that has been unlawfully granted.
+
+  5. The Community on one side and Montenegro on the other side shall
+  ensure transparency in the area of State aid, inter alia, by providing
+  to the other Parties a regular annual report, or equivalent, following
+  the methodology and the presentation of the Community survey on State
+  aid. Upon request by one Party, the other Party shall provide
+  information on particular individual cases of public aid.
+
+  6. Montenegro shall establish a comprehensive inventory of aid schemes
+  instituted before the establishment of the authority referred to in
+  paragraph 4 and shall align such aid schemes with the criteria
+  referred to in paragraph 2 within a period of no more than 4 years
+  from the entry into force of this Agreement.
+
+  7. (a) For the purposes of applying the provisions of paragraph
+  1(iii), the Parties recognise that during the first five years after
+  the entry into force of this Agreement, any public aid granted by
+  Montenegro shall be assessed taking into account the fact that
+  Montenegro shall be regarded as an area identical to those areas of
+  the Community described in Article 87(3)(a) of the EC Treaty.
+
+  (b) Within four years from the entry into force of this Agreement,
+  Montenegro shall submit to the European Commission its GDP per capita
+  figures harmonised at NUTS II level. The authority referred to in
+  paragraph 4 and the European Commission shall then jointly evaluate
+  the eligibility of the regions of Montenegro as well as the maximum
+  aid intensities in relation thereto in order to draw up the regional
+  aid map on the basis of the relevant Community guidelines.
+
+  8. As appropriate, Protocol 4 establishes the rules on state aid in
+  the steel industry. This protocol establishes the rules applicable in
+  the event restructuring aid is granted to the steel industry. It would
+  stress the exceptional character of such aid and the fact that the aid
+  would be limited in time and would be linked to capacity reductions
+  within the framework of feasibility programmes.
+
+  9. With regard to products referred to in Chapter II of Title II:
+
+  (a) paragraph 1(iii) shall not apply;
+
+  (b) any practices contrary to paragraph 1(i) shall be assessed
+  according to the criteria established by the Community on the basis of
+  Articles 36 and 37 of the EC Treaty and specific Community instruments
+  adopted on this basis.
+
+  10. If one of the Parties considers that a particular practice is
+  incompatible with the terms of paragraph 1, it may take appropriate
+  measures after consultation within the Interim Committee or after 30
+  working days following referral for such consultation.
+
+  Nothing in this Article shall prejudice or affect in any way the
+  taking, by the Community or Montenegro, of countervailing measures in
+  accordance with the GATT 1994 and the WTO Agreement on Subsidies and
+  Countervailing Measures and the respective related internal
+  legislation.</article>
+      <article number="ARTICLE 39" name="Public Undertakings" article_identifier="11739">By the end of the third year following the entry into force of this
+  Agreement, Montenegro shall apply to public undertakings and
+  undertakings to which special and exclusive rights have been granted
+  the principles set out in the EC Treaty, with particular reference to
+  Article 86.
+
+  Special rights of public undertakings during the transitional period
+  shall not include the possibility to impose quantitative restrictions
+  or measures having an equivalent effect on imports from the Community
+  into Montenegro.</article>
+      <article number="ARTICLE 40" name="Intellectual, Industrial And Commercial Property" article_identifier="11740">1. Pursuant to the provisions of this Article and Annex VI, the
+  Parties confirm the importance that they attach to ensuring adequate
+  and effective protection and enforcement of intellectual, industrial
+  and commercial property rights.
+
+  2. From entry into force of this Agreement, the Parties shall grant to
+  each others companies and nationals, in respect of the recognition and
+  protection of intellectual, industrial and commercial property,
+  treatment no less favourable than that granted by them to any third
+  country under bilateral Agreements.
+
+  3. Montenegro shall take the necessary measures in order to guarantee
+  no later than five years after entry into force of this Agreement a
+  level of protection of intellectual, industrial and commercial
+  property rights similar to that existing in the Community, including
+  effective means of enforcing such rights.
+
+  4. Montenegro undertakes to accede, within the period referred above,
+  to the multilateral conventions on intellectual, industrial and
+  commercial property rights referred to in Annex VI. The Interim
+  Committee may decide to oblige Montenegro to accede to specific
+  multilateral Conventions in this area.
+
+  5. If problems in the area of intellectual, industrial and commercial
+  property affecting trading conditions occur, they shall be referred
+  urgently to the Interim Committee, at the request of either Party,
+  with a view to reaching mutually satisfactory solutions.</article>
+      <article number="ARTICLE 41" name="Public Procurement" article_identifier="11741">1. The Community and Montenegro consider the opening-up of the award
+  of public contracts on the basis of non-discrimination and
+  reciprocity, following in particular the WTO rules, to be a desirable
+  objective.
+
+  2. Montenegrin companies, whether established or not in the Community,
+  shall be granted access to contract award procedures in the Community
+  pursuant to Community procurement rules under treatment no less
+  favourable than that accorded to Community companies as from the entry
+  into force of this Agreement.
+
+  The above provisions shall also apply to contracts in the utilities
+  sector once the government of Montenegro has adopted the legislation
+  introducing the Community rules in this area. The Community shall
+  examine periodically whether Montenegro has indeed introduced such
+  legislation.
+
+  3. Community companies established in Montenegro shall, upon the date
+  of entry into force of this Agreement, be granted access to contract
+  award procedures in Montenegro under treatment no less favourable than
+  that accorded to Montenegrin companies.
+
+  4. Community companies not established in Montenegro shall be granted
+  access to contract award procedures in Montenegro under treatment no
+  less favourable than that accorded to Montenegrin companies as from
+  the entry into force of this Agreement.
+
+  5. The Interim Committee shall periodically examine the possibility
+  for Montenegro to introduce access to contract award procedures in
+  Montenegro for all Community companies. Montenegro shall report
+  annually to the Interim Committee on the measures they have taken to
+  enhance transparency and to provide for effective judicial review of
+  decisions taken in the area of public procurement.</article>
+      <article number="ARTICLE 42" name="Customs" article_identifier="11742">The Parties shall establish cooperation in this area with a view to
+  guarantee compliance with the provisions to be adopted in the area of
+  trade and to achieve the approximation of the customs systems of
+  Montenegro to that of the Community, thereby helping to pave the way
+  for the liberalisation measures planned under this Agreement and for
+  the gradual approximation of the Montenegrin customs legislation to
+  the acquis.
+
+  Cooperation shall take due account of priority areas related to the
+  Community acquis in the field of customs.
+
+  The rules on mutual administrative assistance between the Parties in
+  the customs field are laid down in Protocol 5.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Institutional, General And Final Provisions" chapter_identifier="1481">
+      <article number="ARTICLE 43" article_identifier="11743">An Interim Committee is hereby established which shall supervise the
+  application and implementation of this Agreement. It shall meet at an
+  appropriate level at regular intervals and when circumstances require.
+  It shall examine any major issues arising within the framework of this
+  Agreement and any other bilateral or international issues of mutual
+  interest.</article>
+      <article number="ARTICLE 44" article_identifier="11744">1. The Interim Committee shall consist of the members of the Council
+  of the European Union and members of the European Commission, on the
+  one hand, and of members of the Government of Montenegro on the other.
+
+  2. The Interim Committee shall establish its rules of procedure.
+
+  3. The members of the Interim Committee may arrange to be represented,
+  in accordance with the conditions to be laid down in its rules of
+  procedure.
+
+  4. The Interim Committee shall be chaired in turn by a representative
+  of the Community and a representative of Montenegro, in accordance
+  with the provisions to be laid down in its rules of procedure.
+
+  5. In matters that concern it, the European Investment Bank shall take
+  part, as an observer, in the work of the Interim Committee.</article>
+      <article number="ARTICLE 45" article_identifier="11745">The Interim Committee shall, for the purpose of attaining the
+  objectives of this Agreement, have the power to take decisions within
+  the scope of this Agreement in the cases provided for therein. The
+  decisions taken shall be binding on the Parties, which shall take the
+  measures necessary to implement the decisions taken. The Interim
+  Committee may also make appropriate recommendations. It shall draw up
+  its decisions and recommendations by agreement between the Parties.</article>
+      <article number="ARTICLE 46" article_identifier="11746">The Interim Committee may create sub-committees.</article>
+      <article number="ARTICLE 47" article_identifier="11747">Within the scope of this Agreement, each Party undertakes to ensure
+  that natural and legal persons of the other Party have access free of
+  discrimination in relation to its own nationals to the competent
+  courts and administrative organs of the Parties to defend their
+  individual rights and their property rights.</article>
+      <article number="ARTICLE 48" article_identifier="11748">Nothing in this Agreement shall prevent a Party from taking any
+  measures:
+
+  (a) which it considers necessary to prevent the disclosure of
+  information contrary to its essential security interests;
+
+  (b) which relate to the production of, or trade in, arms, munitions or
+  war materials or to research, development or production indispensable
+  for defence purposes, provided that such measures do not impair the
+  conditions of competition in respect of products not intended for
+  specifically military purposes;
+
+  (c) which it considers essential to its own security in the event of
+  serious internal disturbances affecting the maintenance of law and
+  order, in time of war or serious international tension constituting
+  threat of war or in order to carry out obligations it has accepted for
+  the purpose of maintaining peace and international security.</article>
+      <article number="ARTICLE 49" article_identifier="11749">1. In the fields covered by this Agreement and without prejudice to
+  any special provisions contained therein:
+
+  (a) the arrangements applied by Montenegro in respect of the Community
+  shall not give rise to any discrimination between the Member States,
+  their nationals, companies or firms;
+
+  (b) the arrangements applied by the Community in respect of Montenegro
+  shall not give rise to any discrimination between nationals of
+  Montenegro as well as between Montenegrin companies or firms.
+
+  2. The provisions of paragraph 1 shall be without prejudice to the
+  right of the Parties to apply the relevant provisions of their fiscal
+  legislation to taxpayers who are not in identical situations as
+  regards their place of residence.</article>
+      <article number="ARTICLE 50" article_identifier="11750">1. The Parties shall take any general or specific measures required to
+  fulfil their obligations under this Agreement. They shall ensure that
+  the objectives set out in this Agreement are attained.
+
+  2. The Parties agree to consult promptly through appropriate channels
+  at the request of either Party to discuss any matter concerning the
+  interpretation or implementation of this Agreement and other relevant
+  aspects of the relations between the Parties.
+
+  3. Each Party shall refer to the Interim Committee any dispute
+  relating to the application or interpretation of this Agreement. In
+  that case, Article 51 and, as the case may be, Protocol 6 shall apply.
+
+  The Interim Committee may settle the dispute by means of a binding
+  decision.
+
+  4. If either Party considers that the other Party has failed to fulfil
+  an obligation under this Agreement, it may take appropriate measures.
+  Before so doing, except in cases of special urgency, it shall supply
+  the Interim Committee with all relevant information required for a
+  thorough examination of the situation with a view to seeking a
+  solution acceptable to the Parties.
+
+  In the selection of measures, priority must be given to those which
+  least disturb the functioning of this Agreement. These measures shall
+  be notified immediately to the Interim Committee and shall be the
+  subject of consultations if the other Party so requests within the
+  Interim Committee or any other body set up on the basis of Article 46.
+
+  5. The provisions of paragraphs 2, 3 and 4 shall in no way affect and
+  are without prejudice to Articles 17, 25, 26, 27, 31 and Protocol 3
+  (Definition of the concept of originating products and methods of
+  administrative cooperation).</article>
+      <article number="ARTICLE 51" article_identifier="11751">1. When a dispute arises between the Parties concerning the
+  interpretation or the implementation of this Agreement, any Party
+  shall notify to the other Party and the Interim Committee a formal
+  request that the matter in dispute be resolved.
+
+  Where a Party considers that a measure adopted by the other Party, or
+  a failure of the other Party to act, constitutes a breach of its
+  obligations under this Agreement, the formal request that the dispute
+  be resolved shall give the reasons for this opinion and indicate, as
+  the case may be, that the Party may adopt measures as provided for in
+  Article 50, paragraph 4.
+
+  2. The Parties shall endeavour to resolve the dispute by entering into
+  good faith consultations within the Interim Committee and other bodies
+  as provided in paragraph 3, with the aim of reaching as soon as
+  possible a mutually acceptable solution.
+
+  3. The Parties shall provide the Interim Committee with all relevant
+  information required for a thorough examination of the situation.
+
+  As long as the dispute is not resolved, it shall be discussed at every
+  meeting of the Interim Committee, unless the arbitration procedure as
+  provided for in Protocol 6 has been initiated. A dispute shall be
+  deemed to be resolved when the Interim Committee has taken a binding
+  decision to settle the matter as provided for in Article 50, paragraph
+  3, or when it has declared that there is no dispute anymore.
+
+  Consultations on a dispute can also be held at any meeting of the
+  Interim Committee or any other relevant committee or body set up on
+  the basis of Article 46, as agreed between the Parties or at the
+  request of any of the Parties. Consultations may also be held in
+  writing.
+
+  All information disclosed during the consultations shall remain
+  confidential.
+
+  4. For matters within the scope of application of Protocol 6, any
+  Party may submit the matter in dispute for settlement through
+  arbitration in accordance with that Protocol, when the Parties have
+  failed to resolve the dispute within two months after the initiation
+  of the dispute settlement procedure in accordance with paragraph 1.</article>
+      <article number="ARTICLE 52" article_identifier="11752">This Agreement shall not, until equivalent rights for individuals and
+  economic operators have been achieved under this Agreement, affect
+  rights ensured to them through existing Agreements binding one or more
+  Member States, on the one hand, and Montenegro, on the other.</article>
+      <article number="ARTICLE 53" name="Cooperation With Other Countries Candidate To Eu Accession Not Concerned By The Sap" article_identifier="11753">1. Montenegro should foster its cooperation and conclude a Convention
+  on regional cooperation with any country candidate for accession to
+  the European Union in any of the fields of cooperation covered by this
+  Agreement. Such Convention should aim gradually to align bilateral
+  relations between Montenegro and that country to the relevant part of
+  the relations between the Community and its Member States and that
+  country.
+
+  2. Montenegro shall start negotiations with Turkey which has
+  established a customs union with the Community with a view to
+  concluding, on a mutually advantageous basis, an Agreement
+  establishing a free trade area between the two Parties in accordance
+  with Article XXIV of the GATT 1994.
+
+  These negotiations should be opened as soon as possible, with a view
+  to concluding such Agreement before the end of the transitional period
+  referred to in Article 3(1).</article>
+      <article number="ARTICLE 54" article_identifier="11754">Protocols 1, 2, 3, 4, 5 and 6 and Annexes I to V and VI shall form an
+  integral part of this Agreement.</article>
+      <article number="ARTICLE 55" article_identifier="11755">This Agreement shall be applicable until the entry into force of the
+  Stabilisation and Association Agreement signed in Luxembourg on the
+  fifteenth day of October in the year 2007.
+
+  Either Party may denounce this Agreement by notifying the other Party.
+  This Agreement shall terminate six months after the date of such
+  notification.
+
+  Either Party may suspend this Agreement, with immediate effect, in the
+  event of the non-compliance by the other Party of one of the essential
+  elements of this Agreement.</article>
+      <article number="ARTICLE 56" article_identifier="11756">For the purposes of this Agreement, the term "Parties" shall
+  mean the Community, of the one part, and the Republic of Montenegro,
+  of the other part.</article>
+      <article number="ARTICLE 57" article_identifier="11757">This Agreement shall apply, on the one hand, to the territories in
+  which the EC Treaty is applied and under the conditions laid down in
+  that Treaty, and to the territory of Montenegro on the other.</article>
+      <article number="ARTICLE 58" article_identifier="11758">The Secretary General of the Council of the European Union shall be
+  the depository of this Agreement.</article>
+      <article number="ARTICLE 59" article_identifier="11759">This Agreement shall be drawn up in duplicate in the Bulgarian,
+  Spanish, Czech, Danish, German, Estonian, Greek, English, French,
+  Italian, Latvian, Lithuanian, Hungarian, Maltese, Dutch, Polish,
+  Portuguese, Romanian, Slovak, Slovene, Finnish and Swedish languages
+  and in the official language used in Montenegro, each text being
+  equally authentic.</article>
+      <article number="ARTICLE 60" article_identifier="11760">The Parties shall approve this Agreement in accordance with their own
+  procedures.
+
+  This Agreement shall enter into force on the first day of the second
+  month following the date on which the Parties notify each other that
+  the procedures referred to in paragraph 1 have been completed. In the
+  event of the procedures referred to in paragraph 1 not being completed
+  in time to allow for its entry into force on 1 January 2008, this
+  Agreement shall provisionally apply as from that date.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1482">
+      <article article_identifier="11761">Съставено в Люксембург, на петнайсти октомври две хиляди и седма
+  година.
+
+  Hecho en Luxemburgo, el quince de octubre de dos mil siete.
+
+  V Lucemburku dne patnáctého října dva tisíce sedm.
+
+  Udfærdiget i Luxembourg den femtende oktober to tusind og syv.
+
+  Geschehen zu Luxemburg am fünfzehnten Oktober zweitausendsieben.
+
+  Kahe tuhande seitsmenda aasta oktoobrikuu viieteistkümnendal päeval
+  Luxembourgis.
+
+  Έγινε στο Λουξεμβούργο, στις δέκα πέντε Οκτωβρίου δύο χιλιάδες επτά.
+
+  Done at Luxembourg on the fifteenth day of October in the year two
+  thousand and seven.
+
+  Fait à Luxembourg, le quinze octobre deux mille sept.
+
+  Fatto a Lussemburgo, addì quindici ottobre duemilasette.
+
+  Luksemburgā, divtūkstoš septītā gada piecpadsmitajā oktobrī.
+
+  Priimta du tūkstančiai septintųjų metų spalio penkioliktą dieną
+  Liuksemburge.
+
+  Kelt Luxembourgban, a kétezer-hetedik év október havának tizenötödik
+  napján.
+
+  Magħmul fil-Lussemburgu, fil- ħmistax-il jum ta'Ottubru tas-sena
+  elfejn u sebgħa.
+
+  Gedaan te Luxemburg, de vijftiende oktober tweeduizend zeven.
+
+  Sporządzono w Luksemburgu dnia piętnastego października roku dwa
+  tysiące siódmego.
+
+  Feito em Luxemburgo, em quinze de Outubro de dois mil e sete.
+
+  Întocmit la Luxembourg, la cincisprezece octombrie două mii şapte.
+
+  V Luxemburgu dňa pätnásteho októbra dvetisícsedem.
+
+  V Luxembourgu, dne petnajstega oktobra leta dva tisoč sedem.
+
+  Tehty Luxemburgissa viidentenätoista päivänä lokakuuta vuonna
+  kaksituhattaseitsemän.
+
+  Som skedde i Luxemburg den femtonde oktober tjugohundrasju.
+
+  Sačinjeno u Luksemburgu petnaestog oktobra dvije hiljade i sedme
+  godine.
+
+  За Европейската общност
+
+  Por la Comunidad Europea
+
+  Za Evropské společenství
+
+  For Det Europæiske Fællesskab
+
+  Für die Europäische Gemeinschaft
+
+  Euroopa Ühenduse nimel
+
+  Για την Ευρωπαϊκή Κοινότητα
+
+  For the European Community
+
+  Pour la Communauté européenne
+
+  Per la Comunità europea
+
+  Eiropas Kopienas vārdā
+
+  Europos bendrijos vardu
+
+  az Európai Közösség részéről
+
+  Għall-Komunità Ewropea
+
+  Voor de Europese Gemeenschap
+
+  W imieniu Wspólnoty Europejskiej
+
+  Pela Comunidade Europeia
+
+  Pentru Comunitatea Europeană
+
+  Za Európske spoločenstvo
+
+  za Evropsko skupnost
+
+  Euroopan yhteisön puolesta
+
+  På Europeiska gemenskapens vägnar
+
+  Za Evropsku Zajednicu
+
+  +++++ TIFF +++++
+
+  +++++ TIFF +++++
+
+  За Република Черна гора
+
+  Por la República de Montenegro
+
+  Za Republiku Černá Hora
+
+  For Republikken Montenegro
+
+  Für die Republik Montenegro
+
+  Montenegro Vabariigi nimel
+
+  Για τη Δημοκρατία του Μαυροβουνίου
+
+  For the Republic of Montenegro
+
+  Pour la République du Monténégro
+
+  Per la Repubblica del Montenegro
+
+  Melnkalnes Republikas vārdā
+
+  Juodkalnijos Respublikos vardu
+
+  A Montenegrói Köztársaság részéről
+
+  Għar-Repubblika ta' Montenegro
+
+  Voor de Republiek Montenegro
+
+  W imieniu Republiki Czarnogóry
+
+  Pela República do Montenegro
+
+  Pentru Republica Muntenegru
+
+  Za Čiernohorskú republiku
+
+  Za Republiko Črno goro
+
+  Montenegron tasavallan puolesta
+
+  För Republiken Montenegro
+
+  Za Republiku Crnu Goru
+
+  +++++ TIFF +++++
+
+  [1] Council Regulation (EEC) No 2658/87 (OJ L 256, 7.9.1987, p. 1).
+
+  [2] Official Gazette of Montenegro No 17/07.
+
+  [3] OJ L 93, 31.3.2006, p. 12. Regulation as amended by Commission
+  Regulation (EC) No 952/2007 (OJ L 210, 10.8.2007, p. 26).
+
+  --------------------------------------------------</article>
+    </chapter>
+  </body>
+</treaty>

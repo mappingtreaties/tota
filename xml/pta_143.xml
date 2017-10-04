@@ -1,0 +1,948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EFTA - Canada</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>159</wto_rta_id>
+    <treaty_identifier>143</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2008-01-26</date_signed>
+    <date_into_force>2009-07-01</date_into_force>
+    <date_notification>2009-08-04</date_notification>
+    <end_implementation>2024-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">CAN</partyisocode>
+      <partyisocode n="2">CHE</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">CAN</partyisocode>
+      <partyisocode n="2">CHE</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>North America; Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/eu-ue/efta.aspx?lang=en&amp;view=d</source>
+    <source lang="fr" type="full text">http://www.sice.oas.org/Trade/CAN_EFTA_FTA/can_efta_f.asp#Preamble</source>
+    <source lang="en" type="annex">http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/eu-ue/efta.aspx?lang=en&amp;view=d</source>
+    <source lang="es" type="annex">http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/eu-ue/efta.aspx?lang=fra&amp;view=d</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1527">
+      <article article_identifier="12279">Canada, and the Republic of Iceland, the Principality of
+  Liechtenstein, the Kingdom of Norway and the Swiss Confederation (the
+  “EFTA States”), hereinafter collectively referred to as the “Parties”,
+
+      Resolved to strengthen the special bonds of friendship and
+      co-operation among their nations;
+    
+      Reaffirming their commitment to the United Nations Charter and the
+      Universal Declaration of Human Rights;
+    
+      Desiring to contribute to the harmonious development and expansion
+      of world trade and provide a catalyst to broader international and
+      transatlantic co-operation;
+    
+      Determined to create an expanded and secure market for the goods
+      produced in their territories;
+    
+      Wishing to establish a free trade area through the removal of
+      trade barriers;
+    
+      Committed to reduce distortions of trade;
+    
+      Resolved to establish clear and mutually advantageous rules
+      governing their trade;
+    
+      Intending to enhance the competitiveness of their firms in global
+      markets;
+    
+      Aiming to create new employment opportunities and improve working
+      conditions and living standards in their respective territories;
+    
+      Determined to ensure that the gains from trade liberalisation are
+      not offset by the erection of private, anti-competitive barriers;
+    
+      Recalling the Arrangements on Trade and Economic Co-operation that
+      were signed: between the Government of Canada and the Government
+      of the Kingdom of Norway, on 3 December 1997; between the
+      Government of Canada and the Government of the Swiss
+      Confederation, on 9 December 1997; and between the Government of
+      Canada and the Government of the Republic of Iceland, on 24 March
+      1998;
+    
+      Building on their respective rights and obligations under the
+      Marrakesh Agreement Establishing the World Trade Organization,
+      done on 15 April 1994 (hereinafter referred to as the “WTO
+      Agreement”), the other agreements negotiated thereunder and other
+      multilateral and bilateral instruments of co-operation;
+    
+      Taking into account the Agreement on Mutual Recognition in
+      Relation to Conformity Assessment between Canada and Switzerland,
+      done at Ottawa on 3 December 1998; and the Agreement on Mutual
+      Recognition in Relation to Conformity Assessment between Canada
+      and the Republic of Iceland, the Principality of Liechtenstein,
+      and the Kingdom of Norway, done at Brussels on 4 July 2000;
+    
+      Recognizing the importance of trade facilitation in promoting
+      efficient and transparent procedures to reduce costs and ensure
+      predictability for the Parties’ respective trading communities;
+    
+      Committed to co-operate in promoting recognition that States must
+      maintain the ability to preserve, develop and implement their
+      cultural policies for the purpose of strengthening cultural
+      diversity;
+    
+      Recognizing the need for mutually supportive trade and
+      environmental policies in order to achieve the objective of
+      sustainable development;
+    
+      Affirming their commitment to economic and social development and
+      the respect for the fundamental rights of workers and the
+      principles set out in the International Labour Organization’s
+      Declaration on Fundamental Principles and Rights at Work; and
+    
+      Declaring their readiness to examine the possibility of developing
+      and deepening their economic relations in order to extend them to
+      fields not covered by this Agreement; have agreed as follows:</article>
+    </chapter>
+    <chapter number="I" name="Objectives And Scope" chapter_identifier="1528">
+      <article number="ARTICLE 1" name="Objectives" article_identifier="12280">1. The Parties hereby establish a free trade area in accordance with
+  this Agreement.
+
+  2. The objectives of this Agreement are:
+
+  a. to promote, through the expansion of reciprocal trade, the
+  harmonious development of the economic relations between Canada and
+  the EFTA States and thus to foster in Canada and in the EFTA States
+  the advancement of economic activity;
+
+  b. to provide fair conditions of competition affecting trade between
+  the Parties;
+
+  c. to establish a framework for further co-operation between Canada
+  and the EFTA States in the light of developments in international
+  economic relations, in particular with the aim of liberalising trade
+  in services and increasing investment opportunities; and
+
+  d. to contribute in this way, by the removal of barriers to trade, to
+  the harmonious development and expansion of world trade.</article>
+      <article number="ARTICLE 2" name="Geographical Scope" article_identifier="12281">1. Without prejudice to Annex C and except as otherwise provided
+  elsewhere in this Agreement, this Agreement shall apply to:
+
+  a. the land territory, air space, internal waters and territorial sea
+  over which a Party exercises sovereignty; and
+
+  b. the exclusive economic zone and the continental shelf of a Party,
+  as determined by its domestic law, consistent with international law.
+
+  2. Annex A applies with respect to the Kingdom of Norway.</article>
+    </chapter>
+    <chapter number="II" name="Trade In Goods" chapter_identifier="1529">
+      <article number="ARTICLE 3" name="Coverage" article_identifier="12282">1. This Agreement applies to trade in goods of a Party, except as
+  otherwise provided in this Agreement and in the bilateral Agreements
+  on trade in agricultural products referred to in paragraph 2.
+
+  2. The Parties declare their readiness to foster, in so far as their
+  agricultural policies allow, harmonious development of trade in
+  agricultural products. In pursuance of this objective, Canada and each
+  individual EFTA State have concluded bilateral Agreements on trade in
+  agricultural products. These Agreements shall form part of the
+  instruments establishing the free trade area between Canada and the
+  EFTA States.
+
+  3. In this Agreement:
+
+  a. “goods of a Party” means domestic products as these are understood
+  in the General Agreement on Tariffs and Trade 1994 (hereinafter
+  referred to as the “GATT 1994”), or such goods as the Parties may
+  agree, and includes originating products of that Party;
+
+  b. “originating products of a Party” means goods of a Party qualifying
+  under the rules of origin set out in Annex C.</article>
+      <article number="ARTICLE 4" name="National Treatment" article_identifier="12283">1. The Parties shall apply national treatment in accordance with
+  Article III of the GATT 1994, which is incorporated into and made part
+  of this Agreement.
+
+  2. Paragraph 1 does not apply to the measures set out in Annex B.</article>
+      <article number="ARTICLE 5" name="Import And Export Restrictions" article_identifier="12284">1. Prohibitions or restrictions other than duties, taxes or other
+  charges, whether made effective through quotas, import or export
+  licences or other measures, shall be prohibited in trade between the
+  Parties in accordance with Article XI of the GATT 1994, which is
+  incorporated into and made part of this Agreement.
+
+  2. Paragraph 1 does not apply to the measures set out in Annex B.</article>
+      <article number="ARTICLE 6" name="Sanitary And Phytosanitary Measures" article_identifier="12285">The rights and obligations of the Parties in respect of sanitary and
+  phytosanitary measures shall be governed by the WTO Agreement on the
+  Application of Sanitary and Phytosanitary Measures.</article>
+      <article number="ARTICLE 7" name="Technical Regulations" article_identifier="12286">1. The rights and obligations of the Parties in respect of technical
+  regulations, standards and conformity assessment shall be governed by
+  the WTO Agreement on Technical Barriers to Trade (hereinafter referred
+  to as the “WTO TBT Agreement”).
+
+  2. Notwithstanding paragraph 1, the rights and obligations of Canada
+  and the EFTA States in the field of mutual recognition of conformity
+  assessment shall be governed:
+
+  a. as between Canada and the Swiss Confederation, by the Agreement on
+  Mutual Recognition in Relation to Conformity Assessment of 3 December
+  1998; and
+
+  b. as between Canada, on the one hand, and the Republic of Iceland,
+  the Principality of Liechtenstein and the Kingdom of Norway, on the
+  other, by the Agreement on Mutual Recognition in Relation to
+  Conformity Assessment of 4 July 2000.
+
+  3. The Parties shall strengthen their co-operation in the field of
+  technical regulations, standards and conformity assessment.
+
+  4. Without prejudice to paragraph 1, where Canada or an EFTA State
+  considers that one or more EFTA States or Canada have taken a measure
+  that is likely to create, or has created, an obstacle to trade, the
+  Parties concerned shall hold consultations under the framework of the
+  Joint Committee in order to attempt to find an appropriate solution in
+  conformity with the WTO TBT Agreement. This paragraph is limited to
+  matters falling within the scope of paragraph 1 and does not apply to
+  matters falling within the scope of either of the Agreements on Mutual
+  Recognition listed in paragraph 2. In matters falling within the scope
+  of paragraph 2, the procedures of the applicable Agreement on Mutual
+  Recognition shall apply.</article>
+      <article number="ARTICLE 8" name="Rules Of Origin And Administrative Co-Operation" article_identifier="12287">The provisions on rules of origin and administrative co-operation are
+  set out in Annex C.</article>
+      <article number="ARTICLE 9" name="Sub-Committee On Rules Of Origin And Trade In Goods" article_identifier="12288">1. The Parties hereby establish a Sub-Committee on Rules of Origin and
+  Trade in Goods of the Joint Committee.
+
+  2. The mandate of the Sub-Committee is set out in Annex D.</article>
+      <article number="ARTICLE 10" name="Customs Duties" article_identifier="12289">1. Customs duties shall be prohibited in respect of the following
+  originating products of the Parties as of the date of entry into force
+  of this Agreement, except as otherwise provided for in Annex E:
+
+  a. products falling within Chapters 25 through 97 of the Harmonized
+  Commodity Description and Coding System (hereinafter referred to as
+  the “Harmonized System”), excluding the products listed in Annex F;
+
+  b. products falling within Chapters 1 through 24 of the Harmonized
+  System specified in Annex G, with due regard to the provisions of that
+  Annex; and
+
+  c. fish and other marine products as provided for in Annex H.
+
+  2. A customs duty includes any duty or charge of any kind imposed in
+  connection with the importation or exportation of a product, including
+  any form of surtax or surcharge in connection with such importation or
+  exportation, but does not include any:
+
+  a. charge equivalent to an internal tax imposed consistently with
+  Article 4;
+
+  b. anti-dumping or countervailing duty; or
+
+  c. fee or other charge, provided that it is limited in amount to the
+  approximate cost of services rendered.
+
+  3. Paragraphs 1 and 2 shall not prevent any Party from introducing,
+  reintroducing or increasing a customs duty vis-à-vis another Party, as
+  may be authorizedby or pursuant to the WTO Agreement, in particular
+  pursuant to the rules and procedures on dispute settlement, but
+  excluding any modification of schedules and tariff modifications in
+  accordance with Article XXVIII of the GATT 1994.</article>
+      <article number="ARTICLE 11" name="Base Rate Of Customs Duties" article_identifier="12290">For each product, the base rate of customs duties, to which the
+  successive reductions set out in Annex E are to be applied, shall be
+  the most-favoured nation (hereinafter referred to as “MFN”) customs
+  duty rate applied on 1 January 2007.</article>
+    </chapter>
+    <chapter number="III" name="Services And Investment" chapter_identifier="1530">
+      <article number="ARTICLE 12" name="Services And Investment" article_identifier="12291">1. The Parties recognise the increasing importance of trade in
+  services and investment in their economies. In their efforts to
+  gradually develop and broaden their co-operation, they will work
+  together with the aim of creating the most favourable conditions for
+  expanding investment between them and achieving further liberalisation
+  and additional mutual opening of markets for trade in services, taking
+  into account on-going work under the auspices of the WTO.
+
+  2. Upon request of a Party, the requested Party shall endeavour to
+  provide information on any of its measures that may have an impact on
+  trade in services or investment.
+
+  3. The Parties shall encourage the relevant bodies in their respective
+  territories to co-operate with a view to achieving mutual recognition
+  for licensing and certification of professional service suppliers.
+
+  4. The Parties shall jointly review issues related to services and
+  investment in the Joint Committee and consider the adoption of
+  liberalisation measures with due regard to Article V of the WTO
+  General Agreement on Trade in Services and in the light of
+  developments in multilateral and bilateral agreements. Such a review
+  shall take place no later than three years after the entry into force
+  of this Agreement.
+
+  5. Any future negotiation on services and investment between Canada
+  and the EFTA States shall be based on the principles of
+  non-discrimination and transparency.</article>
+      <article number="ARTICLE 13" name="Temporary Entry" article_identifier="12292">1. The Parties recognise that investment and services are growing in
+  importance in relation to trade in goods. Each Party shall, in
+  accordance with its applicable laws:
+
+  a. facilitate the temporary entry into its territory of nationals of
+  another Party who are intra-corporate transferees (managers,
+  executives, specialists) and business visitors;
+
+  b. facilitate the temporary entry into its territory of nationals of
+  another Party who render services directly related to the exportation
+  of goods by an exporter of that same Party into the territory of the
+  Party concerned; and
+
+  c. facilitate the entry into its territory of spouses and children of
+  nationals described in sub-paragraph (a) above.
+
+  2. The Joint Committee shall monitor the operation and implementation
+  of this Article and deal with issues of implementation or
+  administration related to temporary entry.
+
+  3. No later than one year after the date of entry into force of this
+  Agreement, each Party shall make available explanatory material
+  regarding the requirements for temporary entry under this Article, in
+  such a manner as will enable nationals of the other Parties to become
+  acquainted with them.
+
+  4. For the purposes of this Article:
+
+  a. “temporary entry” means the right to enter and remain for the
+  period authorised;
+
+  b. “national” means a natural person who is a citizen or a permanent
+  resident of a Party; and
+
+  c. “business visitors” means short term visitors who do not intend to
+  enter the labour market of the Parties, but seek entry to engage in
+  activities such as buying or selling goods or services, negotiating
+  contracts, conferring with colleagues, or attending conferences.</article>
+    </chapter>
+    <chapter number="IV" name="Competition Law And Policy" chapter_identifier="1531">
+      <article number="ARTICLE 14" name="General Principles" article_identifier="12293">1. The Parties agree that anti-competitive business conduct can hinder
+  the fulfilment of the objectives of this Agreement. Accordingly, each
+  Party shall adopt or maintain measures to proscribe such conduct and
+  take appropriate action with respect thereto, acknowledging that such
+  measures may be brought about by a Party’s obligations entered into
+  through other international agreements, such as the Agreement on the
+  European Economic Area, done at Brussels on 17 March 1993, to which
+  certain EFTA States are party. The Parties shall, upon request of a
+  Party, consult about the effectiveness of measures undertaken by each
+  Party.
+
+  2. Each Party shall ensure that the measures referred to in paragraph
+  1, and the actions it takes pursuant to those measures, are applied on
+  a non-discriminatory basis.
+
+  3. For the purpose of this Chapter, “anti-competitive business
+  conduct” includes, but is not limited to, anti-competitive agreements,
+  concerted practices or arrangements by competitors, anti-competitive
+  practices by an enterprise that is dominant in a market and mergers
+  with substantial anti-competitive effects, unless such conduct is
+  excluded directly or indirectly from the coverage of a Party’s own
+  laws or authorised in accordance with those laws. All such exclusions
+  and authorisations should be transparent and should be reviewed
+  periodically to assess whether they are necessary to achieve their
+  overriding policy objectives.
+
+  4. No Party may have recourse to dispute settlement under this
+  Agreement for any matter arising under this Chapter.</article>
+      <article number="ARTICLE 15" name="Co-Operation" article_identifier="12294">1. The Parties recognise the importance of co-operation and
+  co-ordination on general issues relating to competition law
+  enforcement policy, such as notification, consultation and exchange of
+  information relating to the enforcement of competition laws and
+  policies.
+
+  2. Unless providing notice would harm its important interests, a Party
+  shall notify another Party when a proposed or actual competition law
+  enforcement action may have an effect on that other Party’s important
+  interests, and give full and sympathetic consideration to the views
+  expressed by that other Party, including possible ways of fulfilling
+  its enforcement needs without harming those interests.
+
+  3. If a Party considers that any specified anti-competitive business
+  conduct carried out within the territory of another Party is adversely
+  affecting an important interest referred to in paragraph 2, that Party
+  may notify the other Party and may request that the Party or its
+  competition authority initiate appropriate enforcement action.
+
+  4. The notifying Party shall include in its notification sufficient
+  information to permit the notified Party to identify the
+  anti-competitive business conduct that is the subject of the
+  notification and shall include an offer to provide such further
+  information and co-operation as the notifying Party is able to
+  provide. The notified Party may consult with the notifying Party and
+  shall accord full and sympathetic consideration to the request of the
+  notifying Party in deciding whether to initiate enforcement action
+  with respect to the anti-competitive business conduct identified in
+  the notification. The Parties may conduct such consultations through
+  their respective competition authorities.
+
+  5. The notified Party shall inform the notifying Party of its decision
+  and may include the grounds for the decision. If enforcement action is
+  initiated, the notified Party shall advise the notifying Party of its
+  outcome and, to the extent possible, of any significant interim
+  development. The Parties may act under this paragraph through their
+  respective competition authorities.</article>
+      <article number="ARTICLE 16" name="Communication Of Information" article_identifier="12295">Nothing in this Chapter shall require the communication of information
+  by a Party, including its competition authority, if such communication
+  is prohibited by its laws, including those regarding disclosure of
+  information, confidentiality and business secrecy.</article>
+    </chapter>
+    <chapter number="V" name="Other Common Rules" chapter_identifier="1532">
+      <article number="ARTICLE 17" name="Subsidies" article_identifier="12296">1. Subject to paragraphs 2 and 3, the rights and obligations of the
+  Parties in respect of subsidies and the application of countervailing
+  measures shall be governed by Articles VI and XVI of the GATT 1994 and
+  the WTO Agreement on Subsidies and Countervailing Measures.
+
+  2. Each Party shall designate, and provide full contact information
+  for, a person that the other Parties can contact with respect to any
+  matter concerning subsidies or countervailing measures.
+
+  3. Before initiating an investigation under Part V of the WTO
+  Agreement on Subsidies and Countervailing Measures, the competent
+  investigating authority of Canada or the EFTA State, as the case may
+  be, shall notify, in writing, the Party whose goods would be subject
+  to the investigation and allow such Party a period of 25 days from the
+  date upon which notification was given, for consultations, with a view
+  to finding a mutually acceptable solution. The outcome of such
+  consultations shall be communicated to the other Parties after the
+  decision has been made on whether or not to initiate the
+  investigation.</article>
+      <article number="ARTICLE 18" name="Anti-Dumping" article_identifier="12297">1. Subject to paragraphs 2 and 3, the rights and obligations of the
+  Parties in respect of the application of anti-dumping measures shall
+  be governed by Article VI of the GATT 1994 and the WTO Agreement on
+  Implementation of Article VI of the General Agreement on Tariffs and
+  Trade 1994.
+
+  2. Each Party shall designate, and provide full contact information
+  for, a person that the other Party may contact with respect to any
+  matter concerning anti-dumping measures.
+
+  3. The Parties shall, within three years after the entry into force of
+  this Agreement, meet to review this Article.</article>
+      <article number="ARTICLE 19" name="State Trading Enterprises" article_identifier="12298">The rights and obligations of the Parties in respect of State trading
+  enterprises shall be governed by Article XVII of the GATT 1994 and the
+  WTO Understanding on the Interpretation of Article XVII of the General
+  Agreement on Tariffs and Trade 1994.</article>
+      <article number="ARTICLE 20" name="Public Procurement" article_identifier="12299">1. The rights and obligations of the Parties in respect of public
+  procurement shall be governed by the WTO Agreement on Government
+  Procurement.
+
+  2. If, after the entry into force of this Agreement, Canada or the
+  EFTA States enter into an international agreement that provides
+  greater transparency or access to the procurement market or markets
+  concerned than is provided under the WTO Agreement on Government
+  Procurement, Canada or the EFTA States may request that the Parties
+  enter into negotiations with a view to achieving a level of
+  transparency or market access through this Agreement that is
+  equivalent to that provided in the other agreement.
+
+  3. The Parties agree to co-operate in the Joint Committee, with the
+  aim of achieving further liberalisation among them, of public
+  procurement markets and greater transparency in public procurement.
+  They shall meet to review this Article no later than three years after
+  the entry into force of this Agreement.</article>
+      <article number="ARTICLE 21" name="Trade Facilitation" article_identifier="12300">To facilitate trade between Canada and the EFTA States, the Parties
+  shall:
+
+  a. simplify, to the greatest extent possible, procedures for trade in
+  goods and related services;
+
+  b. promote multilateral co-operation among them in order to enhance
+  their participation in the development and implementation of
+  international conventions and recommendations on trade facilitation;
+  and
+
+  c. co-operate on trade facilitation within the framework of the Joint
+  Committee, in accordance with the provisions set out in Annex I.</article>
+    </chapter>
+    <chapter number="VI" name="Exeptions And Safeguards" chapter_identifier="1533">
+      <article number="ARTICLE 22" name="General Exceptions" article_identifier="12301">For purposes of the Chapter on Trade in Goods, Article XX of the GATT
+  1994 is incorporated into and made part of this Agreement. The Parties
+  understand that the measures referred to in Article XX(b) of the GATT
+  1994 include environmental measures necessary to protect human, animal
+  or plant life or health, and that Article XX(g) of the GATT 1994
+  applies to measures relating to the conservation of living and
+  non-living exhaustible natural resources.</article>
+      <article number="ARTICLE 23" name="Other Exceptions" article_identifier="12302">Without prejudice to the rights and obligations of the Parties
+  pursuant to the WTO Agreement, Annex J shall apply to measures of a
+  Party with respect to cultural industries.</article>
+      <article number="ARTICLE 24" name="Security Exceptions" article_identifier="12303">Nothing in this Agreement shall be construed:
+
+  a. to require any Party to furnish any information the disclosure of
+  which it considers contrary to its essential security interests;
+
+  b. to prevent any Party from taking any action which it considers
+  necessary for the protection of its essential security interests:
+
+  i. relating to fissionable materials or the materials from which they
+  are derived;
+
+  ii. relating to the traffic in arms, ammunition and implements of war
+  and to such traffic in other goods and materials as is carried on
+  directly or indirectly for the purpose of supplying a military
+  establishment; or
+
+  iii. taken in time of war or other emergency in international
+  relations;
+
+  or
+
+  c. to prevent any Party from taking any action in pursuance of its
+  obligations under the United Nations Charter for the maintenance of
+  international peace and security.</article>
+      <article number="ARTICLE 25" name="Emergency Action" article_identifier="12304">1. Where, during the transition period referred to
+   in paragraph 9, as a result of the
+  reduction or elimination of a customs duty under this Agreement, an
+  originating product of a Party is being imported into the territory of
+  another Party in such increased quantities, in absolute terms or
+  relative to domestic production, and under such conditions as to
+  constitute a substantial cause of serious injury or threat thereof to
+  the domestic industry of like or directly competitive products in the
+  importing Party, the importing Party may take emergency action to the
+  minimum extent necessary to remedy or prevent the injury, subject to
+  the provisions of this Article.
+
+  2. Each Party shall ensure equitable, transparent and effective
+  procedures for emergency action proceedings. An emergency action
+  proceeding may be instituted by a petition or a complaint by an entity
+  representing the domestic industry producing a good like or directly
+  competitive with the imported product. The Party receiving a petition
+  or a complaint shall, without delay, deliver to the other Parties and
+  the Joint Committee written notice of the institution of a proceeding
+  that could result in the application of emergency action. The written
+  notice shall contain the contact information of the Party's competent
+  investigating authority.
+
+  3. An emergency action shall only be taken upon clear evidence that
+  increased imports have caused or are threatening to cause serious
+  injury pursuant to an investigation conducted in accordance with
+  definitions and procedures equivalent to those of Articles 3 and 4 of
+  the WTO Agreement on Safeguards.
+
+  4. The Party intending to take an emergency action under this Article
+  shall, before taking an action, notify the other Parties and the Joint
+  Committee.  The notification shall
+  contain all pertinent information, including evidence of serious
+  injury or threat thereof caused by increased imports, a precise
+  description of the product involved, and the proposed action, as well
+  as the proposed date of introduction, and expected duration of the
+  action. A Party that may be affected by the action shall be offered
+  compensation in the form of substantially equivalent trade
+  liberalization in relation to the imports from such Party.
+
+  5. If the conditions in paragraph 1 are met, and following an
+  examination by the Joint Committee as set out in paragraph 7,
+   the importing Party may increase
+  the rate of customs duty for the product to a level not to exceed the
+  lesser of:
+
+  a. the MFN rate of duty applied at the time the action is taken; or
+
+  b. the MFN rate of duty applied on the day immediately preceding the
+  date of the entry into force of this Agreement.
+
+  6. An emergency action shall be taken for a period not exceeding three
+  years, and shall not extend beyond the end of the transition period
+  referred to in paragraph 9. No action shall be applied to the import
+  of a product that has previously been the subject of such an action.
+
+  7. The Joint Committee shall, within 30 days from the date of
+  notification referred to in paragraph 4, examine the information
+  provided under paragraph 4 in order to facilitate a mutually
+  acceptable resolution of the matter. In the absence of such
+  resolution, the importing Party may take an action in accordance with
+  paragraph 5 and, in the absence of mutually agreed compensation, the
+  Party against whose product the action is taken may take compensatory
+  action. The emergency action and the compensatory action shall be
+  immediately notified to the other Parties and the Joint Committee. In
+  the selection of the emergency action and the compensatory action,
+  priority must be given to the action which least disturbs the
+  functioning of this Agreement. The compensatory action shall consist
+  of suspension of tariff concessions under this Agreement having
+  substantially equivalent trade effects or concessions substantially
+  equivalent to the value of the additional duties expected to result
+  from the emergency action. The Party taking compensatory action shall
+  apply the action only for the minimum period necessary to achieve the
+  substantially equivalent trade effects and in any event, only while
+  the measure under paragraph 5 is being applied.
+
+  8. Upon the termination of the emergency action, the rate of customs
+  duty shall be the rate that would have been in effect but for the
+  action.
+
+  9. Unless extended by the Joint Committee as set out in paragraph 10,
+  the transition period referred to in paragraphs 1 and 6 is the longer
+  of:
+
+  a. the five-year period beginning on the date of entry into force of
+  this Agreement; or, where applicable,
+
+  b. the staged tariff elimination set out for a product in a Party’s
+  schedule in Annex E.
+
+  10. In the fifth year after the date of entry into force of this
+  Agreement, the Parties shall consider, in the Joint Committee, whether
+  there is a need to extend the transition period for certain products.
+  The Joint Committee may extend the transition period for a certain
+  product, in which case the transition period for that product shall be
+  in accordance with the decision of the Joint Committee.
+
+  11. Each Party retains its rights and obligations under Article XIX of
+  the GATT 1994 and the WTO Agreement on Safeguards.</article>
+    </chapter>
+    <chapter number="VII" name="Institutional Provisions" chapter_identifier="1534">
+      <article number="ARTICLE 26" name="The Joint Committee" article_identifier="12305">1. The Parties hereby establish the Canada-EFTA Joint Committee which
+  shall be composed of representatives of the Parties.
+
+  2. The Joint Committee shall:
+
+  a. supervise the implementation of this Agreement;
+
+  b. keep under review the possibility of further removal of barriers to
+  trade and other restrictive regulations of commerce between Canada and
+  the EFTA States;
+
+  c. oversee the further elaboration of this Agreement;
+
+  d. supervise the work of all sub-committees and working groups
+  established under this Agreement;
+
+  e. discuss, upon request by a Party, measures with respect to cultural
+  industries maintained or adopted under Annex J;
+
+  f. discuss, upon request by a Party, the application of an emergency
+  action taken under Article 25;
+
+  g. endeavour to resolve disputes that may arise regarding the
+  interpretation or application of this Agreement; and
+
+  h. consider any other matter that may affect the operation of this
+  Agreement.
+
+  3. The Joint Committee may decide to set up such sub-committees and
+  working groups as it considers necessary to assist it in accomplishing
+  its tasks. Except where specifically provided for in this Agreement,
+  the sub-committees and working groups shall work under a mandate
+  established by the Joint Committee.
+
+  4. The Joint Committee may take decisions as provided in this
+  Agreement. On other matters the Joint Committee may make
+  recommendations.
+
+  5. The Joint Committee shall take decisions and make recommendations
+  by consensus.
+
+  6. The Joint Committee shall normally convene once a year in a regular
+  meeting. The regular meetings of the Joint Committee shall be chaired
+  jointly by Canada and one of the EFTA States. The Joint Committee
+  shall establish its rules of procedure.
+
+  7. Each Party may request at any time, through a notice in writing to
+  the other Parties, that a special meeting of the Joint Committee be
+  held. Such a meeting shall take place within 30 days of receipt of the
+  request.</article>
+    </chapter>
+    <chapter number="VIII" name="Dispute Settlement" chapter_identifier="1535">
+      <article number="ARTICLE 27" name="Choice Of Forum" article_identifier="12306">1. Subject to paragraph 2 and except as otherwise provided elsewhere
+  in this Agreement, any dispute regarding any matter arising under both
+  this Agreement and the WTO Agreement may be settled in either forum at
+  the discretion of the complaining Party.
+
+  2. Before Canada initiates against an EFTA State or an EFTA State
+  initiates against Canada a dispute settlement proceeding in the WTO on
+  grounds that are substantially equivalent to those available to that
+  Party under this Agreement, that Party shall notify the other Parties
+  of its intention. If an EFTA State initiates a dispute settlement
+  proceeding against Canada and another EFTA State wishes also to have
+  recourse to dispute settlement procedures against Canada as a
+  complainant under this Agreement regarding the same matter, it shall
+  inform promptly the notifying Party and those Parties shall consult
+  with a view to agreeing on a single forum. If those Parties cannot
+  agree, the dispute shall be settled under this Agreement.
+
+  3. Once dispute settlement procedures have been initiated under this
+  Agreement pursuant to Article 29 or dispute settlement proceedings
+  have been initiated under the WTO Agreement, the forum selected shall
+  be used to the exclusion of the other.
+
+  4. For purposes of this Article, dispute settlement proceedings under
+  the WTO Agreement are deemed to be initiated by a Party’s request for
+  the establishment of a panel, such as under Article 6 of the WTO
+  Understanding on Rules and Procedures Governing the Settlement of
+  Disputes.
+
+  5. The provisions of this Chapter do not apply to any matters falling
+  within the scope of any one of the following provisions: Article 6;
+  paragraphs 1 and 2 of Article 7. any provision of Chapter IV
+  (Competition Law and Policy); paragraph 1 of Article 17; paragraph 1
+  of Article 18; Article 19; paragraph 1 of Article 20; or paragraph 11
+  of Article 25.</article>
+      <article number="ARTICLE 28" name="Consultations" article_identifier="12307">1. The Parties shall at all times endeavour to agree on the
+  interpretation and application of this Agreement, and shall make every
+  attempt through co-operation and consultations to arrive at a mutually
+  satisfactory resolution of any matter that might affect its operation.
+
+  2. Canada may request in writing consultations with any EFTA State,
+  and any EFTA State may request in writing consultations with Canada,
+  regarding any actual or proposed measure or any other matter that it
+  considers might affect the operation of this Agreement. The Party
+  requesting consultations shall at the same time notify the other
+  Parties in writing thereof and supply all relevant information. Where
+  an EFTA State has requested consultations with Canada, any other EFTA
+  State may join in such a request as a co-complainant.
+
+  3. If any other Party so requests within ten days from the receipt of
+  the notification referred to in paragraph 2, such Party shall be
+  entitled to participate in the consultations.
+
+  4. The consultations shall commence within 30 days from the date of
+  receipt of the request for consultations.
+
+  5. The Parties shall inform the Joint Committee of any discussions and
+  decisions arrived at.</article>
+      <article number="ARTICLE 29" name="Arbitration" article_identifier="12308">1. Any dispute arising between Parties under this Agreement which has
+  not been settled through consultations within 90 days from the date of
+  the receipt of the request for consultation, may be referred to
+  arbitration by one or more Parties to the dispute by means of a
+  written notification addressed to the Party complained against. A copy
+  of this notification shall be communicated to all Parties to this
+  Agreement. Where more than one Party requests the submission to an
+  arbitral tribunal of a dispute with the same Party relating to the
+  same question, a single arbitral tribunal should be established to
+  consider such disputes whenever feasible.
+
+  2. The establishment and functioning of the arbitral tribunal are
+  governed by AnnexK.
+
+  3. Unless the Parties otherwise agree within 30 days from the date of
+  the receipt of the notification referring the dispute to arbitration,
+  the terms of reference shall be:
+
+  “To examine, in the light of the relevant provisions of this
+  Agreement, the matter referred to arbitration (as described in the
+  notification referred to in paragraph 1) and to make such findings,
+  determinations and recommendations as provided in paragraph 6 of
+  Article 29 of this Agreement.”
+
+  4. If the complaining Party alleges that any benefit it could
+  reasonably have expected to accrue to it directly or indirectly under
+  Articles 4, 5, 8, 10 or 11, is being nullified or impaired as a result
+  of the application of any measure that is not inconsistent with this
+  Agreement, the terms of reference shall so indicate.
+
+  5. The arbitral tribunal shall interpret this Agreement in accordance
+  with customary rules of interpretation of public international law.
+
+  6. The arbitral tribunal, in its award, shall set out:
+
+  a. its findings of law and fact, together with the reasons therefor;
+
+  b. its determination as to whether the measure at issue is or would be
+  inconsistent with the obligations of this Agreement or cause
+  nullification or impairment of benefits within the meaning of
+  paragraph 4, or any other determination requested in the terms of
+  reference; and
+
+  c. its recommendations, if any, for the resolution of the dispute and
+  the implementation of the arbitral award.
+
+  7. The parts of the award of the arbitral tribunal referred to in
+  sub-paragraphs (a) and (b) of paragraph 6 shall be final and binding
+  upon the Parties to the dispute.</article>
+      <article number="ARTICLE 30" name="Implementation Of The Arbitral Award" article_identifier="12309">1. On receipt of the arbitral award, the disputing Parties shall seek
+  to agree on the implementation of the arbitral award, which, unless
+  they decide otherwise by common accord, shall conform with the
+  determinations and any recommendations of the arbitral tribunal. The
+  disputing Parties shall notify the other Parties of any agreed
+  resolution of the dispute.
+
+  2. Wherever possible, the resolution shall be non-implementation or
+  removal of a measure not conforming with this Agreement or causing
+  nullification or impairment of benefits within the meaning of
+  paragraph 4 of Article 29 or, failing such a resolution, compensation.</article>
+      <article number="ARTICLE 31" name="Non-Implementation - Suspension Of Benefits" article_identifier="12310">1. In case of disagreement as to the existence or consistency of a
+  measure implementing the arbitral award with the determinations and
+  any  recommendations of the
+  arbitral tribunal, such dispute shall be decided by the same arbitral
+  tribunal before compensation can be sought or suspension of benefits
+  can be applied in accordance with paragraphs 3 through 5. If one or
+  more members of the original arbitral tribunal are not available, a
+  new arbitral tribunal shall be established in accordance with Annex K,
+  to make this determination.
+
+  2. The complaining Party may not initiate arbitration under the
+  preceding paragraph before a period of 12 months has expired following
+  the rendering of the award pursuant to paragraph 6 of Article 29. The
+  award of the tribunal referred to in the preceding paragraph shall
+  normally be rendered within three months of the request for
+  arbitration.
+
+  3. If the arbitral tribunal, in accordance with paragraph 1 has
+  determined that an implementing measure is inconsistent with the
+  determinations and any 
+  recommendations of the original arbitral tribunal, or that no
+  implementing measures have been taken, and the Party complained
+  against has not reached agreement with a complaining Party on a
+  mutually satisfactory resolution within 30 days of receiving this
+  award, the complaining Party may, until such time as the disputing
+  Parties have reached agreement on a resolution of the dispute:
+
+  a. seek compensation through an agreement with the Party complained
+  against; or
+
+  b. suspend the application to the Party complained against of benefits
+  of equivalent effect.
+
+  4. Upon written request of any disputing Party delivered to the other
+  Party or Parties, the same arbitral tribunal shall be reconvened to
+  determine whether the level of benefits suspended by a Party pursuant
+  to paragraph 3 is of equivalent effect. If one or more members of the
+  original arbitral tribunal are not available, a new arbitral tribunal
+  shall be established in accordance with Annex K, to make this
+  determination.
+
+  5. The proceedings of the arbitral tribunal reconvened or established
+  under paragraph 4 shall be conducted in accordance with paragraph 3 of
+  Annex K. The arbitral tribunal shall present its determination within
+  60 days after the date of the request referred to in paragraph 4, or
+  such other period as the disputing Parties may agree.</article>
+    </chapter>
+    <chapter number="IX" name="Final Clauses" chapter_identifier="1536">
+      <article number="ARTICLE 32" name="Evolutionary Clause" article_identifier="12311">Without prejudice to the obligation to review specific Articles of
+  this Agreement, the Parties undertake to review this Agreement in the
+  light of further developments in international economic relations,
+  including in the framework of the WTO, and to examine in this context
+  and in the light of any relevant factors, the possibility of further
+  developing and deepening the co-operation under this Agreement and to
+  extend it to areas not covered therein. The Parties may examine this
+  possibility through the Joint Committee and, where appropriate, open
+  negotiations.</article>
+      <article number="ARTICLE 33" name="Trade And Economic Relations Governed By This Agreement" article_identifier="12312">The provisions of this Agreement apply to the trade and economic
+  relations between, on the one side, Canada and, on the other side, the
+  individual EFTA States, but not to the trade relations between
+  individual EFTA States, unless otherwise provided in this Agreement.</article>
+      <article number="ARTICLE 34" name="Relationship Of This Agreement To Extraneous Agreements" article_identifier="12313">Where this Agreement refers to or incorporates by reference extraneous
+  agreements or legal instruments, or specific provisions therein, such
+  references are intended to include related interpretative and
+  explanatory notes.</article>
+      <article number="ARTICLE 35" name="Sub-National Entities" article_identifier="12314">Each Party is fully responsible for the observance of all provisions
+  of this Agreement and shall take such reasonable measures as may be
+  available to it to ensure observance of the provisions of this
+  Agreement by the regional and local governments and authorities within
+  its territory.</article>
+      <article number="ARTICLE 36" name="Annexes" article_identifier="12315">1. The Annexes to this Agreement constitute an integral part of it.
+
+  2. The Annexes may be amended by the Parties on the basis of a draft
+  decision proposed by the Joint Committee. The Parties shall deposit
+  their respective instruments of ratification, acceptance or approval
+  of any such amendment with the Depositary. The amendment shall enter
+  into force on the date of the deposit of the last instrument with the
+  Depositary, unless the Parties agree otherwise.</article>
+      <article number="ARTICLE 37" name="Transparency" article_identifier="12316">1. The Parties shall publish, or otherwise make publicly available,
+  their laws, regulations, procedures and administrative rulings and
+  judicial decisions of general application as well as the international
+  agreements which may affect the operation of this Agreement.
+
+  2. The Parties shall promptly respond to specific questions and
+  provide, upon request, information to each other on matters referred
+  to in paragraph 1.</article>
+      <article number="ARTICLE 38" name="Amendments" article_identifier="12317">1. This Agreement may be amended by the Parties on the basis of a
+  draft decision proposed by the Joint Committee. The Parties shall
+  deposit their respective instruments of ratification, acceptance or
+  approval of any such amendment with the Depositary.
+
+  2. Amendments shall enter into force on the first day of the third
+  month following the deposit of the last instrument of ratification,
+  acceptance or approval.</article>
+      <article number="ARTICLE 39" name="Additional Parties" article_identifier="12318">The Parties may invite any State to become a Party to this Agreement.
+  The terms and conditions of the participation by the additional Party
+  shall be the subject of an agreement between the Parties and the
+  invited State.</article>
+      <article number="ARTICLE 40" name="Withdrawal And Termination" article_identifier="12319">1. Canada, an EFTA State or any State that has become a Party to this
+  Agreement may withdraw from this Agreement by means of a written
+  notification to the Depositary. The withdrawal shall take effect on
+  the first day of the sixth month after the date on which the
+  notification was received by the Depositary.
+
+  2. If Canada withdraws, the Agreement shall expire on the date
+  specified in paragraph 1.
+
+  3. If one of the EFTA States, or any State that has become a Party to
+  this Agreement, withdraws from this Agreement, a meeting of the
+  remaining Parties shall be convened to discuss the issue of the
+  continued existence of this Agreement.</article>
+      <article number="ARTICLE 41" name="Provisional Application" article_identifier="12320">If their domestic requirements permit, Canada and any EFTA State may
+  apply this Agreement and the bilateral Agreements on trade in
+  agricultural products provisionally. Such provisional application
+  shall commence as of the date of the entry into force of this
+  Agreement between Canada and at least two EFTA States, in accordance
+  with paragraph 2 of Article 42. Provisional application of such
+  Agreements under this Article shall be notified to the Depositary.</article>
+      <article number="ARTICLE 42" name="Entry Into Force" article_identifier="12321">1. This Agreement is subject to ratification, acceptance or approval.
+  The instruments of ratification, acceptance or approval shall be
+  deposited with the Depositary.
+
+  2. This Agreement shall enter into force on the first day of the third
+  month following the deposit by Canada and at least two of the EFTA
+  States of their respective instruments of ratification, acceptance or
+  approval with the Depositary, provided that the same Parties have
+  exchanged their instruments of ratification, acceptance or approval in
+  respect of the bilateral Agreement on trade in agricultural products
+  concerned.
+
+  3. This Agreement shall enter into force for the other EFTA States at
+  the date of the deposit of their respective instruments of
+  ratification, acceptance or approval with the Depositary, provided
+  Canada and the EFTA States concerned have exchanged instruments of
+  ratification, acceptance or approval in respect of the corresponding
+  bilateral Agreements on trade in agricultural products.
+
+  4. Should Canada and Liechtenstein apply this Agreement provisionally
+  between them, this Agreement shall enter into force on the same date
+  as for Switzerland, following Liechtenstein's deposit of its
+  instrument of ratification, acceptance or approval with the
+  Depositary.</article>
+      <article number="ARTICLE 43" name="Depositary" article_identifier="12322">The Kingdom of Norway shall act as Depositary.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1537">
+      <article article_identifier="12323">IN WITNESS WHEREOF the undersigned, being duly authorised thereto,
+  have signed this Agreement.
+
+  Done in duplicate at Davos, this 26th day
+  of January 2008, in the English and French languages, each version
+  being equally authentic. One original shall be deposited by the EFTA
+  States with the Depositary.
+
+  For Canada
+
+  _______________________________
+
+  For the Republic of Iceland
+
+  _______________________________
+
+  For the Principality of Liechtenstein
+
+  _______________________________
+
+  For the Kingdom of Norway
+
+  _______________________________
+
+  For the Swiss Confederation
+
+  _______________________________</article>
+    </chapter>
+  </body>
+</treaty>

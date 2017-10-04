@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Andorra</name>
+    <type>Customs Union</type>
+    <wto_rta_id>109</wto_rta_id>
+    <treaty_identifier>100</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1991-06-28</date_signed>
+    <date_into_force>1991-07-01</date_into_force>
+    <date_notification>1998-02-23</date_notification>
+    <end_implementation>1996-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AND</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FRA</partyisocode>
+      <partyisocode n="7">GBR</partyisocode>
+      <partyisocode n="8">GRC</partyisocode>
+      <partyisocode n="9">IRL</partyisocode>
+      <partyisocode n="10">ITA</partyisocode>
+      <partyisocode n="11">LUX</partyisocode>
+      <partyisocode n="12">NLD</partyisocode>
+      <partyisocode n="13">PRT</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AND</partyisocode>
+      <partyisocode n="2">AUT</partyisocode>
+      <partyisocode n="3">BEL</partyisocode>
+      <partyisocode n="4">BGR</partyisocode>
+      <partyisocode n="5">CYP</partyisocode>
+      <partyisocode n="6">CZE</partyisocode>
+      <partyisocode n="7">DEU</partyisocode>
+      <partyisocode n="8">DNK</partyisocode>
+      <partyisocode n="9">ESP</partyisocode>
+      <partyisocode n="10">EST</partyisocode>
+      <partyisocode n="11">FIN</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HRV</partyisocode>
+      <partyisocode n="16">HUN</partyisocode>
+      <partyisocode n="17">IRL</partyisocode>
+      <partyisocode n="18">ITA</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350679054&amp;uri=CELEX:21990A1231(02)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:21990A1231(02)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:21998A0330(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350679054&amp;uri=CELEX:21990A1231(02)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350679054&amp;uri=CELEX:21990A1231(02)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350679054&amp;uri=CELEX:21990A1231(02)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1150">
+      <article number="ARTICLE 1" article_identifier="9400">Trade between the European Economic Community, on the one hand, and
+  the Principality of Andorra, on the other, shall be governed by the
+  provisions set out below.</article>
+    </chapter>
+    <chapter number="TITLE I" name="Customs Union" chapter_identifier="1151">
+      <article number="ARTICLE 2" article_identifier="9401">A customs union shall be established between the European Economic
+  Community and Andorra for the products covered by Chapters 25 to 97 of
+  the Harmonized System in accordance with the procedure and conditions
+  set out under this Title.</article>
+      <article number="ARTICLE 3" article_identifier="9402">1. The provisions of this Title shall apply to:
+
+  (a) goods produced in the Community or in the Principality of Andorra,
+  including those obtained wholly or in part from products which come
+  from third countries and are in free circulation in the Community or
+  in the Principality of Andorra;
+
+  (b) goods which come from third countries and are in free circulation
+  in the Community or in the Principality of Andorra.
+
+  2. Products coming from third countries shall be considered to be in
+  free circulation in the Community or in the Principality of Andorra if
+  the import formalities have been complied with and any customs duties
+  or charges having equivalent effect which are payable have been
+  levied, and there has been no total or partial drawback of such duties
+  or charges in respect of the said products.</article>
+      <article number="ARTICLE 4" article_identifier="9403">The provisions of this Title shall also apply to goods obtained in the
+  Community or in the Principality of Andorra, in the manufacture of
+  which were used products coming from third countries and not in free
+  circulation either in the Community or in the Principality of Andorra.
+  These provisions shall, however, apply to those goods only if the
+  exporting Contracting Party levies the customs duties laid down in the
+  Community for third country products used in their manufacture.</article>
+      <article number="ARTICLE 5" article_identifier="9404">The Contracting Parties shall refrain from introducing between
+  themselves any new customs duties on imports or exports or charges
+  having equivalent effect, and from increasing those already applied in
+  their trade with each other on 1 January 1989.</article>
+      <article number="ARTICLE 6" article_identifier="9405">1. Customs duties on imports and charges having equivalent effect in
+  force between the Community and the Principality of Andorra shall be
+  abolished in accordance with paragraphs 2 and 3.
+
+  2. On 1 January 1991, the Principality of Andorra shall abolish
+  customs duties and charges having equivalent effect on imports from
+  the Community.
+
+  3. (a) From 1 January 1991 the Community, with the exception of the
+  Kingdom of Spain and the Portuguese Republic, shall abolish customs
+  duties and charges having equivalent effect on imports from the
+  Principality of Andorra.
+
+  (b) From 1 January 1991 the Kingdom of Spain and the Portuguese
+  Republic shall apply the same customs
+
+  duties in respect of the Principality of Andorra as they apply in
+  respect of the Community as constituted on 31 December 1985.
+
+  (c) In the case of processed agricultural products covered by Chapters
+  25 to 97 of the Harmonized System and referred to in Regulation (EEC)
+  N° 3033/80, subparagraphs (a) and (b) shall apply to customs duties
+  constituting the fixed component of the charge on imports of those
+  products into the Community from the Principality of Andorra, while
+  the variable component provided for in the Regulation shall continue
+  to apply.
+
+  (d) By way of derogation from subparagraphs (a), (b) and (c), imports
+  covered by the provisions relating to tax relief for travellers
+  referred to in Article 13 shall be exempt from customs duties from 1
+  January 1991.</article>
+      <article number="ARTICLE 7" article_identifier="9406">1. For products covered by the customs union, the Principality of
+  Andorra shall adopt, with effect from 1 January 1991:
+
+  - the provisions on import formalities applied by the Community to
+  third countries,
+
+  - the laws, regulations and administrative provisions applicable to
+  customs matters in the Community and necessary for the proper
+  functioning of the customs union.
+
+  The provisions referred to in the first and second indents shall be
+  those currently applicable in the Community.
+
+  2. The provisions referred to in the second indent of paragraph 1
+  shall be determined by the Joint Committee provided for in Article 17.</article>
+      <article number="ARTICLE 8" article_identifier="9407">1. (a) Over a period of five years, and beyond that period if no
+  agreement can be reached in accordance with (b), the Principality of
+  Andorra shall authorize the Community, acting on behalf of and for the
+  Principality of Andorra, to enter goods sent from third countries to
+  the Principality of Andorra for free circulation. Entry into free
+  circulation will be effected by the Community customs offices listed
+  in Annex I.
+
+  (b) At the end of this period, and under Article 20, the Principality
+  of Andorra may exercise right of entry into free circulation for its
+  goods, following agreement by the Contracting Parties.
+
+  2. Where import duties are payable on goods pursuant to paragraph 1,
+  these duties shall be levied on behalf of the Principality of Andorra.
+  The Principality of Andorra shall undertake not to refund these sums
+  directly or indirectly to the parties concerned.
+
+  3. The Joint Committee provided for in Article 17 shall determine:
+
+  (a) possible changes to the list of the Community customs offices
+  competent to clear the goods referred to in paragraph 1 and the
+  procedure for forwarding the said goods to the Principality of Andorra
+  referred to in paragraph 1;
+
+  (b) the arrangements for assigning to the Andorran Exchequer the
+  amounts collected in accordance with paragraph 2, and the percentage
+  to be deducted by the Community to cover administrative costs in
+  accordance with the relevant regulations in force within the
+  Community;
+
+  (c) any other arrangements necessary for the proper implementation of
+  this Article.</article>
+      <article number="ARTICLE 9" article_identifier="9408">Quantitative restrictions on imports and exports and all measures
+  having equivalent effect between the Community and the Principality of
+  Andorra shall be prohibited from 1 January 1991.</article>
+      <article number="ARTICLE 10" article_identifier="9409">1. Should either Contracting Party consider that disparities arising
+  from the other Party's application, in respect of imports from third
+  countries, of customs duties, quantitative restrictions or any
+  measures having equivalent effect, or of any other measure of
+  commercial policy, threaten to deflect trade or to cause economic
+  difficulties
+
+  in its territory, it may bring the matter before the
+
+  Joint Committee, which shall, if necessary, recommend appropriate
+  methods for avoiding any harm liable to result therefrom.
+
+  2. Where deflections occur or economic difficulties arise and the
+  Party concerned considers that they call for immediate action, that
+  Party may itself take the necessary surveillance or protection
+  measures, notifying the Joint Committee without delay; the Joint
+  Committee may recommend that the said measures be amended or
+  abolished.
+
+  3. In the choice of such measures, preference shall be given to those
+  which least disturb the operation of the customs union and, in
+  particular, the normal development of trade.</article>
+    </chapter>
+    <chapter number="TITLE II" name="Arrangements For Products Not Covered By The Customs Union" chapter_identifier="1152">
+      <article number="ARTICLE 11" article_identifier="9410">1. Products covered by Chapters 1 to 24 of the Harmonized System which
+  originate in the Principality of Andorra shall be exempt from import
+  duties when imported into the Community.
+
+  2. Rules of origin and methods of administrative cooperation are set
+  out in the Appendix.</article>
+      <article number="ARTICLE 12" article_identifier="9411">1. The arrangements applied to goods from third countries imported
+  into the Principality of Andorra shall not be more favourable than
+  those applied to imports of Community goods.
+
+  2. Products covered by headings N° 24.02 and 24.03
+
+  of the Harmonized System which are manufactured in
+
+  the Community from raw tobacco and which meet the conditions of
+  Article 3 (1) shall be eligible, when imported into the Principality
+  of Andorra, for a preferential rate corresponding to 60 % of the rate
+  applied in the Principality of Andorra for the same products vis-à-vis
+  third countries.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Common Provisions" chapter_identifier="1153">
+      <article number="ARTICLE 13" article_identifier="9412">1. Exemptions from import duties, turnover tax and excise duties
+  levied on imports by travellers between the Contracting Parties and
+  applicable to goods contained in the personal luggage of travellers
+  coming from one of the Contracting Parties shall be those currently
+  applicable in the Community in respect of third countries, provided
+  imports of those goods are strictly non-commercial.
+
+  2. With regard to the products covered by Title II of this Agreement
+  and listed below, the exemptions referred to in paragraph 1 shall be
+  granted within the following quantitative limits for each traveller
+  entering the Community from the Principality of Andorra:
+
+  - milk powder2,5 Kilograms.
+
+  - condensed milk3,0 Kilograms.
+
+  - fresh milk6,0 Kilograms.
+
+  - butter1,0 Kilograms.
+
+  - cheese4,0 Kilograms.
+
+  - sugar and confectionery5,0 Kilograms.
+
+  - meat5,0 Kilograms.
+
+  3. By way of derogation from the provisions of
+
+  paragraph 1 and provided that the goods have been acquired under the
+  domestic market conditions of one of the Contracting Parties and meet
+  the above conditions:
+
+  - the total value of the exemptions applicable to goods covered by
+  Title I shall be set per person at three times the value of the
+  exemption granted by the Community to travellers from third countries,
+
+  - the following quantitative limits shall apply to the goods listed
+  below:
+
+  - (a) (a) Tobacco products
+
+  cigarettes
+
+  300 items
+
+  or
+
+  cigarillos
+
+  150 items
+
+  (cigars weighing no more than 3 g each)
+
+  or
+
+  cigars
+
+  75 items
+
+  or
+
+  smoking tobacco
+
+  400 grams
+
+  (b) Alcohol and alcoholic beverages
+
+  - distilled beverages and spirituous
+
+  beverages having an alcoholic strength by volume of more than 22 %
+  vol; undenatured ethyl alcohol of 80 % vol or more,
+
+  1,5 litres total
+
+  or
+
+  - spirituous distilled beverages, aperitifs based on wine or alcohol,
+  taffia, sake or similar beverages with an alcoholic strength by volume
+  not exeeding 22 % vol, sparkling wine, dessert wine
+
+  3 litres total
+
+  and
+
+  - still wine
+
+  5 litres total
+
+  (c) Perfume
+
+  75 gram
+
+  and
+
+  toilet water
+
+  ³/8 litres
+
+  (d) Coffee
+
+  1 000 grams
+
+  or
+
+  extracts and essences of coffee
+
+  400 grams
+
+  (e) Tea
+
+  200 grams
+
+  or
+
+  extracts and essences of tea
+
+  80 gram
+
+  4. Within the quantitative limits laid down in the second indent of
+  paragraph 3, the value of the goods listed therein shall not be taken
+  into consideration for determining the exemptions referred to in
+  paragraph 1.</article>
+      <article number="ARTICLE 14" article_identifier="9413">The Contracting Parties shall refrain from any domestic
+
+  tax measure or practice leading directly or indirectly to
+  discrimination between the products of one Contracting Party and
+  similar products from the other Contracting Party.
+
+  Products sent to the territory of one of the Contracting Parties shall
+  not be eligible for a refund of domestic charges which is higher than
+  the charges which have been levied directly or indirectly.</article>
+      <article number="ARTICLE 15" article_identifier="9414">1. In addition to the cooperation provided for in Articles 11 (2) and
+  17 (8), the administrative authorities of the Contracting Parties
+  responsibile for implementing the provisions of this Agreement shall
+  assist each other in other cases so as to ensure compliance with the
+  provisions.
+
+  2. Arrangements for the application of paragraph 1 shall be determined
+  by the Joint Committee referred to in Article 17.</article>
+      <article number="ARTICLE 16" article_identifier="9415">The Agreement shall not preclude prohibitions or restrictions on
+  imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security, the protection of health
+  and life of humans, animals or plants, the protection of national
+  treasures possessing artistic, historic or archaeological value, the
+  protection of industrial or commercial property or controls relating
+  to gold and silver. Such prohibitions or restrictions shall not,
+  however, constitute a means of arbitrary discrimination or a disguised
+  restriction on trade between the Contracting Parties.</article>
+      <article number="ARTICLE 17" article_identifier="9416">1. A Joint Committee shall be set up with responsibility for
+  administering this Agreement and ensuring that it is properly
+  implemented. To that end, it shall formulate recommendations. It shall
+  take decisions in the cases provided for in the Agreement. The
+  decisions shall be executed by the Contracting Parties in accordance
+  with their own regulations.
+
+  2. Which a view to the proper performance of this Agreement, the
+  Contracting Parties shall carry out exchanges of information and, at
+  the request of either party, shall consult together in the Joint
+  Committee.
+
+  3. The Joint Committee shall draw up its own rules of procedure.
+
+  4. The Joint Committee shall be composed, on the one hand, of
+  representatives of the Community and, on the other, of representatives
+  of the Principality of Andorra.
+
+  5. The Joint Committee shall take decisions by common accord.
+
+  6. The Joint Committee shall be chaired by each of the Contracting
+  Parties in turn in accordance with the arrangements to be laid down in
+  its rules of procedure.
+
+  7. The Joint Committee shall meet at the request of either of the
+  Contracting Parties, to be lodged at least one month before the date
+  of the intended meeting. Where the Joint
+
+  Committee is convened under Article 10, it shall meet within eight
+  working days from the date on which the request is lodged.
+
+  8. In accordance with the procedure laid down in paragraph 1, the
+  Joint Committee shall determine methods of administrative cooperation
+  for the purposes of applying Articles 3 and 4, taking as a basis the
+  methods adopted by the Community in respect of trade between the
+  Member States; it may also amend provisions in the Appendix, referred
+  to in Article 11.</article>
+      <article number="ARTICLE 18" article_identifier="9417">1. Any disputes arising between the Contracting Parties over the
+  interpretation of the Agreement shall be put before the Joint
+  Committee.
+
+  2. If the Joint Committee does not succeed in settling the dispute at
+  its next meeting, each Party may notify the other of the designation
+  of an arbitrator; the other Party shall then be required to designate
+  a second arbitrator within two months.
+
+  The Joint Committee shall designate a third arbitrator.
+
+  The arbitrator's decisions shall be taken by a majority vote.
+
+  Each Party involved in the dispute shall be required to take the
+  measures needed to ensure the application of the arbitrator's
+  decision.</article>
+      <article number="ARTICLE 19" article_identifier="9418">In trade covered by this Agreement:
+
+  - the arrangements applied by the Principality of Andorra vis-à-vis
+  the Community may not give rise to any discrimination between the
+  Member States, their nationals or their companies,
+
+  - the arrangements applied by the Community vis-à-vis the Principality
+  of Andorra may not give rise to any discrimination between Andorran
+  nationals or companies.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="General And Final Provisions" chapter_identifier="1154">
+      <article number="ARTICLE 20" article_identifier="9419">This Agreement is concluded for an unlimited duration. Within five
+  years of its entry into force, the two Parties shall begin
+  consultations to examine the results of its application and, if
+  necessary, to open negotiations on its amendment in the light of that
+  examination.</article>
+      <article number="ARTICLE 21" article_identifier="9420">Either Contracting Party may denounce this Agreement by notifying the
+  other Contracting Party in writing. In that case, the Agreement shall
+  cease to have effect six months after the date of such notification.</article>
+      <article number="ARTICLE 22" article_identifier="9421">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Economic Community is
+  applied and under the conditions laid down in that Treaty and, on the
+  other, to the territory of the Principality of Andorra.</article>
+      <article number="ARTICLE 23" article_identifier="9422">Annexes I and II and the Appendix to this Agreement shall form an
+  integral part thereof.</article>
+      <article number="ARTICLE 24" article_identifier="9423">1. This Agreement shall enter into force on 1 July 1990, on condition
+  that the Contracting Parties have notified each other before that date
+  of the completion of the procedures necessary to that effect.
+
+  2. After the date provided for in paragraph 1, this Agreement shall
+  enter into force on the first day of the second month following
+  notification.
+
+  3. If paragraph 2 applies, the date 1 January 1991 contained in
+  various provisions of this Agreement shall be replaced by the date 1
+  July 1991.</article>
+      <article number="ARTICLE 25" article_identifier="9424">The provisions of this Agreement shall replace those applied by the
+  Community, and in particular by France and Spain, prior to the
+  Agreement's entry into force, under the 1967 Exchange of Letters with
+  the Principality of Andorra.</article>
+      <article number="ARTICLE 26" article_identifier="9425">This Agreement is drawn up in two originals in the Danish, Dutch,
+  English, French, German, Greek, Italian, Portuguese, Spanish and
+  Catalan languages, each text being equally authentic.</article>
+    </chapter>
+  </body>
+</treaty>

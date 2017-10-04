@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>Caribbean Community and Common Market (CARICOM)</name>
+    <type>Customs Union &amp; Economic Integration Agreement</type>
+    <wto_rta_id>141</wto_rta_id>
+    <treaty_identifier>128</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV &amp; GATS Art. V</notification>
+    <date_signed>1973-07-04</date_signed>
+    <date_into_force>1973-08-01</date_into_force>
+    <date_notification>1974-10-14</date_notification>
+    <end_implementation>1985-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">ATG</partyisocode>
+      <partyisocode n="2">BLZ</partyisocode>
+      <partyisocode n="3">BRB</partyisocode>
+      <partyisocode n="4">DMA</partyisocode>
+      <partyisocode n="5">GRD</partyisocode>
+      <partyisocode n="6">GUY</partyisocode>
+      <partyisocode n="7">JAM</partyisocode>
+      <partyisocode n="8">KNA</partyisocode>
+      <partyisocode n="9">LCA</partyisocode>
+      <partyisocode n="10">MSR</partyisocode>
+      <partyisocode n="11">TTO</partyisocode>
+      <partyisocode n="12">VCT</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">ATG</partyisocode>
+      <partyisocode n="2">BHS</partyisocode>
+      <partyisocode n="3">BLZ</partyisocode>
+      <partyisocode n="4">BRB</partyisocode>
+      <partyisocode n="5">DMA</partyisocode>
+      <partyisocode n="6">GRD</partyisocode>
+      <partyisocode n="7">GUY</partyisocode>
+      <partyisocode n="8">HTI</partyisocode>
+      <partyisocode n="9">JAM</partyisocode>
+      <partyisocode n="10">KNA</partyisocode>
+      <partyisocode n="11">LCA</partyisocode>
+      <partyisocode n="12">MSR</partyisocode>
+      <partyisocode n="13">SUR</partyisocode>
+      <partyisocode n="14">TTO</partyisocode>
+      <partyisocode n="15">VCT</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Caribbean; Central America; South America</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.sice.oas.org/Trade/CCME/Chaguaramastreaty_e.pdf</source>
+    <source lang="en" type="annex">http://www.sice.oas.org/CARICOM/instmt_e.asp</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1378">
+      <article article_identifier="11222">PREAMBLE 
+
+The Governments of the contracting States,  
+
+Determined to consolidate and strengthen the bonds which have historically existed among their peoples;  
+
+Sharing a common determination to fulfil the hopes and aspirations of their peoples for full employment and improved standards of work and living;  
+
+Conscious that these objectives can most rapidly be attained by the optimum utilisation of available human and natural resources of the Region; by accelerated, coordinated and sustained economic development, particularly through the exercise of permanent sovereignty over their natural resources; by the efficient operation of common services and functional cooperation in the social, cultural, educational and technological fields; and by a common front in relation to the external world;  
+
+Convinced of the need to elaborate an effective regime by establishing and utilising institutions designed to enhance the economic, social and cultural development of their peoples; 
+
+Have Agreed as Follows:</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Principles" chapter_identifier="1379">
+      <article number="ARTICLE 1" name="Establishment Of The Caribbean Community" article_identifier="11223">By this Treaty the Contracting Parties establish among themselves a Caribbean Community (hereinafter referred to as "the Community") having the membership, powers and functions hereinafter specified.</article>
+      <article number="ARTICLE 2" name="Membership" article_identifier="11224">1. Membership of the Community shall be open to--  
+
+
+(a) 
+
+
+(i) Antigua 
+
+
+(ii) Bahamas  
+(iii) Barbados  
+
+
+(iv) Belize 
+
+
+(v) Dominica  
+
+
+(vi) Grenada  
+(vii) Guyana 
+
+(viii) Jamaica  
+
+
+(ix) Montserrat 
+
+
+(x) St. Kitts-Nevis-Anguilla 
+
+
+(xi) St. Lucia  
+(xii) St. Vincent  
+
+(xiii) Trinidad and Tobago. 
+
+(b) any other State of the Caribbean Region that is in the opinion of the Conference able and willing to exercise the rights and assume the obligations of membership in accordance with Article 29 of this Treaty. 
+
+2. States listed in paragraph (a) of this Article the Governments of which sign this Treaty in accordance with Article 22 and ratify it in accordance with Article 23 shall become Member States of the Community.</article>
+      <article number="ARTICLE 3" name="Definition Of Less Developed Countries And More Developed Countries" article_identifier="11225">For the purposes of this Treaty the States specified in paragraph l (iii), (vii), (viii) and 
+
+(xiii) of Article 2 shall be designated More Developed Countries and the remainder listed in the said Paragraph, other than the Bahamas, shall be designated Less Developed Countries until such time as the Conference otherwise determine by majority decision.</article>
+      <article number="ARTICLE 4" name="Objectives Of The Community" article_identifier="11226">The Community shall have as its objectives--  
+
+
+(a) the economic integration of the Member States by the establishment of a common market regime (hereinafter referred to as "the Common Market") in accordance with the provisions of the Annex to this Treaty with the following aims:--  
+
+
+(i) the strengthening, coordination and regulation of the economic and trade relations among Member States in order to promote their accelerated harmonious and balanced development;  
+
+
+(ii) the sustained expansion and continuing integration of economic activities, the benefits of which shall be equitably shared taking into account the need to provide special opportunities for the Less Developed Countries; 
+(iii) the achievement of a greater measure of economic independence and effectiveness of its Member States in dealing with States; groups of states and entities of whatever description; 
+
+
+(b) the coordination of the foreign policies of Member States; and  
+
+
+(c) functional cooperation, including--  
+
+
+(i) the efficient operation of certain common services and activities for the benefit of its peoples; 
+
+
+(ii) the promotion of greater understanding among its peoples and the advancement of their social, cultural and technological development;  
+(iii) activities in the fields specified in the Schedule and referred to in Article 18 of this Treaty.</article>
+      <article number="ARTICLE 5" name="General Undertaking As To Implementation" article_identifier="11227">Member States shall take all appropriate measures, whether general or particular, to ensure the carrying out of obligations arising out of this Treaty or resulting from decisions taken by the Organs of the Common Market. They shall facilitate the achievement of the objectives of the Common Market. They shall abstain from any measures which could jeopardise the attainment of the objectives this Treaty.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Organs Of The Community" chapter_identifier="1380">
+      <article number="ARTICLE 6" name="Principal Organs" article_identifier="11228">The principal organs of the Community shall be--  
+
+
+(a) the Conference of Heads of Government (hereinafter referred to as "the Conference");  
+
+
+(b) The Common Market Council established under the Annex (hereinafter referred to as "the Council").</article>
+      <article number="ARTICLE 7" name="The Conference Composition" article_identifier="11229">The Conference shall consist of the Heads of Government of Member States.  
+
+Any member of the Conference may, as appropriate, designate an alternate to represent him at any meeting of the Conference.</article>
+      <article number="ARTICLE 8" name="Functions And Powers" article_identifier="11230">1. The primary responsibility of the Conference shall be to determine the policy of the Community. 
+
+
+2. The Conference may establish, and designate as such, institutions of the Community in addition to those specified in paragraphs (a) to (g) of Article 10 of this Treaty, as it deems fit for the achievement of the objectives of the Community.  
+
+
+3. The Conference may issue directions of a general or special character as to the policy to be pursued by the Council and the Institutions of the Community for the achievement of the objectives of the Community, and effect shall be given to any such directions.  
+
+
+4. Subject to the relevant provisions of this Treaty, the Conference shall be the final authority for the conclusion of treaties on behalf of the Community and for entering into relationships between the Community and International Organisations and States.  
+
+
+5. The Conference shall take decisions for the purpose of establishing the financial arrangements necessary for meeting the expenses of the Community and shall be the final authority on questions arising in relation to the financial affairs of the Community.  
+
+
+6. The Conference may regulate its own procedure and may decide to admit at its deliberations observers, representatives of non-Member States or other entities.  
+
+
+7. The Conference may consult with entities and other organisations within the region and for this purpose may establish such machinery as it deems necessary.</article>
+      <article number="ARTICLE 9" name="Voting In The Conference" article_identifier="11231">1. Each member of the Conference shall have one vote.  
+
+
+2. The Conference shall make decisions and recommendations by the affirmative vote of all its members.  
+
+
+3. A decision shall be binding upon each Member State to which it is directed. A recommendation shall have no binding force. Where, however, a Member State fails to observe a recommendation of the Conference, it shall submit a report to the Conference as early as practicable and in any event not later than six months thereafter, giving reasons for its non-compliance.  
+
+
+4. For the purposes of this Article, abstentions shall not be construed as impairing the validity of decisions or recommendation of the Conference provided that not less than three-quarters of its members including at least two of the More Developed Countries vote in favour of any decision or recommendation.</article>
+      <article number="ARTICLE 10" name="Institutions Of The Community" article_identifier="11232">Institutions of the Community shall be--
+
+
+(a) the Conference of Ministers responsible for Health  
+
+
+(b) the Standing Committee of Ministers responsible for Education  
+
+
+(c) the Standing Committee of Ministers responsible for Labour  
+
+
+(d) the Standing Committee of Ministers responsible for Foreign Affairs  
+
+
+(e) the Standing Committee of Ministers responsible for Finance  
+
+
+(f) the Standing Committee of Ministers responsible for Agriculture  
+
+
+(g) the Standing Committee of Ministers responsible for Mines  
+
+
+(h) any other institution that may be established and designated as such by the Conference in accordance with Article 18.</article>
+      <article number="ARTICLE 11" name="Composition Of Institutions Of The Community" article_identifier="11233">1. Each Institution of the Community as set out in paragraphs (a) to (h) of Article 10 of this Treaty shall consist of representatives of Member States. Each Member State shall designate a Minister of Government as its representative on each such institution.  
+
+
+2. Where the Minister designated under paragraph l of this Article is unable to attend a meeting of the institution the Member State may designate any other person as an alternate to attend such meeting in his stead.  
+
+
+3. Where the Conference establishes any other institutions in the exercise of the power conferred on it by paragraph 2 of Article 8 of this Treaty, the composition of such institution shall be determined by the Conference.</article>
+      <article number="ARTICLE 12" name="Functions And Powers" article_identifier="11234">1. Subject to the relevant provisions of Article 8 of this Treaty, the institutions of the Community shall formulate such policies and perform such functions as are necessary for the achievement of the objectives of the Community within their respective spheres of competence.  
+
+
+2. The institutions of the Community may regulate their own procedure and--  
+
+(a) may establish such subsidiary committees, agencies and other bodies as they consider necessary for the efficient performance of their functions; and  
+
+
+(b) may decide to admit at their deliberations observers, representatives of non-Member States or other entities.</article>
+      <article number="ARTICLE 13" name="Voting In Institutions" article_identifier="11235">1. Each Member State represented on an Institution shall have one vote.  
+
+
+2. Unless otherwise provided for, decisions of an Institution shall be made by an affirmative vote of all its members. For the purposes of this paragraph, abstentions shall not be construed as impairing the validity of decisions of an Institution provided that not less than three-quarters of its members including at least two of the More Developed Countries vote in favour of such decisions. 
+
+
+3. Recommendation shall be made by a two-thirds majority vote of all its members including at least two of the More Developed Countries and shall have no binding force. Where a Member State fails to observe a recommendation of an Institution in whole or in part, it shall submit a report to the Institution making the recommendation as early as practicable and in any event not later than six months after receiving notice of such recommendation giving reasons for its non-compliance.  
+
+
+4. Observers at meetings of Institutions shall not have the right to vote.</article>
+      <article number="ARTICLE 14" name="Associates Institutions" article_identifier="11236">1. The following institutions shall be recognised as Associate Institutions of the Community--
+
+
+(a) the Caribbean Development Bank;  
+
+
+(b) the Caribbean Investment Corporation;  
+
+
+(c) the West Indies Associated States Council of Ministers;  
+
+
+(d) the East Caribbean Common Market Council of Ministers;  
+
+
+(e) the Caribbean Examinations Council  
+
+
+(f) the Council of Legal Education; 
+
+
+(g) the University of Guyana; 
+
+
+(h) the University of the West Indies;  
+
+
+(I) the Caribbean Meteorological Council;  
+
+
+(j) the Regional Shipping Council;  
+
+
+(k) any other institution designated as such by the Conference. 
+2. The Community shall seek to establish such relationships with its Associate Institutions as will promote the achievement of its objectives.</article>
+      <article number="ARTICLE 15" name="The Community Secretariat" article_identifier="11237">1. The Commonwealth Caribbean Regional Secretariat shall be recognised as the Community Secretariat. The Community Secretariat (hereinafter referred to as "the Secretariat") shall be the principal administrative organ of the Community. The headquarters of the Secretariat shall be located in Georgetown, Guyana.  
+
+
+2. The Secretariat shall comprise a Secretary-General and such staff as the Community may require. The Secretary-General shall be appointed by the Conference (on the recommendation of the Council) for a term not exceeding 5 years and may be reappointed by the Conference. He shall be the chief administrative officer of the Community. 
+
+
+3. The Secretary-General shall act in that capacity in all meetings of the Conference, the Council and of the institutions of the Community. Then Secretary-General shall make an annual report to the Conference on the work of the Community.  
+
+
+4. In the performance of their duties the Secretary-General and his staff shall neither seek nor receive instructions from any government whether of Member States or otherwise or from any other authority. They shall refrain from any action which might reflect on their position as officials of the Community, and shall be responsible only to the Community.  
+
+
+5. Each Member State undertakes to respect the exclusively international character of the responsibilities of the Secretary-General and his staff and shall not seek to influence them in the discharge of their responsibilities. 
+
+
+6. The Conference shall approve the staff Regulations governing the operation of the Secretariat. 
+
+
+7. The Secretary-General shall approve Staff Rules far the operation of the Secretariat.</article>
+      <article number="ARTICLE 16" name="Functions Of The Secretariat" article_identifier="11238">1. The functions of the Secretariat shall be as follows:--  
+
+
+(a) to service meetings of the Community and any of its Institutions or Committees as may from time to time be determined by the Conference;  
+
+
+(b) to take appropriate follow-up action on decisions made at such meetings;  
+
+
+(c) to initiate, arrange and carry out studies on questions of economic and functional cooperation relating to the region as a whole;  
+
+
+(d) to provide services to Member States at their request in respect of matters relating to 
+
+the achievement of the objectives of the Community;  
+
+(e) to undertake any other duties which may be assigned to it by the Conference or any of the Institutions of the Community.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Coordination And Functional Cooperation" chapter_identifier="1381">
+      <article number="ARTICLE 17" name="Coordination Of Foreign Polices" article_identifier="11239">1. To the end that Member States aim at the fullest possible coordination of their foreign policies within their respective competences and seek to adopt as far as possible common positions in major international issues, there is hereby established a Standing Committee of Ministers responsible for Foreign Affairs.  
+
+
+2. The Committee shall have the power to make recommendations to the Governments of Member States represented on the Committee.  
+
+
+3. Only member States possessing the necessary competence with respect to the matters under consideration from time to time may take part in the deliberations of the Committee.  
+
+
+4. Where after the coming into force of the Treaty Member State achieves full sovereign status such State shall elect whether it wishes to be bound by the provisions of this Article.  
+
+
+5. The recommendations of the Committee shall be made by an affirmative vote of all the Member States competent and participating in the deliberations.  
+
+
+6. The provisions of Article 13 shall not apply to this Article.</article>
+      <article number="ARTICLE 18" name="Functional Cooperation" article_identifier="11240">Without prejudice to the requirements of any other provision of this Treaty, Member States, in furtherance of the objectives set out in Article 4 of this Treaty, undertake to make every effect to cooperate in the areas set out in the Schedule to this Treaty.</article>
+      <article number="ARTICLE 19" name="Settlement Of Disputes" article_identifier="11241">Any dispute concerning the interpretation or application of this Treaty, unless otherwise provided for and particularly in Articles 11 and 12 of the Annex, shall be determined by the Conference.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="General And Final Provisions" chapter_identifier="1382">
+      <article number="ARTICLE 20" name="Legal Capacity" article_identifier="11242">1. The Community shall have full juridical personality. 
+
+
+2. Each Member State shall in its territory accord to the Community the most extensive legal capacity accorded to legal persons under its municipal laws including the capacity to acquire and transfer moveable and immovable property and to sue and be sued in its own name. In any legal proceedings the Community shall be represented by the Secretary General of the Secretariat. 
+
+
+3. The Community may enter into agreement with Member States, non-Member States and International Organisations. 
+
+
+4. Each Member State hereby agrees to take such action as is necessary to make effective in its territory the provisions of this Article and shall promptly inform the Secretariat of such action.</article>
+      <article number="ARTICLE 21" name="Privileges And Immunities" article_identifier="11243">1. The privileges and immunities to be recognised and granted by the Member States in connection with the Community shall be laid down in a Protocol to this Treaty.  
+
+
+2. The Community shall conclude with the Government of the Member States in which the headquarters of the Secretariat is situated an agreement relating to the privileges and immunities to be recognized and granted in connection with the Secretariat.</article>
+      <article number="ARTICLE 22" name="Signature" article_identifier="11244">This Treaty shall be open for signature on the 4th July, 1973 by any State mentioned in paragraph l (a) of Article 2 of this Treaty.</article>
+      <article number="ARTICLE 23" name="Ratification" article_identifier="11245">This Treaty and any amendments thereto shall be subject to ratification by the Contracting States in accordance with their respective constitutional procedures. Instruments of ratification shall be deposited with the Secretariat which shall transmit certified copies to the Government of each Member State.</article>
+      <article number="ARTICLE 24" name="Entry Into Force" article_identifier="11246">This Treaty shall enter into force on the 1st August 1973; if instruments of ratification have been previously deposited in accordance with Article 23 of this treaty by the States mentioned in Article 2 paragraph l (a) (iii), (vii), (viii) and (xiii), and if not, then on such later date on which the fourth such instrument has been so deposited.</article>
+      <article number="ARTICLE 25" name="Registration" article_identifier="11247">This Treaty and any amendments thereto shall be registered with the Secretariat of the United Nations.</article>
+      <article number="ARTICLE 26" name="Amendments" article_identifier="11248">1. Save as otherwise provided for in Article 66 of the Annex, upon a decision of the Conference for this purpose, this Treaty may be amended by the Contracting Parties. 
+
+
+2. Any such amendment shall enter into force one month after the date on which the last of the instruments of Ratification is deposited.  
+
+
+3. Notwithstanding paragraph I hereof no amendments may be made to the Treaty prior to May 1. 1974.</article>
+      <article number="ARTICLE 27" name="Withdrawal" article_identifier="11249">1. A Member State may withdraw from the Community by giving notice in writing to the Secretariat and the Secretariat shall promptly notify the other Member States.  Such withdrawal shall take effect 12 months after the notice is received by the Secretariat.  
+
+
+2. A Member State so withdrawing undertakes to honour any financial obligations duly assumed during its membership of the Community.</article>
+      <article number="ARTICLE 28" name="Negotiation And Conclusion Of Agreements" article_identifier="11250">1. For the purpose of negotiating agreements, the Conference may designate any institution of the Community to carry out negotiations.  
+
+
+2. Unless otherwise determined by the Conference in any particular case, the conclusion of agreements by the Community shall be undertaken by the Conference.</article>
+      <article number="ARTICLE 29" name="Accession To The Treaty" article_identifier="11251">1. Any State or Territory of the Caribbean Region may apply to the Conference to become a member of the Community and may, if the Conference so decides, be admitted to membership in accordance with paragraph 2 of this Article. 
+
+
+2. Admission to membership shall be upon such terms and conditions as the Conference may decide and shall take effect from the date on which an appropriate instrument of accession is deposited with the Secretariat.</article>
+      <article number="ARTICLE 30" name="Associate Membership" article_identifier="11252">1. Any State which in the opinion of the Heads of Government Conference is qualified for membership of the Community in accordance with paragraph l(b) of Article 2 of this Treaty may, upon application to the Conference for associate membership of the Community, be admitted as an associate member of the Community in accordance with paragraph 2 of this Article. 
+
+
+2. On an application made under paragraph I of this Article the Conference shall determine the conditions under which the applicant State may be associated with the Community.</article>
+      <article number="ARTICLE 31" name="Saving" article_identifier="11253">1. Member States that are not also members of the Common Market shall not be entitled to participate in the decisions taken under the Treaty relating to the Common Market.  
+
+
+2. Decisions taken under this Treaty requiring such action shall be subject to the relevant constitutional procedures of the respective Member States. 
+
+
+3. Where necessary, Member States undertake to take steps as expeditiously as possible to give full effect in law to all decisions of the organs and institutions of the Community which are binding on them. 
+
+
+4. Member States shall not participate in decisions with respect to the subject of which they do not possess the necessary competence.</article>
+      <article number="ARTICLE 32" name="Status Of The Annex And Schedule" article_identifier="11254">The Annex and Schedule to this Treaty shall form an integral part of this Treaty.</article>
+      <article number="ARTICLE 33" name="General Provisions Of The Common Market" article_identifier="11255">The provisions of the Annex shall govern the establishment, membership and operation of the Common Market.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1383">
+      <article article_identifier="11256">IN WITNESS WHEREOF, the undersigned Plenipotentiaries, being duly authorised thereto by their respective Governments, have affixed their signatures below this Treaty.  
+
+Done at Chaguaramas on the fourth day of July in the year one thousand nine hundred and seventy-three. 
+
+Signed by ERROL W. BARROW for the Government of Barbados on 4TH JULY 1973. 
+
+Signed by L.F.S. BURNHAM for the Government of Guyana on 4TH JULY 1973. 
+
+Signed by MICHAEL MANLEY for the Government of Jamaica on 4TH JULY 1973. 
+
+Signed by ERIC WILLIAMS for the Government of Trinidad and Tobago on 4TH JULY, 1973. 
+
+ANNEX TO THE TREATY 
+
+THE CARIBBEAN COMMON MARKET 
+
+CONTENTS 
+
+PREAMBLE 
+
+
+PRINCIPLES 
+
+ARTICLE 
+
+
+1. Establishment of the Caribbean Common Market 
+
+
+2. Membership</article>
+    </chapter>
+  </body>
+</treaty>

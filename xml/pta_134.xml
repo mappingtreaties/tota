@@ -1,0 +1,2391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU – Overseas Countries and Territories (OCT)</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>148</wto_rta_id>
+    <treaty_identifier>134</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1970-09-29</date_signed>
+    <date_into_force>1971-01-01</date_into_force>
+    <date_notification>1970-12-14</date_notification>
+    <end_implementation>1971-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">ANT</partyisocode>
+      <partyisocode n="2">ATF</partyisocode>
+      <partyisocode n="3">BEL</partyisocode>
+      <partyisocode n="4">DEU</partyisocode>
+      <partyisocode n="5">FRA</partyisocode>
+      <partyisocode n="6">ITA</partyisocode>
+      <partyisocode n="7">LUX</partyisocode>
+      <partyisocode n="8">NCL</partyisocode>
+      <partyisocode n="9">NLD</partyisocode>
+      <partyisocode n="10">PYF</partyisocode>
+      <partyisocode n="11">SPM</partyisocode>
+      <partyisocode n="12">WLF</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AIA</partyisocode>
+      <partyisocode n="2">ANT</partyisocode>
+      <partyisocode n="3">ATF</partyisocode>
+      <partyisocode n="4">AUT</partyisocode>
+      <partyisocode n="5">BEL</partyisocode>
+      <partyisocode n="6">BGR</partyisocode>
+      <partyisocode n="7">CYM</partyisocode>
+      <partyisocode n="8">CYP</partyisocode>
+      <partyisocode n="9">CZE</partyisocode>
+      <partyisocode n="10">DEU</partyisocode>
+      <partyisocode n="11">DNK</partyisocode>
+      <partyisocode n="12">ESP</partyisocode>
+      <partyisocode n="13">EST</partyisocode>
+      <partyisocode n="14">FIN</partyisocode>
+      <partyisocode n="15">FLK</partyisocode>
+      <partyisocode n="16">FRA</partyisocode>
+      <partyisocode n="17">GBR</partyisocode>
+      <partyisocode n="18">GRC</partyisocode>
+      <partyisocode n="19">GRL</partyisocode>
+      <partyisocode n="20">HRV</partyisocode>
+      <partyisocode n="21">HUN</partyisocode>
+      <partyisocode n="22">IOT</partyisocode>
+      <partyisocode n="23">IRL</partyisocode>
+      <partyisocode n="24">ITA</partyisocode>
+      <partyisocode n="25">LTU</partyisocode>
+      <partyisocode n="26">LUX</partyisocode>
+      <partyisocode n="27">LVA</partyisocode>
+      <partyisocode n="28">MLT</partyisocode>
+      <partyisocode n="29">MSR</partyisocode>
+      <partyisocode n="30">MYT</partyisocode>
+      <partyisocode n="31">NCL</partyisocode>
+      <partyisocode n="32">NLD</partyisocode>
+      <partyisocode n="33">PCN</partyisocode>
+      <partyisocode n="34">POL</partyisocode>
+      <partyisocode n="35">PRT</partyisocode>
+      <partyisocode n="36">PYF</partyisocode>
+      <partyisocode n="37">ROU</partyisocode>
+      <partyisocode n="38">SGS</partyisocode>
+      <partyisocode n="39">SHN</partyisocode>
+      <partyisocode n="40">SPM</partyisocode>
+      <partyisocode n="41">SVK</partyisocode>
+      <partyisocode n="42">SVN</partyisocode>
+      <partyisocode n="43">SWE</partyisocode>
+      <partyisocode n="44">TCA</partyisocode>
+      <partyisocode n="45">VGB</partyisocode>
+      <partyisocode n="46">WLF</partyisocode>
+    </parties>
+    <composition>Plurilateral; One Party is an RTA</composition>
+    <region>Caribbean; Europe; Africa; South America; Oceania; North America</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391564401&amp;uri=CELEX:32001D0822</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32001D0822&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32001D0822&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391564401&amp;uri=CELEX:32001D0822</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391564401&amp;uri=CELEX:32001D0822</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399391564401&amp;uri=CELEX:32001D0822</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1404">
+      <article article_identifier="11432">Council Decision
+
+  of 27 November 2001
+
+  on the association of the overseas countries and territories with the
+  European Community
+
+  ("Overseas Association Decision")
+
+  (2001/822/EC)
+
+  THE COUNCIL OF THE EUROPEAN UNION,
+
+  Having regard to the Treaty establishing the European Community,
+  hereinafter referred to as the Treaty, and in particular Article 187
+  thereof,
+
+  Having regard to the proposal from the Commission,
+
+  Whereas:
+
+  (1) Council Decision 91/482/EEC of 25 July 1991 on the association of
+  the overseas countries and territories with the European Economic
+  Community(1), was applicable until 1 December 2001. Article 240(4)
+  thereof states that the Council, acting unanimously on a proposal from
+  the Commission, shall establish the provisions to be laid down for the
+  subsequent application of the principles set out in Articles 182 to
+  186 of the Treaty.
+
+  (2) Declaration No 36 on the overseas countries and territories,
+  hereinafter referred to as the "OCTs", annexed to the final
+  act of the Conference of the Representatives of the Governments of the
+  Member States signed in Amsterdam in 1997, invites the Council, acting
+  in accordance with Article 187 of the Treaty, to review the
+  association arrangements with the OCTs with a fourfold objective as
+  follows:
+
+  - promoting the economic and social development of the OCTs more
+  effectively;
+
+  - developing economic relations between the OCTs and the European
+  Union;
+
+  - taking greater account of the diversity and specific characteristics
+  of the individual OCTs, including aspects relating to freedom of
+  establishment;
+
+  - and ensuring that the effectiveness of the financial instrument is
+  improved.
+
+  (3) On 11 February 1999 the European Parliament adopted a resolution
+  on relations between the OCTs, the ACP States and the outermost
+  regions of the European Union(2). Furthermore, on 4 October 2001, it
+  adopted a resolution on the proposal from the Commission for a Council
+  Decision on the association of the OCTs with the European
+  Community(3).
+
+  (4) In its communication of 20 May 1999 entitled "the Status of
+  OCTs associated with the EC and options for 'OCT 2000'", the
+  Commission examined the features and the development of the OCT-EC
+  association since 1957, noted the basic principles and the current
+  situation of the association and sketched out alternative policies for
+  it for the period beginning 1 March 2000.
+
+  (5) In accordance with Article 10 of Decision 91/482/EEC, the
+  competent OCT authorities informed the Commission of the amendments or
+  additions they desired in future, notably at a meeting held in the
+  context of the partnership on 29 and 30 April 1999, attended by the
+  Commission, the four Member States to which the OCTs are linked and
+  the 20 OCTs concerned.
+
+  (6) Though not third countries, the OCTs do not form part of the
+  single market and must comply with the obligations imposed on third
+  countries in respect of trade, notably rules of origin, health and
+  plant health standards and safeguard measures.
+
+  (7) As a general rule, when the Council adopts measures under Article
+  187 of the Treaty, it must take account both of the principles laid
+  down in Part Four of the Treaty and of the other principles of
+  Community law. It should also take account of experience acquired in
+  the implementation of the trade arrangements of Decision 91/482/EEC.
+
+  (8) These arrangements provide for duty-free access for products
+  originating in the OCTs and rules of origin allowing cumulation with
+  products originating in the ACP States, which are subject to different
+  arrangements, or in the Community. This causes or threatens to cause
+  serious disruption to the functioning of certain common market
+  organisations under the common agricultural policy, in particular
+  those for rice and sugar. Such disruption has on a number of occasions
+  led the Commission and the Council to adopt safeguard measures.
+
+  (9) By limiting the scope for use of cumulation of origin, the changes
+  made in relation to rice at the mid-term review of the Decision(4)
+  have helped maintain access for OCT products to the Community market
+  on terms conducive to its balance. This access should be improved in
+  respect of the least developed OCTs, but without modifying the overall
+  quantity benefiting from cumulation. Given that only two other OCTs
+  have ever operated in this sector, the remaining available quantities
+  should be allocated to them, in the interest of transparency.
+
+  (10) However, as regards sugar and sugar mixes, the rise in OCT
+  exports made from sugar of ACP or Community origin to a heavily
+  oversupplied market has resulted in a greater reduction in the quota
+  allowed for Community producers and therefore a greater loss of
+  guaranteed income for them.
+
+  (11) Moreover, in view of the minimal, low value-added operations that
+  currently suffice to obtain the status of a product originating in the
+  OCTs in the sugar sector, the contribution of these exports to the
+  development of the territories can only be small at best and, without
+  a doubt, out of all proportion to the disruption caused to the
+  Community sectors concerned.
+
+  (12) For the above reasons, origin rules should therefore be adopted
+  which exclude the possibility of ACP/EC-OCT cumulation for sugar when
+  only minimal operations are carried out. However, taking into account
+  the investments already made in the OCTs on the basis of the rules in
+  force since 1991, such exclusion should enter into force in a
+  progressive way. Therefore, subject to the adoption of the necessary
+  implementing provisions, cumulation should be temporarily allowed to
+  continue within progressively decreasing quantitative limits which are
+  compatible with the objectives of the Community's common market
+  organisation for sugar whilst taking due account of the legitimate
+  interests of OCT operators.
+
+  (13) Provision should also be made to ensure that agricultural
+  products originating in the Community and which have benefited from an
+  export refund cannot be re-imported duty-free into the Community by
+  means of the cumulation procedure.
+
+  (14) Furthermore, all the OCT rules of origin should be updated, in
+  the interests of the operators and administrations concerned, to take
+  account of technical progress and the policy adopted by the Community
+  of origin-rule harmonisation. Likewise, the procedure should be
+  simplified to enable the necessary technical amendments to the rules
+  to be made more easily in future.
+
+  (15) The procedure for the transhipment of goods not originating in
+  the OCTs but in free circulation there should be completed and
+  clarified, with a view to ensuring a transparent and reliable legal
+  framework for operators and administrations. It should also be
+  extended to cover certain fishery products of particular importance
+  for Greenland and Saint-Pierre-et-Miquelon, subject to the adoption of
+  the necessary implementing provisions.
+
+  (16) The general provisions of the Treaty and legislation derived
+  thereunder do not automatically apply to the OCTs, barring express
+  provisions to the contrary. OCT products imported into the Community
+  must nevertheless comply with the Community rules in force.
+
+  (17) Financial assistance to the OCTs should be allocated on the basis
+  of uniform, transparent and effective criteria, taking into account
+  the needs and performances of the OCTs. Such criteria should include
+  in particular the economic and physical dimensions of the OCTs, the
+  use made of past allocations, respect for the principles of sound
+  financial management, fair fiscal policy, estimated absorption
+  capacity, the need for establishing a reserve in order to finance
+  non-programmable expenditure and a smooth transition to prevent a
+  sudden considerable setback in allocation for New Caledonia, French
+  Polynesia and the Netherlands Antilles. In the interests of
+  efficiency, simplification and recognition of the management
+  capacities of the OCT authorities, the financial resources granted to
+  the OCTs should be managed more on the basis of partnership by
+  applying procedures based on the rules in force for the structural
+  funds.
+
+  (18) For this purpose, the procedures delegate the main responsibility
+  for programming and implementing cooperation to the OCTs in
+  particular. Cooperation will be conducted predominantly in conformity
+  with OCT territorial regulations and will underpin support for the
+  monitoring, evaluation and audit of the operations programmed. In
+  addition, it is necessary to clarify which Community programmes and
+  budget lines are open to the OCTs, as well as the procedures for a
+  smooth transition from previous EDFs to the 9th one.
+
+  (19) Global changes, reflected in the continuing process of trade
+  liberalisation, broadly implicate the Community, the OCTs' principal
+  trading partner, as well as their ACP neighbours and other economic
+  partners. In the market access equation, the level of tariffs plays an
+  increasingly reduced role while trade in services and trade-related
+  areas assume an ever greater importance in the relationship between
+  the OCTs and their economic partners. That relationship should
+  therefore be fostered, while retaining the broad outline of the
+  current trade arrangements, and the conditions for the gradual
+  integration of those OCTs who so wish into the regional and global
+  economy simplified by helping them to increase their capacity to
+  handle all these new areas.
+
+  (20) The measures necessary for the implementation of this Decision
+  should be adopted in accordance with Council Decision 1999/468/EC of
+  28 June 1999, laying down the procedures for the exercise of
+  implementing powers conferred on the Commission(5). However, so far as
+  the implementation of the 9th EDF is concerned, the voting and the
+  majority should be as laid down in Article 21 of the Internal
+  Agreement between the representatives of the Governments of the Member
+  States, meeting within the Council, on the financing and
+  administration of Community Aid under the Financial Protocol to the
+  Partnership Agreement between the African, Caribbean and Pacific
+  States and the European Community and its Member States signed in
+  Cotonou (Benin) on 23 June 2000 and the allocation of financial
+  assistance for the Overseas Countries and Territories to which Part
+  Four of the Treaty applies(6), hereinafter the "Internal
+  Agreement".
+
+  (21) The OCTs are fragile island environments requiring adequate
+  protection, including in respect of waste management. In respect of
+  radioactive waste, this is provided under Article 198 of the Euratom
+  Treaty and legislation adopted thereunder, except for Greenland, to
+  which the Euratom Treaty does not apply. For other waste, it should be
+  specified which Community rules are to apply in respect of the OCTs.
+
+  (22) The arrangements for association laid down in this Decision
+  should not be applied to Bermuda in accordance with the wishes of the
+  Government of Bermuda.
+
+  (23) The Council should produce an innovative response to all the
+  above mentioned new factors which is both consistent and tailored to
+  the variety of situations. A new status for the association can
+  provide such a response,
+
+  HAS DECIDED AS FOLLOWS:
+
+  GENERAL PROVISIONS OF THE ASSOCIATION OF THE OCTs WITH THE COMMUNITY</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="General Provisions" chapter_identifier="1405">
+      <article number="ARTICLE 1" name="Purpose, Objectives And Principles" article_identifier="11433">1. The association of the OCTs with the Community, hereinafter
+  referred to as the "OCT-EC Association", shall have as its
+  basis the purpose set out in Article 182 of the Treaty, namely to
+  promote the economic and social development of the OCTs and to
+  establish close economic relations between them and the Community as a
+  whole.
+
+  It shall pursue the objectives laid down in Article 183 of the Treaty
+  in accordance with the principles set out in Articles 184 to 188 of
+  the Treaty by focusing on the reduction, prevention and, eventually,
+  eradication of poverty and on sustainable development and gradual
+  integration into the regional and world economies.
+
+  2. The association relates to the OCTs listed in Annex I A.
+
+  3. In accordance with Article 188 of the Treaty, this Decision shall
+  apply to Greenland subject to the specific provisions set out in the
+  Protocol on the special arrangements for Greenland annexed to the
+  Treaty.</article>
+      <article number="ARTICLE 2" name="Basic Elements" article_identifier="11434">1. The OCT-EC association shall be based on the principles of liberty,
+  democracy, respect for human rights and fundamental freedoms and the
+  rule of law. These principles, on which the Union is founded in
+  accordance with Article 6 of the Treaty on European Union, shall be
+  common to the Member States and the OCTs linked to them.
+
+  2. There shall be no discrimination based on sex, racial or ethnic
+  origin, religion or belief, disability, age or sexual orientation in
+  the areas of cooperation referred to in this Decision.</article>
+      <article number="ARTICLE 3" name="The Least-Developed Octs" article_identifier="11435">1. The Community shall accord special treatment to the least-developed
+  OCTs and to those unable to take advantage of the regional cooperation
+  and integration referred to in Article 16.
+
+  2. To respond to such difficulties, development finance cooperation
+  shall comprise, inter alia, special treatment when determining the
+  volume of financial resources and the conditions attached thereto in
+  order to enable the least-developed OCTs to overcome structural and
+  other obstacles to their development. It shall pay special attention
+  to improving the living conditions of the poorest sections of the
+  population in the context of poverty alleviation.
+
+  3. The OCTs considered the least developed for the purposes of this
+  Decision are listed in Annex I B. This list shall be amended by
+  decision of the Council, acting unanimously on a proposal from the
+  Commission, where the economic situation of an OCT undergoes a
+  significant and lasting change, necessitating its inclusion in the
+  category of least-developed OCTs or where its inclusion in that
+  category is no longer warranted.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Actors Of Cooperation In The Octs" chapter_identifier="1406">
+      <article number="ARTICLE 4" name="Principles" article_identifier="11436">1. Within the framework of the partnership laid down in Article 7, the
+  OCT authorities shall assume primary responsibility for the
+  formulation of association and development strategies and their
+  implementation through the preparation, together with the Commission
+  and the Member State to which the OCT is linked, of Single Programming
+  Documents (hereinafter referred to as SPDs) and cooperation
+  programmes.
+
+  2. The Community shall recognise that local public and private actors
+  play a key role in achieving the objectives laid down in Article 183
+  of the Treaty.
+
+  3. In implementing this Decision, the parties shall have as their
+  guiding principles transparency, subsidiarity and the need for
+  efficiency.</article>
+      <article number="ARTICLE 5" name="The Different Actors Involved" article_identifier="11437">1. Actors of cooperation in the OCTs shall include:
+
+  - the OCT authorities;
+
+  - the other regional and local authorities within the OCTs;
+
+  - civil society, social, business and trade union associations, public
+  service providers and local, national or international
+  non-governmental organisations (NGOs).
+
+  The Member States to which the OCTs are linked shall inform the
+  Commission within three months of the entry into force of this
+  Decision of the national, regional or local authorities referred to in
+  the various Articles of the Decision.
+
+  2. The recognition of non-governmental actors shall depend on their
+  capacity to meet the needs of the local population, their expertise
+  and their having democratic and accountable organisation and
+  management.
+
+  3. Non-governmental actors shall be identified by agreement between
+  the OCT authorities, the Commission and the Member State to which the
+  OCT is linked, taking into account the subject concerned, their
+  expertise and field of activity. The process of identification shall
+  be conducted in each OCT as part of the process for the preparation of
+  cooperation programmes referred to in Article 4.</article>
+      <article number="ARTICLE 6" name="Responsibilities Of The Non-Governmental Actors" article_identifier="11438">Non-governmental actors identified pursuant to Article 5(3) may play a
+  role in:
+
+  - information and consultation;
+
+  - the preparation and implementation of cooperation programmes;
+
+  - decentralised cooperation in the context of responsibilities
+  delegated for the purpose of supporting local development initiatives.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Principles And Procedures Of The Oct-Ec Partnership" chapter_identifier="1407">
+      <article number="ARTICLE 7" name="Dialogue And Partnership" article_identifier="11439">1. With the aim of enabling the OCT to take a full part in the
+  implementation of the OCT-EC association, with due regard for the way
+  that the institutions of the Member States concerned are organised,
+  the association shall use a consultation procedure based on the
+  provisions referred to below. It shall deal with any issue arising in
+  relations between the OCTs and the Community.
+
+  2. A broad-based dialogue should enable the Community, all the OCTs
+  and the Member States to which they are linked to consult each other
+  on the principles, detailed procedures and results of the association.
+
+  An OCT-EU forum for dialogue, hereinafter referred to as the "OCT
+  Forum", shall meet annually to bring together OCT authorities,
+  representatives of the Member States and the Commission.
+
+  3. There shall be separate partnerships between the Commission, the
+  Member State to which the OCT is linked and each OCT, represented by
+  its authorities, to enable the objectives and principles of this
+  Decision, in particular those referred to in Articles 4 and 19 to be
+  put into practice. This trilateral consultation shall hereinafter be
+  referred to as the "partnership".
+
+  Partnership working parties, acting in an advisory capacity, shall be
+  set up for each OCT. Their membership shall comprise the
+  abovementioned three partners. These working parties may be convened
+  at the request of the Commission, of a Member State or of an OCT. At
+  the request of one of the partners, several partnership working
+  parties may hold joint meetings to consider subjects of common
+  interest or the regional aspects of the association.
+
+  4. This consultation shall be conducted in full compliance with the
+  respective institutional, legal and financial powers of each of the
+  three partners.
+
+  The Commission shall chair the working parties and the OCT Forum and
+  provide their secretariat.
+
+  A representative of the European Investment Bank, hereinafter referred
+  to as the EIB, shall be present at meetings when matters concerning it
+  are on the agenda.
+
+  5. The opinions of the working parties and the OCT Forum shall, where
+  appropriate, be the subject of Commission decisions, within the limits
+  of its powers, or of proposals from the Commission to the Council with
+  a view to implementation of new elements of the OCT-EC association or
+  its amendment on the basis of Article 187 of the Treaty.</article>
+      <article number="ARTICLE 8" name="Acp-Eu Joint Parliamentary Assembly" article_identifier="11440">The OCT authorities shall be informed of the agenda, resolutions and
+  recommendations of the ACP-EU Joint Parliamentary Assembly.
+
+  Member States and the Commission shall support any request by OCT
+  authorities to participate as observers at the plenary sessions of the
+  ACP-EU Joint Parliamentary Assembly, subject to the Assembly's own
+  rules of procedure.</article>
+      <article number="ARTICLE 9" name="Management" article_identifier="11441">Day-to-day management of this Decision shall be conducted by the
+  Commission and the OCT authorities and, should the need arise, by the
+  Member State to which the OCT is linked, in accordance with the
+  institutional, legal and financial powers of each of the partners,
+  notably as regards development finance cooperation and cooperation in
+  the area of trade and services.</article>
+    </chapter>
+    <chapter number="PART TWO" name="The Areas Of Oct-Ec Cooperation" chapter_identifier="1408">
+      <article number="ARTICLE 10" name="Areas Of Cooperation" article_identifier="11442">The Community shall contribute to cooperation in those areas in the
+  OCTs listed in this Title in accordance with the priorities
+  established in the development strategies for each OCT or, where
+  appropriate, in the form of regional measures.</article>
+      <article number="ARTICLE 11" name="Productive Sectors" article_identifier="11443">Cooperation shall support sectoral policies and strategies that
+  facilitate access to productive activities and resources, in
+  particular:
+
+  (a) Agriculture: agricultural policy and institution building,
+  diversification, irrigation, seed multiplication, crop protection
+  measures, fertiliser production, equipment, agro-processing, livestock
+  and cattle breeding, animal husbandry, extension and research;
+  marketing; storage and transportation; food security; agricultural
+  credit; land settlement and reform, land use and registration policy,
+  technology transfer, irrigation and drainage infrastructure, other
+  support services.
+
+  (b) Forestry: forestry policy and institution building, including use
+  of trees to conserve the environment in erosion and desertification
+  control; afforestation; forest management, including the rational
+  utilisation and management of timber exports; issues relating to
+  tropical rain-forests; research and training.
+
+  (c) Fisheries: fishing policy and institution building, fish stock
+  protection and rational management of fish stocks; fish farming and
+  artisanal fisheries; fishery transport; cold storage and fish
+  marketing and preservation.
+
+  (d) Rural development: rural policy and institution building,
+  integrated rural development projects/programmes; assistance and
+  projects targeted at people, production and marketing in rural areas;
+  rural infrastructure.
+
+  (e) Industry: sectoral policy and institution building; craft
+  industries; agro-industries and other manufacturing sectors, transport
+  equipment industry; technological research and development; quality
+  control; development and expansion of SMEs and micro-enterprises.
+
+  (f) Mining: sectoral policy and institution building, technological
+  research and development; small-scale mining, etc.
+
+  (g) Energy: energy policy and institution building; power generation
+  (non-renewable and renewable); efficient use of energy resources;
+  energy research and training; encouraging private sector involvement
+  in power generation and distribution.
+
+  (h) Transport: transport policy and institution building; transport by
+  road, rail, air, sea or inland waterway and storage facilities.
+
+  (i) Communication: communication policy and institution building;
+  telecommunications and media.
+
+  (j) Water: water policy and institution building; protecting water
+  resources, waste management, water supplies in rural and urban areas
+  for domestic, industrial or agricultural purposes; storage,
+  distribution and management of water resources.
+
+  (k) Banking, finance and business services: financial sector policy
+  and institution building, business services; privatisation, equity
+  participation and marketing; support to trade, commerce and business
+  associations (including export promotion agencies); financial and
+  banking institutions.
+
+  (l) Technology development and application, research: policy and
+  institution building; concerted action at local, national and/or
+  regional level for the promotion of science and technology activities
+  and their application to production and promotion of computer literacy
+  in the public and private sectors, scientific programmes and equipment
+  for research.</article>
+      <article number="ARTICLE 12" name="Trade Development" article_identifier="11444">1. The Community shall implement measures for the development of trade
+  at all stages up to final distribution of the product.
+
+  The object is to ensure that the OCTs derive the maximum benefit from
+  the provisions of his Decision and may participate under the most
+  favourable conditions in the Community, domestic, sub-regional,
+  regional and international markets by diversifying the range and
+  increasing the value and the volume of OCT trade in goods and
+  services.
+
+  2. In addition to developing trade between the OCTs and the Community,
+  particular attention shall be given to operations designed to increase
+  the OCTs' self-reliance and improve regional cooperation in trade and
+  services.
+
+  3. Within the instruments provided for in this Decision and in
+  accordance with the provisions set out in relation thereto, operations
+  shall be undertaken at the request of the OCT authorities,
+  particularly in the following areas:
+
+  (a) support for the definition of appropriate macroeconomic policies
+  necessary for trade development;
+
+  (b) support for the creation or reform of appropriate legal and
+  regulatory frameworks as well as for the reform of administrative
+  procedures;
+
+  (c) the establishment of coherent trade strategies;
+
+  (d) support for OCTs in developing their internal capacities,
+  information systems and awareness of the role and importance of trade
+  in economic development;
+
+  (e) support for strengthening the infrastructure related to trade and
+  in particular support for the OCTs' efforts to develop and improve
+  supportive service infrastructure, including transport and storage
+  facilities, in order to ensure their effective participation in the
+  distribution of goods and services and in order to enhance the flow of
+  exports from the OCTs;
+
+  (f) development of human resources and professional skills in the
+  field of trade and services, in particular in the processing,
+  marketing, distribution and transport sectors for the Community,
+  regional and international markets;
+
+  (g) support to private sector development and, in particular, to SMEs
+  for product identification and development, market outlets and
+  export-oriented joint ventures;
+
+  (h) support for OCT actions aimed at encouraging and attracting
+  private investment and joint venture operations;
+
+  (i) the establishment, adaptation and strengthening of organisations
+  in the OCTs dealing with the development of trade and services,
+  particular attention being paid to the special needs of organisations
+  in the least-developed OCTs;
+
+  (j) support for OCTs aiming to improve the quality of their products,
+  adapt them to market requirements and diversify their outlets;
+
+  (k) support for OCT efforts to penetrate third country markets more
+  effectively;
+
+  (l) market development measures including increasing contacts and
+  exchange of information between economic operators in OCTs, ACP
+  States, the Member States and in third countries;
+
+  (m) support for OCTs in the application of modern marketing techniques
+  in production-oriented sectors and programmes, in particular in areas
+  such as rural development and agriculture;
+
+  (n) the establishment and development of insurance and credit
+  institutions in the field of trade development.
+
+  4. Support for OCTs' participation in trade fairs, exhibitions and
+  trade missions shall be carried out only where such events form an
+  integral part of overall trade and market development programmes.
+
+  5. Participation of the least-developed OCTs in various trade
+  activities shall be encouraged by special provisions, inter alia, the
+  payment of travel expenses of personnel and costs of transporting
+  exhibits, on the occasion of their participation in local, regional
+  and third-country fairs, exhibitions or trade missions, including the
+  cost of the temporary construction and/or renting of exhibition booths
+  and stalls. The least-developed OCTs shall be granted special aid to
+  assist in the preparation and/or purchase of promotional materials.</article>
+      <article number="ARTICLE 13" name="Trade In Services" article_identifier="11445">1. The Community agrees to develop and finance infrastructure and
+  human resources as regards trade in services in accordance with the
+  priorities established under the development strategies for each OCT.
+
+  2. The Community shall contribute to the development and promotion of
+  cost-effective and efficient maritime transport services in the OCTs,
+  by:
+
+  (a) promoting the efficient shipment of cargo at economically and
+  commercially meaningful rates;
+
+  (b) implementing good policies and competition rules;
+
+  (c) facilitating greater OCT participation in international shipping
+  services;
+
+  (d) encouraging regional programmes of maritime transport and trade
+  development;
+
+  (e) increasing local private sector involvement in shipping
+  activities.
+
+  The Community and the OCTs undertake to promote shipping safety,
+  security of crews and the prevention of pollution.
+
+  3. The Community shall step up cooperation with the OCTs so as to
+  ensure regular improvement and growth in air traffic.
+
+  This shall involve:
+
+  (a) examining all means of reforming and modernising the OCT air
+  transport industries;
+
+  (b) promoting their commercial viability and competitiveness;
+
+  (c) encouraging higher levels of private sector investment and
+  participation and a greater exchange of knowledge and good business
+  practice;
+
+  (d) providing passengers and exporters in all OCTs with access to
+  global air transport networks.
+
+  4. Safety must be ensured in the air transport sector and the relevant
+  international standards introduced and implemented.
+
+  To that end, the Community shall assist the OCTs in:
+
+  (a) implementing air navigation safety systems, including the
+  Communications, Navigation and Surveillance/Air Traffic Management
+  (CNS/ATM) system;
+
+  (b) implementing airport security and strengthening the capacity of
+  civil aviation authorities to manage all aspects of operational
+  security placed under their control;
+
+  (c) developing infrastructures and human resources;
+
+  (d) ensuring that any measures taken in this field are based on advice
+  from the relevant international organisations and that they will be
+  effective and sustainable in the long term.
+
+  5. Proper attention must be paid to minimising the environmental
+  impact of air transport, in particular by means of appropriate
+  environmental impact studies.
+
+  6. In many aspects of air transport, regional solutions may offer
+  scope for greater cost effectiveness and economies of scale. To that
+  end, the Community undertakes to support and encourage actions on a
+  regional level where appropriate.
+
+  7. Since telecommunication and active participation in the information
+  society are prerequisites for the successful integration of the OCTs
+  into the world economy, the Community and the OCTs reconfirm their
+  respective commitments under existing multilateral agreements, in
+  particular the World Trade Organisation (WTO) Agreement on Basic
+  Telecommunications.
+
+  8. The Community shall support the efforts of the OCTs to increase
+  their capacity in the field of trade in services. Cooperation shall
+  cover, inter alia, the following areas:
+
+  (a) promoting consultations between competent telecommunications
+  bodies in the OCTs and the Community with a view to encouraging
+  development of a competitive telecommunications environment bringing
+  rates closer to costs;
+
+  (b) establishment of a dialogue on different aspects of the
+  information society, including regulatory aspects and communications
+  policy;
+
+  (c) information exchanges and possible technical assistance on
+  regulation, standardisation, conformity testing and certification of
+  information and communications technologies and the use of
+  frequencies;
+
+  (d) dissemination of new information and communications technologies
+  and the development of new facilities, particularly in relation to
+  interconnection of networks and interoperability of applications;
+
+  (e) promotion and implementation of joint research in the field of new
+  technologies related to the information society;
+
+  (f) design and implementation of programmes and policies to raise the
+  awareness of the economic and social benefits deriving from the
+  information society.
+
+  9. Cooperation shall, in particular, be directed towards greater
+  complementarity and harmonisation of communication systems at local,
+  national, regional, inter-regional and international level and their
+  adaptation to new technologies.
+
+  10. The Community shall support measures and operations to develop and
+  support sustainable tourism. These measures shall be implemented at
+  all levels, from the identification of the tourist product to the
+  marketing and promotion stage.
+
+  The aim shall be to support the efforts of the authorities of the OCT
+  to derive maximum benefit from local, regional and international
+  tourism in view of tourism's impact on economic development and to
+  stimulate private financial flows from the Community and other sources
+  into the development of tourism in the OCTs. Particular attention
+  shall be given to the need to integrate tourism into the social,
+  cultural and economic life of the people, as well as to respect for
+  the environment.
+
+  Specific tourism development measures shall be aimed at the
+  definition, adaptation and development of appropriate policies at
+  local, regional, sub-regional and international levels. Tourism
+  development programmes and projects shall be based on these policies
+  on the basis of the following four components:
+
+  (a) human resource and institutional development, inter alia:
+
+  - professional management development in specific skills and
+  continuous training at appropriate levels in the private and public
+  sectors to ensure adequate planning and development;
+
+  - establishment and strengthening of tourism promotion centres;
+
+  - education and training for specific segments of the population and
+  public/private organisations active in the tourism sector, including
+  personnel involved in sectors that support tourism;
+
+  - inter-OCT and OCT-ACP cooperation and exchanges in the fields of
+  training, technical assistance and the development of institutions.
+
+  (b) the development of products including, inter alia:
+
+  - identification of the tourism product, development of
+  non-traditional and new tourism products, adaptation of existing
+  products including the preservation and development of cultural
+  heritage, ecological and environmental aspects, management, protection
+  and conservation of flora and fauna, historical, social and other
+  natural assets, development of ancillary services;
+
+  - promotion of private investment in the OCTs' tourist industries,
+  including the creation of joint ventures;
+
+  - production of crafts of a cultural nature for the tourist market.
+
+  (c) market development including, inter alia:
+
+  - assistance for the definition and execution of objectives and market
+  development plans at local, sub-regional, regional and international
+  levels;
+
+  - support for the OCTs' efforts to gain access to services for the
+  tourist industry such as central reservation systems and air traffic
+  control and security systems;
+
+  - marketing and promotional measures and materials in the framework of
+  integrated market development plans and programmes with a view to
+  improved market penetration, aimed at the main generators of tourism
+  flows in traditional and non-traditional markets as well as specific
+  activities such as participation at specialised trade events, such as
+  fairs, production of quality literature, films and marketing aids;
+
+  (d) research and information including, inter alia:
+
+  - improving tourism information and collecting, analysing,
+  disseminating and utilising statistical data;
+
+  - assessment of the socio-economic impact of tourism on the economies
+  of the OCT with particular emphasis on the development of linkages to
+  other sectors in the OCT and the surrounding regions, such as food
+  production, construction, technology and management.</article>
+      <article number="ARTICLE 14" name="Trade-Related Areas" article_identifier="11446">1. The Community shall help reinforce, within the development
+  strategies of each OCT, the capacity of the OCTs to handle all areas
+  related to trade, including where necessary improving and supporting
+  the institutional framework.
+
+  2. The Community shall cooperate with the OCTs in the introduction of
+  the general principles on protection and promotion of investments.
+
+  3. The Community shall also help to reinforce cooperation with the
+  OCTs with a view to formulating and supporting effective competition
+  policies with the appropriate competition agencies that progressively
+  ensure the efficient enforcement of the competition rules by both
+  private and state enterprises. Cooperation in this area shall, in
+  particular, include assistance in the drafting of an appropriate legal
+  framework and its administrative enforcement with particular reference
+  to the least developed OCTs.
+
+  4. The Community shall continue to foster cooperation with the OCTs
+  and extend it, in particular, to the following areas:
+
+  (a) the preparation of laws and regulations for the protection and
+  enforcement of intellectual property rights, the prevention of the
+  abuse of such rights by rightholders and the infringement of such
+  rights by competitors, the establishment and reinforcement of local,
+  national and regional offices and other agencies including support for
+  regional intellectual property organisations involved in enforcement
+  and protection, including the training of personnel;
+
+  (b) the conclusion of agreements aimed at protecting trademarks and
+  geographical indications for products of particular interest.
+
+  5. The Community shall assist the OCTs in their efforts with regard to
+  standardisation and certification aimed at promoting compatible
+  systems between the Community and the OCTs. Cooperation shall comprise
+  the following in particular:
+
+  (a) measures to promote greater use of international technical
+  regulations, standards and conformity assessment procedures, including
+  sector-specific measures, in accordance with the level of economic
+  development of the OCTs;
+
+  (b) cooperation in the area of quality management and assurance in
+  selected sectors of importance to the OCTs;
+
+  (c) support for OCT capacity building initiatives in the fields of
+  conformity assessment, metrology and standardisation;
+
+  (d) developing links between OCT and European standardisation,
+  conformity assessment and certification institutions.
+
+  6. The Community shall help strengthen cooperation with the OCTs with
+  regard to human, animal and plant health measures with a view to
+  building public and private sector capacity in this area.
+
+  7. Bearing in mind the Rio Principles and with a view to reinforcing
+  the mutual supportiveness of trade and environment policies, the
+  Community shall enhance cooperation with the OCTs. The aim of
+  cooperation shall in particular be to:
+
+  (a) establish coherent local, national, regional and international
+  policies;
+
+  (b) reinforce quality controls of goods and services related to the
+  environment;
+
+  (c) improve environment-friendly production methods in relevant
+  sectors.
+
+  8. The Community shall cooperate with the OCTs in relation to labour
+  standards. Cooperation in this area shall mainly consist of:
+
+  (a) exchanges of information on respective labour laws and
+  regulations;
+
+  (b) assistance in the formulation of labour legislation and
+  strengthening of existing legislation;
+
+  (c) educational and awareness-raising programmes aimed at eliminating
+  child labour;
+
+  (d) enforcement of labour legislation and regulations.
+
+  9. The Community shall cooperate with the OCTs in the area of consumer
+  policy and consumer health protection by:
+
+  (a) improving institutional and technical capacity in this area;
+
+  (b) establishing rapid-alert systems of mutual information on
+  dangerous products;
+
+  (c) exchanging information and experiences on the establishment and
+  operation of post-market surveillance of products and product safety;
+
+  (d) improving information provided to consumers on prices,
+  characteristics of products and services offered;
+
+  (e) encouraging the development of private consumer associations and
+  contacts between consumer-interest representatives;
+
+  (f) improving compatibility of consumer policies and systems;
+
+  (g) informing on the entry into force of legislation and promoting
+  cooperation in investigating harmful or unfair business practices;
+
+  (h) implementing exports prohibitions on the trade of goods and
+  services the marketing of which has been prohibited in their country
+  of production.
+
+  10. The Community shall support the efforts deployed by the OCT public
+  and private actors in the field of information technology and
+  telecommunications to:
+
+  (a) modernise telecommunications infrastructure, data transmission
+  services, remote processing applications and telematics application
+  projects (TAP);
+
+  (b) develop and improve the services and the human capacity needed for
+  achieving the information society, and integrate those services in the
+  best possible way in a regional context;
+
+  (c) improve awareness of economic opportunities and exchanges of
+  experience and of know-how;
+
+  (d) provide better information to the users of those resources;
+
+  (e) exploit the potential of this sector in an optimum and sustainable
+  manner;
+
+  (f) develop the use of communications and information technology in
+  the field of education, including distance learning;
+
+  (g) increase electronic commerce and economic cooperation;
+
+  (h) improve and modernise health networks, through the development of
+  links between hospitals, the use of remote diagnosis and the creation
+  of joint databases;
+
+  (i) develop multimedia access to cultural and tourist resources;
+
+  (j) improve and increase the use of information and communications
+  technology in industry and for innovation.</article>
+      <article number="ARTICLE 15" name="Social Sectors" article_identifier="11447">The Community shall contribute, within the development strategies of
+  each OCT, to human and social development measures. Cooperation could
+  in particular support programmes in the following sectors:
+
+  (a) Education policy and institution building (buildings and
+  materials); language and teacher training; primary education;
+  secondary education and vocational training; higher education
+  (including sector-specific education activities, e.g. agricultural
+  training).
+
+  In education, the focus should be on widening access to and improving
+  the quality of basic education by constructing more schools,
+  rehabilitating existing classrooms and providing educational
+  materials, teacher training, and bursaries for poor students;
+
+  (b) Health sector reform activities, health policy and institution
+  building; medical education, training and research, health
+  infrastructure; HIV/AIDS.
+
+  In the health sector, projects should help to provide primary and
+  preventive care services, particularly family planning and child and
+  maternal health services;
+
+  (c) Population policy and family planning; mother and child care,
+  including support for projects on the nurturing and development of the
+  next generation.
+
+  (d) Increasing the efficiency of policies to prevent the production,
+  distribution and trafficking of all kinds of drugs, narcotics and
+  psychotropic substances, preventing and reducing drug abuse, taking
+  into account work done in this context by international bodies.
+
+  Cooperation shall comprise the following:
+
+  (i) training, education, health promotion and rehabilitation of
+  addicts, including projects for the reintegration of addicts into work
+  and social environments;
+
+  (ii) measures to encourage alternative economic opportunities, for
+  example programmes for the alternative development of areas used for
+  the illicit production of narcotic plants, linked to effective
+  enforcement measures;
+
+  (iii) technical, financial and administrative assistance relating to
+  the monitoring of precursors trade, and the establishment of standards
+  equivalent to those adopted by the Community and international
+  authorities concerned;
+
+  (iv) technical, financial and administrative assistance relating to
+  the prevention, treatment and reduction of drug abuse;
+
+  (v) technical assistance and training, and the establishment of
+  standards to prevent money laundering equivalent to those adopted by
+  the Community and other international bodies, in particular the
+  Financial Action Task Force on Money Laudering;
+
+  (vi) exchange of relevant information for the implementation of points
+  (a) to (d).
+
+  (e) Water policy and institution building; water resources protection;
+  waste management (water for agriculture or energy will be covered
+  under the relevant sector).
+
+  In the water supply and sanitation sector, the aim shall be to provide
+  services in under-served areas. Funding that supports increasing
+  access to drinking water supply and sanitation services contributes
+  directly to human resources development by improving the state of
+  health, and thus increasing the productivity, of people who do not
+  already have access to these services; the continuing need to extend
+  basic services in water, sanitation, and transport to both urban and
+  rural populations must be addressed in environmentally sustainable
+  ways.
+
+  (f) The Community shall cooperate with the OCTs in the conservation,
+  sustainable use and management of their biological diversity taking
+  into account the Community Action Plan on biological diversity.
+
+  Cooperation in this area may, in particular, extend to:
+
+  (i) supporting the elaboration, updating and implementation of
+  national biodiversity strategies and action plans;
+
+  (ii) facilitating the establishment of local, regional and
+  sub-regional mechanisms for the exchange of information and the
+  monitoring and assessment of progress in the implementation of the
+  Convention on Biological Diversity (CBD)(7);
+
+  (iii) developing and maintaining up-to-date databases on OCT
+  biological diversitys;
+
+  (iv) implementing appropriate measures relating to the access to
+  genetic resources;
+
+  (v) promoting the conclusion of agreements with the private sector for
+  the use of the country's genetic resources, so that local communities
+  may effectively benefit from the economic revenue derived from such
+  agreements and so that the use of genetic resources does not harm the
+  protection and conservation of the biodiversity;
+
+  (vi) assisting the OCTs to participate actively in the policy-making
+  process and negotiations under the CBD.
+
+  (g) Housing and integrated urban development projects and programmes.
+
+  In urban development, efforts shall focus on building or
+  rehabilitating roads and other basic infrastructure, including
+  low-income housing.</article>
+      <article number="ARTICLE 16" name="Regional Cooperation And Integration" article_identifier="11448">Cooperation shall ensure that effective aid is provided in order to
+  achieve the objectives and priorities established by the competent OCT
+  authorities in the framework of regional and sub-regional cooperation
+  and integration:
+
+  1. Regional cooperation shall cover operations agreed on between:
+
+  (a) two or more OCTs;
+
+  (b) one or more OCTs and one or more neighbouring ACP or non-ACP
+  States;
+
+  (c) one or more OCTs and one or more ACP States or one or more of the
+  most remote regions referred to in Article 299(2) of the Treaty
+  (Guadeloupe, Guyana, Martinique, Réunion, the Canary Islands, Azores
+  and Madeira);
+
+  (d) two or more regional bodies of which OCTs are members;
+
+  (e) one or more OCTs and regional bodies of which OCTs, ACP States or
+  one or more of the most remote regions are members.
+
+  2. The objectives of cooperation in this context shall be to:
+
+  (a) foster the gradual integration of the OCTs into the world economy;
+
+  (b) accelerate economic cooperation and development within the regions
+  of the OCT and between them and the regions of the ACP States;
+
+  (c) promote the free movement of persons, goods, services, capital,
+  labour and technology;
+
+  (d) accelerate economic diversification and the coordination and
+  harmonisation of regional and sub-regional cooperation policies;
+
+  (e) promote and foster inter-OCT and intra-OCT trade as well as trade
+  with the most remote regions, ACP States or other third countries.
+
+  3. In the context of regional integration, the aim of cooperation
+  shall be to:
+
+  (a) build and enhance the capacity of regional cooperation and
+  integration organisations and institutions to promote regional
+  cooperation and integration;
+
+  (b) encourage the least developed OCTs to take part in the development
+  of regional markets and benefit therefrom;
+
+  (c) implement sectoral reform policies at regional level;
+
+  (d) liberalise trade and payments;
+
+  (e) stimulate cross-border foreign and domestic investment and other
+  regional or sub-regional economic integration initiatives;
+
+  (f) take account of the net transitional cost of regional integration
+  on budget revenue and balance of payments.
+
+  4. Cooperation shall, in the area of regional cooperation, cover a
+  wide variety of functional and thematic fields which specifically
+  address common problems and take advantage of economies of scale,
+  including:
+
+  (a) infrastructure, particularly transport and communications
+  infrastructure and related safety problems, energy;
+
+  (b) the environment, water resource management;
+
+  (c) health, education and training;
+
+  (d) research and scientific and technical cooperation;
+
+  (e) regional disaster preparedness and alleviation initiatives;
+
+  (f) other areas, e.g. arms controls, drugs, organised crime, money
+  laundering, fraud and corruption.
+
+  5. Cooperation shall also support inter-regional, inter-OCT and
+  inter-ACP cooperation schemes and initiatives.</article>
+      <article number="ARTICLE 17" name="Cultural And Social Cooperation" article_identifier="11449">Cooperation shall contribute to the self-reliant development of the
+  OCTs, this being a process centred on people themselves and rooted in
+  each people's culture. The human and cultural dimension shall embrace
+  all areas and be reflected in all development projects and programmes.
+  Cooperation shall back up the policies and measures adopted by the
+  competent OCT authorities to enhance their human resources, increase
+  their own creative capacities and promote their cultural identities.
+  It shall foster participation by the population in the process of
+  development.
+
+  Cultural and social cooperation shall be expressed through:
+
+  - the taking into account of the cultural and social dimension;
+
+  - promotion of cultural identities and intercultural dialogue, with
+  particular reference to preserving the cultural heritage, the
+  production and dissemination of cultural products, cultural events and
+  information and communication;
+
+  - operations to enhance human resources, notably covering education
+  and training, scientific and technical cooperation, the role of women
+  in development, health and combating drug abuse, population and
+  demography.
+
+  INSTRUMENTS OF OCT-EC COOPERATION
+
+  DEVELOPMENT FINANCE COOPERATION</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="General Provisions" chapter_identifier="1409">
+      <article number="ARTICLE 18" name="Objectives" article_identifier="11450">The objective of development finance cooperation shall be, through the
+  provision of adequate financial resources and appropriate technical
+  assistance, to:
+
+  (a) support and promote the OCTs' own efforts to achieve sustainable
+  social, cultural and economic development on the basis of mutual
+  interest and in a spirit of interdependence;
+
+  (b) help raise the standard of living of the peoples of the OCTs;
+
+  (c) promote measures likely to mobilise the capacity for initiative of
+  communities, groups, associations and individuals and their
+  participation in the design and implementation of development
+  programmes;
+
+  (d) contribute to the fullest participation of the population in the
+  benefits of development in the interests of alleviating poverty;
+
+  (e) contribute to the development of the capacity of the OCTs to
+  innovate, adapt and transform local technologies and to master
+  appropriate new technologies;
+
+  (f) support the efforts of the OCTs to achieve economic
+  diversification, inter alia by contributing to sustainable
+  exploration, conservation, processing and exploitation of their
+  natural resources;
+
+  (g) provide support for and promote the optimal development of human
+  resources in the OCTs;
+
+  (h) facilitate an increase in the financial flows to the OCTs that
+  meet their evolving needs and support the efforts of the OCTs to
+  harmonise international cooperation for their development through
+  cofinancing of operations with other financing agencies or third
+  parties;
+
+  (i) promote direct private investment in the OCTs, support the
+  development of a healthy, prosperous and dynamic OCT private sector
+  and encourage local, national and foreign private investment flows
+  into the productive sectors in the OCTs;
+
+  (j) encourage inter-OCT and OCT-ACP regional cooperation, solidarity
+  and integration;
+
+  (k) permit the establishment of more balanced economic and social
+  relations and better understanding between the OCTs, ACP States,
+  Member States and the rest of the world, with a view to assisting the
+  integration of the OCTs into the world economy;
+
+  (l) enable OCTs faced with serious economic and social difficulties of
+  an exceptional nature resulting from natural disasters or
+  extraordinary circumstances having comparable effects to benefit from
+  emergency assistance;
+
+  (m) help the least-developed OCTs to overcome the specific obstacles
+  which hamper their development efforts.</article>
+      <article number="ARTICLE 19" name="Principles" article_identifier="11451">1. Development finance cooperation shall be based on partnership,
+  complementarity and subsidiarity and shall:
+
+  (a) be implemented, in accordance with the association and development
+  strategies adopted pursuant to Article 4, with due regard to the OCTs
+  respective geographical, social and cultural characteristics, as well
+  as their specific potential;
+
+  (b) ensure that resource flows are accorded on a predictable and
+  regular basis;
+
+  (c) be flexible and tailored to the situation in each OCT.
+
+  2. Member States shall cooperate with the Commission to ensure sound
+  financial management in the use of Community funds.
+
+  3. Following a partnership approach, Community activities shall be
+  decided in close consultation between the Commission, the OCT
+  authorities concerned and the Member State to which it is linked. Such
+  partnership shall be conducted in full compliance with the respective
+  institutional, legal and financial powers of each of the partners.
+
+  4. Without prejudice to the second subparagraph of Article 25(1),
+  Community and Member States contributions shall be complementary.
+
+  5. In accordance with the principle of subsidiarity, the authorities
+  of the OCT concerned shall be responsible for implementing operations
+  without prejudice to the powers of the Commission designed to ensure
+  sound financial management in the use of Community funds.</article>
+      <article number="ARTICLE 20" name="Single Programming Documents" article_identifier="11452">1. Pursuant to Article 4, the OCT authorities, the Commission and the
+  Member State to which the OCT is linked, acting in partnership, shall
+  lay down the strategy and the priority aims on which the SPD is to be
+  based.
+
+  2. The OCT authorities shall be responsible for:
+
+  (a) establishing their priorities on which the cooperation strategy
+  should be based;
+
+  (b) in the framework of sectoral planning, identifying projects and
+  programmes and establishing back-up measures to ensure the
+  sustainability and viability of the proposed schemes;
+
+  (c) preparing project and programme dossiers;
+
+  (d) preparing, negotiating and concluding contracts;
+
+  (e) implementing and managing projects and programmes;
+
+  (f) maintaining projects and programmes and ensuring their
+  sustainability.
+
+  3. The relevant authorities of the OCTs and the Commission shall be
+  jointly responsible for:
+
+  (a) adopting the SPD;
+
+  (b) ensuring equality of conditions for participation in invitations
+  to tender and contracts;
+
+  (c) monitoring and evaluating the effects and results of projects and
+  programmes;
+
+  (d) ensuring the proper, prompt and efficient execution of projects
+  and programmes.
+
+  4. The Commission shall be responsible for taking the financing
+  decision on the overall allocation corresponding to the SPD, in
+  accordance with the procedure referred to in Article 24.
+
+  5. Unless otherwise provided in this Decision, all decisions requiring
+  the approval of a party to the association shall be approved, or be
+  deemed approved, within six months of notification by the other party.</article>
+      <article number="ARTICLE 21" name="Scope Of Financing" article_identifier="11453">Within the framework of the strategy and priorities established by the
+  OCT concerned at local or regional level, financial support may be
+  given to operations helping to achieve the objectives set out in this
+  Decision.
+
+  The following activities shall fall within its scope:
+
+  (a) sectoral policies and reforms as well as projects that are in
+  coherence with them;
+
+  (b) institutional development, capacity building and integration of
+  environmental aspects;
+
+  (c) technical cooperation programmes;
+
+  (d) humanitarian aid and emergency relief operations;
+
+  (e) additional support in the event of fluctuations in export earnings
+  from exports of goods and services.</article>
+      <article number="ARTICLE 22" name="Eligibility For Financing" article_identifier="11454">1. The following entities or bodies shall be eligible for financial
+  support provided under this Decision:
+
+  (a) OCTs;
+
+  (b) regional or inter-State bodies to which one or more OCTs belong
+  and which are authorised by their relevant authorities;
+
+  (c) joint bodies set up by the Community and the OCTs to pursue
+  certain specific objectives.
+
+  2. Subject to the agreement of the authorities of OCTs concerned, the
+  following shall also be eligible for support:
+
+  (a) local, national and/or regional public or semi-public agencies,
+  departments or local authorities of the OCTs and in particular their
+  financial institutions and development banks;
+
+  (b) companies and firms of the OCTs and of regional groups;
+
+  (c) enterprises of a Member State, so as to enable them, in addition
+  to their own contribution, to undertake productive projects in the
+  territory of an OCT;
+
+  (d) OCT or Community financial intermediaries promoting and financing
+  private investments in the OCTs;
+
+  (e) actors of decentralised cooperation and other non-State actors
+  from OCTs and from the Community, to enable them to undertake
+  economic, cultural, social and educational projects and programmes in
+  the OCTs in the framework of decentralised cooperation, as referred to
+  in Article 29.</article>
+      <article number="ARTICLE 23" name="Programming And Implementation" article_identifier="11455">The Commission shall adopt the implementing provisions for this Part
+  of the Decision and for Annexes II A to D within 12 months of its
+  entry into force, in accordance with the procedure laid down in
+  Article 24 and in cooperation with the OCTs in accordance with Article
+  7.
+
+  It shall support the full utilisation by the OCTs of the instruments
+  laid down in this Decision, in particular the trade and financial
+  provisions, by providing the relevant guidelines and information
+  within 12 months of its entry into force.
+
+  The provisions shall include in particular:
+
+  (a) the procedure for preparing the SPD and its essential elements;
+
+  (b) the procedures and criteria for the follow-up, audit, ex-ante,
+  mid-term and ex-post evaluation, review and implementation of the SPD,
+  including those in relation to the Commission's participation in these
+  activities;
+
+  (c) the preparation of periodical or other reports;
+
+  (d) detailed rules for the financial corrections referred to in
+  Article 32.
+
+  The financial and accounting procedures shall be laid down in the 9th
+  EDF Financial Regulation.</article>
+      <article number="ARTICLE 24" name="The Edf-Oct Committee" article_identifier="11456">1. The Commission shall, where appropriate, be assisted by the
+  Committee created by the Internal Agreement, hereinafter referred to
+  in this Article as "the Committee".
+
+  2. When exercising the powers conferred on it by this Decision, the
+  Committee shall be known as the "EDF-OCT Committee". The
+  internal rules of procedure of the Committee created by the Internal
+  Agreement shall apply to the EDF-OCT Committee.
+
+  3. The Committee shall focus its work on the substantive issues of
+  development cooperation at OCT and regional level. In the interests of
+  coherence, coordination and complementarity, it shall monitor the
+  implementation of the SPDs.
+
+  4. The Committee shall give its opinion on:
+
+  (a) draft SPDs and any amendments to them;
+
+  (b) the implementing provisions for this Part of the Decision and for
+  Annexes II A to D.
+
+  5. The representative of the Commission shall submit to the Committee
+  a draft of the measures to be taken. The Committee shall deliver its
+  opinion on the draft within a time limit laid down by the chairman.
+  The opinion shall be delivered by the majority laid down in Article
+  21(4) of the Internal Agreement. The votes of the representatives of
+  the Member States within the Committee shall be weighted in the manner
+  set out in paragraph 3 of that Article. The chairman shall not vote.
+
+  6. The Commission shall adopt the measures, which shall apply
+  immediately. However, if the measures are not in accordance with the
+  opinion of the Committee they shall be communicated by the Commission
+  to the Council forthwith. In that event, the Commission may defer
+  application of the measures which it has decided on for a period of
+  not more than three months from the date of such communication.
+
+  7. The Council, acting by the majority and in accordance with the
+  weighting referred to in paragraph 5, may take a different decision
+  within the period provided for in paragraph 6.
+
+  8. The Commission shall inform the Committee of the follow-up,
+  evaluation and audit of SPDs.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Resources Made Available To The Octs" chapter_identifier="1410">
+      <article number="ARTICLE 25" name="Financial Assistance" article_identifier="11457">1. The overall amount of Community financial assistance for the
+  purposes of Chapter 1, its allocation, financing terms and
+  arrangements and of the use of the assistance for the period from 2000
+  to 2007 can be found in Annexes II A to D and in Chapter 3, without
+  prejudice to the provisions to be adopted by the Commission as laid
+  down in Article 24.
+
+  Financial assistance under this Decision may be used to cover the
+  total cost of both the local and foreign expenditure of projects and
+  programmes, including financing of recurrent costs.
+
+  2. OCTs are also eligible for financing under the legislation in force
+  in favour of the developing countries listed in Annex II E and for the
+  Community programmes listed in Annex II F.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Private Sector Investment Support" chapter_identifier="1411">
+      <article number="ARTICLE 26" name="Investment Promotion" article_identifier="11458">The authorities of the OCT, Member States and the Community,
+  recognising the importance of private investment in the promotion of
+  their development cooperation and acknowledging the need to take steps
+  to promote such investment, shall:
+
+  (a) implement measures to encourage participation in their development
+  efforts by private investors who comply with the objectives and
+  priorities of OCT-EC development cooperation and with the appropriate
+  laws and regulations;
+
+  (b) accord fair and equitable treatment to such investors;
+
+  (c) take measures and actions which help to create and maintain a
+  predictable and secure investment climate as well as enter into
+  negotiations on agreements which will improve such a climate;
+
+  (d) promote effective cooperation among OCT economic operators and
+  between them and those of the Community in order to increase the flow
+  of capital, management skills, technology and other forms of know-how;
+
+  (e) seek to promote a greater flow of private resources between the
+  Community and the OCTs by contributing, inter alia, to the removal of
+  obstacles which impede OCT operators' access to international capital
+  markets, including those of the Community;
+
+  (f) create an environment which encourages the development of
+  financial institutions and the mobilisation of resources which are
+  essential to capital formation and the growth of entrepreneurship;
+
+  (g) promote the development of enterprises by taking such steps as are
+  necessary to improve the business environment and, in particular,
+  foster a legal, administrative and incentive framework which is
+  conducive to the emergence and development of dynamic private sector
+  enterprises including grassroots operations;
+
+  (h) strengthen the capacity of local institutions in the OCTs to
+  provide the range of services which can encourage greater local
+  participation in industrial and business activity.</article>
+      <article number="ARTICLE 27" name="Investment Support And Financing" article_identifier="11459">Cooperation will provide long-term financing to help promote private
+  sector growth and mobilise national and foreign capital to that
+  effect. To this end, cooperation shall in particular provide:
+
+  (a) grants to cover technical and financial assistance in support of
+  human resource development, institutional capacity building, or other
+  forms of institutional aid linked to a specific investment; measures
+  designed to make enterprises more competitive and build the capacity
+  of private financial and non-financial intermediaries; measures to
+  facilitate and promote investment and activities to improve
+  competitiveness;
+
+  (b) advisory and consultancy services to help create an
+  investment-friendly climate and a stock of information to help guide
+  and encourage capital flows;
+
+  (c) grants funded by the Investment Facility referred to in Annex II
+  C;
+
+  (d) loans from the EIB's own resources.
+
+  The conditions applicable to the Investment Facility and the
+  abovementioned loans are laid down respectively in Annexes II B and C.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Additional Support In The Event Of Fluctuations In Export Earnings" chapter_identifier="1412">
+      <article number="ARTICLE 28" name="Additional Support" article_identifier="11460">1. In order to mitigate the adverse effects of any short-term
+  fluctuations in export earnings, in particular in the agricultural and
+  mining sectors, which might jeopardise the attainment of the
+  development objectives of the OCT concerned, a system of additional
+  support shall be instituted within the financial allocation referred
+  to in Annex II A.
+
+  2. The purpose of support in the event of short-term fluctuations in
+  export earnings is to safeguard macroeconomic and sectoral reforms and
+  policies that are at risk as a result of a drop in revenue and remedy
+  the adverse effects of instability of export earnings in particular
+  from agricultural and mining products.
+
+  3. The dependence of the OCT economies on exports, in particular in
+  the agricultural and mining sectors, shall be taken into account in
+  the allocation of resources referred to in Annex II D. In this
+  context, the least developed OCTs shall receive more favourable
+  treatment.
+
+  4. The additional resources shall be provided in accordance with the
+  specific modalities of the support mechanism as set out in Annex II D.
+
+  5. The Community shall also provide support for market-based insurance
+  schemes designed for OCTs seeking to protect themselves against the
+  risk of fluctuations in export earnings.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Support For Other Actors Of Cooperation" chapter_identifier="1413">
+      <article number="ARTICLE 29" name="Objectives And Financing" article_identifier="11461">1. In order to respond to the development needs of local communities
+  and encourage all actors of decentralised cooperation which are in a
+  position to contribute to the autonomous development of the OCTs to
+  put forward and implement initiatives, OCT-EC cooperation shall
+  support such development operations within limits laid down by the
+  OCTs concerned and by the Member States to which these OCTs are
+  linked, and within the framework of the SPD provisions.
+
+  2. In this context, financial support shall be given to decentralised
+  projects and microprojects as follows:
+
+  (a) The cooperation partners eligible for financial support under this
+  Chapter shall be decentralised cooperation agents in the Community or
+  the OCTs or other developing countries, namely: local authorities,
+  non-governmental organisations, local traders' associations and local
+  citizens' groups, cooperatives, trade unions, women's and youth
+  organisations, teaching and research institutions, churches and any
+  non-governmental associations likely to contribute do development.
+
+  This form of cooperation shall make available for the development of
+  the OCTs the capabilities, innovative operating methods and resources
+  of the actors of decentralised cooperation. Support will take account
+  in particular joint actions between Community, OCT and other
+  developing countries;
+
+  (b) Local microprojects shall have an economic and social impact on
+  the life of the people, meet a demonstrated and observed priority need
+  and be undertaken at the initiative and with the active participation
+  of the local community which will benefit therefrom.
+
+  3. Projects or programmes under this form of cooperation may be a way
+  of achieving the specific objectives of the SPD or the results of
+  initiatives by local communities or decentralised actors.
+
+  4. The support provided for under this Chapter shall be additional or,
+  if need be, complementary in respect of the provisions in Annex II E.
+
+  5. Contributions to the funding of microprojects and decentralised
+  cooperation shall come from grants, in which case the contribution
+  shall not normally exceed three-quarters of the total cost of each
+  project. The balance shall be financed:
+
+  (a) for microprojects, by the local community concerned, in kind or in
+  the form of services or cash and adapted to its capacity to
+  contribute;
+
+  (b) for decentralised cooperation, by the actors of decentralised
+  cooperation, provided that the financial, technical, material and
+  other resources brought in by such actors is not, as a general rule,
+  less than 25 % of the estimated cost of the project/programme;
+
+  (c) in exceptional cases where both microprojects and decentralised
+  cooperation are concerned, by the authorities of the OCT concerned,
+  either in the form of financial contribution or through the use of
+  public equipment or the supply of services.
+
+  The procedures applicable to projects and programmes financed in the
+  context of microprojects or decentralised cooperation shall be as set
+  out in this Decision, notably with regard to the SPD implementing
+  provisions.</article>
+    </chapter>
+    <chapter number="CHAPTER 6" name="Support For Humanitarian And Emergency Aid" chapter_identifier="1414">
+      <article number="ARTICLE 30" name="Objectives And Means" article_identifier="11462">1. Humanitarian and emergency aid shall be granted to OCTs faced with
+  serious economic and social difficulties of an exceptional nature
+  resulting from natural disasters or extraordinary circumstances having
+  comparable effects. Humanitarian and emergency aid shall be maintained
+  as long as necessary to deal with the urgent problems which arise in
+  such situations.
+
+  Humanitarian and emergency aid shall be granted solely on the basis of
+  the needs and interests of disaster victims.
+
+  2. The aim of humanitarian and emergency aid shall be to:
+
+  (a) save human lives in crisis and post-crisis situations caused by
+  natural disasters or extraordinary circumstances having comparable
+  effects;
+
+  (b) help finance the transport of aid and efforts to ensure that it is
+  accessible to those for whom it is intended, by all logistical means
+  available;
+
+  (c) implement short-term rehabilitation and reconstruction measures in
+  order to establish conditions as soon as possible for the people
+  concerned to be integrated or reintegrated;
+
+  (d) respond to needs arising as a result of people being displaced,
+  such as refugees, displaced persons and returnees following natural or
+  man-made disasters so as to meet all the requirements of refugees and
+  displaced persons wherever they may be for as long as is necessary and
+  facilitate their voluntary resettlement;
+
+  (e) help the OCTs to develop or perfect systems of disaster prevention
+  and preparedness, including prediction and early-warning systems, with
+  a view to reducing the consequences of disasters.
+
+  3. Similarly aid may be granted to OCTs taking in refugees or
+  returnees to meet acute needs not covered by emergency assistance.
+
+  4. Aid provided for by this Article shall be financed from the
+  Community budget. However, it may exceptionally be financed from the
+  allocations laid down in Annex II A, in addition to the funding from
+  the budget heading concerned.
+
+  5. Humanitarian and emergency aid operations shall be undertaken at
+  the request of the OCT affected, the Commission, the Member State to
+  which the OCT is linked, international organisations or local or
+  international non-governmental organisations. Such aid shall be
+  administered and implemented under procedures that facilitate rapid,
+  flexible and effective operations.</article>
+    </chapter>
+    <chapter number="CHAPTER 7" name="Implementation Procedures" chapter_identifier="1415">
+      <article number="ARTICLE 31" name="Technical Assistance" article_identifier="11463">1. On the initiative of or on behalf of the Commission, studies or
+  technical assistance measures may be financed in order to ensure the
+  preparation, monitoring, evaluation and supervision necessary for
+  implementing this Decision.
+
+  Such studies or technical assistance measures shall be financed by the
+  overall grant allocation.
+
+  2. On the initiative of the OCT, studies or technical assistance
+  measures may be financed in relation to the implementation of the
+  activities contained in the SPD, subject to the Commission's opinion.
+
+  Such studies or technical assistance measures shall be financed from
+  the allocation of the OCT concerned.</article>
+      <article number="ARTICLE 32" name="Financial Control" article_identifier="11464">1. The OCT concerned shall bear primary responsibility for the
+  financial supervision of the operation. This shall be carried out,
+  where appropriate, in coordination with the Member State to which the
+  OCT is linked in accordance with the applicable national legislation.
+
+  2. The Commission shall be responsible for:
+
+  (a) ensuring that management and control systems exist and function
+  properly in the OCT concerned so as to ensure that the Community funds
+  are used correctly and effectively;
+
+  (b) in the event of irregularities, sending recommendations or
+  requests for corrective measures to remedy those irregularities and
+  rectify any management shortcomings found.
+
+  3. The Commission, OCT and, where appropriate, the Member State to
+  which it is linked, shall cooperate on the basis of administrative
+  arrangements at annual or biannual meeting to coordinate programmes,
+  methodologies and the implementation of controls.
+
+  4. With regard to financial corrections:
+
+  (a) the OCT shall be responsible in the first instance for detecting
+  and correcting financial irregularities;
+
+  (b) however, in the event of shortcomings by the OCT concerned, the
+  Commission shall take action, if the OCT fails to remedy the situation
+  and attempts at conciliation are unsuccessful, to reduce or withdraw
+  the balance of the overall allocation corresponding to the SPD
+  financing decision.</article>
+    </chapter>
+    <chapter number="CHAPTER 8" name="Transition From Previous European Development Funds (Edfs) To The 9Th Edf" chapter_identifier="1416">
+      <article number="ARTICLE 33" name="Implementing The Previous Edfs And The Transitional Phase" article_identifier="11465">1. Commitments made in the framework of the 6th, 7th and 8th EDFs
+  before the entry into force of this Decision shall continue to be
+  executed following the rules applicable to those EDFs.
+
+  Resources from the sixth, seventh and eighth EDFs which were allocated
+  to OCTs before the entry into force of this Decision shall remain
+  allocated to them. These resources shall continue to be used in
+  accordance with the relevant provisions of Decision 91/482/EEC, which
+  shall remain applicable for such purposes, until the entry into force
+  of the Internal Agreement establishing the 9th EDF.
+
+  Until the Internal Agreement establishing the 9th EDF comes into
+  force, the officials responsible for managing and implementing
+  European Development Fund resources, namely the EDF Chief Authorising
+  Officer, the OCT Local Authorising Officer and the Commission's Head
+  of Delegation, shall remain responsible for the management and
+  implementation tasks assigned to them by Council Decision 91/482/EC.
+
+  2. Any balances remaining from previous EDFs on the date of entry into
+  force of the Internal Agreement establishing the 9th EDF, as well as
+  any amounts that shall be decommitted at a later date from ongoing
+  projects under these Funds, shall be transferred to the 9th EDF and
+  used in accordance with the conditions laid down in this Decision.
+
+  Any resources thus transferred to the 9th EDF that previously had been
+  allocated to the indicative programme of an OCT or region shall remain
+  allocated to that OCT or to regional cooperation.
+
+  Any other remaining balances not allocated to an indicative programme
+  shall be transferred to the non-committed amount of the 9th EDF. The
+  overall amount of this Decision, supplemented by the transferred
+  balances from previous EDFs, shall cover the period 2000-2007. This
+  paragraph shall apply in particular to any remaining balances of the
+  overall amounts referred to in Articles 118 and 142 of Decision
+  91/482/EEC concerning, respectively, the stabilisation of export
+  earnings from agricultural commodities (Stabex) and the special
+  financing facility (Sysmin).
+
+  ECONOMIC AND TRADE COOPERATION</article>
+      <article number="ARTICLE 34" name="Objective" article_identifier="11466">1. The objective of economic and trade cooperation shall be to promote
+  the economic and social development of the OCTs, in particular by
+  establishing close economic relations between them and the Community
+  as a whole.
+
+  The implementation of such cooperation must be consistent with the
+  objectives of the other common policies.
+
+  2. Furthermore, the Community undertakes to support the effective
+  integration of the OCTs in the global economy and the development of
+  their trade in goods and services to regional and world markets.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Arrangements For Trade In Goods" chapter_identifier="1417">
+      <article number="ARTICLE 35" name="Free Access For Originating Products" article_identifier="11467">1. Products originating in the OCTs shall be imported into the
+  Community free of import duty.
+
+  2. The concept of originating products and the methods of
+  administrative cooperation relating thereto are laid down in Annex
+  III.</article>
+      <article number="ARTICLE 36" name="Transhipment Of Non-Originating Products In Free Circulation In The Octs" article_identifier="11468">1. Products not originating in the OCTs but which are in free
+  circulation in an OCT and are re-exported as such to the Community
+  shall be accepted for import into the Community free of customs duties
+  and taxes having equivalent effect providing that they:
+
+  (a) have paid, in the OCT concerned, customs duties or taxes having
+  equivalent effect of a level equal to, or higher than, the customs
+  duties applicable in the Community on import of these same products
+  originating in third countries eligible for the most-favoured-nation
+  clause;
+
+  (b) have not been the subject of an exemption from, or a refund of, in
+  whole or in part, customs duties or taxes having equivalent effect,
+  without prejudice to paragraph 2;
+
+  (c) are accompanied by an export certificate.
+
+  2. Without prejudice to paragraph 1, the Commission may, following a
+  duly substantiated request from the authorities of the OCT concerned
+  and in the light of the objectives of this Decision, authorise OCT
+  public financial aid to those operating the transhipment procedure.
+
+  The request shall in particular indicate the nature and the
+  anticipated volume of trade, which would benefit from the aid.
+
+  This aid must take the form of an aid for transport of goods put in
+  free circulation, including legitimate running costs supported in
+  relationship with the transhipment procedure. This aid shall not
+  provoke a serious disturbance or difficulties, which may result in a
+  deterioration in an economic sector of the Community or of one or more
+  Member States.
+
+  The OCT authorities may make representations to the Commission in
+  order to provide further information to substantiate their written
+  request.
+
+  If the OCT authorities so request, a partnership working party
+  referred to in Article 7(3) shall be convened to resolve any issues
+  arising from the administration of the transhipment procedure.
+
+  3. Paragraphs 1 and 2 shall not apply to:
+
+  (a) the agricultural products listed in Annex I to the Treaty nor to
+  products covered by Council Regulation (EEC) No 3448/93 of 6 December
+  1993 laying down the trade arrangements applicable to certain goods
+  resulting from the processing of agricultural products(8) except, as
+  from 1 February 2002 and subject to the adoption by the Commission of
+  the necessary implementing arrangements, for fisheries products:
+
+  (A) falling within CN codes 0303 31 10 00, 0304 20 95 10 and 0306 13
+  10 transhipped through Greenland within an annual quantity of 10000
+  tons, and
+
+  (B) falling within CN codes 0302 21 10, 0303 31 10, 0305 49 10, 0306
+  12 10, 0306 12 90, 0306 22 91, 0306 22 99, 0306 13 10, 0306 13 30,
+  0306 13 40, 0306 13 50, 0306 13 80, 0306 23 10, 0306 23 31, 0306 23
+  39, 0306 23 90 transhipped through Saint-Pierre-et-Miquelon within an
+  annual quantity of 2000 tonnes;
+
+  (b) products subject, on import into the Community, to quantitative
+  restrictions or limitations or to anti-dumping duties.
+
+  4. The conditions for entry into the Community of products not
+  originating in the OCTs but in free circulation in an OCT, and the
+  methods of administrative cooperation relating thereto, are laid down
+  in Annex IV.</article>
+      <article number="ARTICLE 37" name="Committee Procedure" article_identifier="11469">1. In matters covered by Article 36, the Commission shall be assisted
+  by a Committee.
+
+  2. Articles 3 and 7 of Decision 1999/468/EC shall apply to the
+  proceedings of the Committee.
+
+  3. The Committee shall adopt its rules of procedure.</article>
+      <article number="ARTICLE 38" name="Quantitative Restrictions And Measures Having Equivalent Effect" article_identifier="11470">1. The Community shall not apply to imports of products originating in
+  the OCTs any quantitative restrictions or measures having equivalent
+  effect.
+
+  2. Paragraph 1 shall not preclude prohibitions or restrictions on
+  imports, exports or goods in transit justified on grounds of public
+  morality or public policy, the protection of health and life of
+  humans, animals and plants, the protection of national treasures
+  possessing artistic, historic or archaeological value, the
+  conservation of exhaustible natural resources or the protection of
+  industrial and commercial property.
+
+  Such prohibitions or restrictions shall in no case constitute a means
+  of arbitrary or unjustifiable discrimination or a disguised
+  restriction of trade generally.</article>
+      <article number="ARTICLE 39" name="Waste" article_identifier="11471">1. Movements of waste between the Member States and the OCTs shall be
+  controlled in accordance with international and Community law. The
+  Community shall support the establishment and development of effective
+  international cooperation in this area with a view to protecting the
+  environment and public health.
+
+  2. The Community shall prohibit all direct or indirect export of waste
+  to the OCTs, with the exception of exports of non-hazardous waste
+  destined for recovery operations while at the same time the OCT
+  authorities shall prohibit the direct or indirect import into their
+  country of such waste from the Community or any other country, without
+  prejudice to specific international undertakings concerning these
+  areas that have been made, or may be made in future, in the competent
+  international fora.
+
+  3. As regards the Community, Council Regulation (EEC) No 259/93 of 1
+  February 1993 on the supervision and control of shipments of waste
+  within, into and out of the European Community(9) shall apply.
+
+  4. As regards those OCTs, which, due to their constitutional status,
+  are not Party to the Basle Convention, their relevant authorities
+  shall expedite adoption of the necessary internal legislation and
+  administrative regulations to implement the provisions of the Basle
+  Convention(10).
+
+  5. In addition, the Member States concerned shall promote the adoption
+  by the OCTs of the necessary internal legislation and administrative
+  regulations to implement:
+
+  (a) Regulation (EEC) No 259/93 as follows:
+
+  (i) Article 13 as regards shipments of waste within the OCTs,
+
+  (ii) Article 18 as regards exports of waste to the ACP States from the
+  OCTs;
+
+  (b) Regulation (EC) No 1420/1999(11);
+
+  (c) Commission Regulation (EC) No 1547/1999(12);
+
+  (d) European Parliament and Council Directive 2000/59/EC subject to
+  the time limits for transposition laid down in Article 16 thereof(13).
+
+  6. As regards imports into the Community from the OCTs of hazardous
+  waste and of non-hazardous waste destined for final disposal, Articles
+  1 to 12 and 25 to 39 of Regulation (EEC) No 259/93 and Commission
+  Decision 94/774/EC(14), shall apply.
+
+  7. One or more OCTs and the Member State to which they are linked may
+  apply national procedures to export of waste from the OCTs to that
+  Member State.
+
+  In this case, the Member State concerned notifies to the Commission
+  the applicable legislation within six months from the entry into force
+  of this Decision or of any future relevant national legislation,
+  including any amendments to it.</article>
+      <article number="ARTICLE 40" name="Measures Adopted By The Octs" article_identifier="11472">1. In view of the present development needs of the OCTs, the
+  authorities of the OCTs may retain or introduce, in respect of imports
+  of products originating in the Community, such customs duties or
+  quantitative restrictions as they consider necessary.
+
+  2. (a) The trade arrangements applied to the Community by the OCTs may
+  not give rise to any discrimination between Member States nor be less
+  favourable than most-favoured-nation treatment.
+
+  (b) Notwithstanding specific provisions of this Decision, the
+  Community shall not discriminate between OCTs in the field of trade.
+
+  (c) The provisions of (a) shall not preclude a country or territory
+  from granting certain other OCTs or other developing countries more
+  favourable treatment than that accorded to the Community.
+
+  3. The authorities of the OCTs shall communicate to the Commission,
+  within a period of three months following the entry into force of this
+  Decision, the customs tariffs and lists of quantitative restrictions
+  which they apply.
+
+  They shall also communicate to the Commission any subsequent
+  amendments to such measures as and when they are adopted.</article>
+      <article number="ARTICLE 41" name="Surveillance Clause" article_identifier="11473">1. The products originating in the OCTs referred to in Article 35 or
+  products not originating in the OCT referred to in Article 36 may be
+  subject to special surveillance. The Commission shall decide to which
+  products surveillance shall apply in consultation with the OCT
+  authorities and the Member State to which the OCT is linked.
+
+  2. Article 308d of Commission Regulation (EEC) No 2454/93 of 2 July
+  1993, laying down provisions for the implementation of Council
+  Regulation (EEC) No 2913/92 on the Community Customs Code(15), shall
+  apply.
+
+  3. The Commission and the competent OCT authorities shall ensure the
+  effectiveness of the surveillance measures by introducing the methods
+  of administrative cooperation set out in Annexes III and IV.</article>
+      <article number="ARTICLE 42" name="Safeguard Measures" article_identifier="11474">1. If, as a result of the application of this Decision, serious
+  disturbances occur in a sector of the economy of the Community or one
+  or more of its Member States, or their external financial stability is
+  jeopardised, or if difficulties arise which may result in a
+  deterioration in a sector of the Community's activity or in a region
+  of the Community, the Commission may, on its own initiative or at the
+  request of one or more Member States and following consultation with
+  the Committee referred to in Article 43 take or authorise the Member
+  States concerned to take the necessary safeguard measures, in
+  accordance with the paragraphs below.
+
+  2. For the purpose of implementing paragraph 1, priority shall be
+  given to such measures as would least disturb the functioning of the
+  association and the Community. These measures shall not exceed the
+  limits of what is strictly necessary to remedy the difficulties that
+  have arisen. They cannot exceed the withdrawal of the preferential
+  treatment granted by this Decision.
+
+  3. When safeguard measures are taken or modified, particular attention
+  shall be paid to the interests of the least-developed OCTs.
+
+  4. This Article is without prejudice to the rights and obligations of
+  the Community under WTO rules, including those contained in the WTO
+  Agreement on Safeguards(16). Neither shall it preclude application of
+  the regulations establishing a common organisation of agricultural
+  markets, or Community or national administrative provisions derived
+  therefrom, or the specific rules adopted under Article 235 of the
+  Treaty for processed agricultural products.
+
+  5. (a) If a Member State asks the Commission for safeguard measures to
+  be applied, the Commission shall inform the Council, the Member States
+  and the OCT authorities accordingly within three working days from the
+  date of receipt of the Member State's request, and shall invite the
+  OCT authorities to supply any information which they consider
+  important to the situation at hand.
+
+  (b) When the Commission acts on its own initiative, it shall inform
+  the OCTs concerned and the Member States at the earliest possible
+  stage.
+
+  (c) If the OCT authorities so require and without prejudice to the
+  deadlines referred to in this Article, a partnership working party
+  referred to in Article 7(3) shall be convened. The outcome of the
+  working party shall be transmitted to the consultative committee. In
+  this case, the deadline referred to in paragraph 9 of this Article
+  shall be extended by ten working days. At the same time it shall
+  invite the Member States to a meeting of the committee referred to in
+  Article 43.
+
+  Member States and the OCTs shall provide the Commission with any
+  information necessary to justify their requests to apply safeguard
+  measures or not to do so.
+
+  6. The Commission shall notify the Council, the Member States and the
+  OCT authorities immediately of the decision to take the necessary
+  safeguard measures. The Decision shall apply with immediate effect.
+
+  7. Any Member State may refer the Commission's decision referred to in
+  paragraph 6 to the Council within 10 working days of receiving
+  notification of the decision.
+
+  8. Should the Commission fail to adopt a decision within 21 working
+  days or if it rejects the request or if the Commission decides not to
+  take safeguard measures, any Member State that has brought the matter
+  before the Commission may refer it to the Council.
+
+  9. In the cases referred to in paragraphs 7 and 8, the Council, acting
+  by a qualified majority, may adopt a different decision within 21
+  working days.</article>
+      <article number="ARTICLE 43" name="Committee Procedure" article_identifier="11475">1. In matters covered by Article 42, the Commission shall be assisted
+  by a Committee.
+
+  2. Articles 3 and 7 of Decision 1999/468/EC shall apply to the
+  proceedings of the Committee.
+
+  3. The Committee shall adopt its rules of procedure.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Trade In Services And Rules Of Establishment" chapter_identifier="1418">
+      <article number="ARTICLE 44" name="General Objective" article_identifier="11476">The long-term aim in this area is a progressive liberalisation of
+  trade in services, with due respect for the OCTs' local policy
+  objectives, and taking due account of the level of development of the
+  OCT and the obligations entered into by the Community, Member States
+  or the OCTs in the WTO framework.</article>
+      <article number="ARTICLE 45" name="General Principles Of Establishment And The Provision Of Services" article_identifier="11477">1. For the purposes of this Chapter, the following definitions shall
+  apply:
+
+  (a) "companies or enterprises": companies or enterprises
+  constituted under civil or commercial law, including public or other
+  companies, cooperative societies and any other legal person or
+  association governed by public or private law, save for those which
+  are non-profit-making.
+
+  "Companies or enterprises of Member States" are those formed
+  in accordance with the laws of a Member State and whose registered
+  office, central administration or principal place of business is in a
+  Member State. However, a company or enterprise having only its
+  registered office in a Member State must be engaged in an activity
+  which has an actual and continuous link with the economy of that
+  Member State.
+
+  "OCT companies or enterprises" are those formed in
+  accordance with the law applicable in a given OCT and whose registered
+  office, central administration or principal place of business is in
+  that OCT; however, a company or enterprise having only its registered
+  office in a country or territory must be engaged in an activity which
+  has an actual and continuous link with the economy of that country or
+  territory;
+
+  (b) "inhabitants of an OCT": persons ordinarily resident in
+  an OCT who are nationals of a Member State or who enjoy a legal status
+  specific to an OCT. This definition is without prejudice to the rights
+  conferred by citizenship of the Union within the meaning of the
+  Treaty.
+
+  2. As regards the arrangements applicable to establishment and the
+  provision of services, in line with Article 183(5) of the Treaty and
+  subject to paragraph 3 below:
+
+  (a) the Community shall apply to the OCTs the undertakings entered
+  into under the General Agreement on Trade in Services (GATS) under the
+  conditions laid down in that Agreement and in accordance with this
+  Decision; in application of such undertakings, Member States shall not
+  discriminate between inhabitants, companies or enterprises of the
+  OCTs;
+
+  (b) the OCT authorities shall afford nationals, companies or
+  enterprises of the Member States treatment that is no less favourable
+  than that which they extend to nationals, companies or enterprises of
+  third countries and shall not discriminate between nationals,
+  companies or enterprises of Member States.
+
+  3. The authorities of an OCT may with a view to promoting or
+  supporting local employment, adopt regulations to aid their
+  inhabitants and local activities.
+
+  In this event, the OCT authorities shall notify the Commission of the
+  regulations they adopt so that it may inform the Member States.
+
+  4. With regard to the professions of doctor, dentist, midwife, general
+  nurse, pharmacist and veterinary surgeon, the Council, acting
+  unanimously on a proposal from the Commission, shall adopt the list of
+  professional qualifications specific to OCT inhabitants which are to
+  be recognised in the Member States.</article>
+      <article number="ARTICLE 46" name="Maritime Transport" article_identifier="11478">The objective of cooperation in this field shall be to ensure
+  harmonious development of efficient and reliable shipping services on
+  economically satisfactory terms by facilitating the active
+  participation of all parties according to the principle of
+  unrestricted access to the trade on a commercial basis.
+
+  This provision shall not apply to Greenland.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Trade-Related Areas" chapter_identifier="1419">
+      <article number="ARTICLE 47" name="Current Payments And Capital Movements" article_identifier="11479">1. Without prejudice to paragraph 2:
+
+  (a) Member States and the OCT authorities shall impose no restrictions
+  on any payments in freely convertible currency on the current account
+  of balance of payments between residents of the Community and of the
+  OCTs;
+
+  (b) with regard to transactions on the capital account of balance of
+  payments, the Member States and the OCT authorities shall impose no
+  restrictions on the free movement of capital for direct investments in
+  companies formed in accordance with the laws of the host Member State,
+  country or territory and to ensure that the assets formed by such
+  investment and any profit stemming therefrom can be realised and
+  repatriated.
+
+  2. The Community, Member States and OCTs shall be entitled to take the
+  measures referred to mutatis mutandis in Articles 57, 58, 59, 60 and
+  301 of the Treaty in accordance with the conditions laid down therein.
+  Equally, where one or more OCTs or one or more Member States is in
+  serious balance of payments difficulties, or under threat thereof, the
+  OCT authorities, the Member State or the Community may, in accordance
+  with the conditions established under the GATT, GATS and Article VIII
+  and XIV of the Articles of Agreement of the International Monetary
+  Fund, adopt restrictions on current transactions which shall be of
+  limited duration and may not go beyond what is necessary to remedy the
+  balance of payments situation. When taking such measures, the OCT
+  authorities, the Member State or the Community shall inform each other
+  without delay and submit to each other as soon as possible a timetable
+  for the elimination of the measures concerned.</article>
+      <article number="ARTICLE 48" name="Competition Policies" article_identifier="11480">1. The introduction and implementation of effective and sound
+  competition policies and rules are of crucial importance in order to
+  improve and secure an investment friendly climate, a sustainable
+  industrialisation process and transparency in the access to markets.
+
+  2. To ensure the elimination of distortions to competition and with
+  due consideration to the different levels of development and economic
+  needs of each OCT, the Community and the OCTs undertake to implement
+  local, national or regional rules and policies including the control
+  and, under certain conditions, the prohibition of agreements between
+  undertakings, decisions by associations of undertakings and concerted
+  practices between undertakings which have as their object or effect
+  the prevention, restriction or distortion of competition. The above
+  prohibition also relates to the abuse by one or more undertakings of a
+  dominant position in the territory of the Community or of the OCTs.</article>
+      <article number="ARTICLE 49" name="Protection Of Intellectual Property Rights" article_identifier="11481">1. An adequate and effective level of protection of intellectual,
+  industrial and commercial property rights, including means for
+  enforcing such rights, shall be ensured in line with the highest
+  international standards with a view to reducing distortions and
+  impediments to bilateral trade.
+
+  2. Intellectual property rights cover copyright, including in
+  particular the copyright on computer programmes and neighbouring
+  rights, utility models, patents including bio-technological
+  inventions, industrial designs, geographical indications including
+  appellations of origin, trademarks for goods or services, topographies
+  of integrated circuits, the legal protection of data bases and the
+  protection against unfair competition as referred to in Article 10 bis
+  of the Paris Convention for the Protection of Industrial Property and
+  protection of undisclosed information on know-how.</article>
+      <article number="ARTICLE 50" name="Standardisation And Certification" article_identifier="11482">Closer cooperation shall be pursued in the field of standardisation,
+  certification and quality assurance to remove unnecessary technical
+  barriers and to reduce differences in those areas, so as to facilitate
+  trade.</article>
+      <article number="ARTICLE 51" name="Trade And The Environment" article_identifier="11483">Development of international trade shall be promoted in such a way as
+  to ensure sustainable and sound management of the environment, in
+  accordance with the relevant international agreements and undertakings
+  and with due regard to the respective levels of development of the
+  OCTs. The special needs and requirements of the OCTs shall be taken
+  into account in the design and implementation of environmental
+  measures.
+
+  Bearing in mind the Rio Principles, cooperation shall aim at ensuring
+  the mutual supportiveness of trade and environment policies, in
+  particular through the reinforcement of quality controls of goods and
+  services related to the environment and the improvement of
+  environment-friendly production methods.</article>
+      <article number="ARTICLE 52" name="Trade And Labour Standards" article_identifier="11484">The internationally and nationally recognised core labour standards
+  must be respected, in particular the freedom of association and
+  protection of the right to organise, application of the right to
+  organise and to bargain collectively, the abolition of forced labour,
+  the elimination of worst forms of child labour, the minimum age for
+  admission to employment and non-discrimination in respect to
+  employment.</article>
+      <article number="ARTICLE 53" name="Consumer Policy And Consumer Health Protection" article_identifier="11485">Cooperation shall be pursued in the area of consumer policy and
+  consumer health protection, having due regard to the legislation in
+  force in OCTs and the Community to avoid barriers to trade.</article>
+      <article number="ARTICLE 54" name="Prohibition Of Disguised Protectionist Measures" article_identifier="11486">The provisions of this Chapter shall not be used as a means of
+  arbitrary discrimination or a disguised restriction on trade.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Monetary And Tax Matters" chapter_identifier="1420">
+      <article number="ARTICLE 55" name="Tax Carve-Out Clause" article_identifier="11487">1. Without prejudice to the provisions of Article 56, the
+  most-favoured-nation treatment granted in accordance with the
+  provisions of this Decision shall not apply to tax advantages which
+  the Member States or OCT authorities are providing or may provide in
+  the future on the basis of agreements to avoid double taxation or
+  other tax arrangements, or domestic fiscal legislation in force.
+
+  2. Nothing in this Decision may be construed to prevent the adoption
+  or enforcement of any measure aimed at preventing the avoidance or
+  fraud of taxes pursuant to the tax provisions of agreements to avoid
+  double taxation or other tax arrangements, or domestic fiscal
+  legislation in force.
+
+  3. Nothing in this Decision shall be construed to prevent the
+  respective competent authorities from distinguishing, in the
+  application of the relevant provisions of their fiscal legislation,
+  between taxpayers who are not in the same situation, in particular
+  with regard to their place of residence, or with regard to the place
+  where their capital is invested.</article>
+      <article number="ARTICLE 56" name="Tax And Customs Arrangements For Community-Funded Contracts" article_identifier="11488">1. The OCTs shall apply to Community-funded contracts tax and customs
+  arrangements no less favourable than those applied by them to the
+  most-favoured States or international development organisations with
+  which they have relations. For the purpose of determining the
+  most-favoured-nation treatment, account shall not be taken of
+  arrangements applied by the relevant authorities of the country or
+  territory concerned to other developing countries.
+
+  2. Subject to paragraph 1, the following arrangements shall apply to
+  contracts financed by the Community:
+
+  (a) the contract shall not be subject in the beneficiary OCT to stamp
+  or registration duties or to fiscal charges having equivalent effect,
+  whether such charges already exist or are to be instituted in the
+  future; however, such contracts shall be registered in accordance with
+  the laws in force in the OCT and a fee corresponding to the service
+  rendered may be charged for it;
+
+  (b) profits and/or income arising from the performance of contracts
+  shall be taxable according to the internal fiscal arrangements of the
+  OCT concerned, provided that the natural or legal persons who realise
+  such profit and/or income have a permanent place of business in that
+  OCT, or that the performance of the contract takes longer than six
+  months;
+
+  (c) enterprises which must import equipment in order to carry out
+  works contracts shall, if they so request, benefit from the system of
+  temporary admission as laid down by the legislation of the beneficiary
+  OCT in respect of that equipment;
+
+  (d) professional equipment necessary for carrying out tasks defined in
+  a service contract shall be temporarily admitted into the beneficiary
+  OCT in accordance with the legislation of that OCT free of fiscal,
+  import and customs duties and of other charges having equivalent
+  effect where these duties and charges do not constitute remuneration
+  for services rendered;
+
+  (e) imports under supply contracts shall be admitted into the
+  beneficiary OCT without customs duties, import duties, taxes or fiscal
+  charges having equivalent effect. The contract for supplies
+  originating in the country or territory concerned shall be concluded
+  on the basis of the ex-works price of the supplies, to which may be
+  added such internal fiscal charges as may be applicable to those
+  supplies in the country or territory;
+
+  (f) fuels, lubricants and hydrocarbon binders and, in general, all
+  materials used in the performance of works contracts shall be deemed
+  to have been purchased on the local market and shall be subject to
+  fiscal rules applicable under the legislation in force in the
+  beneficiary OCT;
+
+  (g) personal and household effects imported for use by natural
+  persons, other than those recruited locally, engaged in carrying out
+  tasks defined in a service contract and members of their families,
+  shall be exempt from customs or import duties, taxes and other fiscal
+  charges having equivalent effect, within the limits of the legislation
+  in force in the beneficiary OCT.
+
+  3. Any matter not covered by paragraphs 1 and 2 shall remain subject
+  to the legislation of the OCT concerned.
+
+  4. The Commission officials, excluding locally hired staff, shall be
+  exempt from all taxes levied in the country or territory where they
+  are posted.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Vocational Training, Eligibility For Community Programmes And Other Provisions" chapter_identifier="1421">
+      <article number="ARTICLE 57" name="Vocational Training" article_identifier="11489">Individuals from an OCT with the nationality of a Member State shall
+  be eligible to receive vocational training in the Community on the
+  same basis as nationals of the Member State in question where they can
+  meet the conditions required to be met by those nationals, including
+  any condition of residence within the Community or the EEA.</article>
+      <article number="ARTICLE 58" name="Programmes Open To The Octs" article_identifier="11490">Individuals from an OCT and where applicable the relevant public
+  and/or private bodies and institutions in an OCT shall be eligible for
+  the Community programmes listed in Annex II F and any programmes
+  succeeding them, subject to the rules of the programmes and the
+  arrangements applicable to the Member State with which they are
+  connected.
+
+  The Commission may modify this list at the request of an OCT or a
+  Member State or at its own initiative.</article>
+      <article number="ARTICLE 59" name="Euro-Info Correspondence Centres (Eicc)" article_identifier="11491">At the request of the OCT authorities and in accordance with the
+  procedures specified in Part Three, Title I, a Euro-Info
+  Correspondence Centre, hereinafter referred to as "'EICC",
+  may be set up in an OCT. Part-financing may be made available to the
+  EICC host structure from the grant aid available under the SPD or
+  regional cooperation.
+
+  The tasks of the EICCs, the tools and services made available to them,
+  the establishment procedures and criteria for selecting the host
+  structure are set out in Annex V.</article>
+      <article number="ARTICLE 60" name="Cde And Cta" article_identifier="11492">At the request of their authorities, the OCT shall be eligible for the
+  services of the Centre for the Development of Enterprise (CDE) and of
+  the Technical Centre for Agricultural and Rural Cooperation (CTA)
+  referred to in Article 1 of Annex III to the ACP/EC Partnership
+  Agreement.
+
+  Any costs resulting from services provided by the CDE or CTA for the
+  benefit of the OCTs shall be financed from the funds provided for in
+  Annex II A.</article>
+    </chapter>
+    <chapter number="PART FOUR" name="Final Provisions" chapter_identifier="1422">
+      <article number="ARTICLE 61" name="Change Of Status" article_identifier="11493">If an OCT becomes independent:
+
+  (a) the arrangements provided for in this Decision may continue to
+  apply provisionally to that country or territory under conditions laid
+  down by the Council;
+
+  (b) the Council, acting unanimously on a proposal from the Commission,
+  shall decide on any necessary adjustments to this Decision, in
+  particular to the amounts specified in Annex II A.</article>
+      <article number="ARTICLE 62" name="Review" article_identifier="11494">Before 31 December 2007, the Council, acting unanimously on a proposal
+  from the Commission, shall establish the provisions to be laid down
+  for the subsequent application of the principles set out in Articles
+  182 to 186 of the Treaty. In this context, the Council shall in
+  particular adopt any necessary measures where an OCT decides in
+  accordance with its own constitutional procedures to enter into
+  special preferential arrangements between the Community and various
+  partners in the region to which it belongs. The Council shall take
+  particular account in this respect of international obligations
+  entered into by the Community, its Member States or the OCTs,
+  including those within the framework of the WTO.</article>
+      <article number="ARTICLE 63" name="Entry Into Force" article_identifier="11495">This Decision shall enter into force on 2 December 2001. It shall be
+  applicable until 31 December 2011.</article>
+      <article number="ARTICLE 64" name="Publication" article_identifier="11496">This Decision shall be published in the Official Journal of the
+  European Communities.
+
+  Done at Brussels, 27 November 2001.
+
+  For the Council
+
+  The President
+
+  A. Neyts-Uyttebroeck
+
+  (1) OJ L 263, 19.9.1991, p. 1. Decision as last amended and extended
+  by Decision 2001/161/EC (OJ L 58, 28.2.2001, p. 21).
+
+  (2) PE 228.210, 1.12.1998.
+
+  (3) Not yet published C5-0070 - 2001/2033 (COS).
+
+  (4) Council Decision 97/803/EC of 29 November 1997 amending at
+  mid-term Decision 91/482/EEC on the association of the overseas
+  countries and territories with the European Economic Community (OJ L
+  329, 29.11.1997, p. 50).
+
+  (5) OJ L 184, 7.7.1999, p. 23.
+
+  (6) OJ L 317, 15.12.2000, p. 355.
+
+  (7) Council Decision 93/626/ΕEC of 25 October 1993 concerning the
+  conclusion of the convention on Biological Diversity (OJ L 309,
+  13.12.1993, p. 1).
+
+  (8) OJ L 318, 20.12.1993, p. 18. Regulation as last amended by
+  Regulation (EC) No 2580/2000 (OJ L 298, 25.11.2000, p. 5).
+
+  (9) OJ L 30, 6.2.1993, p. 1. Regulation as last amended by Commission
+  Decision 1999/816/EC (OJ L 316, 10.12.1999, p. 45).
+
+  (10) Council Decision 93/98/EEC of 1 February 1993 on the conclusion
+  on behalf of the Community, of the Convention on the control of
+  transboundery movements of hazardous wastes and their disposal (Basle
+  Convention) (OJ L 39, 16.2.1993, p. 1).
+
+  (11) Council Regulation (EC) No 1420/1999 of 29 April 1999
+  establishing common rules and procedures to apply to shipments to
+  certain non-OECD countries of certain types of waste (OJ L 166,
+  1.7.1999, p. 6). Regulation as last amended by Commission Regulation
+  (EC) No 1800/2001 (OJ L 244, 14.9.2001, p. 19).
+
+  (12) Commission Regulation No 1547/1999/EC of 12 July 1999 determining
+  the control procedures under Council Regulation (EEC) No 259/93 to
+  apply to shipments of certain types of waste to certain countries to
+  which OECD Decision C(92)39 final does not apply (OJ L 185, 17.7.1999,
+  p. 1). Regulation as last amended by Regulation (EC) No 1800/2001.
+
+  (13) European Parliament and Council Directive No 2000/59/EC of 27
+  November 2000 on port reception facilities for ship-generated waste
+  and cargo residues (OJ L 332, 28.12.2000, p. 81).
+
+  (14) Commission Decision 94/774/EC of 24 November 1994 concerning the
+  standard consignment note referred to in Council Regulation No
+  259/93/EEC on the supervision and control of shipments of waste
+  within, into and out of the European Community (OJ L 310, 3.12.94, p.
+  70).
+
+  (15) OJ L 253, 11.10.1993, p. 1. Regulation as last amended by
+  Regulation (EC) No 993/2001 (OJ L 141, 28.5.2001, p. 1).
+
+  (16) OJ L 336, 23.12.1994, p. 184.</article>
+    </chapter>
+  </body>
+</treaty>

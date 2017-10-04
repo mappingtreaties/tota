@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>Southern African Development Community (SADC)</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>45</wto_rta_id>
+    <treaty_identifier>41</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1996-08-24</date_signed>
+    <date_into_force>2000-09-01</date_into_force>
+    <date_notification>2004-08-02</date_notification>
+    <end_implementation>2015-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AGO</partyisocode>
+      <partyisocode n="2">BWA</partyisocode>
+      <partyisocode n="3">LSO</partyisocode>
+      <partyisocode n="4">MOZ</partyisocode>
+      <partyisocode n="5">MUS</partyisocode>
+      <partyisocode n="6">MWI</partyisocode>
+      <partyisocode n="7">NAM</partyisocode>
+      <partyisocode n="8">SWZ</partyisocode>
+      <partyisocode n="9">TZA</partyisocode>
+      <partyisocode n="10">ZAF</partyisocode>
+      <partyisocode n="11">ZMB</partyisocode>
+      <partyisocode n="12">ZWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AGO</partyisocode>
+      <partyisocode n="2">BWA</partyisocode>
+      <partyisocode n="3">LSO</partyisocode>
+      <partyisocode n="4">MOZ</partyisocode>
+      <partyisocode n="5">MUS</partyisocode>
+      <partyisocode n="6">MWI</partyisocode>
+      <partyisocode n="7">NAM</partyisocode>
+      <partyisocode n="8">SWZ</partyisocode>
+      <partyisocode n="9">SYC</partyisocode>
+      <partyisocode n="10">TZA</partyisocode>
+      <partyisocode n="11">ZAF</partyisocode>
+      <partyisocode n="12">ZMB</partyisocode>
+      <partyisocode n="13">ZWE</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Africa</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <related_agreement_wto_id n="1">948</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.wipo.int/edocs/lexdocs/treaties/en/sadc-pr/trt_sadc_pr.pdf</source>
+    <source lang="en" type="annex">http://www.sadc.int/documents-publications/sadc-treaty/</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="635">
+      <article article_identifier="5527">Preamble : 
+
+The High Contracting Parties : 
+
+-Noting that the Treaty establishing the Southern African Development Community has, in Article 22, expressly called for the conclusion of Protocols as may be necessary in each area of co-operation within the Community ; 
+
+-Considering that trade in goods and services and the enhancement of cross-border investment are major areas of cooperation among the Member States of the Community ; 
+
+-Recognizing that the development of trade and investment is essential to the economic integration of the Community ; 
+
+-Recognizing that an integrated regional market will create new opportunities for a dynamic business sector ; 
+
+-Convinced of the need to strengthen customs co-operation and combat illicit trade within the Community ; 
+
+-Convinced that a framework of trade co-operation among Member States based on equity, fair competition and mutual benefit will contribute to the creation of a viable Development Community in Southern Africa ; 
+
+-Mindful of the different levels of economic development of the Member States of the Community and the need to share equitably the benefits of regional economic integration; 
+
+-Committed to linking the liberalization of trade to a process of viable industrial development, as well as co-operation in finance, investment and other sectors ; 
+
+-Noting the provisions of the Abuja Treaty calling for the establishment of regional and sub-regional economic groupings as building blocs for the creation of the African Economic Community ; 
+
+-Mindful of the results of the Uruguay Round of Multilateral Trade Negotiations on global trade liberalization ; 
+
+-Recognizing the obligations of Member States in terms of existing regional trade arrangements and bilateral trade agreements; 
+
+Hereby Agree as follows:</article>
+    </chapter>
+    <chapter number="PART ONE" name="Definitions And Objectives" chapter_identifier="636">
+      <article number="ARTICLE 1" name="Definitions" article_identifier="5528">“ANNEX” means a legal instrument of implementation of this Protocol, which forms an integral part 
+thereto, and has the same legal force; 
+“Community” means the Organization as defined in Article 1 of the SADC Treaty; 
+“Conformity Assessment” means any procedure used , directly or indirectly, to determine that a 
+
+
+technical regulation or standard is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, accreditation, registration or approval used for such a purpose, but does not mean an approval procedure; 
+
+“Council” means Council of Ministers as defined in Article 1 of the SADC Treaty; “CMT” means the Committee of Ministers responsible for trade matters; “Dumping” means, in accordance with the provisions of Article 6 of GATT (1994) ‘ the introduction 
+
+of a product into the commerce of another country at less than its normal value, if the price of the product exported from one country to another is less than the comparable price in the ordinary course 
+
+of trade, for the like product when destined for consumption in the exporting country; 
+
+
+“Export Duties” means any duties or charges of equivalent effect imposed on, or in connection with, 
+the exportation of goods from any Member State to a consignee in another Member State; 
+“High Contracting Parties” means States as defined in Article 1 of the Treaty; 
+“Import Duties” means customs duties or charges of equivalent effect imposed on, or in connection 
+
+
+with, the importation of goods consigned from any Member State to a consignee in another Member 
+State; 
+“Member State” means a Member State as defined in Article 1 of the Treaty; 
+“Non-Tariff Barrier” (NTB) means any barrier to trade other than import and export duties; 
+
+
+“Originating Goods” means goods of a Member State as provided for in Annex 1 on Rules of Origin; “Quantitative restrictions” means prohibitions or restrictions on imports into, or exports from a Member State whether made effective through quotas, import licences, foreign exchange allocation practices or other measures and requirements restricting imports or exports; 
+
+“Region” means Region as defined in Article 1 of the Treaty; 
+“Safeguard measures” means measures imposed in accordance with Article 20 of this Protocol; 
+“Services” means intangible activities and those enumerated in Annex 1B to the World Trade 
+
+
+Organization’s General Agreement on Trade in Services (GATS); 
+“Sub-Committee” means a committee of experts established under each respective Annex of this 
+
+
+Protocol; 
+
+“Subsidies” shall have the same meaning and interpretation as in the WTO Agreement on Subsidies and countervailing measures; “Third country” means a country other than a Member State; “FTA” means Free Trade Area; “Treaty” means the Treaty establishing the Southern African Development Community; “WTO” means World Trade Organization;</article>
+      <article number="ARTICLE 2" name="Objectives" article_identifier="5529">The objectives of this Protocol are : 
+
+
+1. 	To further liberalize intra-regional trade in goods and services on the basis of fair, mutually equitable and beneficial trade arrangements, complemented by Protocols in other areas. 
+
+
+2. 	To ensure efficient production within SADC reflecting the current and dynamic comparative advantages of its members. 
+
+
+3. 	To contribute towards the improvement of the climate for domestic, cross-border and foreign investment. 
+
+
+4. 	To enhance the economic development, diversification and industrialization of the Region. 
+5. 	To establish a Free Trade Area in the SADC Region.</article>
+    </chapter>
+    <chapter number="PART TWO" name="Trade In Goods" chapter_identifier="637">
+      <article number="ARTICLE 3" name="Elimination Of Barriers To Intra-Sadc Trade" article_identifier="5530">1. 	The process and modalities for the phased elimination of tariffs and non-tariff barriers shall be determined by the Committee of Ministers responsible for trade matters (CMT) having due regard to the following: 
+
+
+(a) 	The existing preferential trade arrangements between and among the Member States. 
+
+
+(b) 	That the elimination of barriers to trade shall be achieved within a time frame of eight 
+
+(8) years from entry into force of this Protocol. 
+
+(c) 	That Member States which consider they may be or have been adversely affected, by removal of tariffs and non-tariff barriers (NTBs) to trade may, upon application to CMT, be granted a grace period to afford them additional time for the elimination of tariffs and (NTBs). CMT shall elaborate appropriate criteria for the consideration of such applications. 
+
+
+(d) 	That different tariff lines may be applied within the agreed time frame for different products, in the process of eliminating tariffs and NTBs. 
+
+
+(e) 	The process and the method of eliminating barriers to intra-SADC trade, and the 
+criteria of listing products for special consideration, shall be negotiated in the context of the Trade Negotiating forum (TNF). 
+
+2. 	The agreed process and modalities for eliminating barriers to intra-SADC trade shall upon adoption, be deemed to form an integral part of this Protocol.</article>
+      <article number="ARTICLE 4" name="Elimination Of Import Duties" article_identifier="5531">1. 	There shall be a phased reduction and eventual elimination of import duties , in accordance with Article 3 of this Protocol, on goods originating in Member States. 
+
+
+2. 	The process should be accompanied by an industrialization strategy to improve the competitiveness of Member States 
+
+
+3. 	The CMT shall adopt such measures as may be necessary to facilitate adjustments arising from the application of this Article. The CMT shall review such measures from time to time. 
+
+
+4. 	Pursuant to paragraph 1, Member States shall not raise import duties beyond those in existence at the time of entry into force of this Protocol. 
+
+
+5. 	Nothing in Paragraph 4 of this Article shall be construed as preventing the imposition of acrossthe-board internal charges. 
+
+
+6. 	This Article shall not apply to fees and similar charges commensurate with costs of any services rendered.</article>
+      <article number="ARTICLE 5" name="Elimination Of Export Duties" article_identifier="5532">1. 	Member States shall not apply any export duties on goods for export to other Member States. 
+
+
+2. 	This Article shall not prevent any Member State from applying export duties necessary to prevent erosion of any prohibitions or restrictions which apply to exports outside the Community, provided that no less favourable treatment is granted to Member States than to third countries.</article>
+      <article number="ARTICLE 6" name="Non-Tariff Barriers" article_identifier="5533">Except as provided for in this Protocol, Member States shall, in relation to intra-SADC trade: 
+
+
+a. 	Adopt policies and implement measures to eliminate all existing forms of NTBs. 
+
+
+b. 	Refrain from imposing any new NTBs.</article>
+      <article number="ARTICLE 7" name="Quantitative Import Restrictions" article_identifier="5534">1. 	Member States Shall not apply any new quantitative restrictions and shall in accordance with Article 3, phase out the existing restrictions on the import of goods originating in Member States, except where otherwise provided for in this Protocol. 
+
+
+2. 	Notwithstanding the provisions of paragraph 1 of this Article, Member States may apply a quota system provided that the tariff rate under such a quote system is more favourable than the rate applied under this Protocol.</article>
+      <article number="ARTICLE 8" name="Quantitative Export Restrictions" article_identifier="5535">1. 	Member States shall not apply any quantitative restrictions on exports to any other Member State, except where otherwise provided for in this Protocol. 
+
+
+2. 	Member States may take such measures as are necessary to prevent erosion of any prohibitions or restrictions which apply to exports outside the Community, provided that no less favourable treatment is granted to Member States than to third countries.</article>
+      <article number="ARTICLE 9" name="General Exceptions" article_identifier="5536">Subject to the requirement that such measures are not applied in a manner which would constitute a means of arbitrary or unjustifiable discrimination between Member States, or a disguised restriction on intra-SADC trade, nothing in Article 7 and 8 of this Protocol shall be construed as to prevent the adoption or enforcement of any measures by a Member State: 
+
+a) 	necessary to protect public morals or to maintain public order; 
+
+b) 	necessary to protect human, animal or plant life or health; 
+
+c) necessary to secure compliance with laws and regulations which are consistent with the provisions of the WTO; d) necessary to protect intellectual property rights, or to prevent deceptive trade practices; 
+
+e) 	relating to transfer of gold, silver, precious and semi-precious stones, including precious and strategic metals; 
+
+f) 	imposed for the protection of national treasures of artistic, historic or archaeological value; 
+
+g) necessary to prevent or relieve critical shortages of foodstuffs in any exporting Member State; h) relating to the conservation of exhaustible natural resources and the environment; or i) necessary to ensure compliance with existing obligations under international agreements.</article>
+      <article number="ARTICLE 10" name="Security Exception" article_identifier="5537">1. 	Nothing in this Protocol shall prevent any Member State from taking measures which it considers necessary for the protection of its security interests or for the purpose of maintaining peace. 
+
+
+2. 	The concerned Member State shall notify the CMT of any such measures.</article>
+      <article number="ARTICLE 11" name="National Agreement" article_identifier="5538">Member States shall accord, immediately and unconditionally, to goods traded within the Community the same treatment as to goods produced nationally in respect of all laws, regulations and requirements affecting their internal sale, offering for sale, purchase, transportation, distribution or use.</article>
+    </chapter>
+    <chapter number="PART THREE" name="Customs Procedures" chapter_identifier="638">
+      <article number="ARTICLE 12" name="Rules Of Origin" article_identifier="5539">Originating goods shall be eligible for Community treatment, in accordance with the provision of Annex I of this Protocol.</article>
+      <article number="ARTICLE 13" name="Co-Operation In Customs Matters" article_identifier="5540">Member States shall, as provided for in Annex II of this Protocol, take appropriate measures, including arrangements regarding Customs administration co-operation, to ensure that the provisions of this Protocol are effectively and harmoniously applied.</article>
+      <article number="ARTICLE 14" name="Trade Facilitation" article_identifier="5541">Member States shall, as provided for in Annex III of this Protocol, take such measures as are necessary to facilitate the simplification and harmonization of trade documentation and procedures.</article>
+      <article number="ARTICLE 15" name="Transit Trade" article_identifier="5542">Products imported into, or exported from, a Member State shall, as provided for in Annex IV of this Protocol, enjoy freedom of transit within the Community and shall only be subject to the payment of the normal rates for services rendered.</article>
+    </chapter>
+    <chapter number="PART FOUR" name="Trade Laws" chapter_identifier="639">
+      <article number="ARTICLE 16" name="Sanitary And Phytosanitary Measures" article_identifier="5543">1. 	Member States shall base their sanitary and phytosanitary measures on international standards, guidelines and recommendations, so as to harmonize sanitary and phytosanitary measures for agricultural and livestock production. 
+
+
+2. 	Member States shall, upon request, enter into consultation with the aim of achieving agreements on recognition of the equivalence of specific sanitary and phytosanitary measures, in accordance with the WTO Agreement on the Application of Sanitary and Phytosanitary Measures.</article>
+      <article number="ARTICLE 17" name="Standards And Technical Regulations On Trade" article_identifier="5544">1. 	Each Member State shall use relevant international standards as a basis for its standards-related measures, except where such standards would be an ineffective or inappropriate means to fulfil its legitimate objectives. 
+
+
+2. 	A Member State’s standards-related measures that conform to an international standard shall be presumed not to create an unnecessary obstacle to trade. 
+
+
+3. 	Without reducing the level of safety, or of protection of human, animal or plant life or health, of the environment or of consumers, without prejudice to the rights of any Member State and taking into account international standardization activities, Member States shall, to the greatest extent practicable, make compatible their respective standards- related measures, so as to facilitate trade in goods and services within the Community. 
+
+
+4. 	Member States accept as equivalent technical regulations of other Member States, even if these regulations differ from their own, provided that they adequately fulfil the objectives of their regulations. 
+
+
+5. 	A Member State shall, upon request of another Member State, seek through appropriate measures, to promote the compatibility of specific standards or conformity assessment procedures that are maintained in its territory, with the standards of conformity assessment procedures maintained in the territory of other Member States.</article>
+      <article number="ARTICLE 18" name="Anti-Dumping Measures" article_identifier="5545">Nothing in this Protocol shall prevent any Member State from applying anti-dumping measures which are in conformity with WTO provisions.</article>
+      <article number="ARTICLE 19" name="Subsidies And Countervailing Measures" article_identifier="5546">1. 	Member States shall not grant subsidies which distort or threaten to distort competition in the Region. 
+
+
+2. 	Notwithstanding paragraph 1 of this Article, a Member State may continue to apply a subsidy in accordance with Article III. 
+
+
+3. 	A Member State may, for the purposes of offsetting the effects of subsidies and subject to WTO provisions, levy countervailing duties on a product of another Member States. 
+
+
+4. Notwithstanding the provisions of paragraph 1 of this Article, a Member State may introduce a new subsidy only in accordance with WTO provisions.</article>
+      <article number="ARTICLE 20" name="Safeguard Measures" article_identifier="5547">1. 	A Member State may apply a safeguard measure to a product only if that Member State has determined that such product is being imported to its territory in such increased quantities, absolute or relative to domestic production, and under such conditions as to cause or threaten to cause serious injury to the domestic industry that produces like or directly competitive products. 
+
+
+2. 	A serious industry shall be determined in accordance with Article IV of the WTO Agreement on Safeguards. 
+
+
+3. 	Safeguard measures shall be applied to a product being imported irrespective of its source within the Region. 
+
+
+4. 	In applying measures in accordance with paragraph 1 of this article, a Member State shall give like treatment to all imports of originating goods. 
+
+
+5. 	A member State shall apply safeguard measures only to the extent and for such period of time necessary to prevent or remedy serious injury and to facilitate adjustment. In accordance with Article 7 of the WTO Agreement on Safeguards, the period shall not exceed four years, unless the competent authorities of the importing Member State have determined that the safeguard measure continues to be necessary to prevent or remedy serious injury and that there is evidence that the industry is adjusting. 
+
+
+6. 	Notwithstanding the provision of paragraph 5 of this Article, the total period of application of a safeguard measures shall not exceed eight (8) years.</article>
+      <article number="ARTICLE 21" name="Protection Of Infant Industries" article_identifier="5548">1. 	Notwithstanding the provisions of Article 4 of this Protocol, upon the application by a Member State, the CMT may as a temporary measure in order to promote an infant industry, and subject to WTO provisions, authorize a Member State to suspend certain obligations of this Protocol in respect of like goods imported from the other Member States. 
+
+
+2. 	The CMT may, in taking decisions under paragraph 1 of this Article, impose terms and conditions to which such authorization shall be subject, for the purposes of preventing or minimizing excessive disadvantages as those which may result in trade imbalances. 
+
+
+3. 	The CMT shall regularly review the protection of infant industries by a Member State applied in accordance with paragraph 1 of this Article.</article>
+    </chapter>
+    <chapter number="PART FIVE" name="Trade Related Investment Matters" chapter_identifier="640">
+      <article number="ARTICLE 22" name="Cross-Border Investment" article_identifier="5549">Member States shall adopt policies and implement measures within the Community to promote an open cross-border investment regime, thereby enhancing economic development, diversification and industrialization.</article>
+    </chapter>
+    <chapter number="PART SIX" name="Other Trade Related Issues" chapter_identifier="641">
+      <article number="ARTICLE 23" name="Trade In Services" article_identifier="5550">1. 	Member States recognize the importance of trade in services for the development of the economies of SADC countries. 
+
+
+2. 	Member States shall adopt policies and implement measures in accordance with their obligations on terms of the WTO’s General Agreement on Trade in Services (GATS), with a view to liberalizing their services sector within the Community.</article>
+      <article number="ARTICLE 24" name="Intellectual Property Rights" article_identifier="5551">Member States shall adopt policies and implement measures within the Community for the protection of Intellectual Property Rights, in accordance with the WTO Agreement on Trade-Related Aspects of intellectual Property Rights.</article>
+      <article number="ARTICLE 25" name="Competition Policy" article_identifier="5552">Member States shall implement measures within the Community that prohibit unfair practices and promote competition.</article>
+      <article number="ARTICLE 26" name="Trade Development" article_identifier="5553">Member States shall adopt comprehensive trade development measures aimed at promoting trade within the Community, as provided for in Annex V of this Protocol.</article>
+    </chapter>
+    <chapter number="PART EIGHT" name="Trade Relations Among Member States And With Third Countries" chapter_identifier="642">
+      <article number="ARTICLE 27" name="Preferential Trade Arrangements" article_identifier="5554">1. 	Member States may maintain preferential trade and other trade related arrangements existing at the time of entry into force of this Protocol; 
+
+
+2. 	Member States may enter into new preferential trade arrangements between themselves, provided that such arrangements are not inconsistent with the provisions of this Protocol. 
+
+
+3. 	Notwithstanding the provisions of paragraph 1 and 2 of this Article, Member States party to any existing preferential trade arrangements and other trade related arrangements undertake to review the further application of such preferential trade arrangements, with a view to attaining the objectives of this Protocol.</article>
+      <article number="ARTICLE 28" name="Most Favoured Nation Treatment" article_identifier="5555">1. 	Member States shall account Most Favoured Nation Treatment to one another. 
+
+
+2. 	Nothing in this Protocol shall prevent a Member State from granting or maintaining preferential trade arrangements with third countries, provided such trade arrangements do not impede or frustrate the objectives of this Protocol and that any advantage, concession, privilege or power granted to a third country under such arrangements is extended to other Member States. 
+
+
+3. 	Notwithstanding the provisions of paragraph 2 of this Article, a Member State shall not be obliged to extend preferences of another trading bloc of which that Member State was a member at the time of entry into force of this Protocol.</article>
+      <article number="ARTICLE 29" name="Coordination Of Trade Policies" article_identifier="5556">Member States shall, to their best endeavour, coordinate their trade policies and negotiating positions in respect of relations with third countries or groups of third countries and international organizations as provided for in Article XXIV of the Treaty, to facilitate and accelerate the achievement of the objectives of this Protocol.</article>
+      <article number="ARTICLE 30" name="Co-Operation With Third Countries Or Groups Of Third Countries" article_identifier="5557">Member States shall develop co-operation and conclude agreements with third countries or groups of third countries and international organizations as provided for in Article XXIV of the Treaty, to facilitate and accelerate the achievement of the objectives of this Protocol.</article>
+    </chapter>
+    <chapter number="PART NINE" name="Institutional Arrangements And Dispute Settlement Procedures" chapter_identifier="643">
+      <article number="ARTICLE 31" name="Institutional Arrangements" article_identifier="5558">1. 	The institutional mechanisms for the implementation of this Protocol shall comprise the CMT, Committee of Senior Officials responsible for trade matters, the TNF and the Sector Coordinating Unit. 
+
+
+2. 	The Committee of Ministers shall be responsible for trade matters including the following: a) supervision of the implementation of this Protocol; b) appointment of panels of trade experts to resolve disputes that may arise regarding the 
+
+interpretation or application of this Protocol; c) supervision of the work of any committee or sub-committee established under this Protocol. 
+
+3. 	The Committee of Senior Officials shall: a) report to the CMT on matters relating to the implementation of the provisions contained 
+in this Protocol; 
+b) supervise the work of the Sector Coordinating Unit; 
+
+
+c) 	clear the documents prepared by the Sector Coordinating Unit to be submitted to the CMT; 
+
+d) 	liaise closely with both the CMT and the Sector Coordinating Unit; 
+
+e) 	monitor the implementation of this Protocol; 
+
+f) 	supervise the work of the TNF. 
+
+4. 	The Trade Negotiation forum shall be responsible for the conduct of trade negotiations and shall report to the Committee of Senior Officials. Its functions shall include: 
+
+a) 	regular reviews in which offers shall be made and where the removal of non-tariff barriers shall be requested or offered; 
+
+b) 	the creation of a research capacity of experts to monitor the impact of measures already implemented, and offer advice on the potential impact of offers under discussion; 
+
+c) 	the establishment of a linkage between trade liberalization and industrial policy coordination, as well as other areas of sectoral co-operation; and 
+
+d) 	the establishment of a regional framework on the phased reduction and eventual elimination of tariff and NTBs to trade among Member States. 
+
+5. 	The Sector Coordinating Unit shall perform the following functions: a) coordinate the day-to-day operations in the implementation of this Protocol; 
+
+b) 	provide technical and administrative assistance to the CMT, the Committee of Senior Officials and the TNF; 
+
+c) 	provide assistance to subsidiary committees, sub-committees and panels established to implement this Protocol; 
+
+d) 	work closely with the private sector; 
+
+e) 	identify research needs and priorities in the trade area.</article>
+      <article number="ARTICLE 32" name="Settlement Of Disputes" article_identifier="5559">1. 	Member States shall endeavour to agree on the interpretation and application of this Protocol, and shall make every effort, through co-operation and consultation, to arrive at a mutually satisfactory agreement. 
+
+
+2. 	The settlement of any dispute among Member States shall, whenever possible, imply removal of a measure not conforming with the provisions of this Protocol or causing mollification or impairment of such provision. 
+
+
+3. 	Falling a settlement as provided in paragraph 2 of this Article, withdrawal of equivalent concession may be implemented by the Member State suffering the injury. 
+
+
+4. 	In case of disagreement, the Member States may take recourse to a panel of trade experts. 
+
+
+5. 	The appointment, composition, powers and functions of the panels of trade experts shall be determined by the CMT 
+
+
+6. 	As a last resort, disputes regarding the interpretation and application of this Protocol shall be 
+settled in accordance with Article 32 of the Treaty.</article>
+      <article number="ARTICLE 33" name="General Undertaking" article_identifier="5560">1. 	Member States shall take all appropriate measures to ensure the carrying out of the obligations arising from this Protocol. 
+
+
+2. 	Member States shall co-operate in addressing any impediments to intra-SADC trade that may arise as a result of any action or lack of action by any Member State on issues having material bearing on such trade and which are not covered elsewhere in this Protocol. 
+
+
+3. 	In the event that Member States disagree on the existence of impediments to intra-SADC trade, the Member States may have recourse to the provisions of Article 32 of this Protocol.</article>
+      <article number="ARTICLE 34" name="Amendments" article_identifier="5561">Amendments to this Protocol shall be in accordance with the procedures established by Article 36 of the Treaty.</article>
+      <article number="ARTICLE 35" name="Signature" article_identifier="5562">This Protocol shall be signed by the High Contracting Parties.</article>
+      <article number="ARTICLE 36" name="Ratification" article_identifier="5563">This Protocol shall be ratified by the Member States in accordance with their constitutional procedures.</article>
+      <article number="ARTICLE 37" name="Entry Into Force" article_identifier="5564">This Protocol shall enter into force 30 days after the deposit of the Instruments of Ratification by two-thirds of the Member States.</article>
+      <article number="ARTICLE 38" name="Accession" article_identifier="5565">This Protocol shall remain open for accession by any Member State.</article>
+      <article number="ARTICLE 39" name="Depositary" article_identifier="5566">1. 	This Protocol and all instruments of Ratification or Accession shall be deposited with the Executive Secretary, who shall transmit certified true copies thereof, to all Member States. 
+
+
+2. 	The Executive Secretary of SADC shall notify the Member States of the dates of deposit of Instruments of Ratification and Accession. 
+
+
+3. 	The Executive Secretary shall register this Protocol with the United Nations, the Organization of African Unity and such other organizations as the Council may determine.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="644">
+      <article article_identifier="5567">IN WITNESS WHEREOF, WE, the Heads of State or Government or duly Authorized Representatives of SADC Member States have signed this Protocol. 
+
+Done at ............................... this ......... day of August.........in two (2) original texts in the English and Portuguese languages, both texts being equally authentic. 
+
+...................................................................................................................................................... 
+
+
+Republic of Angola Republic of Botswana 
+
+...................................................................................................................................................... 
+
+Kingdom of Lesotho Republic of Malawi 
+
+...................................................................................................................................................... 
+
+
+Republic of Namibia Republic of South Africa 
+
+...................................................................................................................................................... 
+
+
+Kingdom of Swaziland United Republic of Tanzania 
+
+...................................................................................................................................................... 
+
+
+Republic of Zambia Republic of Zimbabwe</article>
+    </chapter>
+  </body>
+</treaty>

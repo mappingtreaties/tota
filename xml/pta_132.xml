@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>Global System of Trade Preferences among Developing Countries (GSTP)</name>
+    <type>Partial Scope Agreement</type>
+    <wto_rta_id>146</wto_rta_id>
+    <treaty_identifier>132</treaty_identifier>
+    <status>In Force</status>
+    <notification>Enabling Clause</notification>
+    <date_signed>1988-04-13</date_signed>
+    <date_into_force>1989-04-19</date_into_force>
+    <date_notification>1989-09-25</date_notification>
+    <end_implementation>1989-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">ARG</partyisocode>
+      <partyisocode n="2">BEN</partyisocode>
+      <partyisocode n="3">BGD</partyisocode>
+      <partyisocode n="4">BOL</partyisocode>
+      <partyisocode n="5">BRA</partyisocode>
+      <partyisocode n="6">CHL</partyisocode>
+      <partyisocode n="7">CMR</partyisocode>
+      <partyisocode n="8">COL</partyisocode>
+      <partyisocode n="9">CUB</partyisocode>
+      <partyisocode n="10">DZA</partyisocode>
+      <partyisocode n="11">ECU</partyisocode>
+      <partyisocode n="12">EGY</partyisocode>
+      <partyisocode n="13">GHA</partyisocode>
+      <partyisocode n="14">GIN</partyisocode>
+      <partyisocode n="15">GUY</partyisocode>
+      <partyisocode n="16">IDN</partyisocode>
+      <partyisocode n="17">IND</partyisocode>
+      <partyisocode n="18">IRN</partyisocode>
+      <partyisocode n="19">IRQ</partyisocode>
+      <partyisocode n="20">KOR</partyisocode>
+      <partyisocode n="21">LBY</partyisocode>
+      <partyisocode n="22">LKA</partyisocode>
+      <partyisocode n="23">MAR</partyisocode>
+      <partyisocode n="24">MEX</partyisocode>
+      <partyisocode n="25">MMR</partyisocode>
+      <partyisocode n="26">MOZ</partyisocode>
+      <partyisocode n="27">MYS</partyisocode>
+      <partyisocode n="28">NGA</partyisocode>
+      <partyisocode n="29">NIC</partyisocode>
+      <partyisocode n="30">PAK</partyisocode>
+      <partyisocode n="31">PER</partyisocode>
+      <partyisocode n="32">PHL</partyisocode>
+      <partyisocode n="33">PRK</partyisocode>
+      <partyisocode n="34">ROU</partyisocode>
+      <partyisocode n="35">SDN</partyisocode>
+      <partyisocode n="36">SGP</partyisocode>
+      <partyisocode n="37">THA</partyisocode>
+      <partyisocode n="38">TTO</partyisocode>
+      <partyisocode n="39">TUN</partyisocode>
+      <partyisocode n="40">TZA</partyisocode>
+      <partyisocode n="41">VEN</partyisocode>
+      <partyisocode n="42">VNM</partyisocode>
+      <partyisocode n="43">ZWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">ARG</partyisocode>
+      <partyisocode n="2">BEN</partyisocode>
+      <partyisocode n="3">BGD</partyisocode>
+      <partyisocode n="4">BOL</partyisocode>
+      <partyisocode n="5">BRA</partyisocode>
+      <partyisocode n="6">CHL</partyisocode>
+      <partyisocode n="7">CMR</partyisocode>
+      <partyisocode n="8">COL</partyisocode>
+      <partyisocode n="9">CUB</partyisocode>
+      <partyisocode n="10">DZA</partyisocode>
+      <partyisocode n="11">ECU</partyisocode>
+      <partyisocode n="12">EGY</partyisocode>
+      <partyisocode n="13">GHA</partyisocode>
+      <partyisocode n="14">GIN</partyisocode>
+      <partyisocode n="15">GUY</partyisocode>
+      <partyisocode n="16">IDN</partyisocode>
+      <partyisocode n="17">IND</partyisocode>
+      <partyisocode n="18">IRN</partyisocode>
+      <partyisocode n="19">IRQ</partyisocode>
+      <partyisocode n="20">KOR</partyisocode>
+      <partyisocode n="21">LBY</partyisocode>
+      <partyisocode n="22">LKA</partyisocode>
+      <partyisocode n="23">MAR</partyisocode>
+      <partyisocode n="24">MEX</partyisocode>
+      <partyisocode n="25">MMR</partyisocode>
+      <partyisocode n="26">MOZ</partyisocode>
+      <partyisocode n="27">MYS</partyisocode>
+      <partyisocode n="28">NGA</partyisocode>
+      <partyisocode n="29">NIC</partyisocode>
+      <partyisocode n="30">PAK</partyisocode>
+      <partyisocode n="31">PER</partyisocode>
+      <partyisocode n="32">PHL</partyisocode>
+      <partyisocode n="33">PRK</partyisocode>
+      <partyisocode n="34">SDN</partyisocode>
+      <partyisocode n="35">SGP</partyisocode>
+      <partyisocode n="36">THA</partyisocode>
+      <partyisocode n="37">TTO</partyisocode>
+      <partyisocode n="38">TUN</partyisocode>
+      <partyisocode n="39">TZA</partyisocode>
+      <partyisocode n="40">VEN</partyisocode>
+      <partyisocode n="41">VNM</partyisocode>
+      <partyisocode n="42">ZWE</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Africa; South America; West Asia; Caribbean; East Asia; Middle East; North America; Central America</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://unctad.org/en/Docs/ditcmisc57_en.pdf</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1392">
+      <article article_identifier="11372">Preamble 
+
+The States parties to this Agreement, 
+
+Recognizing that economic co-operation among developing countries is a key element in the strategy of collective self-reliance and an essential instrument to promote structural changes contributing to a balanced and equitable process of global economic development and the establishment of the New International Economic Order; 
+
+Recognizing also that a Global System of Trade Preference (hereinafter referred to as “GSTP”) would constitute a major instrument for the promotion of trade among developing countries members of the Group of 77, and the increase of production and employment in these countries; 
+
+Bearing in mind the Arusha Programme of Collective Self-Reliance, the Caracas Programme of Action and the Declarations on GSTP adopted by the Ministers of Foreign Affairs of the Group of 77 in New York in 1982, and the Ministerial meetings on GSTP in New Delhi in 1985, in Brasilia in 1986 and in Belgrade in 1988; 
+
+Believing that the establishment of the GSTP should be accorded high priority as a major instrument of South-South co-operation, for the promotion of collective self-reliance as well as for the strengthening of world trade as a whole; 
+
+HAVE AGREED as follows:</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="Introduction" chapter_identifier="1393">
+      <article number="ARTICLE 1" name="Definitions" article_identifier="11373">For the purpose of this Agreement: 
+
+
+(a) “Participant” means: 
+
+
+(i) Any member of the Group of 77 listed in annex I which has exchanged concessions and has become party to this Agreement in accordance with its articles 25, 27 or 28; 
+
+
+(ii) Any sub-regional/regional/inter-regional grouping of developing countries members of the Group of 77 listed in annex I which has exchanged concessions and has become party to this Agreement in accordance with its articles 25, 27 or 28; 
+
+(b) “Least developed country” means a country designated as such by the United Nations; 
+
+
+(c) “State” or “country” means any state or country member of the Group of 77; 
+
+
+(d) “Domestic producers” means physical or juridical persons established in the territory of a participant which are engaged in production of commodities and manufactures, including industrial, agricultural, extractive or mining products, in their raw, semi-processed or processed forms in that territory. Furthermore, for the purpose of determining “serious injury” or “threat of serious injury”, the term “domestic producers” in this Agreement shall mean domestic producers as a whole of like or similar products, or those of them whose collective output of the products constitutes a major proportion of the total domestic production of those products; 
+
+
+(e) 	“Serious injury” means significant damage to domestic producers, of like or similar products resulting from a substantial increase of preferential imports in situations which cause substantial losses in terms of earnings, production or employment unsustainable in the short term. The examination of the impact on the domestic industry concerned shall also include an evaluation of other relevant economic factors and indices having a bearing on the state of the domestic industry of that product; 
+
+
+(f) 	“Threat of serious injury” means a situation in which a substantial increase of preferential imports is of a nature to cause “serious injury” to domestic producers, and that such injury, although not yet existing, is imminent. A 
+
+determination of threat of serious injury shall be based on facts and not on mere allegation, conjecture, or remote or hypothetical possibility; 
+
+(g) 	“Critical circumstances” means the emergence of an exceptional situation where massive preferential imports are causing or threatening to cause “serious injury” difficult to repair and which calls for immediate action; 
+
+
+(h) 	“Sectoral agreements” means agreements amongst participants regarding the removal or reduction of tariff, non-tariff and para-tariff barriers as well as other trade promotion or co-operative measures for specified products or groups of products closely related in end use or in production; 
+
+
+(i) 	“Direct trade measures” means measures conducive to promoting mutual trade of participants such as long- and medium-term contracts containing import and supply commitments in respect of specific products, buy-back arrangements, state trading operations, and government and public procurement; 
+
+
+(j) 	“Tariffs” means custom duties stipulated in the national tariff schedules of the participants; 
+
+
+(k) 	“Non-tariffs” means any measure, regulation, or practice, other than “tariffs” and “para-tariffs”, the effect of which is to restrict imports, or to significantly distort trade; 
+
+
+(l) 	“Para-tariffs” means border charges and fees, other than “Tariffs”, on foreign trade transactions of a tariff-like effect which are levied solely on imports, but not those indirect taxes and charges, which are levied in the same manner on like domestic products. Import charges corresponding to specific services rendered are not considered as para-tariff measures.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Global System Of Trade Preferences" chapter_identifier="1394">
+      <article number="ARTICLE 2" name="Establishment And Aims Of The Gstp" article_identifier="11374">By the present Agreement, the participants establish the GSTP to promote and sustain mutual trade, and the development of economic co-operation among developing countries, through exchange of concessions in accordance with this Agreement.</article>
+      <article number="ARTICLE 3" name="Principles" article_identifier="11375">The GSTP shall be established in accordance with the following principles: 
+
+
+(a) 	The GSTP shall be reserved for the exclusive participation of developing countries members of the Group of 77; 
+
+
+(b) 	The benefits of the GSTP shall accrue to the developing countries members of the Group of 77 who are participants in accordance with article 1 (a); 
+
+
+(c) 	The GSTP shall be based and applied on the principle of mutuality of advantages in such a way as to benefit equitably all participants, taking into account their respective levels of economic and industrial development, the pattern of their external trade and their trade policies and systems; 
+
+
+(d) 	The GSTP shall be negotiated step by step, improved and extended in successive stages, with periodic reviews; 
+
+
+(e) 	The GSTP shall not replace, but supplement and reinforce, present and future subregional, regional and interregional economic groupings of developing countries of the Group of 77, and shall take into account the concerns and commitments of such economic groupings; 
+
+
+(f) 	The special needs of the least developed countries shall be clearly recognized and concrete preferential measures in favour of these countries should be agreed upon; the least developed countries will not be required to make concessions on a reciprocal basis; 
+
+
+(g) 	The GSTP shall include all products, manufactures, and commodities in their raw, semi-processed and processed forms; 
+
+
+(h) 	Intergovernmental subregional, regional and interregional groupings for economic co-operation among developing countries members of the Group of 
+77 may participate, fully as such, if and when they consider it desirable, in any or all phases of the work on the GSTP.</article>
+      <article number="ARTICLE 4" name="Components Of The Gstp" article_identifier="11376">The GSTP may inter alia consist of the following components: 
+
+
+(a) 	arrangements relating to tariffs; 
+
+
+(b) 	arrangements relating to para-tariffs; 
+
+
+(c) 	arrangements relating to non-tariff measures; 
+
+
+(d) 	arrangements relating to direct trade measures including medium and long-term contracts; 
+
+
+(e) 	arrangements relating to sectoral agreements.</article>
+      <article number="ARTICLE 5" name="Schedules Of Concessions" article_identifier="11377">The tariff, para-tariff and non-tariff concessions negotiated and exchanged among participants shall be embodied in schedules of concessions which shall be annexed to and form an integral part of this Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Negotiations" chapter_identifier="1395">
+      <article number="ARTICLE 6" name="Negotiations" article_identifier="11378">1. The participants may hold from time to time rounds of bilateral/plurilateral/multilateral negotiations with a view to the further expansion of the GSTP and the fuller attainment of its aims. 
+
+
+2. The participants may conduct their negotiations in accordance with any or a combination of the following approaches and procedures: 
+
+
+(a) 	Product-by-product negotiations; 
+
+
+(b) 	Across-the-board tariff reductions; 
+
+
+(c) 	Sectoral negotiations; 
+(d) 	Direct trade measures, including medium and long term contracts.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Committee Of Participants" chapter_identifier="1396">
+      <article number="ARTICLE 7" name="Establishment And Functions" article_identifier="11379">1. A committee of participants (hereinafter referred to as the “Committee”) shall be established, upon entry into force of this Agreement, consisting of the representatives of the Governments of the participants. The Committee shall perform such functions as may be necessary to facilitate the operation and further the objectives of this Agreement. The Committee shall be responsible for reviewing the application of this Agreement and the instruments adopted within its framework, monitoring the implementation of the results of the negotiations, carrying out consultations, making recommendations and taking decisions as required, and, in general, undertaking whatever measures may be required to ensure the adequate implementation of the objectives and the provisions of this Agreement. 
+
+
+(a) 	The Committee shall keep under review the possibility of promoting further negotiations for the enlargement of the schedules of concessions and for the enhancement of trade among participants through other measures and may at any time sponsor such negotiations. The Committee shall also ensure prompt and complete dissemination of trade information in order to promote trade among participants; 
+
+
+(b) 	The Committee shall review disputes and make recommendations thereon in accordance with article 21 of this Agreement; 
+
+
+(c) 	The Committee may establish such subsidiary organs as may be necessary to the effective discharge of its functions; 
+
+
+(d) 	The Committee may adopt appropriate regulations and rules as may be necessary to the implementation of this Agreement. 
+2. 	a) The Committee shall endeavour to ensure that all its decisions are taken by consensus; 
+
+
+(b) 	Notwithstanding any measures that may be taken in compliance with paragraph 2(a) of this article, a proposal or motion before the Committee shall be voted on if a representative so requests; 
+
+
+(c) 	Decisions shall be taken by two-thirds majority on matters of substance and a simple majority on matters of procedure. 
+
+3. 	The Committee shall adopt its rules of procedure. 
+
+
+4. The Committee shall adopt financial rules and regulations.</article>
+      <article number="ARTICLE 8" name="Co-Operation With International Organizations" article_identifier="11380">The Committee shall make whatever arrangements are appropriate for consultation or cooperation with the United Nations and its organs, in particular United Nations Conference on Trade and Development (UNCTAD) and the specialized agencies of the United Nations, as well as intergovernmental, subregional, regional and interregional groupings for economic co-operation among developing countries members of the Group of 77.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Ground Rules" chapter_identifier="1397">
+      <article number="ARTICLE 9" name="Extension Of Negotiated Concessions" article_identifier="11381">1. Except as provided for in paragraphs 2 and 3 of this article, all tariff, para-tariff and non-tariff concessions, negotiated and exchanged among participants in the bilateral/plurilateral negotiations shall, when implemented, be extended to all participants in the GSTP negotiations on a most-favoured-nation (MFN) basis. 
+
+
+2. Subject to Rules and Guidelines prescribed in this regard, participants parties to direct trade measures, sectoral agreements or agreements on non-tariff concessions may decide not to extend the concessions linked to such agreements to other participants. Such non-extension shall not have a detrimental impact on the trade interests of other participants, and when it has such an effect, the matter shall be submitted to the Committee for consideration and decision. Such agreements shall be open to all participants in the GSTP through direct negotiations. The Committee shall be informed of the initiation of negotiations on such agreements as well as on their provisions once concluded. 
+
+
+3. Notwithstanding the provisions of paragraphs 1 and 2 of this article, participants may grant tariff, non-tariff and para-tariff concessions applicable exclusively to exports originating from participating least developed countries. Such concessions, when implemented, shall apply in equal measures to all participating least developed countries. If after granting of any exclusive right it proves detrimental to the legitimate trading interest of other participants, the matter may be brought to the Committee for a review of such arrangements.</article>
+      <article number="ARTICLE 10" name="Maintenance Of The Value Of Concessions" article_identifier="11382">Subject to terms, conditions or qualifications that might be set out in the schedules containing the concessions granted, a participant shall not impair or nullify these concessions, after entry into force of this Agreement, through the application of any charge or measure restricting commerce other than those existing prior thereto, except where such charge corresponds to an internal tax imposed on a like domestic product, an anti-dumping or countervailing duty, or fees commensurate with the cost of services rendered, and except any measures authorized under articles 13 and 14.</article>
+      <article number="ARTICLE 11" name="Modification And Withdrawal Of Concessions" article_identifier="11383">1. Any participant may, after a period of 3 years from the day the concession was extended, notify the Committee of its intention to modify or withdraw any concession included in its appropriate schedule. 
+
+
+2. The participant intending to withdraw or modify a concession shall enter into consultation and/or negotiations, with a view to reaching agreement on any necessary and appropriate compensation, with participants with which such concession was initially negotiated and with any other participants that have a principal or substantial supplying interest as may be determined by the Committee. 
+
+
+3. Should no agreement be reached between the participants concerned within six months of the receipt of notification and should the notifying participant proceed with its modification or withdrawal of such concessions, the affected participants as determined by the Committee may withdraw or modify equivalent concessions in their appropriate schedules. Any such modification or withdrawal should be notified to the Committee.</article>
+      <article number="ARTICLE 12" name="Withholding Or Withdrawal Of Concessions" article_identifier="11384">A participant shall at any time be free to withhold or to withdraw in whole or in part any item in its schedule of concessions in respect of which it determines that it was initially negotiated with a State which has not become, or has ceased to be, a participant in this Agreement. A participant taking such action shall notify the Committee and, upon request, consult with participants that have a substantial interest in the product concerned.</article>
+      <article number="ARTICLE 13" name="Safeguard Measures" article_identifier="11385">A participant shall be able to take safeguard measures to ward off serious injury or threats of serious injury to domestic producers of like or similar products, which may arise as a direct consequence of unforeseen substantial rise of imports enjoying preferences under the GSTP. 
+
+1. Safeguard measures shall be in accordance with the following rules: 
+
+
+(a) 	Safeguard measures should be consistent with the aims and objectives of the GSTP. These measures should be applied in a non-discriminatory fashion among the participants in the GSTP. 
+
+
+(b) 	Safeguard measures should be in effect only to the extent and for such time as may be necessary to prevent or remedy such injury. 
+
+
+(c) 	As a general rule and except in critical circumstances, all safeguard measures shall be taken after consultation between interested participants. Participants intending to take such safeguard measures will be required to demonstrate to the satisfaction of the concerned parties within the Committee the serious injury or threat thereof justifying such measures. 
+2. Safeguard action to ward off serious injury or a threat of injury should be in accordance with the following procedures: 
+
+
+(a) 	Notification: Any participant intending to take safeguard measures should notify the Committee of its intention, and the Committee shall circulate this notification to all participants. Upon receipt of such notification, interested participants intending to enter into consultations with the initiating participants shall so notify the Committee within 30 days. In critical circumstances when delay could cause damage which would be difficult to repair, action may be taken provisionally without prior consultations, on the condition that consultations shall be effected immediately after taking such action; 
+
+
+(b) 	Consultation: Interested participants should enter into consultations for the purpose of reaching an agreement as to the nature of the safeguard measures to be taken, or already taken, and its duration, and as to compensation or the renegotiation of concessions. These consultations should be concluded within three months of receipt of the original notification. Should these consultations not lead to an agreement satisfactory to all parties within the time period specified above, the matter should be referred to the Committee for resolution of the issue. Should the Committee fail to resolve the issue within four weeks of the date of its having been referred to it, the parties affected by the safeguard action have the right to withdraw equivalent concessions or other obligations under GSTP of which the Committee does not disapprove of.</article>
+      <article number="ARTICLE 14" name="Balance-Of-Payments Measures" article_identifier="11386">If a participant faces serious economic problems during the implementation of the GSTP, such participant shall be able to take measures to meet serious balance-of-payments difficulties. 
+
+
+1. Any participant, which finds it necessary to institute or intensify quantitative restrictions or other measures limiting imports concerning products or areas where concessions have been offered with a view to forestalling the threat of or stopping a serious decline in its monetary reserves, shall endeavour to do so in order to prevent or remedy such difficulties, in a manner which preserves, as much as possible, the value of negotiated concessions. 
+
+
+2. Such action shall be notified immediately to the Committee which shall circulate such notification to all participants. 
+
+
+3. Any participant which takes action according to paragraph 1 of this article shall afford, upon request from any other participant, adequate opportunity for consultations with a view to preserving the stability of the concessions negotiated under the GSTP. If no satisfactory adjustment is effected between the participants concerned within three months of such notification, the matter may be referred to the Committee for a review.</article>
+      <article number="ARTICLE 15" name="Rules Of Origin" article_identifier="11387">Products contained in the schedules of concessions annexed to this Agreement shall be eligible for preferential treatment if they satisfy the Rules of Origin, which shall be annexed to and form an integral part of this Agreement.</article>
+      <article number="ARTICLE 16" name="Procedures Relating To The Negotiations Of Long-Term And Medium-Term Contracts Among Interested Participants In The Gstp" article_identifier="11388">1. Within the framework of this Agreement, long-term and medium-term contracts involving import and export commitments in respect to specific commodities or products may be entered into among participants. 
+
+
+2. To facilitate the negotiation and conclusion of such contracts: 
+
+
+(a) 	exporting participants should indicate the commodities or products for which they may be prepared to undertake supply commitments together with an indication of the quantities that may be involved; 
+
+
+(b) 	importing participants should indicate the commodities or products for which they could envisage undertaking import commitments and, where possible, an indication of the quantities that may be involved; and 
+
+
+(c) 	The Committee will provide assistance for the multilateral exchange of information provided under (a) and (b) above and for bilateral and/or multilateral negotiations among interested exporting and importing participants for the purpose of concluding long-term and medium-term contracts. 
+
+3. Participants concerned should notify the Committee of the conclusion of long-term and medium-term contracts as soon as possible.</article>
+      <article number="ARTICLE 17" name="Special Treatment For Least Developed Countries" article_identifier="11389">1. In accordance with the Ministerial Declaration on the GSTP, the special needs of the least developed countries shall be clearly recognized, and concrete preferential measures in favour of these countries shall be agreed on. 
+
+
+2. To become a participant a least developed country shall not be required to make concessions on a reciprocal basis, and such participating least developed country shall benefit from the extension of all tariff, para-tariff and non-tariff concessions exchanged in the bilateral/plurilateral negotiations which are multilateralized. 
+
+
+3. Participating least developed countries should identify their export products for which they may wish to seek concessions in the markets of other participants. Technical assistance by the United Nations and other participants in a position to do so, including the provision of relevant information relating to trade in the products concerned and the major developing import markets, together with market trends and prospects and trade regimes of the participants, should be provided to these countries on a priority basis to assist them in this task. 
+
+
+4. Participating least developed countries may, with respect to export products and markets identified under paragraph 3 above, make specific requests to other participants for tariff, para-tariff and non-tariff concessions and/or direct trade measures, including longterm contracts. 
+
+
+5. Special consideration shall be given to exports from participating least developed countries in the application of safeguard measures. 
+
+
+6. The concessions sought in respect to these products may include: 
+
+
+(a) 	duty-free access, particularly for processed and semi-processed goods;  
+
+
+(b) 	the removal of non-tariff barriers; 
+
+
+(c) 	the removal, where appropriate, of para-tariff barriers; 
+
+
+(d) 	the negotiation of long-term contracts with a view to assisting participating least developed countries to achieve reasonable levels of sustainable exports of their products. 
+
+7. Participants shall sympathetically consider requests from participating least developed countries for concessions sought under paragraph 6 above and shall endeavour, wherever possible, to meet such requests, in whole or in part, as a manifestation of concrete preferential measures to be agreed on in favour of participating least developed countries.</article>
+      <article number="ARTICLE 18" name="Subregional, Regional And Interregional Groupings" article_identifier="11390">Tariff, para-tariff and non-tariff preferences applicable within existing subregional, regional and interregional groupings of developing countries notified and registered in this Agreement shall retain their essential character, and there shall be no obligation on the members of such groupings to extend, nor the right of other participants to enjoy the benefits of such preferences. The provisions of this paragraph shall apply equally to the preferential agreements concluded with a view to creating subregional, regional and interregional groupings of developing countries and to future subregional, regional and interregional groupings of developing countries that will be notified as such and duly registered in this Agreement. Furthermore, these provisions shall apply in equal measures to all tariff, paratariff and non-tariff preferences which may in the future become applicable within such subregional, regional or interregional groupings.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="Consultations And Settlement Of Disputes" chapter_identifier="1398">
+      <article number="ARTICLE 19" name="Consultations" article_identifier="11391">1. Each participant shall accord sympathetic consideration to, and shall afford adequate opportunity for, consultations regarding such representations as may be made by another participant with respect to any matter affecting the operation of this Agreement. 
+
+
+2. The Committee may, at the request of a participant, consult with any participant in respect of any matter for which it has not been possible to find a satisfactory solution through such consultation under paragraph 1 above.</article>
+      <article number="ARTICLE 20" name="Nullification Or Impairment" article_identifier="11392">1. If any participant should consider that another participant has altered the value of a concession embodied in its schedule or that any benefit accruing to it directly or indirectly 
+
+under this Agreement is being nullified or impaired as the result of the failure of another participant to carry out any of its obligations under this Agreement or as the result of any other circumstance relevant to the operation of this Agreement, the former may, with a view to the satisfactory adjustment of the matter, make written representations or proposals to the other participants which it considers to be concerned, which thus approached shall give sympathetic consideration to the representations or proposals made to them. 
+
+2. If no satisfactory adjustment is effected between the participants concerned within 90 days from the date on which such representation or request for consultation was made, the matter may be referred to the Committee which shall consult with the participants concerned and make appropriate recommendations within 75 days from the date the matter was referred to the Committee. If still no satisfactory adjustment is made within 90 days after the recommendations were made, the aggrieved participant may suspend the application of substantially equivalent concession, or other obligations of the GSTP which the Committee does not disapprove of.</article>
+      <article number="ARTICLE 21" name="Settlement Of Disputes" article_identifier="11393">Any dispute that may arise among the participants regarding the interpretation and application of the provisions of this Agreement or any instrument adopted within its framework shall be amicably settled by agreement between the parties concerned in line with article 19 of this Agreement. In the event of failure to settle a dispute, it may be referred to the Committee by a party to the dispute. The Committee shall review the matter and make a recommendation thereon within 120 days from the date on which the dispute was submitted to it. The Committee shall adopt appropriate rules for this purpose.</article>
+    </chapter>
+    <chapter number="CHAPTER VII" name="Final Provisions" chapter_identifier="1399">
+      <article number="ARTICLE 22" name="Implementation" article_identifier="11394">Each participant shall take such legislative or other measures as may be necessary to implement this Agreement and the instruments adopted within its framework.</article>
+      <article number="ARTICLE 23" name="Depositary" article_identifier="11395">The Government of the Socialist Federal Republic of Yugoslavia is hereby designated as the depositary of this Agreement.</article>
+      <article number="ARTICLE 24" name="Signature" article_identifier="11396">This Agreement shall be open for signature at Belgrade, Yugoslavia, from 13 April 1988 until the date of its entry into force in accordance with article 26.</article>
+      <article number="ARTICLE 25" name="Definitive Signature, Ratification, Acceptance Or Approval" article_identifier="11397">Any participant referred to in article 1 (a) and in annex I of this Agreement which has exchanged concessions may: 
+
+
+(a) 	At the time of signing this Agreement, declare that by such signature it expresses its consent to be bound by this Agreement (definitive signature); or 
+
+
+(b) 	After signing this Agreement, ratify, accept or approve it by the deposit of an instrument to that effect with the depositary.</article>
+      <article number="ARTICLE 26" name="Entry Into Force" article_identifier="11398">1. This Agreement shall enter into force on the thirtieth day after 15 States referred to in article 1 (a) and in annex I of the Agreement from the three regions of the Group of 77, which have exchanged concessions have deposited their instruments of definitive signature, ratification, acceptance, approval in accordance with article 25, paragraphs (a) and (b). 
+
+
+2. For any State which deposits an instrument of ratification, acceptance, approval or accession or a notification of provisional application after the conditions for entry into force of this Agreement have been met, it shall enter into force for that State on the thirtieth day after such deposit or notification. 
+
+
+3. Upon entry into force of this Agreement the Committee shall set a final date for the deposit of instruments of ratification, acceptance, or approval by states referred to in article 
+25. This date shall not be later than three years following the date of entry into force of this Agreement.</article>
+      <article number="ARTICLE 27" name="Notification Of Provisional Application" article_identifier="11399">A signatory which intends to ratify, accept or approve this Agreement but which has not yet been able to deposit its instrument, may within sixty days after the Agreement enters into force notify the depositary that it will apply this Agreement provisionally. The provisional application shall not exceed a period of two years.</article>
+      <article number="ARTICLE 28" name="Accession" article_identifier="11400">Six months after this Agreement enters into force in accordance with the provisions of this Agreement it shall be open to accession by other members of the Group of 77 who shall have complied with the conditions provided for in this Agreement. To this end the following procedures shall apply: 
+
+
+(a) 	The applicant shall notify its intention of accession to the Committee; 
+
+
+(b) 	The Committee shall circulate the notification among the participants; 
+
+
+(c) 	The applicant shall submit an offer list to the participants and any participant may table a request list to the applicant; 
+
+
+(d) 	Once the procedures under (a), (b) and (c) above have been completed, the applicant shall enter into negotiations with the interested participants with a view to reaching agreement on its list of concessions. 
+
+
+(e) 	Application for accession from a least developed country shall be considered taking into account the provision for special treatment for least developed countries.</article>
+      <article number="ARTICLE 29" name="Amendments" article_identifier="11401">1. Any participant may propose an amendment to this Agreement. The Committee shall consider and recommend the amendment for adoption by the participants. An amendment shall become effective 30 days after the date on which two-thirds of the participants, in article 1 (a), have notified the depositary of their acceptance. 
+
+
+2. Notwithstanding provisions of paragraph 1 of this article: 
+(a) 	Any amendment concerning: 
+
+
+(i) The definition of membership stipulated in article 1(a); 
+
+
+(ii) The procedure for amending this Agreement; 
+shall enter into force after its acceptance by all participants in accordance with article 1 (a) of this Agreement. 
+
+(b) 	Any amendment concerning: 
+
+(i) The principles stipulated in article 3; 
+
+(ii)The base of consensus and any other bases of voting mentioned in this Agreement; 
+
+shall enter into force after its acceptance by consensus.</article>
+      <article number="ARTICLE 30" name="Withdrawal" article_identifier="11402">1. Any participant may withdraw from this Agreement at any time after its entry into force. Such withdrawal shall be effective six months from the day on which written notice thereof is received by the depositary. That participant shall simultaneously inform the Committee of the action it has taken. 
+
+
+2. The rights and obligations of a participant which has withdrawn from this Agreement shall cease to apply as of that date. After that date, the participants and the withdrawing participant shall jointly decide whether to withdraw in whole or in part the concessions received by the latter from the former and vice versa.</article>
+      <article number="ARTICLE 31" name="Reservations" article_identifier="11403">Reservations may be made in respect of any of the provisions of this Agreement provided they are not incompatible with the object and purpose of this Agreement and are accepted by the majority of the participants.</article>
+      <article number="ARTICLE 32" name="Non-Application" article_identifier="11404">1. The GSTP shall not apply as between participants if they have not entered into direct negotiations with each other and if either of them, at the time either accepts this Agreement, does not consent to such application. 
+
+
+2. The Committee may review the operation of this article in particular cases at the request of any of the participants and make appropriate recommendations.</article>
+      <article number="ARTICLE 33" name="Security Exceptions" article_identifier="11405">Nothing in this Agreement shall be construed to prevent any participant from taking any action which it considers necessary for the protection of its essential security interests. 
+
+1 This article can only be invoked in exceptional circumstances duly notified to the Committee.</article>
+      <article number="ARTICLE 34" name="Annexes" article_identifier="11406">1. The annexes form an integral part of this Agreement and a reference to this Agreement or to one of its chapters includes a reference to the annexes relating thereto. 
+
+
+2. The annexes to this Agreement shall be: 
+
+
+(a) Annex I -   Participants in the Agreement. 
+
+
+(b) Annex II -   Rules of Origin. 
+
+
+(c)  Annex III  -Additional Measures in Favour of Least Developed Countries 
+
+
+(d) Annex IV -Schedules of Concessions</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1400">
+      <article article_identifier="11407">DONE at Belgrade, Yugoslavia, on the thirteenth day of April, one thousand nine hundred and eighty-eight, the texts of this Agreement in the Arabic, English, French and Spanish languages being equally authentic. 
+
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed this Agreement on the dates indicated.</article>
+    </chapter>
+  </body>
+</treaty>

@@ -1,0 +1,2091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Algeria</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>18</wto_rta_id>
+    <treaty_identifier>16</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2002-04-22</date_signed>
+    <date_into_force>2005-09-01</date_into_force>
+    <date_notification>2006-07-24</date_notification>
+    <end_implementation>2017-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">CYP</partyisocode>
+      <partyisocode n="4">CZE</partyisocode>
+      <partyisocode n="5">DEU</partyisocode>
+      <partyisocode n="6">DNK</partyisocode>
+      <partyisocode n="7">DZA</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HUN</partyisocode>
+      <partyisocode n="15">IRL</partyisocode>
+      <partyisocode n="16">ITA</partyisocode>
+      <partyisocode n="17">LTU</partyisocode>
+      <partyisocode n="18">LUX</partyisocode>
+      <partyisocode n="19">LVA</partyisocode>
+      <partyisocode n="20">MLT</partyisocode>
+      <partyisocode n="21">NLD</partyisocode>
+      <partyisocode n="22">POL</partyisocode>
+      <partyisocode n="23">PRT</partyisocode>
+      <partyisocode n="24">SVK</partyisocode>
+      <partyisocode n="25">SVN</partyisocode>
+      <partyisocode n="26">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">DZA</partyisocode>
+      <partyisocode n="9">ESP</partyisocode>
+      <partyisocode n="10">EST</partyisocode>
+      <partyisocode n="11">FIN</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HRV</partyisocode>
+      <partyisocode n="16">HUN</partyisocode>
+      <partyisocode n="17">IRL</partyisocode>
+      <partyisocode n="18">ITA</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Africa; Europe</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350436383&amp;uri=CELEX:22005A1010(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22005A1010(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22005A1010(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350436383&amp;uri=CELEX:22005A1010(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350436383&amp;uri=CELEX:22005A1010(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398350436383&amp;uri=CELEX:22005A1010(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="198">
+      <article number="ARTICLE 1" article_identifier="1508">1. An Association is hereby established between the Community and its
+  Member States of the one part and Algeria of the other part.
+
+  2. The aims of this Agreement are to:
+
+  - provide an appropriate framework for political dialogue between the
+  Parties, allowing the development of close relations and cooperation
+  in all areas they consider relevant to such dialogue,
+
+  - promote trade and the expansion of harmonious economic and social
+  relations between the Parties and establish the conditions for the
+  gradual liberalisation of trade in goods, services and capital,
+
+  - facilitate human exchanges, particularly in the context of
+  administrative procedures,
+
+  - encourage integration of the Maghreb countries by promoting trade
+  and cooperation within the Maghreb group and between it and the
+  Community and its Member States,
+
+  - promote economic, social, cultural and financial cooperation.</article>
+      <article number="ARTICLE 2" article_identifier="1509">Respect for the democratic principles and fundamental human rights
+  established by the Universal Declaration of Human Rights shall inspire
+  the domestic and international policies of the Parties and shall
+  constitute an essential element of this Agreement.</article>
+    </chapter>
+    <chapter number="TITLE I" name="Political Dialogue" chapter_identifier="199">
+      <article number="ARTICLE 3" article_identifier="1510">1. A regular political and security dialogue shall be established
+  between the Parties. It shall help build lasting links of solidarity
+  between the partners which will contribute to the prosperity,
+  stability and security of the Mediterranean region and bring about a
+  climate of understanding and tolerance between cultures.
+
+  2. Political dialogue and cooperation are intended in particular to:
+
+  (a) facilitate rapprochement between the Parties through the
+  development of better mutual understanding and regular coordination on
+  international issues of common interest;
+
+  (b) enable each party to consider the position and interests of the
+  other;
+
+  (c) contribute to consolidating security and stability in the
+  Euro-Mediterranean region;
+
+  (d) help develop joint initiatives.</article>
+      <article number="ARTICLE 4" article_identifier="1511">Political dialogue shall cover all issues of common interest to the
+  Parties, in particular the conditions required to ensure peace,
+  security and regional development through support for cooperation.</article>
+      <article number="ARTICLE 5" article_identifier="1512">Political dialogue shall be established at regular intervals and
+  whenever necessary, notably:
+
+  (a) at ministerial level, mainly in the framework of the Association
+  Council;
+
+  (b) at the level of senior officials representing Algeria, on the one
+  hand, and the Council Presidency and the Commission on the other;
+
+  (c) taking full advantage of all diplomatic channels including regular
+  briefings, consultations on the occasion of international meetings and
+  contacts between diplomatic representatives in third countries;
+
+  (d) where appropriate, by any other means which would contribute to
+  consolidating dialogue and increasing its effectiveness.
+
+  FREE MOVEMENT OF GOODS</article>
+      <article number="ARTICLE 6" article_identifier="1513">The Community and Algeria shall gradually establish a free-trade area
+  over a transitional period lasting a maximum of 12 years starting from
+  the date of the entry into force of this Agreement in accordance with
+  the following provisions and in conformity with those of the 1994
+  General Agreement on Tariffs and Trade and the other multilateral
+  agreements on trade in goods annexed to the Agreement establishing the
+  World Trade Organisation (WTO), hereinafter referred to as
+  "GATT".</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Industrial Products" chapter_identifier="200">
+      <article number="ARTICLE 7" article_identifier="1514">The provisions of this Chapter shall apply to products originating in
+  the Community and Algeria falling within Chapters 25 to 97 of the
+  Combined Nomenclature and of the Algerian Customs tariff with the
+  exception of the products listed in Annex 1.</article>
+      <article number="ARTICLE 8" article_identifier="1515">Products originating in Algeria shall be imported into the Community
+  free of customs duties and charges having equivalent effect.</article>
+      <article number="ARTICLE 9" article_identifier="1516">1. Customs duties and charges having equivalent effect applicable on
+  import into Algeria of products originating in the Community listed in
+  Annex 2 shall be abolished upon the entry into force of this
+  Agreement.
+
+  2. Customs duties and charges having equivalent effect applicable on
+  import into Algeria of the products originating in the Community
+  listed in Annex 3 shall be progressively abolished in accordance with
+  the following timetable:
+
+  - two years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 80 % of the basic duty,
+
+  - three years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 70 % of the basic duty,
+
+  - four years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 60 % of the basic duty,
+
+  - five years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 40 % of the basic duty,
+
+  - six years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 20 % of the basic duty.
+
+  - seven years after the date of entry into force of this Agreement the
+  remaining duties shall be abolished.
+
+  3. Customs duties and charges having equivalent effect applicable on
+  import into Algeria of the products originating in the Community other
+  than those listed in Annexes 2 and 3 shall be progressively abolished
+  in accordance with the following timetable:
+
+  - two years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 90 % of the basic duty,
+
+  - three years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 80 % of the basic duty,
+
+  - four years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 70 % of the basic duty,
+
+  - five years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 60 % of the basic duty,
+
+  - six years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 50 % of the basic duty,
+
+  - seven years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 40 % of the basic duty,
+
+  - eight years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 30 % of the basic duty,
+
+  - nine years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 20 % of the basic duty,
+
+  - 10 years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 10 % of the basic duty,
+
+  - 11 years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 5 % of the basic duty,
+
+  - 12 years after the date of entry into force of this Agreement the
+  remaining duties shall be abolished.
+
+  4. In the event of serious difficulties for a given product, the
+  timetables established in accordance with paragraphs 2 and 3 may be
+  reviewed by the Association Committee by common accord on the
+  understanding that the schedule for which the review has been
+  requested may not be extended in respect of the product concerned
+  beyond the maximum transitional period referred to in Article 6. If
+  the Association Committee has not taken a decision within 30 days of
+  its application to review the timetable, Algeria may suspend the
+  timetable provisionally for a period which may not exceed one year.
+
+  5. For each product concerned, the basic duty to be gradually reduced
+  as provided in paragraphs 2 and 3 shall be the rates referred to in
+  Article 18.</article>
+      <article number="ARTICLE 10" article_identifier="1517">The provisions concerning the abolition of customs duties on imports
+  shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 11" article_identifier="1518">1. Exceptional measures of limited duration which derogate from the
+  provisions of Article 9 may be taken by Algeria in the form of an
+  increase or reintroduction of customs duties.
+
+  These measures may concern only infant industries, or certain sectors
+  undergoing restructuring or facing serious difficulties, particularly
+  where these difficulties produce major social problems.
+
+  Customs duties on imports applicable in Algeria to products
+  originating in the Community introduced by these measures may not
+  exceed 25 % ad valorem and shall maintain an element of preference for
+  products originating in the Community. The total value of imports of
+  the products subjected to such measures may not exceed 15 % of total
+  imports of industrial products from the Community during the last year
+  for which statistics are available.
+
+  These measures shall be applied for a period not exceeding five years
+  unless a longer duration is authorised by the Association Committee.
+  They shall cease to apply at the latest on expiry of the maximum
+  transitional period referred to in Article 6.
+
+  No such measures may be introduced in respect of a product if more
+  than three years have elapsed since the elimination of all duties and
+  quantitative restrictions or charges or measures having equivalent
+  effect concerning that product.
+
+  Algeria shall inform the Association Committee of any exceptional
+  measures it intends to take and, at the request of the Community,
+  consultations shall be held on such measures and the sectors to which
+  they apply before they are implemented. When adopting such measures,
+  Algeria shall provide the Association Committee with a schedule for
+  the abolition of the customs duties introduced pursuant to this
+  Article. Such schedule shall provide for the phasing-out of the duties
+  concerned by equal annual instalments, starting no later than the end
+  of the second year following their introduction. The Association
+  Committee may decide on a different schedule.
+
+  2. By way of derogation from the fourth subparagraph of paragraph 1,
+  the Association Committee may exceptionally, in order to take account
+  of the difficulties involved in setting up a new industry, authorise
+  Algeria to maintain the measures already taken pursuant to paragraph 1
+  for a maximum period of three years beyond the transitional period
+  referred to in Article 6.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Agricultural, Fisheries And Processed Agricultural Products" chapter_identifier="201">
+      <article number="ARTICLE 12" article_identifier="1519">The provisions of this Chapter shall apply to products originating in
+  the Community and Algeria falling within Chapters 1 to 24 of the
+  Combined Nomenclature and of the Algerian Customs tariff and to the
+  products listed in Annex 1.</article>
+      <article number="ARTICLE 13" article_identifier="1520">The Community and Algeria shall progressively establish a greater
+  liberalisation of their reciprocal trade in agricultural, fisheries
+  and processed agricultural products of interest to both Parties.</article>
+      <article number="ARTICLE 14" article_identifier="1521">1. Agricultural products originating in Algeria listed in Protocol No
+  1 on importation into the Community shall be subject to the
+  arrangements set out in that Protocol.
+
+  2. Agricultural products originating in the Community listed in
+  Protocol No 2 on importation into Algeria shall be subject to the
+  arrangements set out in that Protocol.
+
+  3. Fisheries products originating in Algeria listed in Protocol No 3
+  on importation into the Community shall be subject to the arrangements
+  set out in that Protocol.
+
+  4. Fisheries products originating in the Community listed in Protocol
+  No 4 on importation into Algeria shall be subject to the arrangements
+  set out in that Protocol.
+
+  5. Trade in processed agricultural products falling under this Chapter
+  shall be subject to the arrangements set out in Protocol No 5.</article>
+      <article number="ARTICLE 15" article_identifier="1522">1. Five years after the entry into force of this Agreement, the
+  Community and Algeria shall assess the situation in order to determine
+  the liberalisation measures to be applied by the Community and Algeria
+  six years after the entry into force of the Agreement, in accordance
+  with the objective set out in Article 13.
+
+  2. Without prejudice to the provisions of paragraph 1 and taking
+  account of the patterns of trade in agricultural products, fisheries
+  products and processed agricultural products between the Parties and
+  the particular sensitivity of such products, the Community and Algeria
+  shall examine in the Association Council, product by product and on a
+  reciprocal basis, the possibilities of granting each other further
+  concessions.</article>
+      <article number="ARTICLE 16" article_identifier="1523">1. Should specific rules be introduced as a result of implementation
+  of their agricultural policies or modification of their existing
+  rules, or should the provisions on the implementation of their
+  agricultural policies be modified or developed, the Community and
+  Algeria may modify the arrangements laid down in this Agreement in
+  respect of the products concerned.
+
+  2. The Party carrying out such modification shall inform the
+  Association Committee thereof. At the request of the other Party, the
+  Association Committee shall meet to take due account of the interests
+  of the other Party.
+
+  3. If the Community or Algeria, in applying paragraph 1, modifies the
+  arrangements made by this Agreement for agricultural products, they
+  shall accord imports originating in the other Party an advantage
+  comparable to that provided for in this Agreement.
+
+  4. Any modification of the arrangements made by this Agreement shall
+  be the subject, at the request of the other Contracting Party, of
+  consultations within the Association Council.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Common Provisions" chapter_identifier="202">
+      <article number="ARTICLE 17" article_identifier="1524">1. No new customs duties on imports or exports or charges having
+  equivalent effect shall be introduced in trade between the Community
+  and Algeria, nor shall those already applied upon entry into force of
+  this Agreement be increased.
+
+  2. No new quantitative restriction on imports or exports or measure
+  having equivalent effect shall be introduced in trade between the
+  Community and Algeria.
+
+  3. Quantitative restrictions on imports or exports and measures having
+  equivalent effect in trade between Algeria and the Community shall be
+  abolished upon the entry into force of this Agreement.
+
+  4. Algeria shall abolish by 1 January 2006 at the latest the
+  provisional additional duty applied to the products listed in Annex 4.
+  That duty shall be reduced on a linear basis by 12 points per year
+  starting on 1 January 2002.
+
+  If Algeria's commitments in respect of its accession to the WTO
+  provide for a shorter period for the abolition of the provisional
+  additional duty, that shorter period shall be applicable.</article>
+      <article number="ARTICLE 18" article_identifier="1525">1. For each product concerned, the basic duty to be reduced as
+  provided in Articles 9(2) and (3) and 14 shall be the rate actually
+  applied vis-à-vis the Community on 1 January 2002.
+
+  2. In the event of Algerian accession to the WTO, the applicable rates
+  for imports between the Parties shall be the WTO bound rate or lower
+  applied rate enforced as of accession. If, after accession to the WTO,
+  a tariff reduction is applied on an erga omnes basis, the reduced rate
+  shall apply.
+
+  3. The provisions of paragraph 2 shall apply to any tariff reduction
+  applied erga omnes introduced after the date on which the negotiations
+  are concluded.
+
+  4. The Parties shall communicate to each other their respective basic
+  rates applied on 1 January 2002.</article>
+      <article number="ARTICLE 19" article_identifier="1526">Products originating in Algeria shall not enjoy more favourable
+  treatment when imported into the Community than that applied by Member
+  States among themselves.
+
+  The provisions of this Agreement shall apply without prejudice to the
+  provisions of Council Regulation (EEC) No 1911/91 of 26 June 1991 on
+  the application of the provisions of Community law to the Canary
+  Islands (OJ L 171, 29.6.1991, p. 1), as last amended by Regulation
+  (EC) No 1105/2001 (OJ L 151, 7.6.2001, p. 1).</article>
+      <article number="ARTICLE 20" article_identifier="1527">1. Both Parties shall refrain from any measure or practice of an
+  internal fiscal nature establishing, whether directly or indirectly,
+  discrimination between the products of one Party and like products
+  originating in the territory of the other Party.
+
+  2. Products exported to the territory of one of the Parties may not
+  benefit from repayment of indirect internal taxation in excess of the
+  amount of indirect taxation imposed on them directly or indirectly.</article>
+      <article number="ARTICLE 21" article_identifier="1528">1. This Agreement shall not preclude the maintenance or establishment
+  of customs unions, free trade areas or arrangements for frontier trade
+  insofar as they do not have the effect of altering the trade
+  arrangements provided for in this Agreement.
+
+  2. Consultation between the Parties shall take place within the
+  Association Committee concerning agreements establishing customs
+  unions or free trade areas and, where requested, on other major issues
+  related to their respective trade policies with third countries. In
+  particular in the event of a third country acceding to the Community,
+  such consultations shall take place so as to ensure that account is
+  taken of the mutual interests of the Community and Algeria stated in
+  this Agreement.</article>
+      <article number="ARTICLE 22" article_identifier="1529">If one of the Parties finds that dumping is taking place in trade with
+  the other Party within the meaning of Article VI of GATT 1994, it may
+  take appropriate measures against this practice in accordance with the
+  WTO Agreement on the Implementation of Article VI of GATT 1994,
+  related internal legislation and the procedures laid down in Article
+  26.</article>
+      <article number="ARTICLE 23" article_identifier="1530">The WTO Agreement on Subsidies and Countervailing Measures shall be
+  applicable between the Parties.
+
+  If one of the Parties finds that subsidies are being used in trade
+  with the other Party within the meaning of Articles VI and XVI of GATT
+  1994, it may take appropriate measures against this practice in
+  accordance with the WTO Agreement on Subsidies and Countervailing
+  Measures and its own legislation on the matter.</article>
+      <article number="ARTICLE 24" article_identifier="1531">1. Except where otherwise stated in this Article, the provisions of
+  Article XIX of GATT 1994 and of the WTO Agreement on Safeguards are
+  applicable between the Parties.
+
+  2. Each Party shall inform the Association Committee forthwith of any
+  step that it takes or intends to take with regard to the application
+  of safeguard measures. Each Party shall send the Association
+  Committee, immediately or at least one week in advance, a
+  communication in writing containing all information pertinent to:
+
+  - the opening of a safeguard investigation,
+
+  - the outcome of the investigation.
+
+  The information provided shall include an explanation of the procedure
+  on which the investigation is based and details of the schedule of
+  hearings and other suitable occasions for the parties concerned to
+  submit their opinions.
+
+  Each Party shall also give the Association Committee an advance
+  written notification containing all relevant information about the
+  decision to apply provisional safeguard measures; this notification
+  must be received at least one week before the measures are applied.
+
+  3. On being notified of the final results of the investigation and
+  before applying safeguard measures in accordance with Article XIX of
+  GATT 1994 and the WTO Agreement on Safeguards, the Party intending to
+  apply such measures shall refer the matter to the Association
+  Committee for a thorough examination of the situation with a view to
+  finding a mutually acceptable solution.
+
+  4. In order to find such a solution, the Parties shall immediately
+  hold consultations within the Association Committee. If the Parties
+  fail to reach an agreement within 30 days of the initiation of such
+  consultations on a solution to avoid the application of the safeguard
+  measures, the Party intending to apply safeguard measures may apply
+  the provisions of Article XIX of GATT 1994 and of the WTO Agreement on
+  Safeguards.
+
+  5. In the selection of safeguard measures pursuant to this Article,
+  the Parties shall give priority to those which cause least disturbance
+  to the achievement of the objectives of this Agreement. Such measures
+  shall not go beyond what is necessary to remedy the difficulties
+  arising and shall maintain the level or margin of preference granted
+  pursuant to this Agreement.
+
+  6. The Party intending to apply safeguard measures pursuant to this
+  Article shall offer the other Party compensation in the form of
+  liberalisation of trade vis-à-vis imports from the latter; that
+  compensation will be essentially equivalent to the adverse trade
+  effects of the measures on the other Party with effect from the date
+  of their implementation. The offer shall be made before the safeguard
+  measure is adopted and concurrently with the notification of and
+  referral to the Association Committee, in accordance with paragraph 3.
+  If the Party whose product is the intended subject of the safeguard
+  measure considers the offer of compensation unsatisfactory, the two
+  Parties may agree to other forms of trade compensation in the
+  framework of the consultations referred to in paragraph 3.
+
+  7. If the Parties fail to agree on the matter of compensation within
+  30 days of the initiation of the above consultations, the Party whose
+  product is the subject of safeguard measures may adopt compensatory
+  tariff measures having trade effects essentially equivalent to the
+  safeguard measure adopted pursuant to this Article.</article>
+      <article number="ARTICLE 25" article_identifier="1532">Where compliance with the provisions of Article 17(3) leads to:
+
+  (i) re-export towards a third country against which the exporting
+  party maintains, for the product concerned, quantitative export
+  restrictions, export duties, or measures having equivalent effect,
+
+  or
+
+  (ii) a serious shortage, or threat thereof, of a product essential to
+  the exporting party;
+
+  and where the situations referred to above give rise, or are likely to
+  give rise, to major difficulties for the exporting Party, that Party
+  may take appropriate measures under the conditions and in accordance
+  with the procedures laid down in Article 26. The measures shall be
+  non-discriminatory and shall be abolished when conditions no longer
+  justify their maintenance.</article>
+      <article number="ARTICLE 26" article_identifier="1533">1. In the event of the Community or Algeria subjecting imports of
+  products liable to give rise to the difficulties referred to in
+  Article 24 to an administrative procedure having as its purpose the
+  rapid supply of information on trade flow trends, it shall inform the
+  other Party.
+
+  In the cases specified in Articles 22 and 25, before taking the
+  measures provided for therein or, in cases to which paragraph 2(c) of
+  this Article applies, as soon as possible, the Community or Algeria,
+  as the case may be, shall supply the Association Committee with all
+  relevant information with a view to seeking a solution acceptable to
+  the two Parties.
+
+  In the selection of measures, priority shall be given to those which
+  least disturb the functioning of this Agreement.
+
+  2. For the implementation of the second subparagraph of paragraph 1,
+  the following provisions shall apply:
+
+  (a) as regards Article 22, the exporting Party shall be informed of
+  the dumping case as soon as the authorities of the importing Party
+  have initiated an investigation. When no end has been put to the
+  dumping within the meaning of Article VI of GATT 1994 or no other
+  satisfactory solution has been reached within 30 days of the matter
+  being referred, the importing Party may adopt the appropriate
+  measures;
+
+  (b) as regards Article 25, the difficulties arising from the
+  situations referred to in that Article shall be referred for
+  examination to the Association Committee.
+
+  The Association Committee may take any decision needed to put an end
+  to the difficulties. If it has not taken such a decision within 30
+  days of the matter being referred to it, the exporting party may apply
+  appropriate measures on the exportation of the product concerned;
+
+  (c) where exceptional circumstances requiring immediate action make
+  prior information or examination, as the case may be, impossible, the
+  Community or Algeria, whichever is concerned, may, in the situations
+  specified in Articles 22 and 25, apply forthwith the precautionary
+  measures strictly necessary to deal with the situation and shall
+  inform the other Party immediately thereof.</article>
+      <article number="ARTICLE 27" article_identifier="1534">Nothing in this Agreement shall preclude prohibitions or restrictions
+  on imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security, of the protection of
+  health and life of humans, animals or plants, of the protection of
+  national treasures possessing artistic, historic or archaeological
+  value, of the protection of intellectual, industrial and commercial
+  property or of regulations concerning gold and silver. Such
+  prohibitions or restrictions shall not, however, constitute a means of
+  arbitrary discrimination or a disguised restriction on trade between
+  the Parties.</article>
+      <article number="ARTICLE 28" article_identifier="1535">The concept of "originating products" for the application of
+  the provisions of the present Title and the methods of administrative
+  cooperation relating to them are set out in Protocol No 6.</article>
+      <article number="ARTICLE 29" article_identifier="1536">The Combined Nomenclature of goods shall be applied to the
+  classification of goods for imports into the Community. The Algerian
+  customs tariff shall be applied to the classification of goods for
+  imports into Algeria.</article>
+    </chapter>
+    <chapter number="TITLE III" name="Trade In Services" chapter_identifier="203">
+      <article number="ARTICLE 30" name="Reciprocal Commitments" article_identifier="1537">1. The European Community and its Member States shall extend to
+  Algeria the treatment which they are obliged to grant under Article
+  II. I of the General Agreement on Trade in Services, hereinafter
+  referred to as GATS.
+
+  2. The European Community and its Member States shall grant to
+  Algerian service suppliers no less favourable treatment than that
+  accorded to like service suppliers as specified in the schedule of
+  specific commitments taken by the European Community and its Member
+  States under the GATS to which it is annexed.
+
+  3. This treatment shall not apply to advantages accorded by either
+  Party under the terms of an agreement of the type defined in Article V
+  of the GATS or to measures taken on the basis of such an agreement and
+  to other advantages granted in accordance with the list of
+  most-favoured-nation exemptions annexed by the European Community and
+  its Member States to the GATS.
+
+  4. Algeria shall grant no less favourable treatment to service
+  suppliers of the European Community and its Member States than that
+  specified in Articles 31 to 33.</article>
+      <article number="ARTICLE 31" name="Cross-Border Supply Of Services" article_identifier="1538">With regard to the supply of services by Community service suppliers
+  into the territory of Algeria, other than through a commercial
+  presence or the presence of natural persons, as referred to in
+  Articles 32 and 33, Algeria shall grant treatment to Community service
+  suppliers no less favourable than that accorded to companies of any
+  third country.</article>
+      <article number="ARTICLE 32" name="Commercial Presence" article_identifier="1539">(a) Algeria shall grant for the establishment of Community companies
+  in its territory treatment no less favourable than that accorded to
+  companies of any third country;
+
+  (b) Algeria shall grant to subsidiaries and branches of Community
+  companies, established in its territory in accordance with its
+  legislation, in respect of their operations, treatment no less
+  favourable than that accorded to its own companies or branches, or to
+  Algerian subsidiaries or branches of companies of any third country,
+  whichever is the better.
+
+  2. The treatment referred to in paragraph 1(a) and (b) shall be
+  granted to companies, subsidiaries and branches established in Algeria
+  on the date of entry into force of this Agreement and to companies,
+  subsidiaries and branches established there after that date.</article>
+      <article number="ARTICLE 33" name="Temporary Presence Of Natural Persons" article_identifier="1540">1. A Community company or Algerian company established in the
+  territory of Algeria or the Community respectively shall be entitled
+  to temporarily employ, or have temporarily employed by one of its
+  subsidiaries or branches, in accordance with the legislation in force
+  in the host country of establishment, employees who are nationals of
+  Community Member States and Algeria respectively, provided that such
+  employees are key personnel as defined in paragraph 2, and that they
+  are employed exclusively by such companies, subsidiaries or branches.
+  The residence and work permits of such employees shall only cover the
+  period of such employment.
+
+  2. Key personnel of the abovementioned companies herein referred to as
+  "organisations" are "intra-corporate transferees"
+  as defined in (c) in the following categories, provided that the
+  organisation is a legal person and that the persons concerned have
+  been employed by it or have been partners in it (other than as
+  majority shareholders), for at least the 12 months immediately
+  preceding such movement:
+
+  (a) persons working in a senior position with an organisation, who
+  primarily direct the management of the establishment, receiving
+  general supervision or direction principally from the board of
+  directors or stockholders of the business or their equivalent,
+  including:
+
+  - directing the establishment or a department or sub-division of the
+  establishment,
+
+  - supervising and controlling the work of other supervisory,
+  professional or managerial employees,
+
+  - having the authority personally to recruit and dismiss or recommend
+  recruiting, dismissing or other personnel actions,
+
+  (b) persons working within an organisation who possess uncommon
+  knowledge essential to the establishment's service, research
+  equipment, techniques or management. The assessment of such knowledge
+  may reflect, apart from knowledge specific to the establishment, a
+  high level of qualification referring to a type of work or trade
+  requiring specific technical knowledge, including membership of an
+  accredited profession,
+
+  (c) an "intra-corporate transferee" is defined as a natural
+  person working within an organisation in the territory of a Party, and
+  being temporarily transferred in the context of pursuit of economic
+  activities in the territory of the other Party; the organisation
+  concerned must have its principal place of business in the territory
+  of a Party and the transfer be to an establishment (branch,
+  subsidiary) of that organisation, effectively pursuing like economic
+  activities in the territory of the other Party.
+
+  3. The entry into and the temporary presence within the respective
+  territories of Algeria and the Community of nationals of the Member
+  States or of Algeria respectively shall be permitted when these
+  representatives of companies are persons working in a senior position,
+  as defined in paragraph 2(a), within a company, and are responsible
+  for the establishment of an Algerian or a Community company, in the
+  Community or Algeria respectively, when:
+
+  - those representatives are not engaged in making direct sales or
+  supplying services, and
+
+  - the company has no other representative, office, branch or
+  subsidiary in a Community Member State or Algeria respectively.</article>
+      <article number="ARTICLE 34" name="Transport" article_identifier="1541">1. Articles 30 to 33 shall not apply to air, inland waterway or land
+  transport or to national shipping (cabotage), subject to the
+  provisions of paragraphs 2 to 6 of this Article.
+
+  2. In respect of activities undertaken by shipping agencies for the
+  provision of international maritime transport services, including
+  inter-modal activities involving a sea leg, each Party shall permit to
+  the companies of the other Party their commercial presence in its
+  territory in the form of subsidiaries or branches, under conditions of
+  establishment and operation no less favourable than those accorded to
+  its own companies or to subsidiaries or branches of companies of any
+  third country, whichever are the better. Such activities include, but
+  are not limited to:
+
+  (a) marketing and sales of maritime transport and related services
+  through direct contact with customers, from quotation to invoicing,
+  whether these services are operated or offered by the service supplier
+  itself or by service suppliers with which the service seller has
+  established standing business arrangements;
+
+  (b) purchase and use, on their own account or on behalf of their
+  customer (and the resale to their customers), of any transport and
+  related services, including inward transport services by any mode,
+  particularly inland waterways, road and rail, necessary for the supply
+  of an integrated service;
+
+  (c) preparation of transport documents, customs documents, or other
+  documents related to the origin and character of the goods
+  transported;
+
+  (d) provision of business information of any means, including
+  computerised information systems and electronic data interchange
+  (subject to any non-discriminatory restrictions concerning
+  telecommunications);
+
+  (e) setting up of any business arrangement, including participation in
+  the company's stock and the appointment of personnel recruited locally
+  (or, in the case of foreign personnel, subject to the relevant
+  provisions of this Agreement), with any locally established shipping
+  agency;
+
+  (f) acting on behalf of the companies, organising the call of the ship
+  or taking over cargoes when required.
+
+  3. With respect to maritime transport, the Parties undertake to apply
+  effectively the principle of unrestricted access to the international
+  market and traffic on a commercial basis.
+
+  However, the legislation of each Party shall apply to the preferential
+  right of the national flag for national cabotage and for salvage,
+  towage and pilotage.
+
+  These provisions do not prejudice the rights and obligations arising
+  under the United Nations Convention on a Code of Conduct for Liner
+  Conferences, as applicable for either Party to this Agreement.
+  Non-conference lines shall be free to operate in competition with a
+  conference line as long as they adhere to the principle of fair
+  competition on a commercial basis.
+
+  The Parties affirm their commitment to a freely competitive
+  environment as being an essential feature of the dry and liquid bulk
+  trade.
+
+  4. In applying the principles of paragraph 3 above, the Parties shall:
+
+  (a) not introduce cargo-sharing arrangements in future bilateral
+  Agreements with third countries concerning dry and liquid bulk and
+  liner trade. However, this does not exclude the possibility of such
+  arrangements concerning liner cargo in those exceptional circumstances
+  where liner shipping companies from one or other Party to this
+  Agreement would not otherwise have an effective opportunity to ply for
+  trade to and from the third country concerned;
+
+  (b) abolish, upon entry into force of this Agreement, all unilateral
+  measures, administrative, technical and other obstacles which could
+  constitute a disguised restriction or have discriminatory effects on
+  the free supply of services in international maritime transport.
+
+  5. Each Party shall grant, inter alia, a treatment no less favourable
+  than that accorded to its own ships, for the ships used for the
+  transport of goods, passengers or both, sailing under the flag of the
+  other Party or operated by its nationals or companies, with respect to
+  access to ports, the use of infrastructure and auxiliary maritime
+  services of those ports, as well as related fees and charges, customs
+  facilities and the assignment of berths and facilities for loading and
+  unloading.
+
+  6. With a view to coordinated development of transport between the
+  Parties, adapted to their commercial needs, the conditions of mutual
+  market access and provision of air, road, rail and inland waterway
+  transport services may be dealt with by specific arrangements, where
+  appropriate, negotiated between the Parties after the entry into force
+  of this Agreement.</article>
+      <article number="ARTICLE 35" name="Domestic Regulation" article_identifier="1542">1. The provisions of Title III shall not prejudice the application by
+  each Party of any measures necessary to prevent the circumvention of
+  its measures concerning third country access to its market, through
+  the provisions of this Agreement.
+
+  2. The provisions of this Title shall be applied subject to
+  limitations justified on grounds of public policy, public security or
+  public health. They shall not apply to activities which in the
+  territory of either Party are connected, even occasionally, with the
+  exercise of official authority.
+
+  3. The provisions of this title do not preclude the application by a
+  Party of particular rules concerning the establishment and operation
+  in its territory of branches of companies of another Party not
+  incorporated in the territory of the first Party, which are justified
+  by legal or technical differences between such branches as compared to
+  branches of companies incorporated in its territory or, as regards
+  financial services, for prudential reasons. The difference in
+  treatment shall not go beyond what is strictly necessary as a result
+  of such legal or technical differences or, as regards financial
+  services, for prudential reasons.
+
+  4. Notwithstanding any other provisions of this Agreement, a Party
+  shall not be prevented from taking measures for prudential reasons,
+  including for the protection of investors, depositors, policy holders
+  or persons to whom a fiduciary duty is owed by a financial service
+  supplier, or to ensure the integrity and stability of the financial
+  system. Where such measures do not conform with the provisions of the
+  Agreement, they shall not be used as a means of avoiding the
+  obligations of a Party under the Agreement.
+
+  5. Nothing in this Agreement shall be construed to require a Party to
+  disclose information relating to the affairs and accounts of
+  individual customers or any confidential or proprietary information in
+  the possession of public entities.
+
+  6. For the purpose of the movement of natural persons supplying a
+  service, nothing in this Agreement shall prevent the Parties from
+  applying their laws and regulations regarding entry and stay, work,
+  labour conditions and establishment of natural persons and supply of
+  services, provided that, in so doing, they do not apply them in a
+  manner as to nullify or impair the benefits accruing to any Party
+  under the terms of a specific provision of the Agreement. The above
+  provision does not prejudice the application of paragraph 2.</article>
+      <article number="ARTICLE 36" name="Definitions" article_identifier="1543">For the purposes of this Agreement:
+
+  (a) a "service supplier" shall mean any natural or legal
+  person who supplies a service from the territory of one Party into the
+  territory of the other Party, in the territory of one Party to the
+  service consumer of the other Party, through commercial presence
+  (establishment) in the territory of the other Party and through the
+  presence of a natural person of a Party in the territory of the other
+  Party;
+
+  (b) a "Community company" or "Algerian company"
+  respectively shall mean a company set up in accordance with the laws
+  of a Member State or of Algeria respectively and having its registered
+  office or central administration or principal place of business in the
+  territory of the Community or Algeria respectively.
+
+  However, should the company, set up in accordance with the laws of a
+  Member State or Algeria respectively, have only its registered office
+  in the territory of the Community or Algeria respectively, the company
+  shall be considered a Community or Algerian company respectively if
+  its operations possess a real and continuous link with the economy of
+  one of the Member States or Algeria respectively;
+
+  (c) "subsidiary" of a company shall mean a company which is
+  controlled by the first company;
+
+  (d) "branch" of a company shall mean a place of business not
+  having legal personality which has the appearance of permanency, such
+  as the extension of a parent body, has a management and is materially
+  equipped to negotiate business with third parties so that the latter,
+  although knowing that there will, if necessary, be a legal link with
+  the parent body, the head office of which is abroad, do not have to
+  deal directly with such parent body but may transact business at the
+  place of business constituting the extension;
+
+  (e) "establishment" shall mean the right of Community or
+  Algerian companies as referred to in subparagraph (b) to take up
+  economic activities by means of the setting-up of subsidiaries and
+  branches in Algeria or in the Community respectively;
+
+  (f) "operation" shall mean the pursuit of economic
+  activities;
+
+  (g) "economic activities" shall mean activities of an
+  industrial, commercial and professional character;
+
+  (h) "national of a Member State or of Algeria" shall mean a
+  natural person who is a national of one of the Member States or of
+  Algeria respectively.
+
+  With regard to international maritime transport, including inter-modal
+  operations involving a sea leg, nationals of the Member States or of
+  Algeria established outside the Community or Algeria respectively, and
+  shipping companies established outside the Community or Algeria and
+  controlled by nationals of a Member State or Algerian nationals
+  respectively, shall also be subject to the provisions of this Title if
+  their vessels are registered in that Member State or in Algeria
+  respectively in accordance with their respective legislations.</article>
+      <article number="ARTICLE 37" name="General Provisions" article_identifier="1544">1. The Parties shall avoid taking any measures or actions which render
+  the conditions for the establishment and operation of each other's
+  companies more restrictive than the situation existing on the day
+  preceding the date of signature of this Agreement.
+
+  2. The Parties undertake to consider development of this Title with a
+  view to the establishment of an "economic integration
+  agreement" as defined in Article V of GATS. In making such
+  recommendations, the Association Council shall take account of past
+  experience of implementation of the most-favoured-nation treatment and
+  of the obligations of each Party under the GATS, and in particular
+  Article V thereof.
+
+  The Association Council shall also, when making such examination, take
+  into account progress made in the approximation of laws between the
+  Parties in the relevant activities. This objective shall be subject to
+  a first examination by the Association Council at the latest five
+  years after the entry into force of this Agreement.
+
+  PAYMENTS, CAPITAL, COMPETITION AND OTHER ECONOMIC PROVISIONS</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Current Payments And Movement Of Capital" chapter_identifier="204">
+      <article number="ARTICLE 39" article_identifier="1545">1. The Community and Algeria shall ensure, from the entry into force
+  of the Agreement, that capital relating to direct investments in
+  Algeria in companies formed in accordance with current laws can move
+  freely and that the yield from such investments and any profit
+  stemming therefrom can be liquidated and repatriated.
+
+  2. The Parties shall consult each other and cooperate with a view to
+  establishing the necessary conditions for facilitating and fully
+  liberalising the movement of capital between the Community and
+  Algeria.</article>
+      <article number="ARTICLE 40" article_identifier="1546">Where one or more Member States of the Community, or Algeria, is in
+  serious balance of payments difficulties, or under threat thereof, the
+  Community or Algeria, as the case may be, may, in accordance with the
+  conditions established under the General Agreement on Tariffs and
+  Trade and Articles VIII and XIV of the Articles of Agreement of the
+  International Monetary Fund, adopt restrictions on current
+  transactions which shall be of limited duration and may not go beyond
+  what is strictly necessary to remedy the balance of payments
+  situation. The Community or Algeria, as the case may be, shall inform
+  the other Party forthwith and shall submit to it as soon as possible a
+  timetable for the abolition of the measures concerned.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Competition And Other Economic Matters" chapter_identifier="205">
+      <article number="ARTICLE 42" article_identifier="1547">The Member States and Algeria shall progressively adjust, without
+  prejudice to their commitments to the GATT, any State monopolies of a
+  commercial character, so as to ensure that, by the end of the fifth
+  year following the entry into force of this Agreement, no
+  discrimination regarding the conditions under which goods are procured
+  and marketed exists between nationals of the Member States and
+  Algeria. The Association Committee will be informed about the measures
+  adopted to implement this objective.</article>
+      <article number="ARTICLE 43" article_identifier="1548">With regard to public enterprises and enterprises which have been
+  granted special or exclusive rights, the Association Council shall
+  ensure, from the fifth year following the entry into force of this
+  Agreement, that no measure which disturbs trade between the Community
+  and Algeria in a manner which runs counter to the interests of the
+  Parties is adopted or maintained. This provision should not obstruct
+  the performance in law or in fact of the particular tasks assigned to
+  these enterprises.</article>
+      <article number="ARTICLE 44" article_identifier="1549">1. The Parties shall provide suitable and effective protection of
+  intellectual, industrial and commercial property rights, in line with
+  the highest international standards. This shall encompass effective
+  means of enforcing such rights.
+
+  2. Implementation of this Article and of Annex 6 shall be regularly
+  assessed by the Parties. If difficulties which affect trade arise in
+  connection with intellectual, industrial and commercial property
+  rights, either Party may request urgent consultations to find mutually
+  satisfactory solutions.</article>
+      <article number="ARTICLE 45" article_identifier="1550">The Parties undertake to adopt appropriate measures to ensure the
+  protection of personal data in order to eliminate barriers to the free
+  movement of such data between the Parties.</article>
+      <article number="ARTICLE 46" article_identifier="1551">1. The Parties shall set as their objective a reciprocal and gradual
+  liberalisation of public procurement contracts.
+
+  2. The Association Council shall take the steps necessary to implement
+  paragraph 1.</article>
+    </chapter>
+    <chapter number="TITLE V" name="Economic Cooperation" chapter_identifier="206">
+      <article number="ARTICLE 47" name="Objectives" article_identifier="1552">1. The Parties undertake to step up economic cooperation in their
+  mutual interest and in the spirit of partnership which is at the root
+  of this Agreement.
+
+  2. The objective of economic cooperation shall be to support Algeria's
+  own efforts to achieve sustainable economic and social development.
+
+  3. Such economic cooperation is in keeping with the objectives set out
+  in the Barcelona Declaration.</article>
+      <article number="ARTICLE 48" name="Scope" article_identifier="1553">1. Cooperation will be targeted first and foremost at areas of
+  activity suffering the effects of internal constraints and
+  difficulties or affected by the process of liberalising Algeria's
+  economy as a whole, and more particularly by the liberalisation of
+  trade between Algeria and the Community.
+
+  2. Similarly, cooperation shall focus on areas likely to bring the
+  economies of the Community and Algeria closer together, particularly
+  those which will generate growth and employment, and foster the
+  development of trade flows between Algeria and the Community, notably
+  by encouraging the diversification of Algerian exports.
+
+  3. Cooperation shall foster economic integration within the Maghreb
+  group of countries using any measures likely to further such relations
+  within the region.
+
+  4. Preservation of the environment and ecological balances shall
+  constitute a central component of the various fields of economic
+  cooperation.
+
+  5. The Parties may determine by agreement other fields of economic
+  cooperation.</article>
+      <article number="ARTICLE 49" name="Methods" article_identifier="1554">Economic cooperation shall be implemented in particular by:
+
+  (a) regular economic dialogue between the Parties covering all areas
+  of macro-economic policy;
+
+  (b) communication and exchanges of information;
+
+  (c) transfer of advice, expertise and training;
+
+  (d) implementation of joint actions;
+
+  (e) technical, administrative and regulatory assistance;
+
+  (f) measures to support partnerships and direct investment by
+  operators, in particular private operators, and privatisation
+  programmes.</article>
+      <article number="ARTICLE 50" name="Regional Cooperation" article_identifier="1555">In order to maximise the impact of this Agreement vis-à-vis the
+  development of the Euro-Mediterranean partnership and within the
+  countries of the Maghreb, the Parties shall foster all activities
+  which have a regional impact or involve third countries, notably:
+
+  (a) economic integration;
+
+  (b) development of economic infrastructure;
+
+  (c) environmental matters;
+
+  (d) scientific and technological research;
+
+  (e) education, teaching and training;
+
+  (f) cultural matters;
+
+  (g) customs matters;
+
+  (h) regional institutions and the establishment of common or
+  harmonised programmes and policies.</article>
+      <article number="ARTICLE 51" name="Scientific, Technical And Technological Cooperation" article_identifier="1556">Cooperation shall be aimed at:
+
+  (a) encouraging the establishment of permanent links between the
+  Parties' scientific communities, notably by means of:
+
+  - the access of Algeria to Community technological research and
+  development programmes, in conformity with Community provisions
+  concerning the participation of third countries in those programmes;
+
+  - the participation of Algeria in decentralised cooperation networks;
+
+  - the promotion of synergy between training and research;
+
+  (b) strengthening research capacity in Algeria;
+
+  (c) stimulating technological innovation, the transfer of new
+  technologies and know-how, implementation of technological research
+  and development projects and optimisation of the results of scientific
+  and technical research;
+
+  (d) encouraging all activities aimed at establishing synergy at
+  regional level.</article>
+      <article number="ARTICLE 52" name="Environment" article_identifier="1557">1. The Parties shall encourage cooperation in preventing deterioration
+  of the environment, controlling pollution and ensuring the rational
+  use of natural resources, with a view to ensuring sustainable
+  development and guaranteeing the quality of the environment and the
+  protection of public health.
+
+  2. Cooperation shall in particular focus on:
+
+  - issues related to desertification,
+
+  - rational water resource management,
+
+  - salinisation,
+
+  - the impact of agriculture on soil and water quality,
+
+  - the appropriate use of energy and transport,
+
+  - the impact of industrial development on the environment, in
+  particular the safety of industrial plant,
+
+  - waste management, in particular toxic waste,
+
+  - the integrated management of sensitive areas,
+
+  - the control and prevention of urban, industrial and marine
+  pollution,
+
+  - use of advanced environmental management and monitoring tools,
+  particularly environmental information and statistical systems,
+
+  - technical assistance, in particular for the preservation of
+  bio-diversity.</article>
+      <article number="ARTICLE 53" name="Industrial Cooperation" article_identifier="1558">Cooperation shall be aimed at:
+
+  (a) encouraging or supporting measures designed to promote direct
+  investment and industrial partnership ventures in Algeria;
+
+  (b) encouraging direct cooperation between the Parties' economic
+  operators, including cooperation in the context of access for Algeria
+  to Community business networks and decentralised cooperation networks;
+
+  (c) backing the effort to modernise and restructure Algeria's public
+  and private sector industry (including the agri-food industry);
+
+  (d) fostering the development of small- and medium-sized enterprises;
+
+  (e) fostering an environment which favours private initiative, with
+  the aim of stimulating and diversifying output for the domestic and
+  export markets;
+
+  (f) making the most of Algeria's human resources and industrial
+  potential through better use of policy in the fields of innovation and
+  research and technological development;
+
+  (g) supporting the restructuring of industry and the industrial
+  upgrading programme with a view to the creation of the free trade area
+  so as to make products more competitive;
+
+  (h) contributing to the development of exports of Algerian
+  manufactures.</article>
+      <article number="ARTICLE 54" name="Promotion And Protection Of Investments" article_identifier="1559">The aim of cooperation shall be to create a favourable climate for
+  investment flows, in particular by means of the following:
+
+  (a) the establishment of harmonised and simplified procedures,
+  co-investment machinery (especially to link small and medium-sized
+  enterprises) and methods of identifying and providing information on
+  investment opportunities;
+
+  (b) a legal environment conducive to investment between the two
+  Parties, where appropriate through the conclusion by the Member States
+  and Algeria of investment protection agreements, and agreements to
+  prevent double taxation;
+
+  (c) technical assistance to schemes to promote and guarantee national
+  and foreign investments.</article>
+      <article number="ARTICLE 55" name="Standardisation And Conformity Assessment" article_identifier="1560">Cooperation shall aim at reducing divergences in standardisation and
+  certification.
+
+  Cooperation shall be realised in particular through:
+
+  - encouraging the use of European standards and conformity assessment
+  procedures and techniques;
+
+  - upgrading Algerian conformity assessment and metrology bodies and
+  helping to establish the necessary conditions for the eventual
+  negotiation of mutual recognition agreements in these fields;
+
+  - cooperation in the area of quality management;
+
+  - providing assistance to the Algerian bodies responsible for
+  intellectual, industrial and commercial property and for
+  standardisation and quality.</article>
+      <article number="ARTICLE 56" name="Approximation Of Laws" article_identifier="1561">Cooperation shall be aimed at helping Algeria to bring its legislation
+  closer to that of the Community in the areas covered by this
+  Agreement.</article>
+      <article number="ARTICLE 57" name="Financial Services" article_identifier="1562">Cooperation shall be aimed at the improvement and development of
+  financial services.
+
+  This will basically involve:
+
+  - the exchange of information concerning financial regulations and
+  practices and training schemes, in particular with a view to the
+  creation of small and medium-sized enterprises;
+
+  - support for the reform of Algeria's banking and financial system,
+  including development of the stock market.</article>
+      <article number="ARTICLE 58" name="Agriculture And Fisheries" article_identifier="1563">Cooperation shall be aimed at the modernisation and restructuring,
+  where necessary, of the agriculture, forestry and fisheries sectors.
+
+  It shall in particular be aimed at:
+
+  - support for policies geared to developing and diversifying
+  production,
+
+  - food security,
+
+  - integrated rural development, including improvement of basic
+  services and development of ancillary economic activities,
+
+  - promoting environmentally-friendly forms of agriculture and
+  fisheries,
+
+  - the evaluation and rational management of natural resources,
+
+  - establishing closer relations, on a voluntary basis, between
+  enterprises, groupings and professional organisations representing the
+  agricultural, fisheries and agri-business sectors,
+
+  - technical assistance and training,
+
+  - harmonising phytosanitary and veterinary standards and checks,
+
+  - cooperation between rural areas, exchange of experience and know-how
+  on rural development,
+
+  - support for privatisation,
+
+  - the evaluation and rational management of fish stocks,
+
+  - support for research programmes.</article>
+      <article number="ARTICLE 59" name="Transport" article_identifier="1564">The aims of cooperation shall be:
+
+  - to support the restructuring and modernisation of transport,
+
+  - to improve the movement of passengers and goods,
+
+  - the establishment and enforcement of operating standards comparable
+  to those prevailing in the Community.
+
+  The priority areas of cooperation shall be:
+
+  - road transport, including the gradual improvement of transit,
+
+  - the management of railways, airports and ports and cooperation
+  between the relevant national authorities,
+
+  - modernisation of road, rail, port and airport infrastructure on
+  major trans-European routes of mutual interest and routes of regional
+  interest, and navigation aids,
+
+  - upgrading of technical equipment to bring it up to Community
+  standards for road/rail t ransport, inter-modal transport,
+  containerisation and transhipment,
+
+  - technical assistance and training.</article>
+      <article number="ARTICLE 60" name="Information Society And Telecommunications" article_identifier="1565">Cooperation in this field shall focus in particular on:
+
+  - a dialogue on issues related to the different aspects of the
+  information society, including telecommunications policies,
+
+  - the exchange of information and provision of any technical
+  assistance required on regulations and standardisation, conformity
+  testing and certification of information and communication
+  technologies,
+
+  - the dissemination of advanced information and telecommunication
+  technologies, including satellite technology and information services
+  and technologies,
+
+  - the promotion and implementation of joint projects for research,
+  technical development or industrial applications in information
+  technologies, communications, telematics and information society,
+
+  - giving Algerian bodies the opportunity to participate in pilot
+  projects and European programmes under the specific arrangements
+  pertaining to them in the sectors concerned;
+
+  - the interconnection and interoperability of Community and Algerian
+  networks and telematic services,
+
+  - technical assistance with the planning and management of the radio
+  frequency spectrum with a view to coordinated and effective use of
+  radio communications in the Euro-Mediterranean region.</article>
+      <article number="ARTICLE 61" name="Energy And Mining" article_identifier="1566">The aims of cooperation in the energy and mining sectors shall be:
+
+  (a) institutional, legislative and regulatory upgrading to ensure that
+  activities are regulated and investment promoted;
+
+  (b) technical and technological upgrading to prepare energy and mining
+  companies for the requirements of the market economy and competition;
+
+  (c) the development of partnerships between European and Algerian
+  companies in the activities of exploration, production, processing,
+  distribution and services in the energy and mining sectors.
+
+  The priority areas of cooperation in this respect shall be:
+
+  - adaptation of the institutional, legislative and regulatory
+  framework of activities in the energy and mining sectors to market
+  economy rules by means of technical, administrative and regulatory
+  assistance,
+
+  - support for efforts to restructure public enterprises in the energy
+  and mining sectors,
+
+  - building partnerships in the areas of,
+
+  - oil and gas exploration, production and processing,
+
+  - electricity production,
+
+  - distribution of petroleum products,
+
+  - production of equipment and services used in the production of
+  energy products,
+
+  - developing and transforming the potential of mining,
+
+  development of gas, oil and electricity distribution,
+
+  support for the modernisation and development of energy networks and
+  for their linking to European Community networks,
+
+  the setting-up of databases on the mining and energy sectors,
+
+  the support and promotion of private investment in energy and mining
+  sector activities,
+
+  the environment, the development of renewable energies and energy
+  efficiency,
+
+  the promotion of technology transfers in the energy and mining
+  sectors.</article>
+      <article number="ARTICLE 62" name="Tourism And The Craft Sector" article_identifier="1567">Cooperation in this field will principally be aimed at:
+
+  - stepping up the exchange of information on flows and policies on
+  tourism, spa tourism and craft trades,
+
+  - stepping up hotel administration and management training schemes and
+  training in other areas of the tourism and craft sectors,
+
+  - promoting exchanges of experiences with a view to the smooth and
+  sustainable development of tourism,
+
+  - encouraging youth tourism,
+
+  - helping Algeria to develop its potential in the area of tourism,
+  spas and crafts and to improve the image of its tourism products,
+
+  - supporting privatisation.</article>
+      <article number="ARTICLE 63" name="Cooperation In Customs Matters" article_identifier="1568">1. The aim of cooperation shall be to ensure compliance with the free
+  trade arrangements. The priority areas shall be:
+
+  (a) the simplification of customs controls and procedures;
+
+  (b) the introduction of a single administrative document similar to
+  the Community's and a possible link-up between the Community and
+  Algerian transit systems.
+
+  Technical assistance may be provided where necessary.
+
+  2. Without prejudice to other forms of cooperation envisaged in this
+  Agreement, notably for the fight against drugs and money laundering,
+  the administrative authorities of the Contracting Parties shall
+  provide mutual assistance in accordance with the provisions of
+  Protocol No 7.</article>
+      <article number="ARTICLE 64" name="Cooperation In Statistics" article_identifier="1569">The main objective of cooperation in this sphere should be to ensure,
+  in particular through the harmonisation of the methods used by the
+  Parties, the comparability and usefulness of statistics on foreign
+  trade, public finance and balance of payments, population, migration,
+  transport and communications, and generally all the fields covered by
+  this Agreement. Technical assistance may be provided where necessary.</article>
+      <article number="ARTICLE 65" name="Cooperation On Consumer Protection" article_identifier="1570">1. The Parties agree that cooperation in this area should be aimed at
+  making their respective consumer protection systems compatible.
+
+  2. Cooperation shall focus mainly on:
+
+  (a) the exchange of information on legislative activities and
+  exchanges of experts, in particular consumer interest representatives;
+
+  (b) the organisation of seminars and training courses;
+
+  (c) the establishment of permanent systems of mutual information on
+  dangerous products, i.e. those which constitute a hazard to health or
+  consumer safety;
+
+  (d) improving information provided to consumers especially on prices,
+  characteristics of products and services offered;
+
+  (e) institutional reforms;
+
+  (f) technical assistance;
+
+  (g) the establishment of Algerian laboratories for comparative
+  analysis and testing and assistance with the introduction of a
+  decentralised consumer information system;
+
+  (h) assistance with the organisation and introduction of a warning
+  system to be integrated into the European system.</article>
+      <article number="ARTICLE 66" article_identifier="1571">Given the particularities of the Algerian economy, both Parties shall
+  establish the methods and procedures for implementing the economic
+  cooperation activities agreed pursuant to this Title in order to
+  support the process of modernising the Algerian economy and the
+  creation of the free trade area.
+
+  The identification and evaluation of requirements and the procedures
+  for implementing the economic cooperation activities shall be examined
+  in a framework to be introduced in accordance with the conditions laid
+  down in Article 98.
+
+  The Parties shall agree on the priorities to be carried out in the
+  abovementioned framework.
+
+  SOCIAL AND CULTURAL COOPERATION</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Workers" chapter_identifier="207">
+      <article number="ARTICLE 67" article_identifier="1572">1. Each Member State shall accord to workers of Algerian nationality
+  employed in its territory treatment which is free from any
+  discrimination based on nationality, as regards working conditions,
+  remuneration and dismissal, relative to its own nationals.
+
+  2. All Algerian workers allowed to undertake paid employment in the
+  territory of a Member State on a temporary basis shall be covered by
+  the provisions of paragraph 1 with regard to working conditions and
+  remuneration.
+
+  3. Algeria shall accord the same treatment to workers who are
+  nationals of a Member State and employed in its territory.</article>
+      <article number="ARTICLE 68" article_identifier="1573">1. Subject to the provisions of the following paragraphs, workers of
+  Algerian nationality and any members of their families living with
+  them shall enjoy, in the field of social security, treatment free from
+  any discrimination based on nationality relative to nationals of the
+  Member States in which they are employed.
+
+  The term "social security" shall cover the branches of
+  social security dealing with sickness and maternity benefits,
+  invalidity, old-age and survivors’ benefits, industrial accident and
+  occupational disease benefits and death, unemployment and family
+  benefits.
+
+  These provisions shall not, however, cause the other coordination
+  rules provided for in Community legislation based on Article 42 of the
+  Treaty establishing the European Community to apply, except under the
+  conditions set out in Article 70 of this Agreement.
+
+  2. All periods of insurance, employment or residence completed by such
+  workers in the various Member States shall be added together for the
+  purpose of pensions and annuities in respect of old age, invalidity
+  and survivors’ benefits, family, sickness and maternity benefits, and
+  medical care for the workers and for members of their families
+  resident in the Community.
+
+  3. The workers in question shall receive family allowances for members
+  of their families who are resident in the Community.
+
+  4. The workers in question shall be able to transfer freely to
+  Algeria, at the rates applied by virtue of the legislation of the
+  debtor Member State or States, any pensions or annuities in respect of
+  old age, survivor status, industrial accident or occupational disease,
+  or of invalidity resulting from industrial accident or occupational
+  disease, except in the case of special non-contributory benefits.
+
+  5. Algeria shall accord to workers who are nationals of a Member State
+  and employed in its territory, and to the members of their families,
+  treatment similar to that specified in paragraphs 1, 3 and 4.</article>
+      <article number="ARTICLE 69" article_identifier="1574">The provisions of this Chapter shall apply to nationals of the Parties
+  residing or working legally in the territory of their host countries.</article>
+      <article number="ARTICLE 70" article_identifier="1575">1. Before the end of the first year following the entry into force of
+  this Agreement, the Association Council shall adopt provisions to
+  implement the principles set out in Article 68.
+
+  2. The Association Council shall adopt detailed rules for
+  administrative cooperation providing the necessary management and
+  monitoring guarantees for the application of the provisions referred
+  to in paragraph 1.</article>
+      <article number="ARTICLE 71" article_identifier="1576">The provisions adopted by the Association Council in accordance with
+  Article 70 shall not affect any rights or obligations arising from
+  bilateral agreements linking Algeria and the Member States where those
+  agreements provide for more favourable treatment of nationals of
+  Algeria or of the Member States.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Dialogue In Social Matters" chapter_identifier="208">
+      <article number="ARTICLE 72" article_identifier="1577">1. The Parties shall conduct regular dialogue on any social matter
+  which is of interest to them.
+
+  2. Such dialogue shall be used to find ways to achieve progress in the
+  field of movement of workers and equal treatment and social
+  integration for Algerian and Community nationals residing legally in
+  the territories of their host States.
+
+  3. The dialogue shall cover, inter alia, all issues related to:
+
+  (a) the living and working conditions of workers and their dependants;
+
+  (b) migration;
+
+  (c) illegal immigration and the conditions governing the return of
+  individuals who are in breach of the legislation dealing with the
+  right to stay and the right of establishment in the host State;
+
+  (d) schemes and programmes to encourage equal treatment between
+  Algerian and Community nationals, mutual knowledge of cultures and
+  civilisations, the furthering of tolerance and the removal of
+  discrimination.</article>
+      <article number="ARTICLE 73" article_identifier="1578">Dialogue on social matters shall be conducted at the same levels and
+  in accordance with the same procedures as provided for in Title I of
+  this Agreement, which can itself provide a framework for that
+  dialogue.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Cooperation In The Social Field" chapter_identifier="209">
+      <article number="ARTICLE 74" article_identifier="1579">1. The Parties recognise the importance of social development, which
+  must go hand in hand with economic development. They will give
+  priority to respect for fundamental social rights.
+
+  2. With a view to consolidating cooperation between the Parties in the
+  social field, projects and programmes shall be carried out in any area
+  of interest to them.
+
+  In this context, the following shall be priority measures:
+
+  (a) contributing to the improvement of living conditions, job creation
+  and the development of training in areas from which emigrants come;
+
+  (b) resettling those repatriated because of their illegal status under
+  the legislation of the state in question;
+
+  (c) productive investment or the creation of businesses in Algeria by
+  Algerian workers legally settled in the Community;
+
+  (d) promoting the role of women in the economic and social development
+  process through education and the media, in keeping with Algerian
+  policy;
+
+  (e) bolstering Algerian family planning and mother and child
+  protection programmes;
+
+  (f) improving the social welfare and health systems;
+
+  (g) implementing and financing exchange and leisure programmes for
+  mixed groups of Algerian and European young people residing in the
+  Member States, with a view to promoting mutual knowledge of their
+  respective cultures and fostering tolerance;
+
+  (h) improving living conditions in poor areas;
+
+  (i) promoting socio-professional dialogue;
+
+  (j) promoting respect for human rights in the socio-professional
+  context;
+
+  (k) contributing to the development of the housing sector, especially
+  with regard to low-cost housing;
+
+  (l) alleviating the adverse impact of the adjustment of economic and
+  social structures;
+
+  (m) improving the vocational training system.</article>
+      <article number="ARTICLE 75" article_identifier="1580">Cooperation schemes may be carried out in conjunction with the Member
+  States and the relevant international organisations.</article>
+      <article number="ARTICLE 76" article_identifier="1581">A working party shall be set up by the Association Council by the end
+  of the first year following the entry into force of this Agreement. It
+  shall be responsible for the continuous and regular evaluation of the
+  implementation of Chapters 1 to 3.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Cooperation In The Fields Of Education And Culture" chapter_identifier="210">
+      <article number="ARTICLE 77" article_identifier="1582">This Agreement shall aim to promote the exchange of information and
+  cultural cooperation, taking account of bilateral schemes in the
+  Member States.
+
+  Greater knowledge and better mutual understanding of the respective
+  cultures will be promoted.
+
+  Special attention must be paid to promoting joint activities in
+  various fields, including the press, cinema and television, and to
+  encouraging youth exchange schemes.
+
+  This cooperation could cover the following areas:
+
+  - literary translation,
+
+  - conservation and restoration of monuments and sites of historical
+  and cultural interest,
+
+  - training of persons working in the cultural field,
+
+  - exchanges of artists and works of arts,
+
+  - organisation of cultural events,
+
+  - raising mutual awareness and disseminating information on important
+  cultural events,
+
+  - encouragement of cooperation in the audiovisual field, particularly
+  training and co-production,
+
+  - distribution of literary, technical and scientific journals and
+  publications.</article>
+      <article number="ARTICLE 78" article_identifier="1583">The aim of cooperation in the field of education and training shall be
+  to:
+
+  (a) contribute to the improvement of the education and training
+  system, including vocational training;
+
+  (b) place special emphasis on giving the female population access to
+  education, including technical training, higher education and
+  vocational training;
+
+  (c) develop the level of expertise of senior staff in the public and
+  private sectors;
+
+  (d) encourage the establishment of lasting links between specialist
+  bodies on the Parties' territories in order to pool and exchange
+  experience and methods.</article>
+    </chapter>
+    <chapter number="TITLE VII" name="Financial Cooperation" chapter_identifier="211">
+      <article number="ARTICLE 79" article_identifier="1584">In order to support the objectives of this Agreement, Algeria shall
+  receive financial cooperation Algeria in accordance with the
+  appropriate procedures and with the appropriate financial resources.
+
+  These procedures shall be adopted by mutual agreement between the
+  Parties by means of the most suitable instruments once this Agreement
+  enters into force.
+
+  In addition to the areas covered by Titles V and VI of this Agreement,
+  cooperation shall apply to the following:
+
+  - facilitating reforms designed to modernise the economy, including
+  rural development,
+
+  - upgrading economic infrastructure,
+
+  - promoting private investment and job-creating activities,
+
+  - offsetting the effects on the Algerian economy of the progressive
+  introduction of a free trade area, in particular where the updating
+  and restructuring of industry is concerned,
+
+  - accompanying measures for policies implemented in the social
+  sectors.</article>
+      <article number="ARTICLE 80" article_identifier="1585">Within the framework of the Community instruments designed to support
+  structural adjustment programmes in the Mediterranean countries in
+  order to restore key financial equilibria and create an economic
+  environment conducive to faster growth and enhanced social welfare,
+  the Community and Algeria, in close coordination with other
+  contributors, in particular the international financial institutions,
+  shall adapt the instruments intended to accompany development and
+  liberalisation policies for the Algerian economy.</article>
+      <article number="ARTICLE 81" article_identifier="1586">In order to ensure a coordinated approach to dealing with any
+  exceptional macroeconomic or financial problems which might stem from
+  the progressive implementation of the provisions of this Agreement,
+  the Parties shall closely monitor the development of trade and
+  financial relations between the Community and Algeria as part of the
+  regular economic dialogue established under Title V.</article>
+    </chapter>
+    <chapter number="TITLE VIII" name="Cooperation In The Field Of Justice And Home Affairs" chapter_identifier="212">
+      <article number="ARTICLE 82" name="Institution-Building And The Rule Of Law" article_identifier="1587">In their cooperation in the field of justice and home affairs, the
+  Parties shall attach particular importance to institution-building in
+  the areas of law enforcement and the machinery of justice. This
+  includes the consolidation of the rule of law.
+
+  In this context the Parties shall also ensure that the rights of
+  nationals of both Parties are respected without discrimination in the
+  territory of the other Party.
+
+  The provisions of this Article do not relate to differences of
+  treatment based on nationality.</article>
+      <article number="ARTICLE 83" name="Movement Of Persons" article_identifier="1588">Desirous of facilitating the movement of persons between them, the
+  Parties shall ensure, in accordance with the relevant Community and
+  national legislation in force, that the formalities for the issue of
+  visas are carefully applied and executed and shall agree to examine,
+  within the limits of their powers, ways of simplifying and speeding up
+  the issue of visas to persons contributing to the implementation of
+  this Agreement. The Association Committee shall periodically examine
+  the implementation of this Article.</article>
+      <article number="ARTICLE 84" name="Cooperation In The Prevention And Control Of Illegal Immigration; Readmission" article_identifier="1589">1. The Parties reaffirm the importance which they attach to the
+  development of mutually beneficial cooperation in relation to the
+  exchange of information on illegal immigration flows and agree to
+  cooperate in order to prevent and control illegal immigration. To this
+  end:
+
+  - Algeria, on the one hand, and each Member State of the Community, on
+  the other hand, agree to readmit any of their nationals illegally
+  present on the territory of the other Party after the necessary
+  identification formalities have been completed,
+
+  - Algeria and the Member States of the Community shall provide their
+  nationals with the appropriate identity documents for this purpose.
+
+  2. Desirous of facilitating the movement and residence of their
+  nationals whose status is regular, the Parties agree to negotiate, at
+  the request of either Party, the conclusion of agreements on combating
+  illegal immigration and on readmission. If either Party considers it
+  necessary, such agreements shall cover the readmission of nationals of
+  other countries arriving in their territory direct from the territory
+  of the other. The practical arrangements for the implementation of the
+  abovementioned agreements shall be laid down, where appropriate, by
+  the Parties in the agreements themselves or in their implementing
+  protocols.
+
+  3. The Association Council shall examine the possibility of other
+  forms of joint action for the prevention and control of illegal
+  immigration, including ways of detecting forged documents.</article>
+      <article number="ARTICLE 85" name="Legal And Judicial Cooperation" article_identifier="1590">1. The Parties agree that cooperation in the legal and judicial fields
+  is essential and a necessary adjunct to the other forms of cooperation
+  provided for in this Agreement.
+
+  2. Such cooperation may include, where appropriate, the negotiation of
+  agreements in these fields.
+
+  3. Civil judicial cooperation will in particular cover:
+
+  - strengthening mutual assistance with regard to cooperation in the
+  handling of disputes or cases of a civil, commercial or family nature,
+
+  - the exchange of experience in relation to managing and improving the
+  administration of civil justice.
+
+  4. Criminal judicial cooperation will cover:
+
+  - strengthening existing mutual assistance or extradition
+  arrangements,
+
+  - the development of exchanges, in particular in relation to the
+  practice of criminal judicial cooperation, the protection of
+  individual rights and freedoms, action against organised crime and
+  improving the efficiency of criminal justice.
+
+  5. Cooperation in this area shall in particular include the
+  introduction of specialist training courses.</article>
+      <article number="ARTICLE 86" name="Preventing And Tackling Organised Crime" article_identifier="1591">1. The Parties agree to cooperate in order to prevent and fight
+  organised crime, in particular in the following fields: human
+  trafficking; exploitation for sexual purposes; the illicit traffic of
+  prohibited, counterfeited or pirated products, and illegal
+  transactions concerning, in particular, industrial refuse or
+  radioactive material; corruption; the trafficking of stolen cars; the
+  trafficking of firearms and explosives; computer crime; and
+  trafficking in cultural goods.
+
+  The Parties shall cooperate closely in order to establish appropriate
+  mechanisms and standards.
+
+  2. Technical and administrative cooperation in this field may include
+  training and improving the effectiveness of the authorities and bodies
+  responsible for fighting and preventing crime and the design of crime
+  prevention measures.</article>
+      <article number="ARTICLE 87" name="Combating Money Laundering" article_identifier="1592">1. The Parties agree on the need to work towards and cooperate on
+  preventing the use of their financial systems to launder the proceeds
+  of criminal activities in general and drug trafficking in particular.
+
+  2. Cooperation in this area shall include administrative and technical
+  assistance with the purpose of adopting and implementing suitable
+  standards against money laundering equivalent to those adopted by the
+  Community and international authorities active in this field,
+  including the Financial Action Task Force (FATF).
+
+  3. Cooperation shall have the objective of:
+
+  (a) training agents of the services responsible for preventing,
+  detecting and combating money laundering, and officials of the
+  judiciary;
+
+  (b) appropriate support for the creation of specialist institutions
+  and the strengthening of existing institutions.</article>
+      <article number="ARTICLE 88" name="Combating Racism And Xenophobia" article_identifier="1593">The Parties agree to take appropriate steps to prevent and combat
+  discrimination in all its forms and manifestations, whether it be on
+  grounds of race, ethnic origin or religion, particularly in the fields
+  of education, employment, training and housing.
+
+  Public information and awareness campaigns will be organised to this
+  end.
+
+  The Parties shall in particular ensure in this context that all
+  persons who consider themselves victims of such discrimination have
+  access to judicial and administrative procedures.
+
+  The provisions of this Article do not relate to differences of
+  treatment based on nationality.</article>
+      <article number="ARTICLE 89" name="Combating Drugs And Drug Addiction" article_identifier="1594">1. Cooperation shall be aimed at:
+
+  (a) improving the effectiveness of policies and measures to prevent
+  and combat the growing, production, supply and consumption of, and
+  trafficking in, narcotics and psychotropic substances;
+
+  (b) eliminating illicit consumption of such products.
+
+  2. The Parties shall determine together, in accordance with their
+  respective laws, the strategies and cooperation methods appropriate
+  for attaining these objectives. Their operations, other than joint
+  operations, shall be the subject of consultation and close
+  coordination.
+
+  Such action may involve the appropriate public and private sector
+  institutions and international organisations, in collaboration with
+  the Government of Algeria and the relevant authorities in the
+  Community and the Member States.
+
+  3. Cooperation shall take the following forms in particular:
+
+  (a) establishment or extension of social and health institutions and
+  information centres for the treatment and rehabilitation of drug
+  addicts;
+
+  (b) the implementation of prevention, information, training and
+  epidemiological research projects;
+
+  (c) the establishment of standards for preventing diversion of
+  precursors and other essential ingredients for the illicit manufacture
+  of narcotics and psychotropic substances, which are equivalent to
+  those adopted by the Community and the appropriate international
+  authorities;
+
+  (d) support for the creation of special anti-drug trafficking
+  services.
+
+  4. Both Parties shall encourage cooperation at regional and
+  sub-regional level.</article>
+      <article number="ARTICLE 90" name="Fight Against Terrorism" article_identifier="1595">In accordance with the international conventions to which they are
+  party and with their respective laws and regulations, both Parties
+  agree to cooperate with a view to preventing and penalising acts of
+  terrorism:
+
+  - through the implementation in its entirety of United Nations
+  Security Council resolution 1373 and other related resolutions,
+
+  - through the exchange of information on terrorist groups and their
+  support networks in accordance with international and national law,
+
+  - by pooling experience of means and practices for combating
+  terrorism, including experience in the technical and training fields.</article>
+      <article number="ARTICLE 91" name="Fight Against Corruption" article_identifier="1596">1. The Parties agree to cooperate, on the basis of the relevant
+  international legal instruments, on action to combat corruption in
+  international business transactions:
+
+  - by taking effective practical measures against all forms of
+  corruption, bribery and illicit activities of every sort in
+  international business transactions practised by individuals or
+  corporate bodies,
+
+  - by providing mutual assistance in criminal investigations into acts
+  of corruption.
+
+  2. Cooperation shall also cover technical assistance for the training
+  of officials and magistrates responsible for tackling corruption and
+  support for initiatives designed to organise action against this form
+  of crime.</article>
+    </chapter>
+    <chapter number="TITLE IX" name="Institutional, General And Final Provisions" chapter_identifier="213">
+      <article number="ARTICLE 92" article_identifier="1597">An Association Council is hereby established which shall meet at
+  ministerial level once a year, where possible, on the initiative of
+  its Chair and in accordance with the conditions laid down in its rules
+  of procedure.
+
+  It shall examine any major issues arising within the framework of this
+  Agreement and any other bilateral or international issues of mutual
+  interest.</article>
+      <article number="ARTICLE 93" article_identifier="1598">1. The Association Council shall consist of the members of the Council
+  of the European Union and members of the Commission of the European
+  Communities, on the one hand, and of members of the Government of
+  Algeria, on the other.
+
+  2. Members of the Association Council may arrange to be represented in
+  accordance with the provisions laid down in its rules of procedure.
+
+  3. The Association Council shall establish its rules of procedure.
+
+  4. The Association Council shall be chaired in turn by a member of the
+  Council of the European Union and a member of the Government of
+  Algeria in accordance with the provisions laid down in its rules of
+  procedure.</article>
+      <article number="ARTICLE 94" article_identifier="1599">The Association Council shall, for the purpose of attaining the
+  objectives of this Agreement, have the power to take decisions in the
+  cases provided for therein.
+
+  These decisions shall be binding on the Parties which shall take the
+  measures necessary to implement the decisions taken. The Association
+  Council may also make appropriate recommendations.
+
+  It shall draw up its decisions and recommendations by agreement
+  between the Parties.</article>
+      <article number="ARTICLE 95" article_identifier="1600">1. Subject to the powers conferred upon the Association Council, an
+  Association Committee is hereby established which shall be responsible
+  for the implementation of this Agreement.
+
+  2. The Association Council may delegate to the Association Committee,
+  in full or in part, any of its powers.</article>
+      <article number="ARTICLE 96" article_identifier="1601">1. The Association Committee, which shall meet at official level,
+  shall consist of representatives of members of the Council of the
+  European Union and of the Commission of the European Communities, on
+  the one hand, and of representatives of the Government of Algeria, on
+  the other.
+
+  2. The Association Committee shall establish its rules of procedure.
+
+  3. The Association Committee shall meet in the Community or in
+  Algeria.</article>
+      <article number="ARTICLE 97" article_identifier="1602">The Association Committee shall have the power to take decisions for
+  the management of this Agreement as well as in those areas in which
+  the Association Council has delegated its powers to it.
+
+  Decisions shall be adopted by agreement between the Parties and shall
+  be binding on the Parties, which shall take the measures necessary to
+  implement them.</article>
+      <article number="ARTICLE 98" article_identifier="1603">The Association Council may decide to set up any working group or body
+  necessary for the implementation of this Agreement.</article>
+      <article number="ARTICLE 99" article_identifier="1604">The Association Council shall take all appropriate measures to
+  facilitate cooperation and contacts between the European Parliament
+  and the parliamentary institutions of Algeria, and between the
+  Economic and Social Committee of the Community and its counterpart in
+  Algeria.</article>
+      <article number="ARTICLE 100" article_identifier="1605">1. Each of the Parties may refer to the Association Council any
+  dispute relating to the application or interpretation of this
+  Agreement.
+
+  2. The Association Council may settle the dispute by means of a
+  decision.
+
+  3. Each Party shall be bound to take the measures involved in carrying
+  out the decision referred to in paragraph 2.
+
+  4. In the event of it not being possible to settle the dispute in
+  accordance with paragraph 2, either Party may notify the other of the
+  appointment of an arbitrator; the other Party must then appoint a
+  second arbitrator within two months. For the application of this
+  procedure, the Community and the Member States shall be deemed to be
+  one party to the dispute.
+
+  The Association Council shall appoint a third arbitrator.
+
+  The arbitrators’ decisions shall be taken by majority vote.
+
+  Each party to the dispute must take the steps required to implement
+  the decision of the arbitrators.</article>
+      <article number="ARTICLE 101" article_identifier="1606">Nothing in this Agreement shall prevent a Contracting Party from
+  taking any measures:
+
+  (a) which it considers necessary to prevent the disclosure of
+  information contrary to its essential security interests;
+
+  (b) which relate to the production of, or trade in, arms, munitions or
+  war materials or to research, development or production indispensable
+  for defence purposes, provided that such measures do not impair the
+  conditions of competition in respect of products not intended for
+  specifically military purposes;
+
+  (c) which it considers essential to its own security in the event of
+  serious internal disturbances affecting the maintenance of law and
+  order, in time of war or serious international tension constituting
+  threat of war or in order to carry out obligations it has accepted for
+  the purpose of maintaining peace and international security.</article>
+      <article number="ARTICLE 102" article_identifier="1607">In the fields covered by this Agreement, and without prejudice to any
+  special provisions contained therein:
+
+  - the arrangements applied by Algeria in respect of the Community
+  shall not give rise to any discrimination between the Member States,
+  their nationals or their companies or firms,
+
+  - the arrangements applied by the Community in respect of Algeria
+  shall not give rise to any discrimination between Algerian nationals,
+  companies or firms.</article>
+      <article number="ARTICLE 103" article_identifier="1608">Nothing in this Agreement shall have the effect of:
+
+  - extending the fiscal advantages granted by either Party in any
+  international agreement or arrangement by which it is bound,
+
+  - preventing the adoption or application by either Party of any
+  measure aimed at preventing the avoidance or evasion of taxes,
+
+  - opposing the right of either Party to apply the relevant provisions
+  of its tax legislation to taxpayers who are not in identical
+  situation, in particular as regards their place of residence.</article>
+      <article number="ARTICLE 104" article_identifier="1609">1. The Parties shall take any general or specific measures required to
+  fulfil their obligations under this Agreement. They shall see to it
+  that the objectives set out in the Agreement are attained.
+
+  2. If either Party considers that the other Party has failed to fulfil
+  an obligation under the Agreement, it may take appropriate measures.
+  Before so doing, except in cases of special urgency, it shall supply
+  the Association Council with all the relevant information required for
+  a thorough examination of the situation with a view to seeking a
+  solution acceptable to the Parties.
+
+  In the selection of measures, priority must be given to those which
+  least disturb the functioning of the Agreement. These measures shall
+  be notified immediately to the Association Council and shall be the
+  subject of consultations within the Association Council if the other
+  Party so requests.</article>
+      <article number="ARTICLE 105" article_identifier="1610">Protocols 1 to 7 and Annexes 1 to 6 shall form an integral part of
+  this Agreement.</article>
+      <article number="ARTICLE 106" article_identifier="1611">For the purposes of this Agreement, "Parties" shall mean, on
+  the one hand, the Community or the Member States, or the Community and
+  its Member States, in accordance with their respective powers, and, on
+  the other hand, Algeria.</article>
+      <article number="ARTICLE 107" article_identifier="1612">This Agreement shall be concluded for an unlimited period.
+
+  Each of the Parties may denounce this Agreement by notifying the other
+  Party. The Agreement shall cease to apply six months after the date of
+  such notification.</article>
+      <article number="ARTICLE 108" article_identifier="1613">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Community is applied and
+  under the conditions laid down in that Treaty and, on the other, to
+  the territory of the People's Democratic Republic of Algeria.</article>
+      <article number="ARTICLE 109" article_identifier="1614">This Agreement shall be drawn up in duplicate in the Danish, Dutch,
+  English, Finnish, French, German, Greek, Italian, Portuguese, Spanish,
+  Swedish and Arabic languages, each of these texts being equally
+  authentic.</article>
+      <article number="ARTICLE 110" article_identifier="1615">1. This Agreement will be approved by the Contracting Parties in
+  accordance with their own procedures.
+
+  This Agreement shall enter into force on the first day of the second
+  month following the date on which the Contracting Parties notify each
+  other that the procedures referred to in the first subparagraph have
+  been completed.
+
+  2. Upon its entry into force, this Agreement shall replace the
+  Cooperation Agreement between the European Economic Community and the
+  People's Democratic Republic of Algeria and the Agreement between the
+  Member States of the European Coal and Steel Community and the
+  People's Democratic Republic of Algeria, both of which were signed in
+  Algiers on 26 April 1976.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="214">
+      <article article_identifier="1616">Hecho en Valencia, el veintidós de abril del dos mil dos.
+
+  Udfærdiget i Valencia den toogtyvende april to tusind og to.
+
+  Geschehen zu Valencia am zweiundzwanzigsten April zweitausendundzwei.
+
+  Έγινε στη Βαλένθια, στις εΐκοσι δύο Απριλΐον δύο χιλιάδες δύο.
+
+  Done at Valencia on the twenty-second day of April in the year two
+  thousand and two.
+
+  Fait à Valence, le vingt-deux avril deux mille deux.
+
+  Fatto a Valenza, addi’ ventidue aprile duemiladue.
+
+  Gedaan te Valencia, de tweeëntwintigste april tweeduizendtwee.
+
+  Feito em Valência, em vinte e dois de Abril de dois mil e dois.
+
+  Tehty Valenciassa kahdentenakymmenentenätoisenä päivänä huhtikuuta
+  vuonna kaksituhattakaksi.
+
+  Som skedde i Valencia den tjugoandra april tjugohundratvå.
+
+  Pour le Royaume de Belgique
+
+  Voor het Koninkrijk België
+
+  Für das Königreich Belgien
+
+  Cette signature engage également la Communauté française, la
+  Communauté flamande, la Communauté germanophone, la Région wallonne,
+  la Région flamande et la Région de Bruxelles-Capitale.
+
+  Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse
+  Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het
+  Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
+
+  Diese Unterschrift verbindet zugleich die Deutschsprachige
+  Gemeinschaft, die Flämische Gemeinschaft, die Französische
+  Gemeinschaft, die Wallonische Region, die Flämische Region und die
+  Region Brüssel-Hauptstadt.
+
+  På Kongeriget Danmarks vegne
+
+  Für die Bundesrepublik Deutschland
+
+  Για την Eλληνική Δημoκρατία
+
+  Por el Reino de España
+
+  Pour la République française
+
+  Thar cheann Na hÉireann
+
+  For Ireland
+
+  Per la Repubblica italiana
+
+  Pour le Grand-Duché de Luxembourg
+
+  Voor het Koninkrijk der Nederlanden
+
+  Für die Republik Österreich
+
+  Pela República Portuguesa
+
+  Suomen tasavallan puolesta
+
+  För Republiken Finland
+
+  För Konungariket Sverige
+
+  For the United Kingdom of Great Britain and Northern Ireland
+
+  Por la Comunidad Europea
+
+  For Det Europæiske Fællesskab
+
+  Für die Europäische Gemeinschaft
+
+  Για την Eυρωπαϊκή Koινότητα
+
+  For the European Community
+
+  Pour la Communauté européenne
+
+  Per la Comunità europea
+
+  Voor de Europese Gemeenschap
+
+  Pela Comunidade Europeia
+
+  Euroopan yhteisön puolesta
+
+  På Europeiska gemenskapens vägnar
+
+  --------------------------------------------------</article>
+    </chapter>
+  </body>
+</treaty>

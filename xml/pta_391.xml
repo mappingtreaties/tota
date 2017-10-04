@@ -1,0 +1,2608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Cameroon</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>680</wto_rta_id>
+    <treaty_identifier>391</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2009-01-15</date_signed>
+    <date_into_force>2014-08-04</date_into_force>
+    <date_notification>2009-09-24</date_notification>
+    <end_implementation>2023-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CMR</partyisocode>
+      <partyisocode n="5">CYP</partyisocode>
+      <partyisocode n="6">CZE</partyisocode>
+      <partyisocode n="7">DEU</partyisocode>
+      <partyisocode n="8">DNK</partyisocode>
+      <partyisocode n="9">ESP</partyisocode>
+      <partyisocode n="10">EST</partyisocode>
+      <partyisocode n="11">FIN</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SVK</partyisocode>
+      <partyisocode n="27">SVN</partyisocode>
+      <partyisocode n="28">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CMR</partyisocode>
+      <partyisocode n="5">CYP</partyisocode>
+      <partyisocode n="6">CZE</partyisocode>
+      <partyisocode n="7">DEU</partyisocode>
+      <partyisocode n="8">DNK</partyisocode>
+      <partyisocode n="9">ESP</partyisocode>
+      <partyisocode n="10">EST</partyisocode>
+      <partyisocode n="11">FIN</partyisocode>
+      <partyisocode n="12">FRA</partyisocode>
+      <partyisocode n="13">GBR</partyisocode>
+      <partyisocode n="14">GRC</partyisocode>
+      <partyisocode n="15">HRV</partyisocode>
+      <partyisocode n="16">HUN</partyisocode>
+      <partyisocode n="17">IRL</partyisocode>
+      <partyisocode n="18">ITA</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe; Africa</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399560086045&amp;uri=CELEX:22009A0228(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22009A0228(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:22009A0303(01)&amp;from=EN</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399560086045&amp;uri=CELEX:22009A0228(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399560086045&amp;uri=CELEX:22009A0228(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399560086045&amp;uri=CELEX:22009A0228(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="616">
+      <article article_identifier="31757">Interim Agreement
+
+  with a view to an Economic Partnership Agreement between the European
+  Community and its Member States, of the one part, and the Central
+  Africa Party, of the other part
+
+  "CENTRAL AFRICA" WHICH, FOR THE PURPOSE OF THIS AGREEMENT,
+  COMPRISES:
+
+  THE REPUBLIC OF CAMEROON,
+
+  of the one part,
+
+  THE KINGDOM OF BELGIUM,
+
+  THE REPUBLIC OF BULGARIA,
+
+  THE CZECH REPUBLIC,
+
+  THE KINGDOM OF DENMARK,
+
+  THE FEDERAL REPUBLIC OF GERMANY,
+
+  THE REPUBLIC OF ESTONIA,
+
+  IRELAND,
+
+  THE HELLENIC REPUBLIC,
+
+  THE KINGDOM OF SPAIN,
+
+  THE FRENCH REPUBLIC,
+
+  THE ITALIAN REPUBLIC,
+
+  THE REPUBLIC OF CYPRUS,
+
+  THE REPUBLIC OF LATVIA,
+
+  THE REPUBLIC OF LITHUANIA,
+
+  THE GRAND DUCHY OF LUXEMBOURG,
+
+  THE REPUBLIC OF HUNGARY,
+
+  MALTA,
+
+  THE KINGDOM OF THE NETHERLANDS,
+
+  THE REPUBLIC OF AUSTRIA,
+
+  THE REPUBLIC OF POLAND,
+
+  THE PORTUGUESE REPUBLIC,
+
+  ROMANIA,
+
+  THE REPUBLIC OF SLOVENIA,
+
+  THE SLOVAK REPUBLIC,
+
+  THE REPUBLIC OF FINLAND,
+
+  THE KINGDOM OF SWEDEN,
+
+  THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+
+  and
+
+  THE EUROPEAN COMMUNITY,
+
+  of the other part
+
+  PREAMBLE
+
+  HAVING regard to the Partnership Agreement between the Members of the
+  Group of African, Caribbean and Pacific States, of the one part, and
+  the European Community and its Member States, of the other part,
+  signed in Cotonou on 23 June 2000 and revised in Luxembourg on 25 June
+  2005, hereinafter "the Cotonou Agreement";
+
+  CONVINCED that the Economic Partnership Agreement (EPA) will create a
+  new and more favourable climate for their relations in the areas of
+  economic governance, trade and investments and create new
+  opportunities for growth and development;
+
+  WHEREAS the liberalisation of trade, of establishment and of trade in
+  services between the Parties must be based on the regional integration
+  of the Central African States, have the objective of fostering their
+  smooth and gradual integration into the global economy, with due
+  regard for their political choices and their development priorities,
+  and fulfil the conditions laid down in the World Trade Organisation
+  (WTO) agreements;
+
+  WHEREAS the Parties shall not encourage foreign direct investment by
+  making their domestic environmental, labour or occupational health and
+  safety legislation and regulations less stringent or by relaxing their
+  domestic labour legislation and regulations or regulations designed to
+  protect and promote cultural diversity. The Parties therefore reaffirm
+  their commitment to comply with these domestic laws or regulations or
+  to propose to do so in order to encourage the establishment,
+  acquisition, expansion or retention in their territory of an
+  investment or of an investor,
+
+  HAVE DECIDED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="TITLE I" name="Objectives" chapter_identifier="617">
+      <article number="ARTICLE 1" name="Interim Agreement" article_identifier="31758">This Agreement establishes an initial framework for an Economic
+  Partnership Agreement (EPA).
+
+  By "initial framework", the Parties mean an Interim
+  Agreement comprising, on the one hand, actual and enforceable
+  commitments according to the provisions of this Agreement and, on the
+  other hand, negotiations on incorporating additional elements in order
+  to arrive at a full EPA in accordance with the Cotonou Agreement.</article>
+      <article number="ARTICLE 2" name="General Objectives And Scope" article_identifier="31759">The general objectives of this Agreement are to:
+
+  (a) contribute to the reduction and eventual eradication of poverty by
+  establishing a trade partnership consistent with the objective of
+  sustainable development, the Millennium Development Goals and the
+  Cotonou Agreement;
+
+  (b) promote a regional economy in Central Africa that is more
+  competitive and diversified, and stronger growth;
+
+  (c) foster regional integration, economic cooperation and good
+  governance in the Central African region;
+
+  (d) promote the gradual integration of the Central Africa Party into
+  the global economy, in accordance with its political choices and its
+  development priorities;
+
+  (e) improve the capacities of the Central Africa Party in terms of
+  trade policy and trade-related issues;
+
+  (f) establish and implement an effective, predictable and transparent
+  regulatory framework for trade and investment in the Central African
+  region, thus supporting the conditions for increasing investment and
+  private-sector initiatives, and enhance capacity for the supply of
+  products and services, competitiveness and economic growth in the
+  region;
+
+  (g) strengthen existing relations between the Parties on the basis of
+  solidarity and mutual interest. To this end, in line with the WTO
+  obligations, the Agreement will enhance commercial and economic
+  relations, support a new trading dynamic between the Parties by means
+  of the progressive, asymmetrical liberalisation of trade between them
+  and reinforce, broaden and deepen cooperation in all areas relevant to
+  trade;
+
+  (h) promote private-sector development and employment growth.</article>
+      <article number="ARTICLE 3" name="Specific Objectives" article_identifier="31760">In accordance with Articles 34 and 35 of the Cotonou Agreement, the
+  specific objectives of this Agreement are to:
+
+  (a) establish a basis for the negotiation of an EPA which will help
+  reduce poverty, promote regional integration, economic cooperation and
+  good governance in Central Africa and increase Central Africa's
+  production, export and supply capacities, as well as its ability to
+  attract foreign investment and its capacities in terms of trade policy
+  and trade-related issues;
+
+  (b) foster the smooth and gradual integration of Central Africa into
+  the global economy, in accordance with its political choices and its
+  development priorities;
+
+  (c) strengthen existing relations between the Parties on the basis of
+  solidarity and mutual interest;
+
+  (d) create an Agreement that is compatible with the rules of the WTO;
+
+  (e) establish a basis for negotiating and implementing an effective,
+  predictable and transparent regulatory framework for trade,
+  investment, competition, intellectual property, public procurement and
+  sustainable development in the Central African region, thus supporting
+  the conditions for increasing investment and private-sector
+  initiatives, and enhance capacity for the supply of goods and
+  services, competitiveness and economic growth in the region;
+
+  (f) provide a roadmap for negotiations on the areas referred to in
+  paragraph (e) for which it was not possible to complete negotiations
+  in 2007.</article>
+    </chapter>
+    <chapter number="TITLE II" name="Partnership For Development" chapter_identifier="618">
+      <article number="ARTICLE 4" name="Framework For Capacity Building In Central Africa" article_identifier="31761">The Parties affirm their commitment to promote capacity building and
+  economic modernisation in Central Africa using the various instruments
+  at their disposal, for example by setting up an economic and
+  institutional framework at national and regional levels that is
+  conducive to growth in economic activity in Central Africa, by means
+  of trade policy instruments and development cooperation instruments as
+  set out in Article 7.</article>
+      <article number="ARTICLE 5" name="Priority Areas For Capacity Building And Modernisation" article_identifier="31762">1. The Central African Party, in partnership with the EC Party and by
+  means of the cooperation instruments set out in Article 7, shall
+  promote a quantitative and qualitative increase in the goods and
+  services produced and exported by the Central African region,
+  particularly in the following areas:
+
+  (a) Development of basic regional infrastructure
+
+  - Transport
+
+  - Energy
+
+  - Telecommunications
+
+  (b) Agriculture and food safety
+
+  - Agricultural production
+
+  - Agro-industry
+
+  - Fisheries
+
+  - Stock farming
+
+  - Aquaculture and fish stocks
+
+  (c) Industry, diversification and competitiveness of economies
+
+  - Modernisation of businesses
+
+  - Industry
+
+  - Standards and certification (sanitary and phytosanitary (SPS)
+  measures, quality, zootechnical standards, etc.)
+
+  (d) Strengthening of regional integration
+
+  - Development of the regional common market
+
+  - Taxation and customs
+
+  (e) Improvement of the business environment
+
+  - Harmonisation of national trade policies
+
+  2. In implementing this partnership, the Parties shall refer to the
+  joint guidance document in Annex I to this Agreement.
+
+  3. In the implementation of this Agreement, the Parties affirm their
+  commitment to promote the modernisation of the productive sectors in
+  Central Africa affected by this Agreement, by means of the cooperation
+  instruments set out in Article 7.</article>
+      <article number="ARTICLE 6" name="Business Environment" article_identifier="31763">The Parties consider that the business environment is an essential
+  vehicle for economic development, and that the provisions of this
+  Agreement are therefore geared towards achieving this common
+  objective. The signatory Central African States, which are also
+  signatories of the OHADA Treaty (Organisation for the Harmonisation of
+  Business Law in Africa), undertake to apply and implement the
+  provisions of this Treaty effectively and without discrimination.</article>
+      <article number="ARTICLE 7" name="Development Finance Cooperation" article_identifier="31764">1. The provisions of the Cotonou Agreement which relate to economic
+  and regional integration and cooperation shall be implemented in order
+  to maximise the benefits provided for in this Agreement.
+
+  2. European Community [1] financing pertaining to development
+  cooperation between the Central Africa Party and the European
+  Community supporting the implementation of this Agreement shall be
+  within the framework of the relevant rules and procedures provided for
+  by the Cotonou Agreement, in particular the programming procedures of
+  the European Development Fund (EDF), and within the framework of the
+  relevant instruments financed by the General Budget of the European
+  Union. In this context, supporting the implementation of this
+  Agreement shall be one of the priorities.
+
+  3. The Member States of the European Community collectively undertake
+  to support, by means of their respective development policies and
+  instruments — including aid for trade — development activities for
+  regional economic cooperation and for the implementation of this
+  Agreement, at both national and regional levels, in accordance with
+  the principles of effectiveness and complementarity of aid.
+
+  4. The Parties shall cooperate in order to facilitate the
+  participation of other donors willing to support the efforts of the
+  Central Africa Party to achieve the objectives of this Agreement.
+
+  5. The Parties recognise the usefulness of specific regional financing
+  mechanisms which support the implementation of this Agreement, and
+  will support the region's efforts in this direction.</article>
+      <article number="ARTICLE 8" name="Supporting The Implementation Of Trade-Related Rules" article_identifier="31765">The Parties agree that the implementation of trade-related rules, for
+  which the areas of cooperation are detailed in the individual Chapters
+  of this Agreement, shall help to achieve the objectives of this
+  Agreement. Cooperation in this area shall be in accordance with the
+  arrangements set out in Article 7.</article>
+      <article number="ARTICLE 9" name="Financing Of The Partnership" article_identifier="31766">1. The Parties agree on the creation of an EPA regional fund, set up
+  by and for the Central African region, to coordinate support which
+  will help to finance effectively the priority measures intended to
+  build productive capacity in the Central African States, as indicated
+  in Article 5, and the measures referred to in Article 10. The detailed
+  rules for the operation and management of the EPA regional fund shall
+  be decided by the region by the end of 2008. The EC Party shall use
+  this period to complete its assessment of these rules.
+
+  2. The EPA regional fund shall be financed by resources secured by the
+  Parties, for example contributions from EDF funds, contributions from
+  European Union Member States and, potentially, contributions from
+  other donors.
+
+  3. Notwithstanding paragraphs 1 and 2, the European Community Party
+  undertakes to channel its support either via the financing mechanisms
+  specific to the region or via those chosen by the countries signatory
+  to this Interim Agreement, with due regard for the rules and
+  procedures provided for in the Cotonou Agreement, and in accordance
+  with the principles of aid effectiveness.
+
+  4. The Parties shall cooperate in order to facilitate contributions
+  from other donors to the EPA regional fund.</article>
+      <article number="ARTICLE 10" name="Cooperation On Fiscal Adjustment" article_identifier="31767">1. The Parties recognise the challenges which the elimination or
+  substantial reduction of the customs duties provided for in this
+  Agreement may pose for signatory Central African States, and they
+  agree to establish a dialogue and cooperation in this area.
+
+  2. In the light of the dismantling schedule approved by the Parties to
+  this Agreement, the latter agree to establish an in-depth dialogue on
+  the fiscal adjustment measures to be taken which could restore budget
+  balance in the long term.
+
+  3. Further to paragraphs 1 and 2 of this Article, the Parties agree to
+  cooperate, within the framework of Article 7, and undertake to
+  implement technical and financial assistance measures in the following
+  areas:
+
+  (a) contribution to absorbing the net fiscal impact in full
+  complementarity with the fiscal reforms;
+
+  (b) support for fiscal reform together with dialogue in this area.
+
+  4. The Parties undertake to agree, within the EPA Committee and as
+  soon as possible, on the methodology for estimating net fiscal impact.
+  In this same context the Parties shall subsequently agree on the
+  complementary measures and studies to be undertaken.</article>
+      <article number="ARTICLE 11" name="Cooperation In International Fora" article_identifier="31768">The Parties shall endeavour to cooperate in all international fora
+  where issues of interest to this partnership are discussed.</article>
+      <article number="ARTICLE 12" name="Review Of The Partnership For Development" article_identifier="31769">The Parties agree to review in greater detail in 2008 the partnership
+  for development established by this Title, including the details of
+  its implementation.
+
+  TRADE REGIME FOR GOODS</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Customs Duties And Non-Tariff Measures" chapter_identifier="619">
+      <article number="ARTICLE 13" name="Rules Of Origin" article_identifier="31770">1. For the purposes of this Chapter, "originating" shall
+  apply to goods that conform with the rules of origin in force on 1
+  January 2008 in the territories of the Parties.
+
+  2. A common reciprocal regime governing the rules of origin shall be
+  annexed to this Agreement by the EPA Committee, and shall enter into
+  force as of the date of provisional application of this Agreement.
+
+  3. Not later than three years after the date of this Agreement's entry
+  into force, the Parties shall review the provisions in force governing
+  the rules of origin, with a view to simplifying the concepts and
+  methods used for the purpose of determining origin in the light of
+  Central Africa's development goals. As part of this review, the
+  Parties shall take into account technological development, production
+  processes and all other factors including reforms under way in
+  relation to rules of origin which could require amendments to the
+  negotiated reciprocal regime. Any amendment or replacement shall be
+  effected by decision of the EPA Committee.</article>
+      <article number="ARTICLE 14" name="Customs Duties" article_identifier="31771">"Customs duties" shall mean duties or charges of any kind,
+  including any form of surcharge or supplement, imposed on or in
+  connection with the import or export of goods. These do not include:
+
+  (a) charges equivalent to taxes or other internal charges imposed in
+  accordance with Article 23, below, on national treatment;
+
+  (b) antidumping, countervailing or safeguard measures applied in
+  accordance with the provisions of the Chapter on trade defence
+  instruments;
+
+  (c) fees or other charges imposed in accordance with Article 18.</article>
+      <article number="ARTICLE 15" name="Elimination Of Customs Duties On Exports" article_identifier="31772">1. No new customs duties on exports shall be introduced in trade
+  between the Parties, nor shall those already applied be increased, as
+  of the date of this Agreement's entry into force.
+
+  2. However, in the event of a serious public finance problem or the
+  need for greater environmental protection, the Central Africa Party
+  may, after consultation with the EC Party, introduce customs duties on
+  exports for a limited number of additional goods.
+
+  3. The EPA Committee shall undertake a regular evaluation in order to
+  examine the impact and relevance of customs duties on exports applied
+  under this Article.</article>
+      <article number="ARTICLE 16" name="Movement Of Products" article_identifier="31773">1. Products originating in the European Community or in the Central
+  African region shall be assessed duties only once in the territory of
+  the other Party.
+
+  2. For products originating in the European Community, the customs
+  duty to be paid in accordance with this Agreement shall be levied on
+  behalf of the signatory Central African State whose territory
+  constitutes the place of consumption.
+
+  3. The Central Africa Party shall take all necessary measures to
+  ensure the effective implementation of the provisions of this Article
+  and to promote the free movement of goods in the signatory Central
+  African States. The two Parties agree to cooperate in relation to this
+  matter as per Articles 7 and 8. This cooperation shall be adapted
+  according to the type of mechanism ultimately chosen by the Central
+  African region.
+
+  4. The Parties agree to cooperate with a view to facilitating the
+  movement of goods and simplifying customs procedures as provided for
+  under Chapter 3 of Title III.</article>
+      <article number="ARTICLE 17" name="Classification Of Products" article_identifier="31774">The classification of products covered by this Agreement shall be that
+  set out in each Party's respective tariff nomenclature in conformity
+  with the Harmonised Commodity Description and Coding System
+  ("HS").</article>
+      <article number="ARTICLE 18" name="Fees And Other Charges" article_identifier="31775">1. Fees and other charges referred to in Article 14(c) shall be
+  limited in amount to the approximate cost of services rendered and
+  shall not constitute indirect protection for domestic products or
+  taxation of imports or exports for fiscal purposes. They shall be
+  subject to specific tariffs corresponding to the approximate cost of
+  services rendered and shall not be calculated on an ad valorem basis.
+  The fees and other charges shall not be imposed for consular
+  formalities, such as consular certificates and invoices (exhaustive
+  list to be drawn up by the EPA Committee).
+
+  2. In order to promote regional integration and ensure clarity for
+  economic operators, the Central Africa Party agrees to introduce, not
+  later than 1 January 2013, standardised provisions relating to the
+  area covered by this Article.</article>
+      <article number="ARTICLE 19" name="More Favourable Treatment On The Basis Of Economic Integration Agreements" article_identifier="31776">1. With regard to the areas covered by this Chapter, the EC Party
+  shall grant the Central Africa Party any more favourable treatment
+  which could result from the EC Party becoming party to an economic
+  integration agreement with third parties after this Agreement has been
+  signed.
+
+  2. With regard to the areas covered by this Chapter, the EC Party
+  shall grant the Central Africa Party any more favourable treatment
+  which could result from the EC Party becoming party to an economic
+  integration agreement with a major trading partner after this
+  Agreement has been signed.
+
+  3. If the Central Africa Party has received substantially more
+  favourable treatment from a major trading partner than that provided
+  by the EC Party in an economic integration agreement concluded by the
+  Central Africa Party with that same partner, the Parties shall enter
+  into consultations and decide together on the implementation of the
+  provisions of paragraph 2.
+
+  4. For the purposes of this Article, "economic integration
+  agreement" shall mean an agreement which substantially
+  liberalises trade and abolishes or eliminates discrimination between
+  the Parties by eliminating existing discriminatory measures and/or
+  prohibiting new or more discriminatory measures, either upon entry
+  into force of this Agreement or on the basis of a reasonable
+  time-frame.
+
+  5. For the purposes of this Article, "major trading partner"
+  shall signify any developed country or any country accounting for more
+  than 1 % of world trade in the year before the entry into force of the
+  economic integration agreement referred to in paragraph 2, or any
+  group of countries acting individually, collectively or through an
+  economic integration agreement accounting collectively for more than
+  1,5 % of world trade in the year before the entry into force of the
+  economic integration agreement referred to in paragraph 2 [2].
+
+  6. The provisions of this Chapter shall not be so construed as to
+  oblige the Parties to extend reciprocally any preferential treatment
+  applicable as a result of one of the Parties being party to a regional
+  economic integration agreement with a third party on the date of
+  signature of this Agreement.</article>
+      <article number="ARTICLE 20" name="Customs Duties On Products Originating In The Signatory Central African States" article_identifier="31777">1. Products originating from the Central Africa Party shall be
+  imported into the EC Party free of customs duties, with the exception
+  of the products indicated, and under the conditions set out in Annex
+  II.
+
+  2. No new customs duties shall be introduced in trade between the
+  Parties, nor shall those already applied be increased.</article>
+      <article number="ARTICLE 21" name="Customs Duties On Products Originating In The European Community" article_identifier="31778">1. For each product, the basic customs duty shall be that specified in
+  Annex III.
+
+  2. No new customs duties shall be introduced in trade between the
+  Parties, nor shall those specified in Annex III be increased.
+
+  3. Notwithstanding paragraph 2, in the context of introducing a common
+  external tariff as of 1 January 2013 at the latest, and insofar as the
+  general incidence of these duties is no higher than that of the duties
+  specified in Annex III, Central Africa may revise the basic customs
+  duties specified in Annex III which are applicable to products
+  originating in the European Community. In that case, the EPA Committee
+  shall modify Annex III accordingly.
+
+  4. Customs duties on imports of products defined as originating in the
+  European Community and listed in Annex III under categories
+  "1", "2" and "3" shall be definitively
+  eliminated as per the table below. The tariff reduction percentages
+  set out in the table below shall be applied either to the tariffs laid
+  down in paragraph 1 or to any new tariffs laid down under the
+  conditions of paragraph 3.
+
+  Category | 1/01/2008 | 1/01/2009 | 1/01/2010 | 1/01/2011 | 1/01/2012 |
+  1/01/2013 | 1/01/2014 |
+
+  1 | 0 % | 0 % | 25 % | 50 % | 75 % | 100 % | |
+
+  2 | 0 % | 0 % | 0 % | 15 % | 30 % | 45 % | 60 % |
+
+  3 | 0 % | 0 % | 0 % | 0 % | 0 % | 0 % | 10 % |
+
+  Category | 1/01/2015 | 1/01/2016 | 1/01/2017 | 1/01/2018 | 1/01/2019 |
+  1/01/2020 | 1/01/2021 |
+
+  1 | | | | | | | |
+
+  2 | 75 % | 90 % | 100 % | | | | |
+
+  3 | 20 % | 30 % | 40 % | 50 % | 60 % | 70 % | 80 % |
+
+  Category | 1/01/2022 | 1/01/2023 |
+
+  1 | | |
+
+  2 | | |
+
+  3 | 90 % | 100 % |
+
+  5. Imports of products originating in the European Community and
+  listed in Annex III under category "5" shall comprise
+  products for which customs duties are determined in accordance with
+  the provisions of paragraphs 1 and 3 above; customs duties in this
+  category shall be neither reduced nor eliminated.
+
+  6. In the event of serious difficulties in respect of imports of a
+  given product, the schedule for tariff reduction and dismantling may
+  be reviewed by the EPA Committee by common accord with a view to
+  possibly extending the period of reduction or elimination. During a
+  review of this kind, the calendar period for which the review has been
+  requested may not be extended, for the product concerned, beyond the
+  maximum transitional period for the reduction or elimination of
+  tariffs provided for this same product. If the EPA Committee has not
+  made a decision within 30 days of an application to review the
+  timetable, the Central Africa Party may suspend the timetable
+  provisionally for a period which may not exceed one year.</article>
+      <article number="ARTICLE 22" name="Prohibition Of Quantitative Restrictions" article_identifier="31779">Upon entry into force of this Agreement, all prohibitions or
+  restrictions on imports or exports affecting trade between the two
+  Parties shall be eliminated, apart from the customs duties, taxes,
+  fees and other charges referred to under Article 18 of this Chapter,
+  whether made effective through quotas, import or export licenses or
+  other measures. No new measures may be introduced. The provisions of
+  this Article shall apply without prejudice to the provisions of the
+  Chapter of this Agreement on trade defence instruments.</article>
+      <article number="ARTICLE 23" name="National Treatment On Internal Regulations And Taxation" article_identifier="31780">1. Imported products originating in the territory of the other Party
+  shall not be subject, either directly or indirectly, to internal taxes
+  or other internal charges of any kind in excess of those applied,
+  directly or indirectly, to like national products. Moreover, the
+  Parties shall not otherwise apply internal taxes or other internal
+  charges so as to afford protection to national production.
+
+  2. Imported products originating in the territory of the other Party
+  shall be accorded treatment no less favourable than that accorded to
+  like national products in respect of all laws, regulations and
+  requirements affecting their internal sale, offering for sale,
+  purchase, transportation, distribution or use. The provisions of this
+  paragraph shall not prevent the application of differential internal
+  transportation charges which are based exclusively on the economic
+  operation of the means of transport and not on the origin of the
+  product.
+
+  3. Neither Party shall establish or maintain any internal regulation
+  relating to the mixture, processing or use of products in specified
+  amounts or proportions which requires, directly or indirectly, that
+  any specified amount or proportion of any product which is the subject
+  of the regulation must be supplied from national sources. Moreover,
+  neither Party shall otherwise apply internal quantitative regulations
+  so as to afford protection to national production.
+
+  No internal quantitative regulation relating to the mixture,
+  processing or use of products in specified amounts or proportions
+  shall be applied in such a manner as to allocate any such amount or
+  proportion among external sources of supply.
+
+  4. In accordance with Article III.8(b) of the General Agreement on
+  Trade and Tariffs of 1994 (GATT 1994), the provisions of this Article
+  shall not prevent the payment of subsidies exclusively to national
+  producers, including payments derived from the proceeds of internal
+  taxes or charges applied consistently with the provisions of this
+  Article and subsidies effected through governmental purchases of
+  national products.
+
+  5. The provisions of this Article shall not apply to laws,
+  regulations, procedures or practices governing public procurement.
+
+  6. The provisions of this Article shall apply without prejudice to the
+  provisions of the Chapter of this Agreement on trade defence
+  instruments.</article>
+      <article number="ARTICLE 24" name="Agricultural Export Subsidies" article_identifier="31781">1. No Party or signatory Central African State may introduce new
+  export subsidies or increase any existing subsidy of this nature on
+  agricultural products destined for the territory of the other Party.
+  With regard to existing subsidies, this paragraph shall not prohibit
+  increases due to variations in the world prices of the products in
+  question.
+
+  2. For any group of products, as defined in paragraph 3, which receive
+  an export refund under EC legislation for the same basic product for
+  which the Central Africa Party has undertaken to eliminate its
+  tariffs, the EC Party undertakes to dismantle all existing subsidies
+  for exports of this group of products — corresponding to the same
+  basic product — to the territory of the Central Africa Party. In the
+  context of this paragraph, the Parties shall hold consultations by 31
+  December 2008 in order to establish the details of this dismantling
+  process.
+
+  3. This Article shall apply to products covered by Annex I of the WTO
+  Agreement on Agriculture.
+
+  4. This Article shall be without prejudice to the application by the
+  Central Africa Party of Article 9.4 of the WTO Agreement on
+  Agriculture and Article 27 of WTO Agreement on Subsidies and
+  Countervailing Measures.</article>
+      <article number="ARTICLE 25" name="Food Security" article_identifier="31782">Should the implementation of this Agreement lead to problems with the
+  availability of, or access to, the foodstuffs necessary to ensure food
+  security, and where this situation gives rise or is likely to give
+  rise to major difficulties for the Central Africa Party or a signatory
+  Central African State, the Central Africa Party or this signatory
+  Central African State may take appropriate measures in accordance with
+  the procedures laid down in Article 31.</article>
+      <article number="ARTICLE 26" name="Special Provisions On Administrative Cooperation" article_identifier="31783">1. The Parties agree that administrative cooperation is essential for
+  the implementation and control of the preferential treatment granted
+  under this Title and underline their commitment to tackle
+  irregularities and fraud in customs and related matters.
+
+  2. Where one party obtains proof, based on objective information, of a
+  failure to provide administrative cooperation and/or of irregularities
+  or fraud, the Party concerned may temporarily suspend the preferential
+  treatment of the product(s) concerned in accordance with this Article.
+
+  3. For the purposes of this Article, a failure to provide
+  administrative cooperation shall be defined, inter alia, as:
+
+  (a) a recurrent failure to respect the obligation to verify the
+  originating status of the product(s) concerned;
+
+  (b) a repeated refusal or undue delay in carrying out and/or
+  communicating the results of subsequent verification of the proof of
+  origin;
+
+  (c) a repeated refusal or undue delay in granting authorisation to
+  conduct a cooperation mission to verify the authenticity of documents
+  or accuracy of information relevant to the granting of the
+  preferential treatment in question.
+
+  4. The application of a temporary suspension shall be subject to the
+  following conditions:
+
+  (a) The Party which obtains proof, based on objective information, of
+  a failure to provide administrative cooperation and/or of
+  irregularities or fraud shall without undue delay notify the EPA
+  Committee of this proof together with the objective information and
+  enter into consultations within the EPA Committee with a view to
+  reaching a solution acceptable to both Parties, on the basis of all
+  relevant information and objective findings.
+
+  (b) Where the Parties have entered into consultations in the EPA
+  Committee as provided for above and have not been able to agree on an
+  acceptable solution within three months of notification, the Party
+  concerned may temporarily suspend the preferential treatment of the
+  product(s) concerned. A temporary suspension shall be notified to the
+  EPA Committee without undue delay.
+
+  (c) Temporary suspensions under this Article shall be limited to that
+  necessary to protect the financial interests of the Party concerned.
+  They shall not exceed a period of six months, which may be renewed.
+  The EPA Committee shall be notified of temporary suspensions
+  immediately after their adoption. Such suspensions shall be the
+  subject of periodic consultations within the EPA Committee,
+  particularly with a view to their termination as soon as the
+  conditions for their application no longer exist.
+
+  5. At the same time as the notification of the EPA Committee provided
+  for in paragraph 4(a) of this Article, the Party concerned shall
+  publish a notice to importers in its Official Journal or Gazette. This
+  notice to importers shall indicate that, for the product concerned,
+  proof has been obtained, based on objective information, of a failure
+  to provide administrative cooperation and/or of irregularities or
+  fraud.</article>
+      <article number="ARTICLE 27" name="Management Of Administrative Errors" article_identifier="31784">In case of error by the competent authorities in the management of
+  preferential systems for exports, and in particular in the application
+  of rules defining the concept of "originating" products and
+  methods of administrative cooperation, where this error leads to
+  consequences in terms of imports and exports the Party facing such
+  consequences may request the EPA Committee to examine the possibility
+  of adopting all appropriate measures with a view to resolving the
+  situation.</article>
+      <article number="ARTICLE 28" name="Cooperation" article_identifier="31785">In accordance with the provisions of Article 7, the Parties agree to
+  cooperate in the following areas inter alia:
+
+  - supporting the implementation of trade policy commitments arising
+  from this Agreement;
+
+  - training/support in the interpretation and application of these
+  rules.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Trade Defence Instruments" chapter_identifier="3703">
+      <article number="ARTICLE 29" name="Anti-Dumping And Countervailing Measures" article_identifier="31786">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall be construed to prevent the EC Party or the signatory
+  Central African States, individually or collectively, from adopting
+  anti-dumping or countervailing measures in accordance with the
+  relevant WTO Agreements. For the purposes of this Article, origin
+  shall be determined in accordance with the Parties' non-preferential
+  rules of origin.
+
+  2. Before imposing definitive anti-dumping or countervailing duties in
+  respect of products from signatory Central African States, the EC
+  Party shall consider the possibility of constructive remedies as
+  provided for in the relevant WTO Agreements.
+
+  3. Where an anti-dumping or countervailing measure has been imposed on
+  two signatory Central African States at least by a regional or
+  sub-regional authority, there shall be one single instance of judicial
+  review, including the stage of appeals.
+
+  4. Where anti-dumping or countervailing measures may be imposed on a
+  regional or sub-regional basis and on a national basis, the Parties
+  guarantee that these measures shall not be applied simultaneously to
+  the same product by the regional or sub-regional authorities and the
+  national authorities.
+
+  5. The EC Party shall notify the signatory Central African States of
+  the receipt of a properly documented complaint before initiating any
+  investigation.
+
+  6. The provisions of this Article shall be applicable in all
+  investigations initiated after this Agreement enters into force.
+
+  7. The provisions of this Article shall not be subject to the dispute
+  settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 30" name="Multilateral Safeguard Measures" article_identifier="31787">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall be construed to prevent the signatory Central African
+  States or the EC Party from adopting measures in accordance with
+  Article XIX of the GATT 1994, the WTO Agreement on Safeguards and
+  Article 5 of the WTO Agreement on Agriculture. For the purposes of
+  this Article, origin shall be determined in accordance with the
+  Parties' non-preferential rules of origin.
+
+  2. Without prejudice to the provisions of paragraph 1, in the light of
+  the overall development objectives of this Agreement and the small
+  size of the economies of the signatory Central African States, the EC
+  Party shall exclude imports from signatory Central African States from
+  any measures taken pursuant to Article XIX of GATT 1994, the WTO
+  Agreement on Safeguards and Article 5 of the WTO Agreement on
+  Agriculture.
+
+  3. The provisions of paragraph 2 shall apply for a period of five
+  years, beginning on the date on which this Agreement enters into
+  force. Not later than 120 days before the end of this period, the EPA
+  Committee shall review the implementation of these provisions in the
+  light of the development needs of the signatory Central African
+  States, with a view to determining whether to extend their application
+  for a further period.
+
+  4. The provisions of paragraph 1 shall not be subject to the dispute
+  settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 31" name="Bilateral Safeguard Measures" article_identifier="31788">1. Without prejudice to the provisions of Article 30, after having
+  examined alternative solutions, a Party may apply safeguard measures
+  of limited duration which derogate from the provisions of Articles 20
+  and 21, under the conditions and in accordance with the procedures
+  laid down in this Article.
+
+  2. Safeguard measures as referred to in paragraph 1 may be taken where
+  a product originating in the territory of one Party is being imported
+  into the territory of the other Party in such increased quantities and
+  under such conditions as to cause or threaten to cause:
+
+  (a) serious damage to the domestic industry producing like or directly
+  competitive products in the territory of the importing Party, or
+
+  (b) disruption in a sector of the economy, particularly where this
+  disruption gives rise to major social problems or difficulties which
+  could seriously jeopardise the economic situation of the importing
+  Party, or
+
+  (c) disruption in the markets of like or directly competitive
+  agricultural products [3] or in the mechanisms regulating those
+  markets.
+
+  3. The safeguard measures referred to in this Article shall not exceed
+  what is necessary to remedy or prevent the serious damage or
+  disruption, as defined in paragraphs 2 and 5(b). Those safeguard
+  measures of the importing Party may only consist of one or more of the
+  following:
+
+  (a) the suspension of any further reduction of the applicable import
+  duty provided for under this Agreement for the product concerned,
+
+  (b) an increase in the customs duty on the product concerned to a
+  level which does not exceed the customs duty applied to other WTO
+  Members, and
+
+  (c) the introduction of tariff quotas on the product concerned.
+
+  4. Without prejudice to the provisions of paragraphs 1, 2 and 3, where
+  a product originating in one or more signatory Central African States
+  is being imported in such increased quantities and under such
+  conditions as to cause or threaten to cause one of the situations
+  referred to under paragraph 2(a), (b) and (c) to one or more of the EC
+  Party's outermost regions, the EC Party may take surveillance or
+  safeguard measures limited to the region or regions concerned in
+  accordance with the procedures laid down in paragraphs 6 to 9.
+
+  5. (a) Without prejudice to the provisions of paragraphs 1, 2 and 3,
+  where a product originating in the EC Party is being imported in such
+  increased quantities and under such conditions as to cause or threaten
+  to cause one of the situations referred to under paragraph 2(a), (b)
+  and (c) above to a signatory Central African State, this signatory
+  Central African State may take surveillance or safeguard measures
+  limited to its territory in accordance with the procedures laid down
+  in paragraphs 6 to 9.
+
+  (b) A signatory Central African State may take safeguard measures
+  where a product originating in the EC Party, following the reduction
+  of customs duties, is being imported into its territory in such
+  increased quantities and under such conditions as to cause or threaten
+  to cause disruption to an infant industry producing like or directly
+  competitive products. This clause shall be applicable for a period of
+  fifteen years from the date on which this Agreement enters into force.
+  Measures must be taken in accordance with the provisions of paragraphs
+  6 to 9.
+
+  6. (a) The safeguard measures referred to in this Article shall be
+  maintained only for such time as is necessary to prevent or remedy the
+  serious damage or disruption as defined in paragraphs 2, 4 and 5
+  above.
+
+  (b) The safeguard measures referred to in this Article shall be
+  applied for a period not exceeding two years. Where the circumstances
+  warranting the imposition of safeguard measures continue to exist,
+  such measures may be extended for a further period of no more than two
+  years. Where the signatory Central African States or a signatory
+  Central African State applies a safeguard measure, or where the EC
+  Party takes safeguard measures limited to the territory of one or more
+  of its outermost regions, such measures may nevertheless be applied
+  for a period not exceeding four years and, where the circumstances
+  warranting the imposition of safeguard measures continue to exist, be
+  extended for a further maximum period of four years.
+
+  (c) The safeguard measures referred to in this Article which exceed
+  one year shall have a clear timetable for being phased out by the end
+  of the set period, at the latest.
+
+  (d) No safeguard measure referred to in this Article shall be applied
+  to a product that has previously been subject to such a measure for a
+  period of at least one year since the expiry of the measure.
+
+  7. For the implementation of paragraph 1 to 6, the following
+  provisions shall apply:
+
+  (a) Where a Party is of the opinion that one of the circumstances
+  referred to in paragraphs 2, 4 and/or 5 exists, it shall immediately
+  refer the matter to the EPA Committee.
+
+  (b) The EPA Committee may make recommendations to remedy the
+  circumstances which have arisen. If the EPA Committee has not made
+  recommendations to remedy the circumstances, or if a satisfactory
+  solution has not been reached within 30 days of the matter being
+  referred, the importing Party may adopt the appropriate measures to
+  remedy the situation in accordance with this Article.
+
+  (c) Before taking any measure provided for in this Article or, in the
+  cases to which paragraph 8 applies, the Party concerned shall, as soon
+  as possible, supply the EPA Committee with all information required
+  for a thorough examination of the situation, with a view to seeking a
+  solution acceptable to the Parties concerned.
+
+  (d) In selecting safeguard measures, priority must be given to those
+  which solve the problem rapidly and effectively and disturb the
+  functioning of this Agreement as little as possible.
+
+  (e) All safeguard measures taken in accordance with this Article shall
+  be notified immediately to the EPA Committee and shall be the subject
+  of periodic consultations within that body, particularly with a view
+  to establishing a timetable for their termination as soon as
+  circumstances permit.
+
+  8. Where exceptional circumstances require immediate measures, the
+  importing Party concerned, whether the EC Party, the signatory Central
+  African States or a signatory Central African State, may take the
+  measures provided for in paragraphs 3, 4 and/or 5 on a provisional
+  basis without complying with the requirements of paragraph 7. Such
+  action may be taken for a maximum period of 180 days where measures
+  are taken by the EC Party and 200 days where measures are taken by the
+  signatory Central African States or a signatory Central African State,
+  or where measures taken by the EC Party are limited to the territory
+  of one or more of its outermost regions. The duration of any such
+  provisional measure shall be counted as part of the period of duration
+  of the measures and of any extension as referred to in paragraph 6.
+  When taking such provisional measures, the interests of all
+  stakeholders shall be taken into account. The importing Party
+  concerned shall inform the other Party and shall refer the matter to
+  the EPA Committee for examination.
+
+  9. If an importing Party subjects imports of a product to an
+  administrative procedure having as its purpose the rapid provision of
+  information on the trend of trade flows liable to give rise to the
+  problems referred to in this Article, it shall inform the EPA
+  Committee without delay.
+
+  10. The WTO Agreement shall not be invoked to prevent a Party from
+  adopting safeguard measures in accordance with the provisions of this
+  Article.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Customs And Trade Facilitation" chapter_identifier="3704">
+      <article number="ARTICLE 32" name="Objectives" article_identifier="31789">1. The Parties acknowledge the importance of customs and of trade
+  facilitation in the evolving global trading environment. The Parties
+  agree to increase cooperation in this area with a view to ensuring
+  that the relevant legislation and procedures, as well as the
+  administrative capacity of the relevant administrations, fulfil the
+  objectives of effective controls and facilitation of trade, and help
+  promote the development and regional integration of the EPA signatory
+  countries.
+
+  2. The Parties agree that legitimate public policy objectives,
+  including those relating to security and the prevention of fraud,
+  shall not be compromised in any way.</article>
+      <article number="ARTICLE 33" name="Customs And Administrative Cooperation" article_identifier="31790">1. In order to ensure compliance with the provisions of this Agreement
+  and effectively respond to the objectives laid down in Article 32, the
+  Parties shall:
+
+  (a) exchange information concerning customs legislation, regulations
+  and procedures;
+
+  (b) develop joint initiatives relating to import, export and transit
+  procedures, and initiatives designed to provide an effective service
+  for the business community;
+
+  (c) cooperate on the automation of customs and trade procedures, and
+  adopt, for the purpose of information exchange, the Customs Data Model
+  of the World Customs Organisation (WCO);
+
+  (d) cooperate in the planning and implementation of assistance with a
+  view to facilitating customs reforms and implementing trade
+  facilitation; and
+
+  (e) encourage consultations and cooperation between all bodies
+  concerned with international trade.
+
+  2. Notwithstanding paragraph 1, the Parties' customs administrations
+  shall provide mutual administrative assistance in accordance with the
+  provisions of the Protocol on Mutual Administrative Assistance in
+  Customs Matters. As of 2008, the EPA Committee shall make any
+  amendments which it considers necessary to Protocol 1 by consensus.</article>
+      <article number="ARTICLE 34" name="Terms Of Cooperation" article_identifier="31791">1. The Parties recognise the importance of cooperation as regards
+  customs and trade facilitation measures for the implementation of this
+  Agreement.
+
+  2. In accordance with the provisions of Article 7, the Parties agree
+  to cooperate in the following areas, inter alia:
+
+  (a) the application of modern customs techniques, including risk
+  analysis and risk management, binding information, simplified
+  procedures for imports and exports of products, subsequent
+  verifications and company audit methods;
+
+  (b) the introduction of procedures which reflect where possible the
+  international instruments and standards applicable in the field of
+  customs and trade, including WTO rules on customs valuation and WCO
+  instruments and standards, inter alia the International Convention on
+  the Simplification and Harmonisation of Customs Procedures, concluded
+  at Kyoto on 18 May 1973, and revised at Brussels on 26 June 1999 (the
+  "revised Kyoto Convention") and the WCO Framework of
+  Standards to Secure and Facilitate Global Trade; and
+
+  (c) the computerisation of customs and trade procedures.</article>
+      <article number="ARTICLE 35" name="Customs And Trade Standards" article_identifier="31792">1. The Parties agree that their legislation, regulations and
+  procedures, in the fields of customs and international trade, shall be
+  based on:
+
+  (a) international standards and instruments, including the revised
+  Kyoto Convention, the WCO Framework of Standards to Secure and
+  Facilitate Global Trade, the WCO Customs Data Model and the
+  International Convention on the Harmonised Commodity Description and
+  Coding System ("HS");
+
+  (b) the introduction of a single administrative document, or an
+  electronic equivalent, for the purpose of establishing customs
+  declarations at the import and export stages;
+
+  (c) modern customs techniques, including risk analysis and risk
+  management, simplified procedures for imports and exports of products,
+  subsequent verifications and company audit methods. Procedures should
+  be transparent, efficient and simplified, in order to reduce costs and
+  increase predictability for economic operators, including small and
+  medium-sized enterprises;
+
+  (d) non-discrimination in terms of requirements and procedures
+  concerning imports, exports and products in transit, although it shall
+  be accepted that consignments may be treated differently in accordance
+  with objective risk management criteria;
+
+  (e) regulations and procedures containing binding information,
+  particularly on tariff classification, and origin;
+
+  (f) simplified procedures for authorised traders;
+
+  (g) the gradual development of information systems to facilitate the
+  electronic exchange of data between traders, customs administrations
+  and other bodies involved;
+
+  (h) the facilitation of transit movements;
+
+  (i) rules ensuring that penalties imposed for minor breaches of
+  customs regulations or the requirements of international trade
+  procedures are proportionate and non-discriminatory and that their
+  application does not result in unwarranted delays;
+
+  (j) regular evaluation of the system of mandatory use of customs
+  brokers in order to improve performance and efficiency, and if
+  necessary move towards the elimination of this system;
+
+  2. The system of mandatory pre-shipment inspections of products shall
+  be the subject of negotiations within the negotiations on a full EPA.
+
+  3. In order to improve working methods, as well as to ensure
+  non-discrimination, transparency, efficiency, integrity and
+  accountability of operations, the Parties shall:
+
+  (a) take the necessary measures, based on the relevant international
+  recommendations, to simplify and standardise the data and
+  documentation required by customs and the other institutions involved
+  with international trade;
+
+  (b) simplify administrative formalities and requirements wherever
+  possible in order to reduce the time needed for clearance, release and
+  removal of products;
+
+  (c) implement effective, prompt and non-discriminatory procedures
+  enabling the right of appeal against rulings, decisions and actions by
+  customs and other administrations which affect imports, exports or
+  goods in transit. Procedures for appeal shall be easily accessible and
+  any costs shall be reasonable and not in excess of the costs necessary
+  to process them;
+
+  (d) ensure that the highest standards of integrity are maintained by
+  applying measures in line with the principles of the relevant
+  international instruments and conventions.</article>
+      <article number="ARTICLE 36" name="Transit Of Products" article_identifier="31793">1. The Parties shall ensure freedom of transit through their territory
+  via the route most convenient for transit. Any restrictions, controls
+  or requirements must be non-discriminatory, proportionate and applied
+  uniformly.
+
+  2. Without prejudice to legitimate customs control, the Parties shall
+  accord to products in transit from the territory of one Party
+  treatment not less favourable than that accorded to domestic products,
+  in particular with respect to exports and imports and their movement.
+
+  3. The Parties shall operate bonded transport regimes that allow the
+  transit of products without payment of duties or other charges,
+  subject to the provision of an appropriate guarantee.
+
+  4. The Parties shall promote and implement regional transit
+  arrangements.
+
+  5. The Parties shall use international standards and instruments
+  relevant to transit.
+
+  6. The Parties shall ensure cooperation and coordination across all
+  relevant agencies in their territories to facilitate traffic in
+  transit and promote cross-border cooperation.</article>
+      <article number="ARTICLE 37" name="Relations With The Business Community" article_identifier="31794">The Parties agree:
+
+  (a) to ensure that all information on legislation, regulations,
+  procedures and required documents, duties and taxes, fees and other
+  charges may be made publicly available, where possible electronically;
+
+  (b) on the need for regular consultations with the business community
+  on the drafting of texts related to customs and international trade
+  issues. To this end, appropriate mechanisms for regular consultation
+  shall be put in place by the Parties;
+
+  (c) that a sufficient period of time must elapse between the
+  publication and entry into force of any legislation, procedure, duty
+  or charge, whether new or amended.
+
+  The Parties shall make publicly available relevant notices of an
+  administrative nature, including agency requirements, procedures,
+  opening hours and operating procedures for customs offices at entry
+  and/or exit points, and contact or information points;
+
+  (d) to foster cooperation between operators and relevant
+  administrations via the use of non-arbitrary and accessible
+  procedures, such as memoranda of understanding based on the protocols
+  promulgated by the WCO;
+
+  (e) to ensure that administrations' requirements in terms of
+  international trade continue to meet the needs of the business
+  community, follow best practices, and remain as unrestrictive to trade
+  as possible.</article>
+      <article number="ARTICLE 38" name="Customs Valuation" article_identifier="31795">1. Article VII of the GATT (1994) and the WTO Agreement on the
+  implementation of Article VII of the GATT (1994) shall govern customs
+  valuation rules applied to reciprocal trade between the Parties.
+
+  2. The Parties shall cooperate with a view to achieving a common
+  approach to issues relating to customs valuation, including problems
+  relating to transfer pricing.</article>
+      <article number="ARTICLE 39" name="Regional Integration In Central Africa" article_identifier="31796">In taking forward customs reforms, and in order to facilitate trade,
+  the Parties shall promote regional integration, including in terms of
+  developing standardised:
+
+  - requirements,
+
+  - documentation,
+
+  - data requirements,
+
+  - procedures,
+
+  - authorised trader schemes,
+
+  - border procedures and opening hours,
+
+  - transit requirements, bonded transport and guarantee schemes.
+
+  This should involve close cooperation between all relevant agencies
+  and be based, wherever possible, on the use of relevant international
+  standards.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Technical Barriers To Trade, And Sanitary And Phytosanitary Measures" chapter_identifier="3705">
+      <article number="ARTICLE 40" name="Objectives" article_identifier="31797">The objectives of this Chapter are to facilitate trade in products
+  between the Parties while increasing the capacity of the Parties to
+  identify, prevent and eliminate obstacles to trade as a result of
+  technical regulations, standards and conformity assessment procedures
+  applied by either Party, and increasing the capacity of the Parties to
+  protect plants, animals and public health.</article>
+      <article number="ARTICLE 41" name="Multilateral Obligations And General Background" article_identifier="31798">1. The Parties reaffirm their rights and obligations under the WTO
+  Agreement, and in particular the WTO Agreements on the Application of
+  Sanitary and Phytosanitary Measures (SPS Agreement) and on Technical
+  Barriers to Trade (TBT Agreement). The Parties which are not members
+  of the WTO also confirm their commitment to comply with the
+  obligations set out in the SPS and TBT Agreements with regard to all
+  matters concerning relations between the Parties.
+
+  2. The Parties reaffirm their commitment to improve public health in
+  the territories of the signatory Central African States, in particular
+  by strengthening their capacity to identify unsafe products, pursuant
+  to Article 47.
+
+  3. These commitments, rights and obligations shall inform the
+  activities of the Parties under this Chapter.</article>
+      <article number="ARTICLE 42" name="Scope And Definitions" article_identifier="31799">1. This Chapter shall apply to those measures within the scope of the
+  WTO TBT and SPS Agreements.
+
+  2. Unless specified otherwise, for the purposes of this Chapter, the
+  definitions of the SPS and TBT Agreements, CODEX Alimentarius, the
+  International Plant Protection Convention and the World Organisation
+  for Animal Health shall apply, also for all references to
+  "products" in this Chapter.</article>
+      <article number="ARTICLE 43" name="Competent Authorities" article_identifier="31800">With regard to SPS measures, the authorities in the EC Party and the
+  signatory Central African States which are responsible for the
+  implementation of the measures referred to in this Chapter are
+  described in Appendix II.
+
+  The Parties shall inform each other in a timely manner of any
+  significant changes to the competent authorities listed in Appendix
+  II. The EPA Committee shall adopt any necessary amendment of Appendix
+  II.</article>
+      <article number="ARTICLE 44" name="Zoning" article_identifier="31801">When defining import conditions, the Parties may, on a case-by-case
+  basis, propose and identify zones with a defined sanitary or
+  phytosanitary status, taking account of international standards.</article>
+      <article number="ARTICLE 45" name="Transparency Of Trade Conditions And Information Exchange" article_identifier="31802">1. The Parties shall inform each other of any changes to their legal
+  and administrative import requirements for products (including
+  products of animals and/or vegetable origin).
+
+  2. The Parties reconfirm their obligations under the WTO SPS and TBT
+  Agreements to inform each other of changes to the relevant standards
+  or technical regulations through the mechanisms established under
+  those Agreements.
+
+  3. The Parties shall also directly exchange information on other
+  topics agreed by both Parties to be of potential importance for their
+  trade relations, as and when necessary.
+
+  4. The Parties agree to collaborate in epidemiological surveillance on
+  animal disease. Also in the domain of plant health, the Parties shall
+  exchange information on the occurrence of pests of known and immediate
+  danger to the other Party.</article>
+      <article number="ARTICLE 46" name="Regional Integration" article_identifier="31803">1. The Central Africa Party undertakes to harmonise the standards and
+  other measures within the scope of this Chapter at regional level
+  within four years of this Agreement's entry into force.
+
+  2. With a view to facilitating trade between the Parties and in
+  conformity with Article 40, the signatory Central African States agree
+  on the need to harmonise import conditions applicable to products
+  originating in the territory of the EC Party when these products enter
+  a signatory Central African State. Where national import conditions
+  already exist at the time of this Agreement's entry into force, and
+  pending the introduction of harmonised import conditions, the existing
+  import conditions shall be implemented by the signatory Central
+  African States on the basis that a product from the EC Party legally
+  placed on the market of a signatory Central African State may also be
+  legally placed on the market of all other signatory Central African
+  States without any further restriction or administrative requirement.</article>
+      <article number="ARTICLE 47" name="Capacity-Building And Technical Assistance" article_identifier="31804">In accordance with the provisions of Article 7, the Parties agree to
+  cooperate in the following areas inter alia:
+
+  (a) For products referred to in Appendix IA, the Parties agree to
+  cooperate with a view to strengthening both regional integration
+  within the signatory Central African States and control capacity in
+  accordance with the objectives of this Agreement, and in such a manner
+  as to facilitate trade between the signatory Central African States.
+
+  (b) For the products referred to in Appendix IB, the Parties agree to
+  cooperate with a view to improving the competitiveness and quality of
+  their products.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Forestry Governance And Trade In Timber And Forest Products" chapter_identifier="3706">
+      <article number="ARTICLE 48" name="Definitions" article_identifier="31805">Unless specified otherwise, for the purposes of this Chapter the
+  description "forest products" shall also include non-timber
+  forest products and their derivatives.</article>
+      <article number="ARTICLE 49" name="Scope" article_identifier="31806">The provisions of this Chapter shall apply to trade in timber and
+  forest products originating in Central Africa and to the sustainable
+  management of the forests from which these products are extracted.</article>
+      <article number="ARTICLE 50" name="Trade In Timber, Non-Timber Forest Products And Derivatives" article_identifier="31807">1. The Parties shall work together to facilitate trade between the EC
+  Party and the Central Africa Party in timber and forest products which
+  come from objectively verifiable legal sources and help to achieve
+  sustainable development. The Parties agree to:
+
+  (a) implement measures to increase market confidence regarding the
+  origin of forest products, particularly their legal and/or sustainable
+  origin. These measures may include systems to improve the traceability
+  of timber and forest products sold both within Central Africa and
+  between the Central Africa Party and the EC Party;
+
+  (b) put in place an audit and surveillance system that is independent
+  of the control chain.
+
+  2. The Parties shall explore possible ways of improving commercial
+  opportunities for timber and forest products with a legal or
+  sustainable origin in Central Africa on the market of the EC Party.
+  These measures may include, inter alia, stronger public procurement
+  policies, measures to raise consumer awareness, measures to promote
+  the processing of forest products in Central Africa, and activities
+  and initiatives in association with private-sector operators.
+
+  3. The Parties undertake to develop non-discriminatory policies and/or
+  legislation within the scope of this Chapter; they also undertake to
+  ensure the effective and non-discriminatory implementation of these
+  policies and/or legislation, in accordance with WTO provisions.</article>
+      <article number="ARTICLE 51" name="Regional Integration" article_identifier="31808">1. The Central Africa Party undertakes to build and implement a
+  regional framework to govern trade in timber and forest products
+  originating in Central Africa, including the appropriate cooperation
+  mechanisms and legislation to ensure that it is applied and
+  implemented effectively.
+
+  2. The Central Africa Party shall develop protocols and/or guidelines
+  for cooperation between the competent authorities in Central Africa
+  which are responsible for implementation, to ensure that
+  intra-regional trade in timber and forest products from Central Africa
+  come from objectively verifiable legal sources.</article>
+      <article number="ARTICLE 52" name="Capacity-Building And Technical Assistance" article_identifier="31809">In accordance with the provisions of Article 7, the Parties agree to
+  cooperate in the following areas inter alia:
+
+  (a) facilitating assistance with a view to strengthening regional
+  integration, for example the implementation of the Treaty on the
+  Conservation and Sustainable Management of Forests in Central Africa
+  (COMIFAC) and the Sub-regional Convergence Plan, and with a view to
+  building capacity in order to fulfil the commitments set out in this
+  Chapter;
+
+  (b) supporting public and private commercial initiatives, particularly
+  in terms of exports to the market of the EC Party, for local
+  processing of timber and forest products originating in Central Africa
+  which come from objectively verifiable legal sources and help to
+  achieve sustainable development.</article>
+      <article number="ARTICLE 53" name="Other Agreements" article_identifier="31810">Without prejudice to the provisions of this Chapter, trade in timber
+  and forest products shall be governed in line with the Convention on
+  International Trade in Endangered Species of Wild Fauna and Flora
+  (CITES) and any voluntary partnership agreements to which signatory
+  Central African States might adhere individually or collectively with
+  the European Community under the European Union's action plan on
+  forest law enforcement, governance and trade (FLEGT).</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Establishment, Trade In Services And E-Commerce" chapter_identifier="3707">
+      <article number="ARTICLE 54" name="Framework" article_identifier="31811">1. The Parties reaffirm their respective commitments under the General
+  Agreement on Trade in Services.
+
+  2. The Parties undertake to extend the scope of this Agreement, not
+  later than 1 January 2009, by negotiating the necessary provisions for
+  the gradual, asymmetrical and reciprocal liberalisation of
+  establishment and trade in services.</article>
+      <article number="ARTICLE 55" name="Cooperation" article_identifier="31812">The Parties, recognising that strengthening trade capacity can support
+  the development of economic activities, particularly in the services
+  sectors, and strengthen their regulatory framework, reaffirm their
+  respective obligations arising from the Cotonou Agreement, in
+  particular Articles 34 to 39, 41 to 43, 45 and 74 to 78.
+
+  TRADE-RELATED RULES</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Current Payments And Capital Movements" chapter_identifier="3708">
+      <article number="ARTICLE 56" name="Continuation Of Negotiations On Current Payments And Movement Of Capital" article_identifier="31813">1. The Parties recognise the need to guarantee that cross-border flows
+  of the funds necessary for the liberalisation of trade in products and
+  services, and for investments by one of the Parties in the region of
+  the other Party, cannot be restricted or prevented by one of the
+  Parties. Any obstacle to these flows would be contrary to the
+  objectives of liberalisation, given that trade or investment, although
+  itself permissible, could not give rise to payment or financing from
+  abroad.
+
+  2. To achieve this objective, the Parties undertake to conclude
+  negotiations by 1 January 2009 on a series of issues related to the
+  following:
+
+  (a) liberalisation of flows of funds relating to trade in products and
+  services, known as "current payments";
+
+  (b) liberalisation of flows of funds relating to
+  "investments", known as "movements of capital relating
+  to investments", including repatriation of investments and
+  profits;
+
+  (c) a safeguard clause, granting a short-term derogation from freedom
+  of capital movement, on grounds of serious difficulties as regards
+  monetary situation or balance of payments;
+
+  (d) a development clause, providing for the liberalisation of other
+  types of capital movements not related to investment.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Competition" chapter_identifier="3709">
+      <article number="ARTICLE 57" name="Continuation Of Negotiations On Competition" article_identifier="31814">1. The Parties recognise the importance of free and undistorted
+  competition in their trade relations and the fact that certain
+  anti-competitive practices may restrict trade between the Parties and
+  thus hinder the achievement of the objectives of this Agreement.
+
+  2. The Parties therefore agree to take part in the negotiations on a
+  chapter on competition in the EPA, which will include the following in
+  particular:
+
+  (a) anti-competitive practices which are considered incompatible with
+  the proper functioning of this Agreement, insofar as they can affect
+  trade between the Parties;
+
+  (b) provisions on the effective implementation of competition rules
+  and policies and of regional policies in Central Africa which govern
+  the anti-competitive practices identified in accordance with paragraph
+  2(a);
+
+  (c) provisions on technical assistance by independent experts to
+  ensure that the Chapter's objectives are achieved and that Central
+  Africa's competition policies are properly implemented at regional
+  level.
+
+  3. The negotiations shall be based on a two-step approach, first
+  applying the rules in the context of regional integration in Central
+  Africa and, after a transition period to be determined jointly,
+  applying the rules bilaterally.
+
+  4. The negotiations on the competition chapter shall be concluded by 1
+  January 2009.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Intellectual Property" chapter_identifier="3710">
+      <article number="ARTICLE 58" name="Continuation Of Negotiations On Intellectual Property" article_identifier="31815">1. The Parties reaffirm their rights and obligations arising from the
+  Agreement on Trade-Related Aspects of Intellectual Property Rights
+  (TRIPs), and recognise the need to ensure an adequate and effective
+  level of protection of intellectual, industrial and commercial
+  property rights, and other rights covered by the TRIPS Agreement, in
+  line with international standards and with a view to reducing
+  distortions and impediments to bilateral trade.
+
+  2. With due regard for the powers transferred to the African
+  Intellectual Property Organisation (OAPI), the Parties undertake to
+  conclude negotiations by 1 January 2009 on a series of commitments
+  regarding intellectual property rights.
+
+  3. The Parties also agree to strengthen their cooperation in the area
+  of intellectual property rights. Such cooperation shall be directed at
+  supporting the implementation of each Party's commitments and shall
+  extend to the following areas inter alia:
+
+  (a) reinforcement of regional integration initiatives in Central
+  Africa with a view to improving regional regulatory capacity, regional
+  laws and regulations;
+
+  (b) prevention of the abuse of such rights by right-holders and the
+  infringement of such rights by competitors;
+
+  (c) support in the preparation of national laws and regulations in
+  Central Africa for the protection and enforcement of intellectual
+  property rights.
+
+  4. The negotiations shall be based on a two-step approach, first
+  applying the rules in the context of regional integration in Central
+  Africa and, after a transition period to be determined jointly,
+  applying the rules bilaterally.
+
+  5. In conducting the negotiations, the different levels of development
+  in the signatory Central African States should be taken into account.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="Public Procurement" chapter_identifier="3711">
+      <article number="ARTICLE 59" name="Continuation Of Negotiations On Public Procurement" article_identifier="31816">1. The Parties recognise the contribution of transparent and
+  competitive tendering to economic development. They therefore agree to
+  negotiate the gradual and mutual opening of their public procurement
+  markets, while recognising their different levels of development,
+  under the conditions set out in paragraph 3.
+
+  2. To achieve this objective, the Parties shall conclude negotiations
+  by 1 January 2009 on a set of potential commitments on procurement,
+  which shall include in particular the following:
+
+  (a) transparent and non-discriminatory rules, procedures and
+  principles to be applied;
+
+  (b) lists of the products covered and the thresholds applied;
+
+  (c) effective challenge procedures;
+
+  (d) measures to support capacities to implement these commitments,
+  including making use of opportunities created by information
+  technologies.
+
+  3. The negotiations shall be based on a two-step approach, first
+  applying the rules in the context of regional integration in Central
+  Africa and, after a transition period to be determined jointly,
+  applying the rules bilaterally.
+
+  4. In conducting the negotiations, the EC Party shall take into
+  account the development, financial and trade needs of the signatory
+  Central African States, which may take the form of the following
+  measures in the interest of special and differential treatment:
+
+  (a) appropriate implementation periods, where required, to bring
+  government procurement measures into line with any specific procedural
+  requirements;
+
+  (b) adoption or retention of transitional measures such as a price
+  preference programme or offset, in accordance with a phasing-out
+  schedule.</article>
+    </chapter>
+    <chapter number="CHAPTER 5" name="Sustainable Development" chapter_identifier="3712">
+      <article number="ARTICLE 60" name="Continuation Of Negotiations On Sustainable Development" article_identifier="31817">1. The Parties recognise that sustainable development is an overall
+  objective of the EPA. They therefore agree to ensure that
+  sustainability considerations are reflected in all titles of the EPA
+  and to draft specific chapters covering environmental and social
+  issues.
+
+  2. To achieve this objective, the Parties shall conclude negotiations
+  by 1 January 2009 on a set of potential commitments on sustainable
+  development, which shall include in particular the following:
+
+  (a) level of protection and right to regulate;
+
+  (b) regional integration in Central Africa, use of international
+  environmental standards and of the International Labour Organisation
+  and promotion of decent work;
+
+  (c) upholding levels of protection;
+
+  (d) consultation and monitoring procedures.
+
+  3. In conducting the negotiations, the EC Party shall take into
+  account the development needs of the signatory Central African States,
+  which may take the form of provisions on cooperation in this field.</article>
+    </chapter>
+    <chapter number="CHAPTER 6" name="Protection Of Personal Data" chapter_identifier="3713">
+      <article number="ARTICLE 61" name="Overall Objective" article_identifier="31818">The Parties, recognising:
+
+  (a) their common interest in protecting the fundamental rights and
+  freedoms of natural persons, and in particular their right to privacy,
+  with respect to the processing of personal data;
+
+  (b) the importance of maintaining effective data protection regimes as
+  a means of protecting the interests of consumers, stimulating investor
+  confidence and facilitating cross-border flows of personal data;
+
+  (c) the need to collect and process personal data in a transparent and
+  fair manner, with due respect accorded to the data subject, agree to
+  establish appropriate legal and regulatory regimes, and the
+  appropriate administrative capacity to implement them, including
+  independent supervisory authorities, in order to ensure an adequate
+  level of protection of individuals with regard to the processing of
+  personal data, in line with the highest international standards [4].</article>
+      <article number="ARTICLE 62" name="Definitions" article_identifier="31819">For the purposes of this Chapter:
+
+  (a) "personal data" shall mean any information relating to
+  an identified or identifiable natural person (data subject);
+
+  (b) "processing of personal data" shall mean any operation
+  or set of operations which is performed upon personal data, such as
+  collection, recording, organisation, storage, alteration, retrieval,
+  consultation, use, disclosure, combination, blocking, erasure or
+  destruction, as well as transfers of personal data across national
+  borders;
+
+  (c) "data controller" shall mean the natural or legal
+  person, authority or any other body which determines the purposes and
+  means of the processing of personal data.</article>
+      <article number="ARTICLE 63" name="Principles And General Rules" article_identifier="31820">The Parties agree that the legal and regulatory regimes and
+  administrative capacity to be established shall, at a minimum, include
+  the following content principles and enforcement mechanisms:
+
+  (a) Content principles
+
+  (i) The purpose limitation principle — data should be processed for a
+  specific purpose and subsequently used or further communicated only
+  insofar as this is not incompatible with the purpose of the transfer.
+  The only exemptions to these rights should be those provided for in
+  legislation and necessary in a democratic society for the protection
+  of important public interests.
+
+  (ii) The data quality and proportionality principle — data should be
+  accurate and, where necessary, kept up to date. The data should be
+  adequate, relevant and not excessive in relation to the purposes for
+  which they are transferred or further processed.
+
+  (iii) The transparency principle — individuals should be provided with
+  information as to the purpose of the processing and the identity of
+  the data controller in the third country, and other information
+  insofar as this is necessary to ensure fairness. The only exemptions
+  to these rights should be those provided for in legislation and
+  necessary in a democratic society for the protection of important
+  public interests.
+
+  (iv) The security principle — the data controller should take
+  technical and organisational security measures that are appropriate to
+  the risks presented by the processing. Any person acting under the
+  authority of the data controller, including a processor, must not
+  process data except on instructions from the controller.
+
+  (v) The rights of access, rectification and opposition — the data
+  subject should have the right to obtain a copy of all data relating to
+  him/her that are processed, and the right to rectify those data where
+  they are shown to be inaccurate. In certain situations he/she should
+  also be able to object to the processing of the data relating to
+  him/her. The only exemptions to these rights should be those provided
+  for in legislation and necessary in a democratic society for the
+  protection of important public interests.
+
+  (vi) Restrictions on onward transfers — as a matter of principle,
+  further transfers of the personal data by the recipient of the
+  original data transfer should be permitted only where the second
+  recipient (i.e. the recipient of the onward transfer) is also subject
+  to rules affording an adequate level of protection.
+
+  (vii) Sensitive data — where special categories of data are involved,
+  revealing racial or ethnic origin, political opinions, religious or
+  philosophical beliefs or trade-union membership, data concerning
+  health and sex, and data relating to offences, criminal convictions or
+  security measures, additional safeguards should be in place.
+
+  (b) Enforcement mechanisms
+
+  Appropriate mechanisms should be in place to ensure that the following
+  objectives are achieved:
+
+  (i) to ensure a good level of compliance with the rules, including a
+  high degree of awareness among data controllers of their obligations,
+  and among data subjects of their rights and the means of exercising
+  them; the existence of effective and dissuasive sanctions; and systems
+  of verification by authorities, auditors or independent data
+  protection officials;
+
+  (ii) to provide support and help to individual data subjects in the
+  exercise of their rights, which they must be able to enforce rapidly
+  and effectively, and without prohibitive cost, including through an
+  appropriate institutional mechanism allowing independent investigation
+  of complaints;
+
+  (iii) to provide appropriate redress to the injured party where rules
+  are not complied with, allowing compensation to be paid and sanctions
+  imposed where appropriate.</article>
+      <article number="ARTICLE 64" name="Consistency With International Commitments" article_identifier="31821">1. The Parties shall keep each other informed, via the EPA Committee,
+  of the multilateral commitments and agreements with third countries in
+  which they may participate, or of any obligation by which they may be
+  bound and which could be relevant to the application of this Chapter,
+  and in particular of any agreement providing for the processing of
+  personal data, such as personal data being collected, stored or
+  accessed by third parties or transferred to third parties.
+
+  2. The Parties may request consultations to discuss any matter which
+  may arise.</article>
+      <article number="ARTICLE 65" name="Cooperation" article_identifier="31822">The Parties acknowledge the importance of cooperation in order to
+  facilitate the development of appropriate legislative, judicial and
+  institutional frameworks and to ensure an adequate level of protection
+  of personal data that is consistent with the objectives and principles
+  contained in this Chapter.
+
+  DISPUTE AVOIDANCE AND SETTLEMENT</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Objective And Scope" chapter_identifier="3714">
+      <article number="ARTICLE 66" name="Objective" article_identifier="31823">The objective of this Title is to avoid and settle any dispute between
+  the Parties with a view to arriving, where possible, at a mutually
+  agreed solution.</article>
+      <article number="ARTICLE 67" name="Scope" article_identifier="31824">1. This Title shall apply to any dispute relating to the
+  interpretation or application of this Agreement, except where
+  specifically provided otherwise.
+
+  2. Notwithstanding paragraph 1, the procedure provided for in Article
+  98 of the Cotonou Agreement shall be applicable in the case of
+  disputes relating to development finance cooperation as defined in the
+  Cotonou Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Consultations And Mediation" chapter_identifier="3715">
+      <article number="ARTICLE 68" name="Consultations" article_identifier="31825">1. The Parties shall endeavour to resolve disputes under this
+  Agreement by entering into good faith consultations with the aim of
+  reaching a mutually acceptable solution.
+
+  2. A Party seeking consultations shall do so by means of a written
+  request to the other Party, copied to the EPA Committee, identifying
+  the measure at issue and the provisions of the Agreement with which it
+  considers the measure not to be in conformity.
+
+  3. The consultations shall be held within 40 days of the date on which
+  the request is submitted. The consultations shall be deemed concluded
+  within 60 days of the date of submission of the request unless both
+  Parties agree to continue. All information disclosed during the
+  consultations shall remain confidential.
+
+  4. Consultations on matters of urgency, including those regarding
+  perishable or seasonal goods, shall be held within 15 days of the date
+  of submission of the request, and shall be deemed concluded within 30
+  days of the date of submission of the request.
+
+  5. If consultations are not held within the time limits laid down in
+  paragraph 3 or paragraph 4 respectively, or if consultations have been
+  concluded and no agreement has been reached on a mutually agreed
+  solution, the complaining Party may request that an arbitration panel
+  be established in accordance with Article 70.
+
+  Article 69⊥
+
+  Mediation</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Procedures For The Settlement Of Disputes" chapter_identifier="3716">
+      <article number="ARTICLE 70" name="Initiation Of The Arbitration Procedure" article_identifier="31826">1. Where the Parties have failed to resolve the dispute by recourse to
+  consultations as provided for in Article 68, or by recourse to
+  mediation as provided for in Article 69, the complaining Party may
+  request that an arbitration panel be established.
+
+  2. A request for the establishment of an arbitration panel shall be
+  addressed in writing to the Party which is the subject of the
+  complaint and to the EPA Committee. The complaining Party shall
+  identify in its request the specific measures at issue, and it shall
+  explain how such measures constitute a breach of the provisions
+  referred to in Article 67.</article>
+      <article number="ARTICLE 71" name="Establishment Of An Arbitration Panel" article_identifier="31827">1. An arbitration panel shall be composed of three arbitrators.
+
+  2. Within 10 days of the date on which the request for the
+  establishment of an arbitration panel is submitted, the Parties shall
+  consult each other in order to reach an agreement on the composition
+  of the arbitration panel.
+
+  3. In the event that the Parties are unable to agree on the panel's
+  composition within the time limit laid down in paragraph 2, either
+  Party may request that the chairperson of the EPA Committee, or his or
+  her delegate, select all three members by lot from the list drawn up
+  under Article 85: one from among the individuals proposed by the
+  complaining Party, one from among the individuals proposed by the
+  Party complained against and one from among the individuals selected
+  by both Parties to act as chairperson. Where the Parties agree on one
+  or more of the members of the arbitration panel, any remaining members
+  shall be selected by the same procedure.
+
+  4. The chairperson of the EPA Committee, or his or her delegate, shall
+  select the arbitrators within five days of the request referred to in
+  paragraph 3 being submitted by either Party and in the presence of a
+  representative of each Party.
+
+  5. The date of establishment of the arbitration panel shall be the
+  date on which the three arbitrators are selected.</article>
+      <article number="ARTICLE 72" name="Interim Report By The Panel" article_identifier="31828">The arbitration panel shall submit to the Parties an interim report
+  containing both the descriptive sections and the panel's findings and
+  conclusions, as a general rule not later than 120 days from the date
+  of establishment of the arbitration panel. Any Party may submit
+  written comments to the arbitration panel on specific aspects of its
+  interim report within 15 days of submission of the report.</article>
+      <article number="ARTICLE 73" name="Arbitration Panel Ruling" article_identifier="31829">1. The arbitration panel shall notify the Parties and the EPA
+  Committee of its ruling within 150 days from the date on which the
+  arbitration panel is established. Where it considers that this
+  deadline cannot be met, the chairperson of the arbitration panel shall
+  notify the Parties and the EPA Committee in writing, stating the
+  reasons for the delay and the date on which the panel plans to
+  conclude its work. Under no circumstances should the ruling be
+  notified later than 180 days from the date of establishment of the
+  arbitration panel.
+
+  2. In urgent cases, including those involving perishable or seasonal
+  goods, the arbitration panel shall make every effort to issue its
+  ruling within 75 days of the date of its establishment. Under no
+  circumstance should it take longer than 90 days from the date of its
+  establishment to issue the ruling. The arbitration panel may give a
+  preliminary ruling within ten days of its establishment on whether it
+  deems the case to be urgent.
+
+  3. Either Party may ask an arbitration panel to make recommendations
+  on how the Party complained against could comply.
+
+  Compliance</article>
+      <article number="ARTICLE 74" name="Compliance With The Arbitration Panel Ruling" article_identifier="31830">Each Party or, as appropriate, the signatory Central African States,
+  shall take any measure necessary to implement the arbitration panel
+  ruling, and the Parties shall endeavour to agree on a deadline for
+  compliance with the ruling.</article>
+      <article number="ARTICLE 75" name="Reasonable Period Of Time For Compliance" article_identifier="31831">1. No later than 30 days after the Parties have been notified of the
+  arbitration panel ruling, the Party complained against shall notify
+  the complaining Party and the EPA Committee of the time it will
+  require for compliance (reasonable period of time).
+
+  2. In the event of disagreement between the Parties on the reasonable
+  period of time to comply with the arbitration panel ruling, the
+  complaining Party shall, within 20 days of the notification made under
+  paragraph 1 by the Party complained against, request in writing that
+  the arbitration panel determine the length of the reasonable period of
+  time. This request shall be communicated simultaneously to the other
+  Party and to the EPA Committee. The arbitration panel shall notify the
+  Parties and the EPA Committee of its ruling within 30 days of the date
+  of submission of the request.
+
+  3. In determining the length of the reasonable period of time, the
+  arbitration panel shall take into consideration the length of time
+  that it should take the Party complained against or, as appropriate,
+  the signatory Central African States, to adopt comparable legislative
+  or administrative measures to those identified by the Party complained
+  against or, as appropriate, the signatory Central African States, as
+  being necessary to ensure compliance. The arbitration panel may also
+  take into consideration demonstrable capacity constraints which may
+  affect the adoption of the necessary measures by the Party complained
+  against.
+
+  4. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures set out in Article
+  71 shall apply. The deadline for issuing a ruling shall be 45 days
+  from the date of submission of the request referred to in paragraph 2
+  of this Article.
+
+  5. The reasonable period may be extended by mutual agreement of the
+  Parties.</article>
+      <article number="ARTICLE 76" name="Review Of Measures Taken To Comply With The Arbitration Panel Ruling" article_identifier="31832">1. The Party complained against shall notify the other Party and the
+  EPA Committee, before the end of the reasonable period of time, of any
+  measure that it has taken to comply with the arbitration panel ruling.
+
+  2. In the event of disagreement between the Parties concerning the
+  compatibility of any measure notified under paragraph 1 with the
+  provisions of this Agreement, the complaining Party may request in
+  writing that the arbitration panel rule on the matter. Such request
+  shall identify the specific measure at issue and explain how such
+  measure is incompatible with the provisions of this Agreement. The
+  arbitration panel shall issue its ruling within 90 days of the date of
+  submission of the request. In urgent cases, including those involving
+  perishable or seasonal goods, the arbitration panel shall issue its
+  ruling within 45 days of the date of submission of the request.
+
+  3. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures set out in Article
+  71 shall apply. The period for issuing the ruling shall be 105 days
+  from the date of submission of the request referred to in paragraph 2
+  of this Article.</article>
+      <article number="ARTICLE 77" name="Temporary Provisions In Case Of Non-Compliance" article_identifier="31833">1. If the Party complained against fails to give notification of any
+  measure taken to comply with the arbitration panel ruling before the
+  expiry of the reasonable period of time, or if the arbitration panel
+  rules that the measures notified under Article 76(1) are not
+  compatible with that Party's obligations under the provisions of this
+  Agreement, the Party complained against or, as appropriate, the
+  signatory Central African State concerned shall, if so requested by
+  the complaining Party, present an offer for temporary compensation.
+  This compensation may include or consist of financial compensation.
+  However, nothing in this Agreement shall oblige the Party complained
+  against or, as appropriate, the signatory Central African State
+  concerned, to offer such financial compensation.
+
+  2. If no agreement on compensation is reached within 30 days of the
+  end of the reasonable period of time or of the arbitration panel's
+  ruling under Article 76 that a measure taken to comply is not
+  compatible with the provisions of this Agreement, the complaining
+  Party shall be entitled, after notifying the other Party, to adopt
+  appropriate measures. These measures may be adopted by the complaining
+  Party or, as appropriate, the signatory Central African State
+  concerned.
+
+  3. In adopting these measures, the complaining Party or, as
+  appropriate, the signatory Central African State concerned, shall aim
+  to select measures proportionate to the infringement which least
+  affect the achievement of this Agreement's objectives and take into
+  consideration their impact on the economy of the Party complained
+  against and on the various signatory Central African States.
+
+  4. The EC Party shall show restraint when asking for compensation or
+  adopting appropriate measures in accordance with paragraph 1 or 2 of
+  this Article.
+
+  5. The compensation or appropriate measures shall be temporary and
+  shall be applied only until any measure found to violate the
+  provisions of this Agreement has been withdrawn or amended so as to
+  bring it into conformity with those provisions or until the Parties
+  have agreed to settle the dispute.</article>
+      <article number="ARTICLE 78" name="Review Of Measures Taken To Comply Following The Adoption Of Appropriate Measures" article_identifier="31834">1. The Party complained against shall notify the other Party and the
+  EPA Committee of any measure it has taken to comply with the
+  arbitration panel ruling and, in that notification, request an end to
+  the application of appropriate measures by the complaining Party or,
+  as appropriate, the signatory Central African State concerned.
+
+  2. If the Parties do not reach an agreement, within 30 days of the
+  date of submission of the notification, on the compatibility of the
+  notified measures with the provisions of this Agreement, the
+  complaining Party shall request in writing that the arbitration panel
+  rule on the matter. The other Party and the EPA Committee shall be
+  notified of the request. The Parties and the EPA Committee shall be
+  notified of the arbitration panel ruling within 45 days of submission
+  of the request. If the arbitration panel rules that any measure taken
+  to comply is not in conformity with the relevant provisions of this
+  Agreement, the arbitration panel shall determine whether the
+  complaining Party or, as appropriate, the signatory Central African
+  State concerned may continue to apply appropriate measures. If the
+  arbitration panel rules that any measure taken to comply is in
+  conformity with the provisions referred to in Article 67, the
+  appropriate measures shall be terminated.
+
+  3. In the event of the original arbitration panel, or some of its
+  members, being unable to reconvene, the procedures laid down in
+  Article 71 shall apply. The period for issuing the ruling shall be 60
+  days from the date of submission of the request referred to in
+  paragraph 2 of this Article.
+
+  Common provisions</article>
+      <article number="ARTICLE 79" name="Mutually Agreed Solution" article_identifier="31835">Under this Title the Parties may at any time reach a mutually agreed
+  solution to a dispute. They shall notify the EPA Committee of any such
+  solution. When a mutually agreed solution is adopted, the procedure
+  must be terminated.</article>
+      <article number="ARTICLE 80" name="Rules Of Procedure And Code Of Conduct" article_identifier="31836">1. Dispute settlement procedures under Chapter 3 shall be governed by
+  the rules of procedure and code of conduct to be adopted by the EPA
+  Committee.
+
+  2. Meetings of the arbitration panel shall be open to the public in
+  accordance with the rules of procedure, which also provide for the
+  protection of confidential business information.</article>
+      <article number="ARTICLE 81" name="Information And Technical Advice" article_identifier="31837">At the request of a Party, or upon its own initiative, the arbitration
+  panel may obtain information from any source, including the Parties
+  involved in the dispute, which it deems appropriate for the
+  arbitration procedure. The arbitration panel also has the right to
+  seek the opinion of experts as it deems appropriate. Any information
+  obtained in this manner must be disclosed to each of the Parties and
+  submitted for their comments. Interested parties are authorised to
+  submit amicus curiae briefs to the arbitration panel in accordance
+  with the rules of procedure.</article>
+      <article number="ARTICLE 82" name="Languages For Communications" article_identifier="31838">The written and oral submissions of the Central Africa Party shall be
+  made in French and English, and those of the European Communities in
+  any of the official languages of the institutions of the European
+  Union.</article>
+      <article number="ARTICLE 83" name="Rules Of Interpretation" article_identifier="31839">Any arbitration panel shall interpret the provisions of this Agreement
+  in accordance with customary rules of interpretation of public
+  international law, including the Vienna Convention on the Law of
+  Treaties. The rulings of the arbitration panel cannot add to or
+  diminish the rights and obligations provided for in this Agreement.</article>
+      <article number="ARTICLE 84" name="Arbitration Panel Rulings" article_identifier="31840">1. The arbitration panel shall make every effort to reach its
+  decisions by consensus. Where, nevertheless, a decision cannot be
+  arrived at by consensus, the matter at issue shall be decided by
+  majority vote. However, under no circumstances shall the dissenting
+  opinions of arbitrators be published.
+
+  2. The ruling shall set out the findings of fact, the applicability of
+  the relevant provisions of this Agreement and the basic rationale
+  behind any findings and conclusions of the arbitration panel. The EPA
+  Committee shall make the arbitration panel ruling publicly available
+  unless it decides not to do so.</article>
+    </chapter>
+    <chapter number="CHAPTER 4" name="General Provisions" chapter_identifier="3717">
+      <article number="ARTICLE 85" name="List Of Arbitrators" article_identifier="31841">1. The EPA Committee shall, no later than six months after this
+  Agreement's entry into force, establish a list of 15 individuals who
+  are willing and able to serve as arbitrators. Each of the Parties
+  shall select five individuals to serve as arbitrators. The two Parties
+  shall also agree on five individuals who are not nationals of either
+  Party and who may be called upon to act as chairperson to the
+  arbitration panel. The EPA Committee shall ensure that a full list is
+  always maintained.
+
+  2. Arbitrators shall have specialised knowledge or experience of law
+  and international trade. They shall be independent, serve in their
+  individual capacities and not take instructions from any organisation
+  or government or be affiliated with the government of any of the
+  Parties, and shall comply with the code of conduct adopted by the EPA
+  Committee.
+
+  3. The EPA Committee may draw up an additional list of 15 individuals
+  with sectoral expertise in specific matters covered by the Agreement.
+  Where recourse is made to the selection procedure under Article 71(2),
+  the chairperson of the EPA Committee may use this type of sectoral
+  list with the agreement of both Parties.</article>
+      <article number="ARTICLE 86" name="Relationship To Wto Obligations" article_identifier="31842">1. Arbitration bodies set up under this Agreement shall not adjudicate
+  disputes concerning each Party's rights and obligations under the
+  Agreement establishing the WTO.
+
+  2. Recourse to the dispute settlement provisions of this Agreement
+  shall be without prejudice to any action in the WTO framework,
+  including dispute settlement action. However, where a Party or, as
+  appropriate, the signatory Central African States has/have instituted
+  a dispute settlement proceeding with regard to a particular measure,
+  either under Article 70(1) or under the WTO Agreement, it/they may not
+  institute a dispute settlement proceeding with regard to the same
+  measure in the other forum until the first proceeding has ended. For
+  the purposes of this paragraph, dispute settlement proceedings under
+  the WTO Agreement shall be deemed to be initiated by the request of a
+  Party or, as appropriate, of the signatory Central African States for
+  the establishment of a panel under Article 6 of the Understanding on
+  Rules and Procedures Governing the Settlement of Disputes of the WTO.
+
+  3. Nothing in this Agreement shall preclude a Party or, as
+  appropriate, the signatory Central African States from implementing
+  the suspension of obligations authorised by the Dispute Settlement
+  Body of the WTO.</article>
+      <article number="ARTICLE 87" name="Time Limits" article_identifier="31843">1. All time limits laid down in this Title, including the deadlines
+  for the arbitration panels to issue their rulings, shall be counted in
+  calendar days from the day following the act or fact to which they
+  refer.
+
+  2. Any time limit provided for in this Title may be extended by mutual
+  agreement of the Parties.</article>
+      <article number="ARTICLE 88" name="Amendment Of Title Vi" article_identifier="31844">The EPA Committee may decide to amend this Title and its Annexes.</article>
+    </chapter>
+    <chapter number="TITLE VII" name="General Exceptions" chapter_identifier="3718">
+      <article number="ARTICLE 89" name="General Exception Clause" article_identifier="31845">Subject to the requirement that such measures are not to be applied in
+  a manner which would constitute a means of arbitrary or unjustifiable
+  discrimination between the Parties where like conditions must prevail,
+  or a disguised restriction on trade in goods, services or
+  establishment, nothing in this Agreement shall be construed to prevent
+  the adoption or enforcement by the Parties of measures which:
+
+  (a) are necessary to protect public security or public morality or to
+  maintain public order;
+
+  (b) are necessary to protect the health or life of humans, animals or
+  plants;
+
+  (c) are necessary to secure compliance with laws or regulations which
+  are not inconsistent with the provisions of this Agreement, including
+  those relating to:
+
+  (i) prevention of deceptive and fraudulent practices or ways of
+  dealing with the effects of a default on contracts;
+
+  (ii) protection of the privacy of individuals in relation to the
+  processing and dissemination of personal data and the protection of
+  confidentiality of individual records and accounts;
+
+  (iii) security;
+
+  (iv) the application of customs regulations and procedures; or
+
+  (v) protection of intellectual property rights;
+
+  (d) relate to imports or exports of gold or silver;
+
+  (e) are necessary to protect national treasures of artistic,
+  historical or archaeological value;
+
+  (f) relate to the conservation of exhaustible natural resources if
+  such measures involve restrictions on domestic production or
+  consumption of goods or the provision or consumption of domestic
+  services, and on domestic investors;
+
+  (g) relate to the products of prison labour; or
+
+  (h) are inconsistent with the articles of this Agreement on national
+  treatment, provided that the difference in treatment is intended to
+  ensure the effective or equitable imposition or collection of direct
+  taxes in respect of the economic activities of investors or of service
+  providers of the other Party [5].</article>
+      <article number="ARTICLE 90" name="Security Exceptions" article_identifier="31846">1. Nothing in this Agreement shall be construed:
+
+  (a) to require the Parties to furnish any information the disclosure
+  of which they consider contrary to their essential security interests;
+
+  (b) to prevent the Parties from taking any action which they consider
+  necessary for the protection of their essential security interests:
+
+  (i) relating to fissionable and fusionable materials or the materials
+  from which they are derived;
+
+  (ii) relating to economic activities carried out directly or
+  indirectly for the purpose of supplying or provisioning a military
+  establishment;
+
+  (iii) relating to the production of, or trade in, arms, munitions or
+  war materials;
+
+  (iv) relating to government procurement indispensable for national
+  security or for national defence purposes; or
+
+  (v) taken in time of war or other emergency in international
+  relations; or
+
+  (c) to prevent the Parties from taking any action in pursuance of the
+  obligations they accepted in order to maintain international peace and
+  security.
+
+  2. The EPA Committee shall be informed to the fullest extent possible
+  of measures taken under paragraphs 1(b) and 1(c) and of their
+  termination.</article>
+      <article number="ARTICLE 91" name="Taxation" article_identifier="31847">1. Nothing in this Agreement or in any agreement adopted in
+  implementation of this Agreement shall be construed to prevent the
+  Parties from distinguishing, in the application of the relevant
+  provisions of their fiscal legislation, between taxpayers who are not
+  in the same situation, in particular with regard to their place of
+  residence or with regard to the place where their capital is invested.
+
+  2. Nothing in this Agreement or in any agreement adopted in
+  implementation of this Agreement shall be construed to prevent the
+  adoption or enforcement of any measure intended to prevent the
+  avoidance or evasion of taxes pursuant to the tax provisions of
+  agreements to avoid double taxation or other tax agreements or
+  domestic fiscal legislation.
+
+  3. Nothing in this Agreement shall affect the rights and obligations
+  of the Parties under any tax convention. In the event of any
+  inconsistency between this Agreement and any such convention, that
+  convention shall prevail to the extent of the inconsistency.</article>
+    </chapter>
+    <chapter number="TITLE VIII" name="General And Final Provisions" chapter_identifier="3719">
+      <article number="ARTICLE 92" name="Epa Committee" article_identifier="31848">1. To implement this Agreement, an EPA Committee shall be set up
+  within three months of the signature of this Agreement.
+
+  2. The Parties agree on the composition, organisation and functioning
+  of the EPA Committee.
+
+  3. The EPA Committee shall be responsible for the administration of
+  all areas covered by this Agreement and for the completion of all
+  tasks referred to in this Agreement.
+
+  4. The EPA Committee shall reach its decisions by consensus.
+
+  5. In order to facilitate communication and ensure the effective
+  implementation of this Agreement, each Party shall designate a focal
+  point.</article>
+      <article number="ARTICLE 93" name="Regional Organisations" article_identifier="31849">The Commission of the Economic and Monetary Community of Central
+  Africa (CEMAC) and the General Secretariat of the Economic Community
+  of Central African States (CEEAC) shall be invited to attend all
+  meetings of the EPA Committee.</article>
+      <article number="ARTICLE 94" name="Continuation Of Negotiations And Implementation Of The Agreement" article_identifier="31850">1. The Parties shall continue the negotiations in accordance with the
+  schedule set out in this Agreement, within the existing negotiation
+  structures.
+
+  2. When the negotiations are concluded, the resulting draft amendments
+  shall be submitted to the relevant national authorities for approval.
+
+  3. Pending the establishment of the EPA Committee and of other
+  institutions and committees of relevance for the full EPA referred to
+  in Article 1, the Parties shall take the necessary measures for the
+  administration and implementation of this Agreement and carry out the
+  tasks of the EPA Committee each time reference is made to this
+  Committee in this Agreement.</article>
+      <article number="ARTICLE 95" name="Definition Of The Parties And Fulfilment Of Obligations" article_identifier="31851">1. The Contracting Parties to this Agreement shall be the Republic of
+  Cameroon [hereinafter "Central Africa Party"], of the one
+  part, and the European Community or its Member States or the European
+  Community and its Member States, within their respective areas of
+  competence as derived from the Treaty establishing the European
+  Community [hereinafter "EC Party"], of the other part.
+
+  2. For the purposes of this Agreement, the Central Africa Party agrees
+  to act collectively.
+
+  3. For the purposes of this Agreement, "Party" shall refer
+  to the Central African States acting collectively or the EC Party, as
+  appropriate. "Parties" shall refer to the Central African
+  States acting collectively and the EC Party.
+
+  4. In cases where individual action is provided for or required to
+  exercise rights or comply with obligations under this Agreement,
+  reference is made to the "signatory Central African States".
+
+  5. The Parties or the signatory Central African States, as
+  appropriate, shall adopt any general or specific measures required for
+  them to fulfil their obligations under this Agreement and shall ensure
+  that they comply with the objectives laid down in this Agreement.</article>
+      <article number="ARTICLE 96" name="Coordinators And Exchange Of Information" article_identifier="31852">1. In order to facilitate communication and ensure the effective
+  implementation of this Agreement, each Party shall designate a
+  coordinator upon this Agreement's entry into force. The designation of
+  coordinators shall be without prejudice to the specific designation of
+  competent authorities under specific titles or chapters of this
+  Agreement.
+
+  2. At the request of either Party, the coordinator of the other Party
+  shall indicate the office or official responsible for any matter
+  pertaining to the implementation of the Agreement and provide the
+  support necessary to facilitate communication with the requesting
+  Party.
+
+  3. At the request of either Party, and to the extent legally possible,
+  each Party through its coordinator shall provide information and reply
+  promptly to any question from the other Party relating to an actual or
+  proposed measure or an international agreement that might affect trade
+  between the Parties.
+
+  4. Each Party shall ensure that its laws, regulations, procedures and
+  administrative rulings of general application relating to any trade
+  matter covered by this Agreement are promptly published or made
+  publicly available and brought to the attention of the other Party.
+
+  5. Without prejudice to specific transparency provisions in this
+  Agreement, the information referred to under this Article shall be
+  considered to have been provided when the information has been made
+  available by appropriate notification to the WTO or when the
+  information has been made available on the official, public and
+  fee-free website of the Party concerned.</article>
+      <article number="ARTICLE 97" name="Regional Preference" article_identifier="31853">1. Nothing in this Agreement shall oblige a Party to extend to the
+  other Party to this Agreement any more favourable treatment than that
+  applied within each of the Parties as part of its respective regional
+  integration process.
+
+  2. Any more favourable treatment or advantage that may be granted
+  under this Agreement by any signatory Central African State to the
+  European Community shall immediately and unconditionally also be
+  enjoyed by each signatory Central African State.</article>
+      <article number="ARTICLE 98" name="Entry Into Force" article_identifier="31854">1. This Agreement shall be signed, ratified or approved in accordance
+  with constitutional or domestic rules and applicable procedures.
+
+  2. This Agreement shall enter into force on the first day of the month
+  following that in which the depositories of the Agreement have been
+  notified of the last instrument of ratification, acceptance or
+  approval.
+
+  3. Notifications shall be sent to the Secretary-General of the Council
+  of the European Union and the President of the Commission of the
+  Economic and Monetary Community of Central Africa, who shall be the
+  depositories of this Agreement.
+
+  4. Pending this Agreement's entry into force, the EC Party and the
+  Central Africa Party agree to apply the provisions of this Agreement
+  in accordance with their respective powers ("provisional
+  application"). This may be done either by provisional
+  application, where such application is possible, or via ratification
+  of the Agreement.
+
+  5. The depositories of the Agreement shall be notified of such
+  provisional application. The Agreement shall be applied provisionally
+  10 days after receipt of this notification of provisional application
+  by the European Community and after receipt of the notification,
+  either by ratification or by provisional application, by all signatory
+  Central African States.
+
+  6. Notwithstanding paragraph 4, the EC Party and the signatory Central
+  African States may unilaterally take measures to apply the Agreement,
+  before provisional application, to the extent that this is possible.</article>
+      <article number="ARTICLE 99" name="Duration" article_identifier="31855">1. This Agreement is concluded for an unlimited period.
+
+  2. Either Party, or a signatory Central African State, may give
+  written notice to the other Party of its intention to denounce this
+  Agreement.
+
+  3. Denunciation shall take effect six months after the other Party has
+  been notified.</article>
+      <article number="ARTICLE 100" name="Territorial Application" article_identifier="31856">This Agreement shall apply to the territories in which the Treaty
+  establishing the European Community is applied and under the
+  conditions laid down in that Treaty, and to the territories of the
+  signatory Central African States.</article>
+      <article number="ARTICLE 101" name="Accession Of States Or Of Regional Organisations In Central Africa" article_identifier="31857">1. This Agreement shall be open to accession by any State or regional
+  organisation in Central Africa. A request for accession shall be
+  submitted to the EPA Committee. Any State which submits a request for
+  accession shall attend the meetings of the EPA Committee as an
+  observer.
+
+  2. The request shall be examined and negotiations begun in order to
+  propose the necessary amendments to this Agreement. The accession
+  protocol shall be submitted to the competent authorities for approval.
+
+  3. The Parties shall examine the effects of the accession on this
+  Agreement. The EPA Committee may rule on the transitional measures or
+  the necessary amendments.</article>
+      <article number="ARTICLE 102" name="Accession Of New Member States To The European Union" article_identifier="31858">1. The EPA Committee shall be informed of any application from a third
+  country to join the European Union. During the negotiations between
+  the European Union and the candidate country, the EC Party shall
+  provide the Central Africa Party with any relevant information, and
+  the Central Africa Party shall inform the EC Party of its concerns so
+  that they can be taken fully into account. The Central Africa Party
+  shall be notified of any accession to the European Union (EU).
+
+  2. Any new Member State of the European Union shall accede to this
+  Agreement as of the date of its accession to the European Union by
+  means of a clause to this effect in the Act of Accession. If the act
+  of accession to the European Union does not provide for such automatic
+  accession of the new EU Member State to this Agreement, the Member
+  State concerned shall accede to this Agreement by depositing an act of
+  accession with the General Secretariat of the Council of the European
+  Union, which shall send certified copies to the Central Africa Party.
+
+  3. The Parties shall review the effects of the accession of new Member
+  States of the European Union on this Agreement. The EPA Committee may
+  rule on any transitional measures or amendments necessary.</article>
+      <article number="ARTICLE 103" name="Outermost Regions Of The European Community" article_identifier="31859">Nothing in this Agreement shall prevent the EC Party from applying
+  existing measures to improve the structural, social and economic
+  situation of the outermost regions in accordance with Article 299(2)
+  of the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 104" name="Dialogue On Financial Matters" article_identifier="31860">The Parties and the signatory Central African States agree to promote
+  dialogue and transparency and to share best practice on tax policy and
+  administration.</article>
+      <article number="ARTICLE 105" name="Collaboration In Tackling Illegal Financial Activities" article_identifier="31861">The Parties undertake to prevent and tackle fraudulent and corrupt
+  illegal activities, money laundering and the financing of terrorism,
+  and shall take the necessary legislative and administrative measures
+  to comply with international standards, including those set out in the
+  United Nations Convention against Corruption, the United Nations
+  Convention against Transnational Organised Crime and its Protocols,
+  the United Nations Convention for the Suppression of the Financing of
+  Terrorism and the recommendations of the Financial Action Task Force.
+  The Parties agree to exchange information and to cooperate in these
+  areas.</article>
+      <article number="ARTICLE 106" name="Relationship To Other Agreements" article_identifier="31862">1. With the exception of the Articles on development cooperation
+  provided for in Part III, Title II, of the Cotonou Agreement, in the
+  event of inconsistency between the provisions of this Agreement and
+  the provisions of Part III, Title II, of the Cotonou Agreement, the
+  provisions of this Agreement shall take precedence.
+
+  2. Nothing in this Agreement shall be construed so as to prevent the
+  adoption by the European Community or by one of the signatory Central
+  African States of any measures, including trade measures, deemed
+  appropriate as provided for under Articles 11b, 96 and 97 of the
+  Cotonou Agreement.
+
+  3. The Parties agree that nothing in this Agreement requires them to
+  act in a manner inconsistent with their WTO obligations.
+
+  4. The Parties agree to examine, in 2008, whether the provisions of
+  this Agreement are consistent with the customs unions to which the
+  signatories to this Agreement belong.</article>
+      <article number="ARTICLE 107" name="Authentic Texts" article_identifier="31863">This Agreement shall be drawn up in duplicate in the Bulgarian, Czech,
+  Danish, Dutch, English, Estonian, Finnish, French, German, Greek,
+  Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese,
+  Romanian, Slovak, Slovenian, Spanish and Swedish languages, each text
+  being equally authentic.</article>
+      <article number="ARTICLE 108" name="Annexes And Protocol" article_identifier="31864">The Annexes and the Protocol to this Agreement shall form an integral
+  part thereof.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="3720">
+      <article article_identifier="31865">IN WITNESS WHEREOF, the undersigned Plenipotentiaries have affixed
+  their signatures below this Agreement.
+
+  Съставено съответно в Яунде на петнадесети януари две хиляди и девета
+  година и в Брюксел на двадесет и втори януари две хиляди и девета
+  година.
+
+  Hecho en Yaundé el quince de enero de dos mil nueve, y en Bruselas el
+  veintidós de enero de dos mil nueve.
+
+  V Yaoundé dne patnáctého ledna dva tisíce devět a v Bruselu dne
+  dvacátého druhého ledna dva tisíce devět.
+
+  Udfærdiget henholdsvis i Yaoundé, den femtende januar to tusind og ni,
+  og i Bruxelles, den toogtyvende januar to tusind og ni.
+
+  Geschehen zu Jaunde am fünfzehnten Januar zweitausendneun und zu
+  Brüssel am zweiundzwanzigsten Januar zweitausendneun.
+
+  Sõlmitud vastavalt viieteistkümnendal jaanuaril kahe tuhande
+  üheksandal aastal Yaoundés ja kahekümne teisel jaanuaril kahe tuhande
+  üheksandal aastal Brüsselis.
+
+  Έγινε στο Γιαουντέ στις δεκαπέντε Ιανουαρίου δύο χιλιάδες εννιά και
+  στις Βρυξέλλες στις είκοσι δύο Ιανουαρίου δύο χιλιάδες εννιά.
+
+  Done at Yaoundé on the fifteenth day of January, two thousand and nine
+  and at Brussels on the twenty-second day of January, two thousand and
+  nine, respectively.
+
+  Fait respectivement à Yaoundé le quinze janvier deux mille neuf et à
+  Bruxelles le vingt-deux janvier deux mille neuf.
+
+  Fatto a Yaoundé, il quindici gennaio duemilanove, e a Bruxelles, il
+  ventidue gennaio duemilanove, rispettivamente.
+
+  Jaundē, divtūkstoš devītā gada piecpadsmitajā janvārī, un Briselē,
+  divtūkstoš devītā gada divdesmit otrajā janvārī.
+
+  Pasirašyta atitinkamai Jaundėje du tūkstančiai devintųjų metų sausio
+  15 d. ir Briuselyje du tūkstančiai devintųjų metų sausio 22 d.
+
+  Kelt Yaoundéban, a kettőezerkilencedik év január havának tizenötödik
+  napján, illetve Brüsszelben, a kettőezerkilencedik év január havának
+  huszonkettedik napján.
+
+  Magħmul f'Yaoundé fil-ħmistax-il jum ta' Jannar tas-sena elfejn u
+  disgħa u fi Brussell fit-tnejn u għoxrin jum ta' Jannar tas-sena
+  elfejn u disgħa, rispettivament.
+
+  Gedaan te Yaoundé, vijftien januari tweeduizend negen, respectievelijk
+  te Brussel, tweeëntwintig januari tweeduizend negen.
+
+  Sporządzono, odpowiednio, w Jaunde dnia piętnastego stycznia dwa
+  tysiące dziewiątego roku i w Brukseli dnia dwudziestego drugiego
+  stycznia dwa tysiące dziewiątego roku.
+
+  Feito em Iaundé, em quinze de Janeiro de dois mil e nove, e em
+  Bruxelas, em vinte e dois de Janeiro de dois mil e nove.
+
+  Încheiat la Yaoundé în a cincisprezecea zi a lunii ianuarie două mii
+  nouă şi, respectiv, la Bruxelles în a douăzeci şi doua zi a lunii
+  ianuarie două mii nouă.
+
+  V Yaoundé pätnásteho januára dvetisícdeväť a v Bruseli dvadsiateho
+  druhého januára dvetisícdeväť.
+
+  V Yaoundeju, petnajstega januarja dva tisoč devet, in v Bruslju,
+  dvaindvajsetega januarja dva tisoč devet.
+
+  Tehty Yaoundéssa viidentenätoista päivänä tammikuuta vuonna
+  kaksituhattayhdeksän ja Brysselissä kahdentenakymmenentenätoisena
+  päivänä tammikuuta vuonna kaksituhattayhdeksän.
+
+  Utfärdat i Yaoundé den femtonde januari tjugohundranio samt i Bryssel
+  den tjugoandra januari tjugohundranio.
+
+  Pour la République du Cameroun
+
+  +++++ TIFF +++++
+
+  За Европейската общност
+
+  Por la Comunidad Europea
+
+  Za Evropské společenství
+
+  For Det Europæiske Fællesskab
+
+  Für die Europäische Gemeinschaft
+
+  Euroopa Ühenduse nimel
+
+  Για την Ευρωπαϊκή Κοινότητα
+
+  For the European Community
+
+  Pour la Communauté européenne
+
+  Per la Comunità europea
+
+  Eiropas Kopienas vārdā
+
+  Europos bendrijos vardu
+
+  az Európai Közösség részéről
+
+  Għall-Komunità Ewropea
+
+  Voor de Europese Gemeenschap
+
+  W imieniu Wspólnoty Europejskiej
+
+  Pela Comunidade Europeia
+
+  Pentru Comunitatea Europeană
+
+  Za Európske spoločenstvo
+
+  za Evropsko skupnost
+
+  Euroopan yhteisön puolesta
+
+  På Europeiska gemenskapens vägnar
+
+  +++++ TIFF +++++
+
+  +++++ TIFF +++++
+
+  Voor het Koninkrijk België
+
+  Pour le Royaume de Belgique
+
+  Für das Königreich Belgien
+
+  +++++ TIFF +++++
+
+  Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse
+  Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het
+  Waalse Gewest en het Brussels Hoofdstedelijk Gewest.
+
+  Cette signature engage également la Communauté française, la
+  Communauté flamande, la Communauté germanophone, la Région wallonne,
+  la Région flamande et la Région de Bruxelles-Capitale.
+
+  Diese Unterschrift bindet zugleich die Deutschsprachige Gemeinschaft,
+  die Flämische Gemeinschaft, die Französische Gemeinschaft, die
+  Wallonische Region, die Flämische Region und die Region
+  Brüssel-Hauptstadt.
+
+  За Република България
+
+  +++++ TIFF +++++
+
+  Za Českou republiku
+
+  +++++ TIFF +++++
+
+  På Kongeriget Danmarks vegne
+
+  +++++ TIFF +++++
+
+  Für die Bundesrepublik Deutschland
+
+  +++++ TIFF +++++
+
+  Eesti Vabariigi nimel
+
+  +++++ TIFF +++++
+
+  Thar cheann Na hÉireann
+
+  For Ireland
+
+  +++++ TIFF +++++
+
+  Για την Ελληνική Δημοκρατία
+
+  +++++ TIFF +++++
+
+  Por el Reino de España
+
+  +++++ TIFF +++++
+
+  Pour la République française
+
+  +++++ TIFF +++++
+
+  Per la Repubblica italiana
+
+  +++++ TIFF +++++
+
+  Για την Κυπριακή Δημοκρατία
+
+  +++++ TIFF +++++
+
+  Latvijas Republikas vārdā
+
+  +++++ TIFF +++++
+
+  Lietuvos Respublikos vardu
+
+  +++++ TIFF +++++
+
+  Pour le Grand-Duché de Luxembourg
+
+  +++++ TIFF +++++
+
+  A Magyar Köztársaság részéről
+
+  +++++ TIFF +++++
+
+  Għal Malta
+
+  +++++ TIFF +++++
+
+  Voor het Koninkrijk der Nederlanden
+
+  +++++ TIFF +++++
+
+  Für die Republik Österreich
+
+  +++++ TIFF +++++
+
+  W imieniu Rzeczypospolitej Polskiej
+
+  +++++ TIFF +++++
+
+  Pela República Portuguesa
+
+  +++++ TIFF +++++
+
+  Pentru România
+
+  +++++ TIFF +++++
+
+  Za Republiko Slovenijo
+
+  +++++ TIFF +++++
+
+  Za Slovenskú republiku
+
+  +++++ TIFF +++++
+
+  Suomen tasavallan puolesta
+
+  För Republiken Finland
+
+  +++++ TIFF +++++
+
+  För Konungariket Sverige
+
+  +++++ TIFF +++++
+
+  For the United Kingdom of Great Britain and Northern Ireland
+
+  +++++ TIFF +++++
+
+  [1] Member States not included.
+
+  [2] For this calculation, official WTO data on the world's leading
+  exporters of products (excluding intra-EU trade) shall be used.
+
+  [3] For the purposes of this Article, agricultural products shall be
+  those covered by Annex I of the WTO Agreement on Agriculture.
+
+  [4] Standards to be taken into account include the following
+  international instruments:(i)Guidelines on computerised personal data
+  files, as amended by the United Nations General Assembly on 20
+  November 1990.(ii)Recommendation of the OECD Council of 23 September
+  1980 concerning guidelines governing the protection of privacy and
+  trans-border flows of personal data.
+
+  [5] Measures aimed at ensuring the effective or equitable imposition
+  or collection of direct taxes shall include measures taken by one of
+  the Parties under its tax system which:(i)apply to non-resident
+  investors and service providers in recognition of the fact that the
+  tax obligation of non-residents is determined with respect to taxable
+  entities outsourcing from or located in the territory of one of the
+  Parties;(ii)apply to non-residents in order to ensure the imposition
+  or collection of taxes in the territory of one of the
+  Parties;(iii)apply to non-residents or residents in order to prevent
+  tax evasion or avoidance, including measures taken to comply;(iv)apply
+  to consumers of services supplied in or from the territory of the
+  other Party in order to ensure the imposition or collection of taxes
+  on such consumers derived from sources in the territory of one of the
+  Parties;(v)distinguish investors and service providers subject to
+  taxes on global taxable entities from other investors and service
+  providers, in recognition of the differences between their tax bases;
+  or(vi)determine, allocate or apportion income, profit, gain, loss,
+  deduction or credit of resident persons or branches, or between
+  related persons or branches of the same person, in order to safeguard
+  the Parties' tax bases.
+
+  --------------------------------------------------</article>
+    </chapter>
+  </body>
+</treaty>

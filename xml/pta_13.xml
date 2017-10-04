@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EFTA - Lebanon</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>15</wto_rta_id>
+    <treaty_identifier>13</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2004-06-24</date_signed>
+    <date_into_force>2007-01-01</date_into_force>
+    <date_notification>2006-12-22</date_notification>
+    <end_implementation>2015-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">CHE</partyisocode>
+      <partyisocode n="2">ISL</partyisocode>
+      <partyisocode n="3">LBN</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">CHE</partyisocode>
+      <partyisocode n="2">ISL</partyisocode>
+      <partyisocode n="3">LBN</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">NOR</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe; Middle East</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.efta.int/~/media/Documents/legal-texts/free-trade-relations/lebanon/EFTA-Lebanon Free Trade Agreement.pdf</source>
+    <source lang="en" type="annex">http://www.efta.int/free-trade/free-trade-agreements/lebanon.aspx</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="168">
+      <article article_identifier="1403">FREE TRADE AGREEMENT 
+BETWEEN 
+THE EFTA STATES 
+AND 
+THE REPUBLIC OF LEBANON 
+
+
+PREAMBLE 
+
+
+The REPUBLIC OF ICELAND, the PRINCIPALITY OF LIECHTENSTEIN, the KINGDOM OF NORWAY, the SWISS CONFEDERATION (hereinafter called the “EFTA States”), on the one part, 
+
+and the REPUBLIC OF LEBANON (hereinafter called “Lebanon”), on the other, 
+
+hereinafter collectively referred to as “the Parties”, 
+
+CONSIDERING the importance of the links existing between the EFTA States and Lebanon, in particular the Declaration on Co-operation signed in Geneva in June 1997, and recognizing the common wish to strengthen these links, thus establishing close and lasting relations; 
+
+RECALLING their intention to participate actively in the process of economic integration in the Euro-Mediterranean region, and expressing their preparedness to cooperate in seeking ways and means to strengthen this process; 
+
+REAFFIRMING their commitment to pluralistic democracy based on the rule of law, human rights, including rights of persons belonging to minorities, and fundamental freedoms, and to the political and economic freedoms in accordance with their obligations under international law, including the United Nations Charter and the Universal Declaration of Human Rights; 
+
+DESIRING to create favourable conditions for the development and diversification of trade between them and for the promotion of commercial and economic co-operation in areas of common interest on the basis of equality, mutual benefit, non-discrimination and international law; 
+
+RECALLING the membership of the EFTA States in the World Trade Organisation (hereinafter referred to as “the WTO”) and their commitment to comply with the rights and obligations arising from the Marrakesh Agreement establishing the WTO, including the principles of most-favoured-nation and of national treatment, and mindful of Lebanon’s objective to become a Member of the WTO; 
+
+RESOLVED to contribute to the strengthening of the multilateral trading system and to develop their relations towards free trade in accordance with WTO rules; 
+
+CONSIDERING that no provision of this Agreement may be interpreted as exempting the Parties from their obligations under other international agreements, especially the WTO; 
+
+DETERMINED to implement this Agreement with the objective to preserve and protect the environment and to ensure an optimal use of natural resources in accordance with the principle of sustainable development; 
+
+DECLARING their readiness to examine the possibility of developing and deepening their economic relations in order to extend them to fields not covered by this Agreement; 
+
+CONVINCED that this Agreement provides an appropriate framework for exchange of information and views on economic developments and trade; and 
+
+ALSO CONVINCED that this Agreement will create conditions encouraging economic, trade and investment relations between them, 
+
+HAVE DECIDED, in pursuit of the above, to conclude the following Agreement (hereinafter called “this Agreement”):</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="General Provisions" chapter_identifier="169">
+      <article number="ARTICLE 1" name="Objectives" article_identifier="1404">1. The EFTA States and Lebanon shall establish a free trade area in accordance with the provisions of this Agreement with a view to spurring economic activities in their territories, thereby raising standards of living and improving employment conditions and contributing to Euro-Mediterranean economic integration. 
+
+
+2. The objectives of this Agreement, which is based on trade relations between market economies and on the respect of democratic principles and human rights, are: 
+
+
+(a) 	to achieve the liberalisation of trade in goods, in conformity with Article XXIV of the General Agreement on Tariffs and Trade (hereinafter referred to as the “GATT 1994”); 
+
+
+(b) 	to gradually develop an environment conducive to increased investment flows and enhanced trade in services; 
+
+
+(c) 	to ensure adequate and effective protection of intellectual property rights; 
+
+
+(d) 	to progressively liberalise government procurement; and 
+
+
+(e) 	to support the harmonious development of economic relations between the Parties through the expansion of trade, and economic and technical co-operation.</article>
+      <article number="ARTICLE 2" name="Trade Relations Governed By This Agreement" article_identifier="1405">This Agreement shall apply to trade relations between, on the one side, the individual EFTA States and, on the other side, Lebanon, but not to the trade relations between individual EFTA States, unless otherwise provided for in this Agreement.</article>
+      <article number="ARTICLE 3" name="Territorial Application" article_identifier="1406">This Agreement shall apply to the territories of the Parties except as provided for in Annex I .</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Trade In Goods" chapter_identifier="170">
+      <article number="ARTICLE 4" name="Scope" article_identifier="1407">1. This Chapter shall apply to the following products originating in an EFTA State or in Lebanon:  
+
+
+(a) 	all products falling within Chapters 25 to 97 of the Harmonized Commodity Description and Coding System (HS), excluding the products listed in Annex II; 
+
+
+(b) 	processed agricultural products specified in Protocol A, with due regard to the arrangements provided for in that  Protocol; and 
+
+
+(c) 	fish and other marine products as provided for in Annex III. 
+2. Lebanon and each EFTA State have concluded agreements on trade in agricultural products on a bilateral basis.  These agreements form part of the instruments establishing a free trade area between the EFTA States and Lebanon.</article>
+      <article number="ARTICLE 5" name="Rules Of Origin And Methods Of Administrative Co-Operation" article_identifier="1408">Protocol B lays down the rules of origin and methods of administrative co-operation.</article>
+      <article number="ARTICLE 6" name="Customs Duties On Imports And Charges Having Equivalent Effect" article_identifier="1409">1. No new customs duties on imports or charges having equivalent effect shall be introduced in trade between the EFTA States and Lebanon. 
+
+
+2. The EFTA States shall abolish on the date of entry into force of this Agreement all customs duties on imports, and any charges having equivalent effect, of products originating in Lebanon. 
+
+
+3. Lebanon shall gradually eliminate its customs duties on imports, and any charges having equivalent effect, of products originating in an EFTA State in accordance with Annex IV.</article>
+      <article number="ARTICLE 7" name="Basic Duties" article_identifier="1410">1. The applicable rates for imports between the Parties shall be the most-favourednation rate of duty (MFN rate) applied on 21 November 2003, or if lower, the applied rate enforced as of the entry into force of this Agreement.  If, after the entry into force of this Agreement, a tariff reduction is applied on an erga omnes basis, the reduced rate shall apply. 
+
+
+2. The Parties shall communicate to each other their respective rates applied on the date of the entry into force of this Agreement.</article>
+      <article number="ARTICLE 8" name="Customs Duties Of A Fiscal Nature" article_identifier="1411">The provisions of Article 6 shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 9" name="Quantitative Restrictions On Imports And Measures Having Equivalent Effect" article_identifier="1412">1. No new quantitative restriction on imports or any measures having equivalent effect shall be introduced in trade between the EFTA States and Lebanon. 
+
+
+2. Quantitative restrictions on imports and any measures having equivalent effect in trade between the EFTA States and Lebanon shall be abolished from the date of entry into force of this Agreement</article>
+      <article number="ARTICLE 10" name="Customs Duties And Quantitative Restrictions On Exports" article_identifier="1413">The EFTA States and Lebanon shall not apply to exports between themselves either customs duties or charges having equivalent effect, or quantitative restrictions or measures having equivalent effect.</article>
+      <article number="ARTICLE 11" name="Internal Taxation And Regulations" article_identifier="1414">1. The Parties commit themselves to apply any internal taxes and other charges and regulations in accordance with Article III of the GATT 1994 and other relevant WTO Agreements. 
+
+
+2. Exporters may not benefit from repayment of internal taxes in excess of the amount of direct or indirect taxation imposed on products exported to the territory of one of the Parties.</article>
+      <article number="ARTICLE 12" name="Technical Regulations" article_identifier="1415">1. The Parties shall co-operate in the field of technical regulations, standards and conformity assessment and shall take appropriate measures to promote international solutions and mutual recognition agreements, as appropriate, to ensure that this agreement will be applied effectively and harmoniously in the mutual interest of all Parties. 
+
+
+2. The Parties agree to hold immediate consultations in the framework of the Joint Committee set up in accordance with Article 30 in case a Party considers that another Party has taken measures which are likely to create, or have created, a technical obstacle to trade, in order to find an appropriate solution in conformity with the WTO Agreement on Technical Barriers to Trade.  
+
+
+3. The Parties’ obligations to notify draft technical regulations shall be governed by the criteria set out in the WTO Agreement on Technical Barriers to Trade. The EFTA States will make their notifications to the WTO available to Lebanon.  Lebanon shall notify draft technical regulations to the EFTA Secretariat, which shall distribute them to the other Parties.</article>
+      <article number="ARTICLE 13" name="Sanitary And Phytosanitary Measures" article_identifier="1416">1. The Parties shall apply their regulations in sanitary and phytosanitary matters in a non-discriminatory fashion and shall not introduce any new measures that have the effect of unduly obstructing trade. 
+
+
+2. The principles set out in paragraph 1 shall be applied in accordance with the WTO Agreement on the Application of Sanitary and Phytosanitary Measures.</article>
+      <article number="ARTICLE 14" name="State Monopolies" article_identifier="1417">The EFTA States and Lebanon shall progressively adjust any state monopoly of a commercial character so as to ensure that by the end of the fourth year following the entry into force of this Agreement, with the exceptions laid down in Protocol C, no discrimination regarding the conditions under which goods are procured and marketed will exist between nationals of the EFTA States and of Lebanon. These goods shall be procured and marketed in accordance with commercial considerations.</article>
+      <article number="ARTICLE 15" name="Subsidies" article_identifier="1418">1. The rights and obligations of the Parties relating to subsidies and countervailing measures shall be governed by Articles VI and XVI of the GATT 1994, the WTO Agreement on Subsidies and Countervailing Measures and the WTO Agreement on Agriculture, except as otherwise provided for in this Article.  
+
+
+2. The extent of the Parties' obligations to ensure transparency of subsidy measures shall be governed by the criteria set out in Article XVI:1 of the GATT 1994 and Article 25 of the Agreement on Subsidies and Countervailing Measures. The EFTA States will make their notifications on subsidies to the WTO available to Lebanon. Lebanon shall notify its subsidies to the EFTA Secretariat, which shall distribute them to the other Parties. 
+
+
+3. Before an EFTA State or Lebanon, as the case may be, initiates an investigation to determine the existence, degree and effect of any alleged subsidy in Lebanon, or in an EFTA State, as provided for in Article 11 of the Agreement on Subsidies and Countervailing Measures, the Party considering initiating an investigation shall notify in writing the Party whose goods are subject to investigation and allow for a 45 day period with a view to finding a mutually acceptable solution. The consultations shall take place in the Joint Committee if any Party so requests within 20 days from the receipt of the notification.</article>
+      <article number="ARTICLE 16" name="Anti-Dumping" article_identifier="1419">1. If an EFTA State finds that dumping within the meaning of Article VI of the GATT 1994 is taking place in trade with Lebanon, or if Lebanon finds that dumping within this meaning is taking place in trade with an EFTA State, the Party concerned 
+
+may take appropriate measures against this practice in accordance with the WTO Agreement on Implementation of Article VI of the GATT 1994. 
+
+2. The Parties shall, upon request of any Party, meet in the Joint Committee to review the contents of this Article.</article>
+      <article number="ARTICLE 17" name="Rules Of Competition Concerning Undertakings" article_identifier="1420">1. The following are incompatible with the proper functioning of this Agreement in so far as they may affect trade between an EFTA State and Lebanon: 
+
+
+(a) 	all agreements between undertakings, decisions by associations of undertakings and concerted practices between undertakings which have as their object or effect the prevention, restriction or distortion of competition; 
+
+
+(b) 	abuse by one or more undertakings of a dominant position in the territories of the Parties as a whole or in a substantial part thereof. 
+
+2. With regard to public enterprises and enterprises to which special or exclusive rights have been granted, the Parties shall ensure that as from the fourth year following the date of entry into force of this Agreement there is neither enacted nor maintained any measure distorting trade between the EFTA States and Lebanon to an extent contrary to the Parties' interests. This provision should not obstruct the performance in law or in fact of the particular tasks assigned to these enterprises. 
+
+
+3. The provisions of paragraphs 1 and 2 shall not be construed such as to create any direct obligations for undertakings. 
+
+
+4. The Parties will enforce their respective competition legislation and shall exchange information taking into account the limitations imposed by the requirements of confidentiality.  Upon request of a Party, the Parties will consult in order to facilitate the implementation of paragraph 1 and 2. 
+
+
+5. If a Party considers that a given practice is incompatible with the provisions of paragraphs 1 and 2, the Parties concerned shall give to the Joint Committee all the assistance required in order to examine the case and, where appropriate, eliminate the practice objected to.  If the Party in question fails to put an end to the practice objected to within the period fixed by the Joint Committee or if the Joint Committee fails to reach an agreement after consultations, or after thirty days following referral for such consultations, the Party concerned may adopt appropriate measures to deal with the difficulties resulting from the practice in question.  The application and removal of such measures shall be governed by Article 33.</article>
+      <article number="ARTICLE 18" name="Emergency Action On Imports Of Particular Products" article_identifier="1421">1. The provisions of Article XIX of the GATT 1994 and the WTO Agreement on Safeguards are applicable between the Parties, including as regards concessions granted under this Agreement. 
+
+
+2. Before applying safeguard measures according to paragraph 1, the Party intending to apply such measures shall supply the Joint Committee with all relevant information required for a thorough examination of the situation with a view to seeking a solution acceptable to the Parties. Without prejudice to provisional action in critical circumstances as set out in paragraph 2 of Article XIX of the GATT 1994, the Parties shall immediately hold consultations within the Joint Committee in order to find such a solution. If, as a result of the consultations, the Parties do not reach an agreement within thirty days of the initiation of the consultations, the Party intending to apply safeguard measures may apply the provisions of the Article XIX of the GATT 1994 and the WTO Agreement on Safeguards. 
+
+
+3. In the selection of safeguard measures pursuant to this Article, the Parties shall give priority to those, which cause least disturbance to the achievement of the objectives of this Agreement. 
+
+
+4. Safeguard measures shall be notified immediately to the Joint Committee and be the subject of periodic consultations within the Committee, particularly with a view to their abolition as soon as circumstances permit.</article>
+      <article number="ARTICLE 19" name="Structural Adjustment" article_identifier="1422">1. Exceptional measures of limited duration which derogate from the provisions of Article 6 may be taken by Lebanon in the form of an increase or reintroduction of customs duties. 
+
+
+2. These measures may only concern new and infant industries, or sectors undergoing restructuring or facing serious difficulties, particularly where these difficulties entail major social problems. 
+
+
+3. Customs duties on imports into Lebanon of products originating in the EFTA States that are introduced by such exceptional measures may not exceed 25% ad valorem and shall maintain an element of preference for products originating in the EFTA States. They may not exceed customs duties levied on imports to Lebanon of similar goods from any other country.  The total value of imports of the products which are subject to these measures may not exceed 20% of the yearly average of total imports 
+
+of industrial products from the EFTA States as defined in Article 4(a) during the last three years for which statistics are available. 
+
+4. These measures shall be applied for a period not exceeding five years unless a longer duration is authorised by the Joint Committee. They shall cease to apply at the latest on the expiry of the maximum transitional period ending on 1 March 2015.  
+
+
+5. No such measures can be introduced in respect of a product if more than three years have elapsed since the elimination of all duties and quantitative restrictions or charges or measures having equivalent effect concerning that product. 
+
+
+6. Lebanon shall inform the Joint Committee of any exceptional measures it intends to adopt and, at the request of an EFTA State, consultations shall be held in the Joint Committee on the measures and sectors concerned before they are implemented. When adopting such measures Lebanon shall provide the Joint Committee with a schedule for the elimination of the customs duties introduced under this Article. This schedule shall provide for a phasing-out of these duties in equal annual instalments starting no later than the end of the second year following their introduction. The Joint Committee may decide on a different schedule. 
+
+
+7. By way of derogation from provisions of paragraph 4, the Joint Committee may exceptionally, to take account of the difficulties involved in setting up new industries, endorse the measures already taken by Lebanon pursuant to paragraph 1 for a maximum period of three years beyond the transitional period.</article>
+      <article number="ARTICLE 20" name="Re-Export And Serious Shortage" article_identifier="1423">1. 	Where compliance with the provisions of Article 10 leads to: 
+
+
+(a) 	re-export to a third country against which the exporting Party maintains, for the product concerned, quantitative export restrictions, export duties or measures or charges having equivalent effect; or 
+
+
+(b) 	a serious shortage, or threat thereof, of a product essential to the exporting Party; 
+and where the situations referred to above give rise or are likely to give rise to major difficulties for the exporting Party, that Party may take appropriate measures. 
+
+
+2. The Party intending to take measures  under this Article shall promptly notify the other Parties and the Joint Committee thereof. The Joint Committee shall examine the situation and may take any decisions needed to put an end to it.  In the absence of such a decision within 30 days of the matter being referred to the Joint Committee, the Party concerned may adopt the appropriate measures to remedy the problem. The 
+
+measures shall be immediately notified to the Joint Committee.  In the selection of measures priority must be given to the action which least disturbs the functioning of this Agreement. 
+
+3. Where exceptional and critical circumstances requiring immediate action make prior information or examination, as the case may be, impossible, the Party concerned may forthwith apply temporary measures necessary to deal with the situation and shall immediately inform the other Parties and the Joint Committee thereof. 
+
+
+4. The measures taken shall be the subject of periodic consultations within the Joint Committee with a view to their elimination as soon as circumstances permit.</article>
+      <article number="ARTICLE 21" name="General Exceptions" article_identifier="1424">Nothing in this Agreement shall preclude prohibitions or restrictions on imports, exports or goods in transit justified on grounds of public morality, public policy or public security, of the protection of health and life of humans, animals or plants, of the protection of national treasures possessing artistic, historic or archaeological value, of the protection of intellectual property or of regulations concerning gold and silver or conservation of exhaustible natural resources.  Such prohibitions or restrictions shall not, however, constitute a means of arbitrary discrimination or disguised restriction on trade between the Parties.</article>
+      <article number="ARTICLE 22" name="Security Exceptions" article_identifier="1425">Nothing in this Agreement shall prevent a Party from taking any measures which it considers necessary: 
+
+
+(a) 	to prevent the disclosure of information contrary to its essential security interests; 
+
+
+(b) 	for the protection of its essential security interests or for the implementation of international obligations or national policies 
+
+
+(i) 	relating to the traffic in arms, ammunition and implements of war, provided that such measures do not impair the conditions of competition in respect of products not intended for specifically military purposes, and to such traffic in other goods, materials and services as is carried on directly or indirectly for the purpose of supplying a military establishment;  
+
+
+(ii) 	relating to the non-proliferation of biological and chemical weapons, nuclear weapons or other nuclear explosive devices; or 
+(iii) 	  taken in time of war or other serious international tension.</article>
+      <article number="ARTICLE 23" name="Balance Of Payments Difficulties" article_identifier="1426">1. The Parties shall endeavour to avoid the imposition of restrictive measures for balance of payment purposes. 
+
+
+2. Where a Party faces or risks facing serious difficulties concerning its balance of payment or is under imminent threat thereof, the Party may in accordance with the relevant provisions under the GATT 1994 take the restrictive measures that are necessary to remedy the situation, and shall inform as soon as possible the other Parties, and provide them with the timetable for the removal of such measures.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Protection Of Intellectual Property" chapter_identifier="171">
+      <article number="ARTICLE 24" article_identifier="1427">1. The Parties shall grant and ensure adequate, effective and non-discriminatory protection of intellectual property rights, and provide for measures for the enforcement of such rights against infringement thereof, counterfeiting and piracy, in accordance with the provisions of this Article, Annex V to this Agreement and the international agreements referred to therein.  
+
+
+2. The Parties shall accord to each others’ nationals treatment no less favourable than that they accord to their own nationals. Exemptions from this obligation must be in accordance with the substantive provisions of Article 3 and 5 of the WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement). 
+
+
+3. The Parties shall grant to each others' nationals treatment no less favourable than that accorded to nationals of any other State. Exemptions from this obligation must be in accordance with the substantive provisions of the TRIPS Agreement, in particular Articles 4 and 5 thereof. 
+
+
+4. The Parties agree, upon request of any Party, to review the provisions on the protection of intellectual property rights contained in this Article and in Annex V, with a view to further improving the levels of protection and to avoid or remedy trade distortions caused by actual levels of protection of intellectual property rights.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Investment And Services" chapter_identifier="172">
+      <article number="ARTICLE 25" name="Trade In Services" article_identifier="1428">1. The Parties shall aim at achieving gradual liberalisation and the opening of their markets for trade in services in accordance with the provisions of the General Agreement on Trade in Services (GATS), taking into account ongoing work under the auspices of the WTO. 
+
+
+2. If a Party grants to a non-Party, after the entry into force of this Agreement, additional benefits with regard to the access to its services markets, it shall afford adequate opportunities for negotiations with a view to extending these benefits to other Parties on a mutually advantageous basis. 
+
+
+3. The Parties undertake to consider the development of the above provisions with a view to the establishment of an economic integration agreement as defined in Article V of the GATS.</article>
+      <article number="ARTICLE 26" name="Investment Promotion Between The Parties" article_identifier="1429">The EFTA States and Lebanon shall aim to promote an attractive and stable environment for reciprocal investment. Such promotion should take the form, in particular, of 
+
+
+(a) 	mechanisms for information about, and identification and dissemination of investment legislation and opportunities; 
+
+
+(b) 	development of a legal framework conducive to investments between the Parties, through the conclusion by Lebanon and the EFTA States of investment promotion and protection agreements, where appropriate, and agreements preventing double taxation; 
+
+
+(c) 	development of uniform and simplified administrative procedures; and 
+
+
+(d) 	development of mechanisms for joint investments, in particular with small and medium enterprises of the Parties.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Payments And Transfers" chapter_identifier="173">
+      <article number="ARTICLE 27" article_identifier="1430">1. Payments relating to trade between an EFTA State and Lebanon and the transfer of such payments to the territory of the Party where the creditor resides, shall be free from any restrictions. 
+
+
+2. The Parties shall refrain from any currency exchange restrictions or restrictive administrative measures on the grant, repayment or acceptance of short and medium-term credits covering commercial transactions in which a resident participates. 
+
+
+3. No restrictive measures shall apply to transfers related to investments and in particular to the repatriation of amounts invested or reinvested and of any kind of revenues stemming therefrom. 
+
+
+4. It is understood that the provisions in this Article are without prejudice to the equitable, non-discriminatory and good faith application of measures in connection with criminal offences and orders or judgments in administrative and adjudicatory proceedings.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="Government Procurement" chapter_identifier="174">
+      <article number="ARTICLE 28" article_identifier="1431">1. The Parties shall aim at a reciprocal and gradual liberalisation of public procurement contracts. 
+
+
+2. The Joint Committee shall take the steps necessary to implement paragraph 1. 
+
+
+3. If a Party grants to a non-Party, after the entry into force of this Agreement, additional benefits with regard to the access to its procurement markets, it shall agree to enter into negotiations with a view to extending these benefits to other Parties on a reciprocal basis.</article>
+    </chapter>
+    <chapter number="CHAPTER VII" name="Economic Co-Operation And Technical Assistance" chapter_identifier="175">
+      <article number="ARTICLE 29" article_identifier="1432">1. The Parties declare their readiness to foster economic co-operation, in accordance with national policy objectives, noting that particular attention should be given to sectors facing difficulties in Lebanon's process of structural adjustment to the liberalisation of its economy. 
+
+2 In order to facilitate the implementation of this Agreement the Parties shall agree upon appropriate modalities for technical assistance and co-operation between their respective authorities, in particular in the field of intellectual property, customs matters, technical regulations, and sanitary and phytosanitary measures, including standardisation and certification in the food industry. To this end, they shall coordinate efforts with relevant international organisations.  The Parties shall establish guidelines for the implementation of this paragraph.</article>
+    </chapter>
+    <chapter number="CHAPTER VIII" name="Institutional And Procedural Provisions" chapter_identifier="176">
+      <article number="ARTICLE 30" name="The Joint Committee" article_identifier="1433">1. The implementation of this Agreement shall be supervised and administered by a Joint Committee.  Each Party shall be represented in the Joint Committee. 
+
+
+2. For the purpose of the proper implementation of this Agreement, the Parties shall exchange information and, at the request of any Party, shall hold consultations within the Joint Committee.  The Joint Committee shall keep under review the possibility of further removal of the obstacles to trade between the EFTA States and Lebanon. 
+
+
+3. The Joint Committee may take decisions in the cases provided for in this Agreement.  On other matters, the Joint Committee may make recommendations.</article>
+      <article number="ARTICLE 31" name="Procedures Of The Joint Committee" article_identifier="1434">1. For the proper implementation of this Agreement, the Joint Committee shall, upon request of any Party, meet whenever necessary but at least once every two years.  
+
+
+2. The Joint Committee shall act by common agreement. 
+
+
+3. If a representative of a Party in the Joint Committee has accepted a decision subject to the fulfilment of constitutional requirements, the decision shall enter into force, if no later date is contained therein, on the date the lifting of the reservation is notified. 
+
+
+4. For the purpose of this Agreement, the Joint Committee shall adopt its rules of procedure which shall, inter alia, contain provisions for convening meetings and for the designation of the Chairman and his/her term of office. 
+
+
+5. The Joint Committee may decide to set up such sub-committees and working parties as it considers necessary to assist it in accomplishing its tasks.</article>
+      <article number="ARTICLE 32" name="Fulfilment Of Obligations And Consultations" article_identifier="1435">1. The Parties shall take all necessary measures to ensure the fulfilment of their obligations under this Agreement. Should any divergency with respect to the interpretation and application of this Agreement arise, the Parties shall make every attempt through co-operation and consultations to arrive at a mutually satisfactory resolution. 
+
+
+2. Any Party may request in writing consultations with any other Party regarding any actual or proposed measure or any other matter that it considers might affect the operation of this Agreement.  The Party requesting consultations shall at the same time notify the other Parties in writing thereof and supply all relevant information. 
+
+
+3. The consultations shall take place in the Joint Committee if any of the Parties so requests within 20 days from the receipt of the notification referred to in paragraph 2, with a view to finding a commonly acceptable solution.</article>
+      <article number="ARTICLE 33" name="Provisional Measures" article_identifier="1436">If an EFTA State considers that Lebanon has, or if Lebanon considers that an EFTA State has failed to fulfil an obligation under this Agreement and the Joint Committee has failed to arrive at a commonly acceptable solution within 90 days, the Party concerned may take such provisional rebalancing measures as are appropriate and strictly necessary to remedy the imbalance.  Priority shall be given to such measures as will least disturb the functioning of the Agreement.  The measures taken shall be notified immediately to the Parties and to the Joint Committee, which shall hold regular consultations with a view to their abolition.  The measures shall be abolished when conditions no longer justify their maintenance, or, if the dispute is submitted to arbitration, when an arbitral award has been rendered and complied with.</article>
+      <article number="ARTICLE 34" name="Arbitration" article_identifier="1437">1. Disputes between the Parties, relating to the interpretation of rights and obligations of the Parties, which have not been settled, pursuant to Article 32 of this Agreement, through direct consultations or in the Joint Committee within 90 days from the date of the receipt of the written request for consultations, may be referred to arbitration by one or more Parties to the dispute by means of a written notification addressed to the Party complained against.  A copy of this notification shall be communicated to all Parties. 
+
+
+2. In case of the reference of the matter to arbitration, each Party shall, within 30 days from the date of receipt of notification, nominate an arbitrator and the two arbitrators shall, within 30 days from the date of last nomination, appoint a third arbitrator who will be the Chairman of the arbitral tribunal. The Chairman shall not be a national of either party to the dispute, nor permanently reside in the territory of either Party.  If more than one EFTA State is party to a dispute, these States shall jointly nominate one arbitrator. 
+
+
+3. In case either Party fails to nominate its arbitrator or the nominated arbitrators fail to agree on a third member within the period specified in paragraph 2, each Party may request the President of the International Court of Justice (ICJ) to appoint the arbitrator of the refusing Party or the third member, as the case may be. 
+
+
+4. The arbitral tribunal shall settle the dispute in accordance with the provisions of this Agreement and the customary rules of interpretation of public international  law. 
+
+
+5. Unless otherwise specified in this Agreement or agreed between the parties to the dispute, the Optional Rules for Arbitrating Disputes between Two States of the Permanent Court of Arbitration (PCA), effective 20 October 1992, shall apply. 
+
+
+6. A Party that is not a party to the dispute, on delivery of a written notice to the disputing Parties, shall be entitled to receive written submissions of the disputing Parties and attend all hearings.  
+
+
+7. The arbitral tribunal shall take its decisions by majority vote. 
+
+
+8. The expenses of the arbitral tribunal, including the remuneration of its members, shall normally be borne by the parties to the dispute in equal shares.  The arbitral tribunal may, however, at its discretion decide that a higher proportion of the expenses be paid by one of the parties to the dispute.  Fees and expenses payable to members of an arbitral tribunal will be subject to schedules established by the Joint Committee and in force at the time of the establishment of the arbitral tribunal.</article>
+    </chapter>
+    <chapter number="CHAPTER IX" name="Final Provisions" chapter_identifier="177">
+      <article number="ARTICLE 35" name="Evolutionary Clause" article_identifier="1438">1. The Parties undertake to review this Agreement in light of further developments in international economic relations, i.a. in the framework of the WTO, and to examine in this context and in the light of any relevant factor the possibility of further developing and deepening the co-operation under this Agreement and to extend it to areas not covered therein. The Parties may instruct the Joint Committee to examine this possibility and, where appropriate, to make recommendations to them, particularly with a view to opening up negotiations. 
+
+
+2. Agreements resulting from the procedure referred to in paragraph 1 will be subject to ratification or approval by the Parties in accordance with their own procedures.</article>
+      <article number="ARTICLE 36" name="Annexes And Protocols" article_identifier="1439">1. The Annexes and the Protocols to this Agreement are an integral part of it. The Joint Committee may decide to amend the Annexes and Protocols.  
+
+
+2. The Annexes and Protocols to this Agreement are the following: 
+Annex I Territorial application Annex II Products not covered by the Agreement Annex III Fish and other marine products Annex IV Customs duties on imports and charges having equivalent effect Annex V Protection of intellectual property Protocol A Processed agricultural products Protocol B Rules of origin Protocol C State Monopolies</article>
+      <article number="ARTICLE 37" name="Amendments" article_identifier="1440">1. Amendments to this Agreement other than those referred to in Article 36 shall, after approval by the Joint Committee, be submitted to the Parties for ratification, acceptance or approval. 
+
+
+2. Unless otherwise agreed by the Parties, amendments shall enter into force on the first day of the third month following the deposit of the last instrument of ratification, acceptance or approval. 
+
+
+3. The text of the amendments shall be deposited with the Depositary.</article>
+      <article number="ARTICLE 38" name="Customs Unions, Free Trade Areas, Frontier Trade And Other Preferential Agreements" article_identifier="1441">This Agreement shall not prevent the maintenance or establishment of customs unions, free trade areas, arrangements for frontier trade and other preferential agreements to the extent that these do not negatively affect the trade regime provided for by this Agreement.</article>
+      <article number="ARTICLE 39" name="Accession" article_identifier="1442">1. Any State, Member of the European Free Trade Association, may accede to this Agreement, provided that the Joint Committee decides to approve its accession, on terms and conditions to be negotiated between the acceding State and the Parties concerned. The instrument of accession shall be deposited with the Depositary. 
+
+
+2. In relation to an acceding State, this Agreement shall enter into force on the first day of the third month following the deposit of its instrument of accession.</article>
+      <article number="ARTICLE 40" name="Withdrawal And Expiration" article_identifier="1443">1. Each Party may withdraw from this Agreement by means of a written notification to the Depositary.  The withdrawal shall take effect six months after the date on which the notification is received by the Depositary. 
+
+
+2. If Lebanon withdraws, this Agreement shall expire at the end of the notice period. 
+
+
+3. Any EFTA State which withdraws from the Convention establishing the European Free Trade Association shall ipso facto on the same day as the withdrawal takes effect cease to be a Party to this Agreement.</article>
+      <article number="ARTICLE 41" name="Entry Into Force" article_identifier="1444">1. This Agreement is subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Depositary. 
+
+
+2. This Agreement shall enter into force on 1 January 2005 in relation to those Signatory States which by then have ratified the Agreement, provided they have deposited their instruments of ratification or acceptance with the Depositary at least two months before the entry into force, and provided that Lebanon is among the States that have deposited their instruments of ratification or acceptance. 
+
+
+3. In case this Agreement does not enter into force on 1 January 2005 it shall enter into force on the first day of the third month following the latter date on which Lebanon and at least one EFTA State have deposited their instruments of ratification. 
+
+
+4. In relation to an EFTA State depositing its instrument of ratification, after this Agreement has entered into force, the Agreement shall enter into force on the first day of the third month following the deposit of its instrument. 
+
+
+5. If its constitutional requirements permit, any EFTA State may apply this Agreement provisionally. Provisional application of this Agreement under this paragraph shall be notified to the Depositary. 
+ARTICLE 42</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="178">
+      <article article_identifier="1445">IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement. 
+
+Done at Montreux, this 24th day of June 2004, in a single original in the English language, which shall be deposited with the Government of Norway. The Depositary shall transmit certified copies to all Signatory States. 
+
+For the Republic of Iceland For the Republic of Lebanon 
+
+........................................................... ....................................................... 
+
+
+For the Principality of Liechtenstein 
+
+.......................................................... 
+
+
+For the Kingdom of Norway 
+
+.......................................................... 
+
+
+For the Swiss Confederation 
+
+..........................................................</article>
+    </chapter>
+  </body>
+</treaty>

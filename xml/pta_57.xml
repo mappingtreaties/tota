@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Lebanon</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>63</wto_rta_id>
+    <treaty_identifier>57</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2002-06-17</date_signed>
+    <date_into_force>2003-03-01</date_into_force>
+    <date_notification>2003-05-26</date_notification>
+    <end_implementation>2015-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">LBN</partyisocode>
+      <partyisocode n="13">LUX</partyisocode>
+      <partyisocode n="14">NLD</partyisocode>
+      <partyisocode n="15">PRT</partyisocode>
+      <partyisocode n="16">SWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LBN</partyisocode>
+      <partyisocode n="19">LTU</partyisocode>
+      <partyisocode n="20">LUX</partyisocode>
+      <partyisocode n="21">LVA</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe; Middle East</region>
+    <parties_wto>No</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390329142&amp;uri=CELEX:22002A0930(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22002A0930(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:22002A0930(01)</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390329142&amp;uri=CELEX:22002A0930(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390329142&amp;uri=CELEX:22002A0930(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399390329142&amp;uri=CELEX:22002A0930(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="788">
+      <article article_identifier="6782">Interim Agreement
+
+  on trade and trade-related matters between the European Community, of
+  the one part, and the Republic of Lebanon, of the other part
+
+  THE EUROPEAN COMMUNITY, hereinafter referred to as the
+  "Community",
+
+  of the one part, and
+
+  THE REPUBLIC OF LEBANON, hereinafter referred to as
+  "Lebanon",
+
+  of the other part,
+
+  WHEREAS the Euro-Mediterranean Agreement establishing an Association
+  between the European Community and its Member States, of the one part,
+  and the Republic of Lebanon, of the other part, was signed at
+  Luxembourg on 17 June 2002,
+
+  WHEREAS the Euro-Mediterranean Association Agreement is intended to
+  strengthen and widen relations between the Community and its Member
+  States and Lebanon established by the existing Cooperation Agreement
+  of 1977,
+
+  WHEREAS it is in the mutual interest of the Parties to implement as
+  speedily as possible, by means of an Interim Agreement, the provisions
+  of the Association Agreement on trade and trade-related matters,
+
+  WHEREAS it is necessary to ensure that, pending the entry into force
+  of the Association Agreement and the establishment of the Association
+  Council, the Cooperation Council set up by the existing Cooperation
+  Agreement of 1977 exercise the powers assigned by the Association
+  Agreement to the Association Council, which are necessary in order to
+  implement the Interim Agreement,
+
+  HAVE DECIDED to conclude this Agreement and to this end have
+  designated as their plenipotentiaries:
+
+  THE EUROPEAN COMMUNITY
+
+  Josep Piqué I Camps
+
+  Minister of Foreign Affairs of the Kingdom of Spain
+
+  President-in-Office of the Council of the European Union
+
+  Chris Patten
+
+  Member of the Commission of the European Communities
+
+  LEBANON
+
+  Mahmoud Hammoud
+
+  Minister of Foreign Affairs and Emigrants
+
+  WHO, having exchanged their full powers, found in good and due form,
+
+  HAVE AGREED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="TITLE I" name="General Principles" chapter_identifier="789">
+      <article number="ARTICLE 1" article_identifier="6783">Relations between the Parties, as well as all the provisions of this
+  Agreement itself, shall be based on respect of democratic principles
+  and fundamental human rights as set out in the Universal Declaration
+  on Human Rights, which guides their internal and international policy
+  and constitutes an essential element of this Agreement.
+
+  FREE MOVEMENT OF GOODS</article>
+      <article number="ARTICLE 2" article_identifier="6784">The Community and Lebanon shall gradually establish a free trade area
+  over a transitional period not exceeding 12 years from the entry into
+  force of this Agreement according to the modalities set out in this
+  title and in conformity with the provisions of the General Agreement
+  on Tariffs and Trade of 1994 and of the other multilateral agreements
+  on trade in goods annexed to the Agreement establishing the World
+  Trade Organisation (WTO), hereinafter referred to as the GATT.</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Industrial Products" chapter_identifier="790">
+      <article number="ARTICLE 3" article_identifier="6785">The provisions of this Chapter shall apply to products originating in
+  the Community and Lebanon falling within Chapters 25 to 97 of the
+  Combined Nomenclature and of the Lebanese customs tariff with the
+  exception of the products listed in Annex 1.</article>
+      <article number="ARTICLE 4" article_identifier="6786">Imports into the Community of products originating in Lebanon shall be
+  allowed free of customs duties and of any other charge having
+  equivalent effect.</article>
+      <article number="ARTICLE 5" article_identifier="6787">1. Customs duties and charges having equivalent effect applicable on
+  import into Lebanon of products originating in the Community shall be
+  progressively abolished in accordance with the following schedule:
+
+  - five years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 88 % of the basic rate,
+
+  - six years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 76 % of the basic rate,
+
+  - seven years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 64 % of the basic rate,
+
+  - eight years after the date of entry into force of this Agreement
+  each duty and charge shall be reduced to 52 % of the basic rate,
+
+  - nine years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 40 % of the basic rate,
+
+  - 10 years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 28 % of the basic rate,
+
+  - 11 years after the date of entry into force of this Agreement each
+  duty and charge shall be reduced to 16 % of the basic rate,
+
+  - 12 years after the date of entry into force of this Agreement the
+  remaining duties and charges shall be abolished.
+
+  2. In the event of serious difficulties for a given product, the
+  schedule applicable under paragraph 1 above may be reviewed by the
+  Cooperation Council by common accord on the understanding that the
+  schedule for which the review has been requested may not be extended
+  in respect of the product concerned beyond the maximum transitional
+  period of 12 years. If the Cooperation Council has not taken a
+  decision within 30 days of an application by Lebanon to review the
+  schedule, Lebanon may suspend the schedule provisionally for a period
+  which may not exceed one year.
+
+  3. For each product concerned, the basic duty to be gradually reduced
+  as provided in paragraph 1 shall be the rates referred to in Article
+  15.</article>
+      <article number="ARTICLE 6" article_identifier="6788">The provisions concerning the abolition of customs duties on imports
+  shall also apply to customs duties of a fiscal nature.</article>
+      <article number="ARTICLE 7" article_identifier="6789">1. Exceptional measures of limited duration which derogate from the
+  provisions of Article 5 may be taken by Lebanon in the form of an
+  increase or reintroduction of customs duties.
+
+  2. These measures may only concern new and infant industries, or
+  sectors undergoing restructuring or facing serious difficulties,
+  particularly where these difficulties entail major social problems.
+
+  3. Customs duties on imports into Lebanon of products originating in
+  the Community that are introduced by such exceptional measures may not
+  exceed 25 % ad valorem and shall maintain an element of preference for
+  products originating in the Community. The total value of imports of
+  the products which are subject to these measures may not exceed 20 %
+  of the yearly average of total imports of industrial products from the
+  Community during the last three years for which statistics are
+  available.
+
+  4. These measures shall be applied for a period not exceeding five
+  years unless a longer duration is authorised by the Cooperation
+  Council. They shall cease to apply at the latest on the expiry of the
+  maximum transitional period of 123 years.
+
+  5. No such measures can be introduced in respect of a product if more
+  than three years have elapsed since the elimination of all duties and
+  quantitative restrictions or charges or measures having equivalent
+  effect concerning that product.
+
+  6. Lebanon shall inform the Cooperation Council of any exceptional
+  measures it intends to adopt and, at the request of the Community,
+  consultations shall be held on the measures and sectors concerned
+  before they are implemented. When adopting such measures Lebanon shall
+  provide the Cooperation Council with a schedule for the elimination of
+  the customs duties introduced under this Article. This schedule shall
+  provide for a phasing-out of these duties in equal annual instalments
+  starting no later than the end of the second year following their
+  introduction. The Cooperation Council may decide on a different
+  schedule.
+
+  7. By way of derogation from provisions of paragraph 4, the
+  Cooperation Council may exceptionally, to take account of the
+  difficulties involved in setting up new industries, endorse the
+  measures already taken by Lebanon pursuant to paragraph 1 for a
+  maximum period of three years beyond the 12 year transitional period.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Agricultural, Fisheries And Processed Agricultural Products" chapter_identifier="791">
+      <article number="ARTICLE 8" article_identifier="6790">The provisions of this Chapter shall apply to products originating in
+  the Community and Lebanon falling within Chapters 1 to 24 of the
+  Combined Nomenclature and of the Lebanese customs tariff and to the
+  products listed in Annex 1.</article>
+      <article number="ARTICLE 9" article_identifier="6791">The Community and Lebanon shall progressively establish a greater
+  liberalisation of their trade in agricultural, fisheries and processed
+  agricultural products, of interest to both parties.</article>
+      <article number="ARTICLE 10" article_identifier="6792">1. Agricultural products originating in Lebanon listed in Protocol 1
+  on importation into the Community shall be subject to the arrangement
+  set out in that Protocol.
+
+  2. Agricultural products originating in the Community listed in
+  Protocol 2 on importation into Lebanon shall be subject to the
+  arrangement set out in that Protocol.
+
+  3. Trade in processed agricultural products falling under this chapter
+  shall be subject to the arrangements set out in Protocol 3.</article>
+      <article number="ARTICLE 11" article_identifier="6793">1. Five years after the entry into force of this Agreement, the
+  Community and Lebanon shall assess the situation in order to determine
+  measures to be applied by the Community and Lebanon one year following
+  the revision of this Agreement, in accordance with the objective set
+  out in Article 9.
+
+  2. Without prejudice to the provisions of paragraph 1 and taking
+  account of the volume of trade in agricultural, fisheries and
+  processed agricultural products between the two Parties and the
+  particular sensitivity of such products, the Community and Lebanon
+  shall examine on a regular basis in the Cooperation Council, product
+  by product and on an orderly and reciprocal basis, the possibility of
+  granting each other further concessions.</article>
+      <article number="ARTICLE 12" article_identifier="6794">1. In the event of specific rules being introduced as a result of the
+  implementation of its agricultural policy or of any alteration of the
+  current rules or in the event of any alteration or extension of the
+  provisions relating to the implementation of its agricultural policy,
+  the Party concerned may amend the arrangements resulting from the
+  Agreement in respect of the products concerned.
+
+  2. The Party carrying out such modification shall inform the
+  Cooperation Council thereof. At the request of the other Party, the
+  Cooperation Council shall meet to take due account of the interest of
+  the other Party.
+
+  3. If the Community or Lebanon, in applying paragraph 1, modifies the
+  arrangements made by this Agreement for agricultural products, they
+  shall accord imports originating in the other Party an advantage
+  comparable to that provided for in this Agreement.
+
+  4. Any modification of the arrangements made by this Agreement shall
+  be the subject, at the request of the other Party, of consultations
+  within the Cooperation Council.</article>
+      <article number="ARTICLE 13" article_identifier="6795">1. Both Parties agree to cooperate to reduce the potential for fraud
+  in the application of the trade provisions of this Agreement.
+
+  2. Notwithstanding other provisions of this Agreement, where one Party
+  finds that there is sufficient evidence of fraud such as a significant
+  increase in trade products by one party to the other party, beyond the
+  level reflecting economic conditions such as normal production and
+  export capacities, or failure to provide administrative cooperation as
+  required for the verification of evidence of origin by the other
+  Party, both Parties shall enter into consultations immediately to find
+  an appropriate solution. Pending such a solution, the Party concerned
+  may take the appropriate measures it deems necessary. In the selection
+  of the measure priority must be given to those which least disturb the
+  functioning of the arrangements established in this Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Common Provisions" chapter_identifier="792">
+      <article number="ARTICLE 14" article_identifier="6796">1. No new customs duties on imports or exports or charges having
+  equivalent effect shall be introduced in trade between the Community
+  and Lebanon, nor shall those already applied upon entry into force of
+  this Agreement be increased unless this Agreement provides otherwise.
+
+  2. No new quantitative restriction on imports or measure having
+  equivalent effect shall be introduced in trade between the Community
+  and Lebanon.
+
+  3. Quantitative restrictions on imports and measures having equivalent
+  effect in trade between Lebanon and the Community shall be abolished
+  upon the entry into force of this Agreement.
+
+  4. Neither the Community nor Lebanon shall apply to exports between
+  themselves either customs duties or charges having equivalent effect,
+  or quantitative restrictions or measures of equivalent effect.</article>
+      <article number="ARTICLE 15" article_identifier="6797">1. For each product the basic rate to which the successive reductions
+  laid down in Article 5(1) are to be applied shall be that actually
+  applied vis-à-vis the Community on the day of conclusion of the
+  negotiations.
+
+  2. In the event of the accession of Lebanon to the WTO, the applicable
+  rates for imports between the Parties shall be the WTO bound rate or
+  lower effectively applied rate enforced as of the date of the
+  accession. If, after the accession to the WTO, a tariff reduction is
+  applied on an erga omnes basis, the reduced rate shall apply.
+
+  3. The provision laid down in paragraph 2 is of application for any
+  tariff reduction applied after the day of conclusion of the
+  negotiations on an erga omnes basis.
+
+  4. The Parties shall communicate to each other their respective
+  applied rates on the day of conclusion of the negotiations.</article>
+      <article number="ARTICLE 16" article_identifier="6798">Products originating in Lebanon shall not enjoy more favourable
+  treatment when imported into the Community than that applied by Member
+  States among themselves.</article>
+      <article number="ARTICLE 17" article_identifier="6799">1. The Parties shall refrain from any measure or practice of an
+  internal fiscal nature establishing, whether directly or indirectly,
+  discrimination between the products of one Party and like products
+  originating in the territory of the other Party.
+
+  2. Products exported to the territory of one of the Parties may not
+  benefit from repayment of indirect internal taxation in excess of the
+  amount of indirect taxation imposed on them either directly or
+  indirectly.</article>
+      <article number="ARTICLE 18" article_identifier="6800">1. This Agreement shall not preclude the maintenance or establishment
+  of customs unions, free trade areas or arrangements for frontier trade
+  except in so far as they alter the trade arrangements provided for in
+  this Agreement.
+
+  2. Consultations between the Parties shall take place within the
+  Cooperation Council concerning agreements establishing such customs
+  unions or free trade areas and, where requested, on other major issues
+  related to their respective trade policies with third countries. In
+  particular, in the event of a third country acceding to the Community,
+  such consultations shall take place so as to ensure that account can
+  be taken of the mutual interests of the Community and Lebanon.</article>
+      <article number="ARTICLE 19" article_identifier="6801">If one of the Parties finds that dumping is taking place in trade with
+  the other Party in line with prevailing international rules as defined
+  in Article VI of the General Agreement on Tariffs and Trade (GATT)
+  1994 and related internal legislation, it may take appropriate
+  measures against this practice in accordance with the WTO Agreement on
+  the implementation of Article VI of the GATT 1994 and related internal
+  legislation.</article>
+      <article number="ARTICLE 20" article_identifier="6802">1. Without prejudice to Article 27, the WTO Agreement on Subsidies and
+  Countervailing Measures shall apply between the Parties.
+
+  2. Until the necessary rules referred to in Article 27(2) are adopted,
+  if either Party finds that subsidy is taking place in trade with the
+  other Party in line with prevailing international rules as defined in
+  Articles VI and XVI of the General Agreement on Tariffs and Trade
+  (GATT) 1994 and related internal legislation, it may invoke
+  appropriate measures against this practice in accordance with those
+  rules as defined by the WTO Agreement on Subsidies and Countervailing
+  Measures and related internal legislation.</article>
+      <article number="ARTICLE 21" article_identifier="6803">1. The provisions of Article XIX of the GATT 1994 and the WTO
+  Agreement on Safeguards and related internal legislation are
+  applicable between the Parties.
+
+  2. Before applying safeguard measures as defined by international
+  rules, the Party intending to apply such measures shall supply the
+  Cooperation Council with all relevant information required for a
+  thorough examination of the situation with a view to seeking a
+  solution acceptable to the Parties.
+
+  In order to find such a solution the Parties shall immediately hold
+  consultations within the Cooperation Council. If, as a result of the
+  consultations, the Parties do not reach an agreement within 30 days of
+  the initiation of the consultations on a solution to avoid the
+  application of the safeguard measures, the Party intending to apply
+  safeguard measures may apply the provisions of Article XIX of the GATT
+  1994 and the WTO Agreement on Safeguards.
+
+  3. In the selection of safeguard measures pursuant to this article,
+  the Parties shall give priority to those, which cause least
+  disturbance to the achievement of the objectives of this Agreement.
+
+  4. Safeguard measures shall be notified immediately to the Cooperation
+  Council and shall be the subject of periodic consultations within the
+  Cooperation Council, particularly with a view to their abolition as
+  soon as circumstances permit.</article>
+      <article number="ARTICLE 22" article_identifier="6804">1. Where compliance with the provisions of Article 14(4) leads to:
+
+  (a) re-export to a third country against which the exporting Party
+  maintains, for the product concerned, quantitative export
+  restrictions, export duties or measures or charges having equivalent
+  effect; or
+
+  (b) a serious shortage, or threat thereof, of a product essential to
+  the exporting Party;
+
+  and where the situations referred to above give rise, or are likely to
+  give rise, to major difficulties for the exporting Party, that Party
+  may take appropriate measures under the conditions and in accordance
+  with the procedures laid down in paragraph 2.
+
+  2. The difficulties arising from the situations referred to in
+  paragraph 1 shall be submitted for examination to the Cooperation
+  Council. The Cooperation Council may take any decision needed to put
+  an end to the difficulties. If it has not taken such a decision within
+  30 days of the matter being referred to it, the exporting party may
+  apply appropriate measures on the exportation of the product
+  concerned. The measures shall be non-discriminatory and shall be
+  eliminated when conditions no longer justify their maintenance.</article>
+      <article number="ARTICLE 23" article_identifier="6805">Nothing in this Agreement shall preclude prohibitions or restrictions
+  on imports, exports or goods in transit justified on grounds of public
+  morality, public policy or public security; of the protection of
+  health and life of humans, animals or plants; of the protection of
+  national treasures of artistic, historic or archaeological value; of
+  the protection of intellectual, industrial and commercial property; of
+  rules relating to gold and silver and conservation of exhaustible
+  natural resources. Such prohibitions or restrictions shall not,
+  however, constitute a means of arbitrary discrimination or a disguised
+  restriction on trade between the Parties.</article>
+      <article number="ARTICLE 24" article_identifier="6806">The concept of "originating products" for the application of
+  the provisions of the present title and the methods of administrative
+  cooperation relating thereto are laid down in Protocol 4.</article>
+      <article number="ARTICLE 25" article_identifier="6807">The Combined Nomenclature of goods shall be applied to the
+  classification of goods for imports into the Community. The Lebanese
+  customs tariff shall be applied to the classification of goods for
+  imports into Lebanon.</article>
+      <article number="ARTICLE 26" article_identifier="6808">Where one or several Member States of the Community or Lebanon face or
+  risk facing serious difficulties concerning balance of payments, the
+  Community or Lebanon respectively may, in conformity with the
+  conditions laid down within the framework of the GATT and Articles
+  VIII and XIV of the Statutes of the International Monetary Fund, take
+  restrictive measures with regard to current payments if such measures
+  are strictly necessary. The Community or Lebanon, as appropriate,
+  shall inform the other Party immediately thereof and shall provide as
+  soon as possible a timetable for the removal of such measures.
+
+  TRADE-RELATED PROVISIONS</article>
+    </chapter>
+    <chapter number="CHAPTER 1" name="Competition" chapter_identifier="793">
+      <article number="ARTICLE 27" article_identifier="6809">1. The following are incompatible with the proper functioning of this
+  Agreement, in so far as they may affect trade between the Community
+  and Lebanon:
+
+  (a) all agreements between undertakings, decisions by associations of
+  undertakings and concerted practices between undertakings which have
+  as their object or effect the prevention, restriction or distortion of
+  competition, as defined by their respective legislation;
+
+  (b) abuse by one or more undertakings of a dominant position in the
+  territories of the Community or Lebanon as a whole or in a substantial
+  part thereof, as defined by their respective legislation.
+
+  2. The Parties will enforce their respective competition legislation
+  and shall exchange information taking into account the limitations
+  imposed by the requirements of confidentiality. The necessary rules
+  for cooperation in order to implement paragraph 1 shall be adopted by
+  the Cooperation Council within five years of entry into force of this
+  Agreement.
+
+  3. If the Community or Lebanon considers that a particular practice is
+  incompatible with the terms of paragraph 1 of this Article, and if
+  such practice causes or threatens to cause serious prejudice to the
+  other Party, it may take appropriate measures after consultation
+  within the Cooperation Council or after 30 working days following
+  referral for such consultation.</article>
+      <article number="ARTICLE 28" article_identifier="6810">The Member States and Lebanon shall progressively adjust, without
+  prejudice to their commitments respectively taken or to be taken under
+  the GATT, any State monopolies of a commercial character, so as to
+  ensure that, by the end of the fifth year following the entry into
+  force of this Agreement, no discrimination regarding the conditions
+  under which goods are procured and marketed exists between nationals
+  of the Member States and of Lebanon. The Cooperation Council will be
+  informed about the measures adopted to implement this objective.</article>
+      <article number="ARTICLE 29" article_identifier="6811">With regard to public enterprises and enterprises to which special or
+  exclusive rights have been granted, the Cooperation Council shall
+  ensure that as from the fifth year following the date of entry into
+  force of this Agreement there is neither enacted nor maintained any
+  measure distorting trade between the Community and Lebanon to an
+  extent contrary to the Parties' interests. This provision should not
+  obstruct the performance in law or in fact of the particular tasks
+  assigned to these enterprises.</article>
+    </chapter>
+    <chapter number="CHAPTER 2" name="Intellectual, Industrial And Commercial Property" chapter_identifier="794">
+      <article number="ARTICLE 30" article_identifier="6812">1. Pursuant to the provisions of this Article and of Annex 2, the
+  Parties shall ensure adequate and effective protection of
+  intellectual, industrial and commercial property rights in conformity
+  with the highest international standards, including effective means of
+  enforcing such rights.
+
+  2. The implementation of this Article and of Annex 2 shall be
+  regularly reviewed by the Parties. If problems in the area of
+  intellectual property protection affecting trading conditions occur,
+  urgent consultations shall be undertaken, at the request of either
+  Party, with a view to reaching mutually satisfactory solutions.</article>
+    </chapter>
+    <chapter number="CHAPTER 3" name="Customs Cooperation" chapter_identifier="795">
+      <article number="ARTICLE 31" article_identifier="6813">1. The Parties shall develop customs cooperation to ensure that the
+  provisions on trade are observed. For this purpose they shall
+  establish a dialogue on customs matters.
+
+  2. Cooperation shall focus on the simplification of controls and
+  procedures concerning the customs clearance of goods, and shall take
+  the form of exchange of information among experts and vocational
+  training.
+
+  3. Mutual assistance between administrative authorities in customs
+  matters shall take place in accordance with the provisions of Protocol
+  5.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Institutional, General And Final Provisions" chapter_identifier="796">
+      <article number="ARTICLE 32" article_identifier="6814">The Cooperation Council set up by the Agreement between the European
+  Economic Community and the Republic of Lebanon signed on 3 May 1977
+  shall perform duties assigned to it until the Association Council and
+  the Association Committee provided for in Articles 74 and 77
+  respectively of the Association Agreement are established.</article>
+      <article number="ARTICLE 33" article_identifier="6815">1. The Cooperation Council shall consist of the members of the Council
+  of the European Union and members of the Commission of the European
+  Communities, on the one hand, and of members of the Government of
+  Lebanon, on the other.
+
+  2. Members of the Cooperation Council may arrange to be represented,
+  in accordance with the provisions laid down in its Rules of Procedure.
+
+  3. The Cooperation Council shall establish its Rules of Procedure.
+
+  4. The Cooperation Council shall be chaired in turn by a member of the
+  Council of the European Union and a member of the Government of
+  Lebanon in accordance with the provisions laid down in its Rules of
+  Procedure.</article>
+      <article number="ARTICLE 34" article_identifier="6816">1. Each of the Parties may refer to the Cooperation Council any
+  dispute relating to the application or interpretation of this
+  Agreement.
+
+  2. The Cooperation Council may settle the dispute by means of a
+  decision.
+
+  3. Each Party shall be bound to take the measures involved in carrying
+  out the decision referred to in paragraph 2.
+
+  4. In the event of it not being possible to settle the dispute in
+  accordance with paragraph 2, either Party may notify the other of the
+  appointment of an arbitrator; the other Party must then appoint a
+  second arbitrator within two months. For the application of this
+  procedure, the Community and the Member States shall be deemed to be
+  one Party to the dispute.
+
+  The Cooperation Council shall appoint a third arbitrator.
+
+  The arbitrators' decisions shall be taken by majority vote.
+
+  Each party to the dispute must take the steps required to implement
+  the decision of the arbitrators.</article>
+      <article number="ARTICLE 35" article_identifier="6817">Nothing in this Agreement shall prevent a Party from taking any
+  measures:
+
+  (a) which it considers necessary to prevent the disclosure of
+  information contrary to its essential security interests;
+
+  (b) which relate to the production of, or trade in, arms, munitions or
+  war materials or to research, development or production indispensable
+  for defence purposes, provided that such measures do not impair the
+  conditions of competition in respect of products not intended for
+  specifically military purposes;
+
+  (c) which it considers essential to its own security in the event of
+  serious internal disturbances affecting the maintenance of law and
+  order, in time of war or serious international tension constituting
+  threat of war or in order to carry out obligations it has accepted for
+  the purpose of maintaining peace and international security.</article>
+      <article number="ARTICLE 36" article_identifier="6818">1. In the fields covered by this Agreement and without prejudice to
+  any special provisions contained therein:
+
+  (a) the arrangements applied by Lebanon in respect of the Community
+  shall not give rise to any discrimination between the Member States,
+  their nationals, companies or firms;
+
+  (b) the arrangements applied by the Community in respect of Lebanon
+  shall not give rise to any discrimination between Lebanese nationals,
+  companies or firms.
+
+  2. The provisions of paragraph 1 shall be without prejudice to the
+  right of the Parties to apply the relevant provisions of their fiscal
+  legislation to taxpayers who are not in identical situations as
+  regards their place of residence.</article>
+      <article number="ARTICLE 37" article_identifier="6819">1. The Parties shall take any general or specific measures required to
+  fulfil their obligations under the Agreement. They shall see to it
+  that the objectives set out in this Agreement are attained.
+
+  2. If either Party considers that the other Party has failed to fulfil
+  an obligation under this Agreement, it may take appropriate measures.
+  Before so doing, except in cases of special urgency, it shall supply
+  the Cooperation Council with all the relevant information required for
+  a thorough examination of the situation with a view to seeking a
+  solution acceptable to the Parties.
+
+  3. In the selection of the appropriate measures referred to in
+  paragraph 2, priority must be given to those which least disturb the
+  functioning of this Agreement. The Parties also agree that these
+  measures shall be taken in accordance with international law and shall
+  be proportional to the violation.
+
+  These measures shall be notified immediately to the Cooperation
+  Council and shall be the subject of consultations within the
+  Cooperation Council if the other Party so requests.</article>
+      <article number="ARTICLE 38" article_identifier="6820">Annexes 1 and 2 and Protocols 1 to 5 shall form an integral part of
+  this Agreement.</article>
+      <article number="ARTICLE 39" article_identifier="6821">1. This Agreement shall be applicable until the entry into force of
+  the Association Agreement signed on 17 June 2002.
+
+  2. Either Party may denounce this Agreement by notifying the other
+  Party. This Agreement shall cease to apply six months after the date
+  of such notification.</article>
+      <article number="ARTICLE 40" article_identifier="6822">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Community is applied and
+  under the conditions laid down in that Treaty and, on the other hand,
+  to the territory of Lebanon.</article>
+      <article number="ARTICLE 41" article_identifier="6823">This Agreement is drawn up in duplicate in the Arabic, Danish, Dutch,
+  English, Finnish, French, German, Greek, Italian, Portuguese, Spanish,
+  and Swedish languages, each of these texts being equally authentic. It
+  shall be deposited with the General Secretariat of the Council of the
+  European Union.</article>
+      <article number="ARTICLE 42" article_identifier="6824">1. This Agreement shall be approved by the Parties in accordance with
+  their own procedures.
+
+  2. This Agreement shall enter into force on the first day of the
+  second month following the date on which the Parties notify each other
+  that the procedures referred to in paragraph 1 have been completed.
+
+  3. Upon its entry into force, this Agreement shall replace Articles 8
+  to 28, 30 to 34, 36(1), 37, 40 to 44, 46 to 49 of the Cooperation
+  Agreement between the European Economic Community and the Republic of
+  Lebanon, including its Protocol 2, and Annexes A, B and C, and the
+  Agreement between the Member States of the European Coal and Steel
+  Community and Lebanon, signed in Brussels on 3 May 1977.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="797">
+      <article article_identifier="6825">Hecho en Luxemburgo, el diecisiete de junio de dos mil dos./Udfærdiget
+  i Luxembourg den syttende juni to tusind og to./Geschehen zu Luxemburg
+  am siebzehnten Juni zweitausendzwei./Έγινε στο Λουξεμβούργο, στις δέκα
+  εφτά Ιουνίου δύο χιλιάδες δύο./Done at Luxembourg, on the seventeenth
+  day of June in the year two thousand and two./Fait à Luxembourg, le
+  dix-sept juin deux mille deux./Fatto a Lussemburgo, addì diciassette
+  giugno duemiladue./Gedaan te Luxemburg, de zeventiende juni
+  tweeduizend en twee./Feito no Luxemburgo, em dezeassete de Junho de
+  dois mil e dois./Tehty Luxemburgissa seitsemäntenätoista päivänä
+  kesäkuuta vuonna kaksituhattakaksi./Som skedde i Luxemburg den
+  sjuttonde juni tjugohundratvå./</article>
+    </chapter>
+  </body>
+</treaty>

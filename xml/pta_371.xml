@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EFTA - SACU</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>621</wto_rta_id>
+    <treaty_identifier>371</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2006-06-26</date_signed>
+    <date_into_force>2008-05-01</date_into_force>
+    <date_notification>2008-10-29</date_notification>
+    <end_implementation>2015-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">BWA</partyisocode>
+      <partyisocode n="2">CHE</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">LSO</partyisocode>
+      <partyisocode n="6">NAM</partyisocode>
+      <partyisocode n="7">NOR</partyisocode>
+      <partyisocode n="8">SWZ</partyisocode>
+      <partyisocode n="9">ZAF</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">BWA</partyisocode>
+      <partyisocode n="2">CHE</partyisocode>
+      <partyisocode n="3">ISL</partyisocode>
+      <partyisocode n="4">LIE</partyisocode>
+      <partyisocode n="5">LSO</partyisocode>
+      <partyisocode n="6">NAM</partyisocode>
+      <partyisocode n="7">NOR</partyisocode>
+      <partyisocode n="8">SWZ</partyisocode>
+      <partyisocode n="9">ZAF</partyisocode>
+    </parties>
+    <composition>Bilateral; All Parties are RTAs</composition>
+    <region>Africa; Europe</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <language>en</language>
+    <source lang="en" type="full text">http://www.efta.int/~/media/Documents/legal-texts/free-trade-relations/southern-african-customs-union-SACU/EFTA-SACU Free Trade Agreement.pdf</source>
+    <source lang="en" type="annex">http://www.efta.int/free-trade/free-trade-agreements/sacu.aspx</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="588">
+      <article article_identifier="28166">FREE TRADE AGREEMENT 
+
+
+BETWEEN 
+
+
+THE EFTA STATES 
+
+
+AND 
+
+
+THE SACU STATES 
+
+
+PREAMBLE  
+
+
+The Republic of Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the Swiss Confederation, Members of the European Free Trade Association (hereinafter referred to as “the EFTA States”), 
+
+and 
+
+the Republic of Botswana, the Kingdom of Lesotho, the Republic of Namibia, the Republic of South Africa and the Kingdom of Swaziland, together forming the Southern African Customs Union (hereinafter referred to jointly as “SACU” or severally as “the SACU States”), 
+
+hereinafter collectively referred to as “the Parties”, 
+
+CONSIDERING that the EFTA States and the SACU States wish to further strengthen their links and to establish close and lasting relations based on partnership and cooperation; 
+
+RECOGNISING the efforts by the governments of the SACU States to further economic and social development for their people and the willingness of the EFTA States to support this process; 
+
+RECALLING the importance attached by the Parties to the principles and rules which govern international trade and to the need to apply them in a transparent and nondiscriminatory manner; 
+
+TAKING ACCOUNT of the Parties’ rights and obligations in terms of their membership of the World Trade Organisation (hereinafter referred to as “the WTO”) and their contribution to the further strengthening of the multilateral trading system; 
+
+RECOGNISING the special needs and interests of the SACU States as developing or least-developed countries and that such needs and interests be taken care of by less than full reciprocity in reduction commitments as referred to in the Doha Development Agenda; 
+
+CONFIRMING the commitment of the Parties to promote regional co-operation and economic integration between the countries of Southern Africa and Europe and to encourage the liberalization of trade between the Parties; 
+
+BEARING IN MIND the Parties’ commitment to ensure that their mutual arrangements do not impede the process of regional integration among the EFTA States on the one hand and the SACU States on the other; 
+
+DESIRING to create new employment opportunities and to improve working conditions and living standards in their respective territories while promoting sustainable development; 
+
+REAFFIRMING their commitment to the principles and objectives set out in the United Nations Charter and the Universal Declaration of Human Rights; and 
+
+CONVINCED that this Agreement will create conditions encouraging economic, trade and investment relations between the Parties; 
+
+HAVE AGREED, in pursuit of the above, to conclude the present Agreement (hereinafter referred to as “this Agreement”):</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="General Provisions" chapter_identifier="589">
+      <article number="ARTICLE 1" name="Objectives" article_identifier="28167">1. The Parties hereby establish a free trade area in accordance with the provisions of this Agreement, which is based on trade relations between market economies. 
+
+
+2. 	The objectives of this Agreement are to:  
+
+
+(a) 	achieve the liberalisation of trade in goods in conformity with the General Agreement on Tariffs and Trade (hereinafter referred to as “the GATT 1994”); 
+
+
+(b) 	substantially increase investment opportunities in the free trade area;  
+
+
+(c) 	promote adequate and effective protection of intellectual property rights; 
+
+
+(d) 	establish a framework for the further development of their trade and economic relations with a view to expanding and enhancing the benefits of this Agreement; and 
+
+
+(e) 	contribute in this way to the harmonious development and expansion of world trade by the removal of barriers to trade.</article>
+      <article number="ARTICLE 2" name="Trade And Economic Relations Governed By This Agreement" article_identifier="28168">The provisions of this Agreement apply to the trade and economic relations between, on the one side, the individual EFTA States and, on the other side, the individual SACU States or, where specifically provided for, the SACU States acting jointly as SACU. In relation to SACU, the meaning to be attributed to “Parties” or “Party” in each case is to be deduced from the relevant provisions of this Agreement and from the respective competencies of SACU and the SACU States as they follow from the SACU Agreement 2002, as amended from time to time. This Agreement applies neither to the trade relations amongst the EFTA States, nor to the trade relations amongst the SACU States.</article>
+      <article number="ARTICLE 3" name="Geographical Scope" article_identifier="28169">1. Without prejudice to Annex V, this Agreement shall apply:  
+
+
+(a) 	to the land territory, internal waters, and the territorial sea of a Party, and the air-space above the territory in accordance with international law; as well as 
+
+
+(b) 	beyond the territorial sea, with respect to measures taken by a Party in the exercise of its sovereign rights or jurisdiction in accordance with international law. 
+2. 	Annex I applies with respect to Norway.</article>
+      <article number="ARTICLE 4" name="Relation To Other International Agreements" article_identifier="28170">1. The Parties confirm their rights and obligations under the Marrakesh Agreement Establishing the World Trade Organization and the other agreements negotiated thereunder (hereinafter referred to as “the WTO Agreement”) to which they are parties and any other international agreement applicable between them. 
+
+
+2. No provision of this Agreement shall be interpreted as exempting the Parties from the obligations which are incumbent on them under other international agreements.</article>
+      <article number="ARTICLE 5" name="Preferential Agreements With Third Countries" article_identifier="28171">This Agreement shall not preclude the maintenance, establishment or enlargement of customs unions, free trade areas, arrangements for frontier trade and other preferential agreements of the Parties to the extent that these do not interfere with the fulfillment of obligations under this Agreement. The Parties shall inform each other in the Joint Committee established in accordance with Article 33 (hereinafter referred to as “the Joint Committee”) about such agreements with third countries.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Trade In Goods" chapter_identifier="590">
+      <article number="ARTICLE 6" name="Scope" article_identifier="28172">1. This Chapter shall apply to: 
+
+
+(a) 	products falling within Chapters 25 to 98 of the Harmonized Commodity Description and Coding System (HS), except as provided for in Annex II; 
+
+
+(b) 	products specified in Annex III, with due regard to the arrangements provided for in that Annex; and 
+
+
+(c) 	fish and other marine products as provided for in Annex IV, 
+originating in an EFTA State or in SACU in accordance with the rules of origin set out in Annex V. 
+
+2. SACU and each EFTA State have concluded agreements on trade in agricultural products on a bilateral basis. These agreements form part of the instruments establishing the free trade area between the EFTA States and SACU.</article>
+      <article number="ARTICLE 7" name="Rules Of Origin And Administrative Co-Operation" article_identifier="28173">1. 	The provisions on rules of origin are set out in Annex V. 
+
+
+2. The provisions on mutual administrative co-operation in customs matters are set out in Annex VI.</article>
+      <article number="ARTICLE 8" name="Customs Duties" article_identifier="28174">1. No new customs duties shall be introduced in trade between the EFTA States and SACU, covered by paragraph 1 of Article 6, except as provided for in this Agreement. 
+
+
+2. The EFTA States shall, on entry into force of this Agreement, abolish all customs duties on imports of originating products from SACU. 
+
+
+3. SACU shall progressively reduce its customs duties on imports of originating products from the EFTA States as provided for in Annexes IV and VII. 
+
+
+4. The Parties shall, on entry into force of this Agreement, eliminate all customs duties on exports to the other Parties, except as provided for in this Agreement. 
+
+
+5. A customs duty includes any duty or charge of any kind imposed in connection with the importation or exportation of a product, including any form of surtax or surcharge, but does not include any charge imposed in conformity with Articles III, VIII and XI of the GATT 1994.</article>
+      <article number="ARTICLE 9" name="Basic Duties" article_identifier="28175">1. For each product the basic duty, to which the successive reductions set out in Annexes IV and VII are to be applied, shall be the most-favoured-nation (hereinafter referred to as “MFN”) rate of duty  applied on 1 July 2003. 
+
+
+2. If before, by or after 1 July 2003 any tariff reduction is applied on an erga omnes basis, in particular reductions in accordance with commitments resulting from multilateral negotiations under the WTO, such reduced duties shall replace the basic duties referred to in paragraph 1 as from the date when such reductions are applied, or from the entry into force of this Agreement if this is later. 
+
+
+3. The reduced duties calculated in accordance with Annexes IV and VII shall be applied rounded to the first decimal place or, in case of specific duties, to the second decimal place. 
+
+
+4. Paragraph 1 shall not apply to the products that are under investigation by the International Trade Administration Commission of South Africa as at 1 July 2003, as listed in Annex VIII, and the products listed in Tables 1 and 2 of Annex VII, categorized as Lists 5 and 6. 
+
+
+5. With the exception of the margin of preference categorized as “motors partial 1” and “motors partial 2” in paragraph 5 of Annex VII, paragraph 2 shall not apply to the products listed in Tables 1 and 2 of Annex VII, categorized as List 5 and 6.</article>
+      <article number="ARTICLE 10" name="Import And Export Restrictions" article_identifier="28176">The rights and obligations of the Parties in respect of export and import restrictions shall be governed by Article XI of the GATT 1994, which is hereby incorporated into and made part of this Agreement.</article>
+      <article number="ARTICLE 11" name="National Treatment" article_identifier="28177">Except as otherwise provided for in this Agreement, the Parties shall apply national treatment in accordance with Article III of the GATT 1994, including its interpretative notes, which is hereby incorporated into and made part of this Agreement.</article>
+      <article number="ARTICLE 12" name="State Trading Enterprises" article_identifier="28178">The rights and obligations of the Parties in respect of state trading enterprises shall be governed by Article XVII of the GATT 1994 and the Understanding on the Interpretation of Article XVII of the GATT 1994, which are hereby incorporated into and made part of this Agreement.</article>
+      <article number="ARTICLE 13" name="Technical Regulations, Standards And Conformity Assessment" article_identifier="28179">1. The rights and obligations of the Parties in respect of technical regulations, standards and conformity assessment shall be governed by the WTO Agreement on Technical Barriers to Trade (hereinafter referred to as “the WTO TBT Agreement”) as well as the decisions and recommendations adopted by the WTO TBT Committee since 1 January 1995. 
+
+
+2. The Parties shall strengthen their co-operation in the field of technical regulations, standards and conformity assessment with a view to increasing the mutual understanding of their systems and facilitating access to their respective markets. To this end, the Parties shall, upon request, exchange information and consider expeditiously any request for co-operation. Co-operation may consist of: 
+a) 	encouraging the application of the WTO TBT Agreement; 
+
+b) 	enhancing regulatory and standard setting practices;  
+
+c) 	promoting international harmonization of technical regulations;  
+
+d) 	reinforcing the role of international standards as a basis for technical regulations including conformity assessment procedures; 
+
+e) 	exchanging information on the variety of mechanisms to facilitate the acceptance of conformity assessment results; 
+
+f) 	promoting the accreditation of conformity assessment bodies on the basis of relevant Standards and Guides of the International Standards Organisation (ISO)/International Electrotechnical Commission (IEC); and 
+
+g) 	identifying and assessing possible instruments for trade facilitation, such as equivalence of technical regulations and mutual recognition of conformity assessment results. 
+
+3. Without prejudice to the rights and obligations of the Parties under the WTO TBT Agreement, the Parties agree to hold consultations in the framework of the Joint Committee to address any matter that may arise from the application of specific technical regulations, standards and conformity assessment procedures if such application has created or is likely to create an obstacle to trade between the Parties, with a view to finding an appropriate solution in conformity with the WTO TBT Agreement.</article>
+      <article number="ARTICLE 14" name="Sanitary And Phytosanitary Measures" article_identifier="28180">1. The rights and obligations of the Parties in respect of sanitary and phytosanitary measures shall be governed by the WTO Agreement on the Application of Sanitary and Phytosanitary Measures (hereinafter referred to as “the WTO SPS Agreement”). 
+
+
+2. The Parties shall strengthen their co-operation in  sanitary and phytosanitary matters with a view to increasing the mutual understanding of their systems and improving access to their markets.  Such co-operation may include expert consultations.  
+
+
+3. If a Party considers that another Party has taken measures which are likely to affect, or have affected, access to its market, expert consultations shall be convened with a view to finding an appropriate solution in conformity with the WTO SPS Agreement. Such consultations can be held both within and outside the framework of the Joint Committee. The Parties shall exchange names and addresses of contact points with sanitary and phytosanitary expertise in order to facilitate communication and the exchange of information. 
+
+
+4. Any agreement between the Parties shall be commensurate with the domestic legislation of the Parties and safeguard the SACU States’ individual and collective sanitary and phytosanitary status. 
+
+
+5. The Parties affirm their support of the standards set by the international bodies that the WTO SPS Agreement recognizes, taking into consideration that not all the SACU States are signatories to the International Plant Protection Convention.</article>
+      <article number="ARTICLE 15" name="Competition" article_identifier="28181">1. The Parties recognise that certain business practices, such as anti-competitive agreements or concerted practices and abuses of dominant positions, may restrict trade between the Parties and thereby hinder the fulfilment of the objectives of this Agreement. 
+
+
+2. A Party which considers that the operation of this Agreement is adversely affected by a practice referred to in paragraph 1 may request the Party or Parties in whose territory such practice originates to co-operate with a view to putting an end to the practice concerned or its adverse effects. Co-operation shall include, to the extent permitted by domestic law, the exchange of information that is available to the Parties in relation to the matter in question. 
+
+
+3. In the event that co-operation between the Parties directly involved according to paragraph 2 does not lead to a solution, the affected Party may request consultations in the Joint Committee with a view to reaching a mutually satisfactory solution.</article>
+      <article number="ARTICLE 16" name="Subsidies" article_identifier="28182">1. The rights and obligations of the Parties relating to subsidies and countervailing measures shall be governed by Articles VI and XVI of the GATT 1994 and the WTO Agreement on Subsidies and Countervailing Measures, except as provided for in paragraph 2. 
+
+
+2. Before an EFTA State or SACU initiates an investigation to determine the existence, degree and effect of any alleged subsidy in a SACU State, or in an EFTA State, as provided for in Article 11 of the Agreement on Subsidies and Countervailing Measures, the Party considering initiating an investigation shall notify in writing the Party whose goods are subject to investigation with a view to finding a mutually acceptable solution within 30 days. Consultations shall take place in the Joint Committee if a Party so requests within ten days from the date of receipt of the notification.</article>
+      <article number="ARTICLE 17" name="Anti-Dumping" article_identifier="28183">1. The rights and obligations of the Parties in respect of the application of anti-dumping measures shall be governed by Article VI of the GATT 1994 and the Agreement on Implementation of Article VI of the GATT 1994. 
+
+
+2. After an EFTA State or SACU receives a properly documented application and before initiation of an investigation under the provisions of the Agreement referred to in paragraph 1, that Party shall notify in writing the Party whose goods are allegedly being dumped and invite such Party to consultations with a view to finding a mutually acceptable solution within 30 days. The outcome of the consultations shall be communicated to the other Parties. Consultations shall take place in the Joint Committee if a Party so requests within ten days from the date of receipt of the notification.</article>
+      <article number="ARTICLE 18" name="Global Safeguard Measures" article_identifier="28184">The Parties confirm their rights and obligations under Article XIX of the GATT 1994 and the WTO Agreement on Safeguards.</article>
+      <article number="ARTICLE 19" name="Emergency Action On Imports Of Particular Products" article_identifier="28185">1. Where, as a result of the reduction or elimination of a customs duty under this Agreement, any product originating in an EFTA State or in SACU is being imported into the territory of an EFTA State or SACU, in such increased quantities and under such conditions as to cause serious injury or threat therof to the domestic industry of like or directly competitive products in the territory of that Party, such Party may take emergency measures under the conditions and in accordance with the procedures laid down in this Article. 
+
+
+2. An EFTA State or SACU intending to take emergency measures shall, as soon as possible and in any case before taking a measure, supply the Joint Committee with all relevant information, with a view to seeking a solution acceptable to all Parties concerned. 
+
+
+3. Emergency measures shall not exceed what is necessary to remedy the difficulties which have arisen and should normally consist of the suspension of the further reduction of any applicable rate of duty provided for under this Agreement for the product concerned or the increase of the rate of duty for that product. 
+
+
+4. Such measures shall contain clear elements progressively leading to their elimination at the end of the set period, at the latest.  Measures shall not be taken for a period exceeding one year. In very exceptional circumstances, measures may be taken up to a total maximum period of three years. 
+
+
+5. The Joint Committee shall, within 30 days from the date of notification, examine the information provided under paragraph 2 in order to facilitate a mutually acceptable resolution to the matter.  In the absence of such resolution, the importing Party may 
+
+adopt a measure pursuant to paragraph 1 to remedy the problem.  The emergency measure shall be immediately notified to the Joint Committee. In the selection of the emergency measure, priority must be given to the measure that least disturbs the functioning of this Agreement. 
+
+6. In critical circumstances where delay would cause damage which would be difficult to repair, the EFTA State concerned or SACU may take a provisional emergency measure pursuant to a preliminary determination that there is clear evidence that increased imports have caused, or are threatening to cause, serious injury.  The Party intending to take such a measure shall immediately inform the other Parties and the Joint Committee thereof and set into motion the procedure according to paragraph 2. The provisional measure shall be terminated within six months, at the latest.</article>
+      <article number="ARTICLE 20" name="Agricultural Safeguard Measures" article_identifier="28186">1. Safeguard measures on agricultural products shall be taken pursuant to the conditions laid down in paragraph 1 of Article 19. 
+
+
+2. A measure shall not be taken for a period exceeding one year and may consist in either of the following: 
+
+
+(a) 	an increase of the import duty on the product in question to a level not higher than the MFN applied rate of duty on the product in effect at the time the measure is taken; or 
+
+
+(b) 	the introduction of a tariff quota for preferential trade, based on historical trade volumes for the five preceding years, excluding the import surge volumes that necessitated the introduction of the safeguard measure.  
+
+3. Before taking a safeguard measure, a Party shall notify the other Parties in writing of the measure to be taken. Within 60 days after notification, the notifying Party shall provide all relevant information concerning the safeguard measure. On request, that Party shall consult with the affected Party or Parties with respect of the conditions of application of the measure.</article>
+      <article number="ARTICLE 21" name="Exceptional Measures In Case Of Structural Adjustment" article_identifier="28187">1. Where any product originating in an EFTA State is being imported into the territory of a SACU State in such increased quantities and under such conditions as to cause or threaten to cause serious disturbances to a particular infant industry or any sector undergoing restructuring, SACU may take exceptional measures of limited duration in the form of an increase or reintroduction of customs duties. 
+
+
+2. Customs duties on imports applicable in SACU to products originating in the EFTA States introduced by these measures may not exceed the level of the applied MFN rates of duty and shall maintain an element of preference for products originating in the EFTA States. The total value of all imports of the products, which are subject to these measures, may not exceed 15 per cent of total imports from the EFTA States during the last year for which statistics are available. 
+
+
+3. Exceptional measures shall be applied for a period not exceeding four years. They shall cease to apply at the latest on the expiry of the maximum transitional period of nine years. These time limits may exceptionally be extended by decision of the Joint Committee. 
+
+
+4. No such measure can be introduced in respect of a product if more than three years have elapsed since the elimination of all duties and quantitative restrictions or charges or measures having an equivalent effect concerning that product. 
+
+
+5. SACU shall notify the Joint Committee of the exceptional measures it intends to take and, at the request of an EFTA State, consultations shall be held on such measures before they are applied in order to reach a satisfactory solution. The notification shall include an indicative schedule for the introduction and subsequent elimination of the customs duties to be imposed. 
+
+
+6. If no agreement on the proposed measures referred to above has been reached within 30 days of the notification, SACU may take appropriate measures to remedy the problem and shall provide the Joint Committee with the definite schedule for the elimination of the customs duties introduced under this Article. This schedule shall provide for a phasing out of these duties at equal annual rates starting at the latest one year after their introduction. The Joint Committee may decide on a different schedule.</article>
+      <article number="ARTICLE 22" name="Balance Of Payments Difficulties" article_identifier="28188">1. The rights and obligations of the Parties with regard to restrictions to safeguard the balance of payments shall be governed by Article XII of the GATT 1994, which is hereby incorporated into and made part of this Agreement. 
+
+
+2. The Party introducing a measure under this Article shall promptly notify the other Parties and the Joint Committee of such measure.</article>
+      <article number="ARTICLE 23" name="General Exceptions" article_identifier="28189">The rights and obligations of the Parties in respect of general exceptions shall be governed by Article XX of the GATT 1994, which is hereby incorporated into and made part of this Agreement.</article>
+      <article number="ARTICLE 24" name="Security Exceptions" article_identifier="28190">The rights and obligations of the Parties in respect of security exceptions shall be governed by Article XXI of the GATT 1994, which is hereby incorporated into and made part of this Agreement.</article>
+      <article number="ARTICLE 25" name="Special Treatment For Botswana, Lesotho, Namibia And Swaziland" article_identifier="28191">1. Botswana, Lesotho, Namibia and Swaziland may, in accordance with Article 26 of the SACU Agreement 2002, temporarily levy duties on imports to protect infant industries. Such duties shall be equally levied on goods originating in other SACU States and in countries outside SACU. 
+
+
+2. Botswana, Lesotho, Namibia and Swaziland may temporarily restrict the importation or exportation of goods for purposes of rural development, food security and poverty alleviation in a manner not inconsistent with the WTO Agreement. Such measures shall also be taken in respect of all other countries. 
+
+
+3. The Party intending to take a measure in accordance with paragraph 1 or 2 shall inform the Joint Committee, and shall be prepared, at the request of another Party, to discuss the matter in the Joint Committee.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Intellectual Property" chapter_identifier="591">
+      <article number="ARTICLE 26" name="Intellectual Property Rights" article_identifier="28192">1. “Intellectual property” comprises in particular copyright, including computer programmes and compilations of data, as well as neighbouring rights, trademarks for goods and services, geographical indications, industrial designs, patents, plant varieties, topographies of integrated circuits, as well as undisclosed information. 
+
+
+2. The Parties shall grant and ensure adequate, effective and non-discriminatory protection of intellectual property rights, and provide for measures for the enforcement of such rights against infringement thereof, counterfeiting and piracy, in accordance with the provisions of this Article and the obligations set out in the international agreements to which they are parties. 
+
+
+3. The Parties shall accord to each others’ nationals treatment no less favourable than that they accord to their own nationals.  Exemptions from this obligation must be in accordance with the substantive provision of Articles 3 and 5 of the WTO Agreement on Trade-Related Aspects of Intellectual Property Rights (hereinafter referred to as “the TRIPS Agreement”). 
+
+
+4. The Parties shall grant to each other’s nationals treatment no less favourable than that accorded to nationals of any other State.  Exemptions from this obligation must be in accordance with the substantive provisions of the TRIPS Agreement, in particular Articles 4 and 5 thereof. 
+
+
+5. With the objective of progressively harmonizing their legal framework on intellectual property rights, the EFTA States and the SACU States affirm their commitment to review this Chapter not later than five years after the entry into force of this Agreement. 
+
+
+6. In order to avoid or to remedy trade distortions caused by actual levels of protection of intellectual property rights, at the request of a Party, urgent consultations shall take place with a view to reaching a mutually satisfactory solution.</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Services, Investment, Public Procurement" chapter_identifier="592">
+      <article number="ARTICLE 27" name="Services" article_identifier="28193">1. In recognition of the growing importance of services for the development of their economies, the Parties underline the importance of strict observance of the General Agreement on Trade in Services (hereinafter referred to as “the GATS”). 
+
+
+2. The Parties shall endeavour to extend the scope of this Agreement with a view to further liberalising trade in services between the Parties. The Joint Committee shall make the necessary recommendations for the implementation of this objective not later than five years after the entry into force of this Agreement. When formulating these recommendations, it shall take into account the experience gained by the implementation of the obligations of the Parties under the GATS. 
+
+
+3. If a Party enters into an agreement defined in Article V of the GATS, it shall upon request from the other Parties afford adequate opportunity to them to seek to obtain, including through possible negotiations, comparable conditions, on a mutually beneficial basis.</article>
+      <article number="ARTICLE 28" name="Investment" article_identifier="28194">1. The Parties shall endeavour to create and maintain a stable and transparent investment framework and shall not impair by unreasonable or discriminatory measures the management, maintenance, use, enjoyment or disposal of investments by investors of the other Parties. Parties shall admit investments by investors of the other Parties in accordance with their laws and regulations. 
+
+
+2. The Parties recognise the importance of promoting cross-border investment and technology flows as a means for achieving economic growth and development. Cooperation in this respect may include: 
+
+
+(a) 	appropriate means of identifying investment opportunities and information channels on investment regulations; 
+
+
+(b) 	the provision of information on the Parties’ measures to promote investment abroad (technical assistance, financial support, investment insurance, etc.); 
+
+
+(c) 	the furthering of a legal environment conducive to increased investment flows; and 
+
+
+(d) the development of mechanisms for joint investments, in particular with 
+small and medium enterprises. 
+
+
+3. The Parties recognise that it is inappropriate to encourage investment by relaxing health, safety or environmental standards. 
+
+
+4. The Parties affirm their commitment to review issues related to investment in the Joint Committee no later than five years after the entry into force of this Agreement.  If a Party grants to a non-Party, after the entry into force of this Agreement, a more favourable investment framework than under this Agreement, it shall afford adequate opportunity to the other Parties to seek to obtain, including through possible negotiations, comparable conditions, on a mutually beneficial basis.</article>
+      <article number="ARTICLE 29" name="Government Procurement" article_identifier="28195">1. The Parties agree on the importance of co-operation to enhance the mutual understanding of their respective government procurement laws and regulations. 
+
+
+2. The Parties shall publish their laws, or otherwise make publicly available their laws, regulations and administrative rulings of general application. The Parties agree that it is important to respond to specific questions on their laws and regulations and to provide, upon request, clarification to each other on such matters. 
+
+
+3. The Parties shall, no later than five years after the entry into force of this Agreement, hold consultations in the Joint Committee to consider possible steps to be taken with a view to mutually liberalizing their procurement markets. If a Party grants to a non-Party, after the entry into force of this Agreement, better conditions than under this Agreement with regard to access to its procurement markets, it shall afford adequate opportunity to the other Parties to seek to obtain, including through possible negotiations, comparable conditions, on a reciprocal basis.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Economic Co-Operation And Technical Assistance" chapter_identifier="593">
+      <article number="ARTICLE 30" name="Objectives And Scope" article_identifier="28196">1. The Parties declare their readiness to foster economic co-operation on mutually agreed terms and in accordance with their national policy objectives. 
+
+
+2. The EFTA States shall provide technical assistance to the SACU States in order to: 
+
+
+(a) 	facilitate the implementation of the overall objectives of this Agreement, in particular to enhance trading and investment opportunities arising from this Agreement; 
+
+
+(b) 	support the SACU States’ own efforts to achieve sustainable economic and social development. 
+
+3. Assistance by the EFTA States shall focus on sectors affected by the process of liberalisation and restructuring of the economy of the SACU States as well as on sectors likely to bring the economies of the EFTA States and the SACU States closer together, particularly those generating growth and employment.</article>
+      <article number="ARTICLE 31" name="Methods And Means" article_identifier="28197">1. The Parties shall co-operate with the objective of identifying and employing the most effective methods and means for the implementation of this Chapter.  To this end, they shall co-ordinate efforts with relevant international organisations. 
+
+
+2. Conservation of the environment shall be taken into account in the implementation of assistance in the various sectors to which it is relevant. 
+
+
+3. 	Means of assistance may include: 
+
+
+(a) 	exchange of information, transfer of expertise and training; 
+
+
+(b) 	implementation of joint actions such as seminars and workshops; and 
+
+
+(c) 	technical and administrative assistance.</article>
+      <article number="ARTICLE 32" name="Fields Of Co-Operation" article_identifier="28198">1. In order to facilitate the implementation of this Agreement the Parties shall agree on appropriate modalities for technical assistance and co-operation between their respective authorities. To this end, they shall co-ordinate efforts with relevant international organisations. 
+
+
+2. Assistance may cover targeted fields jointly identified by the Parties that may serve to enhance the SACU States’ capacities to benefit from increased international trade and investment, including in particular: 
+
+
+(a) 	trade policy, trade facilitation and trade promotion; 
+
+
+(b) 	customs and origin matters; 
+
+
+(c) 	technical regulations, standards and conformity assessment as well as sanitary and phytosanitary measures; 
+
+
+(d) 	local enterprise development; and 
+
+
+(e) 	regulatory assistance and implementation of laws in areas such as services, investment, intellectual property and public procurement. 
+
+3. Technical assistance in the fields referred to in paragraph 2(c) shall be provided on such matters as capacity building, infrastructure development, enhanced participation in international standards setting activities and improvement of risk assessment. 
+
+
+4. The Government of Norway, as the Depositary by virtue of Article 44, shall seek to co-operate with the SACU Secretariat in order to build capacity in the SACU Secretariat relating to all the functions of a depositary.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="Institutional And Procedural Provisions" chapter_identifier="594">
+      <article number="ARTICLE 33" name="The Joint Committee" article_identifier="28199">1. The implementation of this Agreement shall be supervised and administered by a Joint Committee.  Each Party shall be represented in the Joint Committee.  The Joint Committee shall be jointly chaired by a representative of an EFTA State and a representative of a SACU State. 
+
+
+2. For the purpose of the proper implementation of this Agreement, the Parties shall exchange information and, at the request of a Party, shall hold consultations within the Joint Committee on any matter concerning the interpretation or application of this Agreement.  The Joint Committee may review the possibility of further removing obstacles to trade between the Parties. 
+
+
+3. The Joint Committee may take decisions in the cases provided for in this Agreement.  On other matters, the Joint Committee may make recommendations to the Parties.</article>
+      <article number="ARTICLE 34" name="Procedures Of The Joint Committee" article_identifier="28200">1. The first meeting of the Joint Committee shall be held not later than one year after the entry into force of this Agreement.  For the proper implementation of this Agreement, the Joint Committee shall, upon request of a Party, thereafter meet whenever necessary, but at least once every two years.  
+
+
+2. The Joint Committee shall act by consensus. 
+
+
+3. If a representative of a Party in the Joint Committee has accepted a decision subject to the fulfillment of constitutional requirements, the decision shall enter into force, if no later date is contained therein, on the date of receipt of the notification of the fulfillment of the necessary constitutional requirements. 
+
+
+4. For the purpose of this Agreement, the Joint Committee shall adopt its rules of procedure which shall, inter alia, contain provisions for convening meetings and for the designation of the Joint Chairpersons and their term of office. 
+
+
+5. The Joint Committee may decide to set up such sub-committees and working parties as it considers necessary to assist it in accomplishing its tasks.</article>
+      <article number="ARTICLE 35" name="Consultations" article_identifier="28201">1. The Parties shall take all necessary measures to ensure the fulfillment of their obligations under this Agreement. Should any divergence with respect to the interpretation and application of this Agreement arise, the Parties shall make every attempt through co-operation and consultations to arrive at a mutually satisfactory resolution. 
+
+
+2. A Party may request in writing consultations with another Party regarding any actual or proposed measure or any other matter that it considers might affect the operation of this Agreement.  The Party requesting consultations shall at the same time notify the other Parties in writing thereof and supply all relevant information. 
+
+
+3. The consultations shall take place in the Joint Committee, if a Party so requests, within 20 days from the receipt of the notification referred to in paragraph 2, with a view to finding a mutually satisfactory solution.</article>
+      <article number="ARTICLE 36" name="Provisional Measures" article_identifier="28202">If a Party considers that another Party has failed to fulfil an obligation under this Agreement and the Joint Committee has failed to arrive at a mutually satisfactory solution within 90 days from the date of receipt of the request for consultations in the Joint Committee, the Party concerned may take such provisional rebalancing measures as are appropriate and strictly necessary to remedy the imbalance.  Priority shall be given to such measures that will least disturb the functioning of this Agreement.  The measures taken shall be notified immediately to the other Parties and to the Joint Committee, which shall hold regular consultations with a view to their abolition.  The measures shall be abolished when conditions no longer justify their maintenance, or, if the dispute is submitted to arbitration, when an arbitral award has been rendered and complied with.</article>
+      <article number="ARTICLE 37" name="Arbitration" article_identifier="28203">1. Disputes between Parties, relating to the interpretation of rights and obligations of the Parties under this Agreement, which have not been settled, pursuant to Article 35, through direct consultations or in the Joint Committee within 90 days from the date of the receipt of the written request for consultations, may be referred to arbitration by one or more parties to the dispute by means of a written notification addressed to the Party complained against.  A copy of this notification shall be communicated to all Parties. 
+
+
+2. Disputes on the same matter arising under both this Agreement and the WTO Agreement may be settled in either forum at the discretion of the complaining Party. The forum thus selected shall be used to the exclusion of the other. Before a Party initiates dispute settlement proceedings under the WTO Agreement against another Party or Parties, that Party shall notify all other Parties of its intention to do so. 
+
+
+3. The arbitral tribunal shall comprise three members. Each party to the dispute shall, within 30 days from the date of receipt of notification, nominate an arbitrator and the two arbitrators shall, within 30 days from the date of the last nomination, appoint a third arbitrator who will be the Chairperson of the arbitral tribunal. The Chairperson shall not be a national of either party to the dispute, nor permanently reside in the territory of either party to the dispute.  If more than one EFTA State or more than one SACU State are parties to a dispute, these parties shall jointly nominate one arbitrator. 
+
+
+4. In case either party to the dispute fails to nominate its arbitrator or the nominated arbitrators fail to agree on a third member within the period specified in paragraph 3, each party to the dispute may request the President of the International Court of Justice to make the necessary appointment. 
+
+
+5. The arbitral tribunal shall settle the dispute in accordance with the provisions of this Agreement and the customary rules of interpretation of public international law. 
+
+
+6. Unless otherwise specified in this Agreement or agreed between the parties to the dispute, the Optional Rules for Arbitrating Disputes between Two States of the Permanent Court of Arbitration, effective 20 October 1992, shall apply. 
+
+
+7. A Party that is not a party to the dispute, on delivery of a written notice to the disputing parties, shall be entitled to receive written submissions of the disputing parties and attend all hearings as observer. 
+
+
+8. The arbitral tribunal shall take its decisions by majority vote. 
+
+
+9. The expenses of the arbitral tribunal, including the remuneration of its members, shall normally be borne by the parties to the dispute in equal shares.  The arbitral tribunal may, however, at its discretion decide that a higher proportion of the expenses be paid by one of the parties to the dispute, taking into account, inter alia, the financial situations of the Parties involved. 
+
+
+10. This Article shall not apply to Article 15 and Chapters III and IV.</article>
+    </chapter>
+    <chapter number="CHAPTER VII" name="Final Provisions" chapter_identifier="595">
+      <article number="ARTICLE 38" name="Evolutionary Clause" article_identifier="28204">1. The Parties undertake to review this Agreement in light of further developments in international economic relations, inter alia in the framework of the WTO, and to examine the possibility of further developing and deepening the co-operation under this Agreement and to extend it to areas not covered therein. The Parties may instruct the Joint Committee to examine this possibility and, where appropriate, to make recommendations to them, particularly with a view to opening up negotiations. 
+
+
+2. Revisions, additions or amendments to this Agreement resulting from the procedure referred to in paragraph 1 shall be done in accordance with the provisions of Article 40.</article>
+      <article number="ARTICLE 39" name="Annexes" article_identifier="28205">The Annexes to this Agreement are an integral part of it. The Joint Committee may, subject to the respective constitutional requirements of the Parties, decide to amend the Annexes.</article>
+      <article number="ARTICLE 40" name="Amendments" article_identifier="28206">1. Any Party may submit proposals for amendments to this Agreement to the Joint Committee for consideration and approval.  
+
+
+2. Amendments to this Agreement shall, after approval by the Joint Committee, be submitted to the Parties for ratification, acceptance or approval in accordance with their respective constitutional requirements. 
+
+
+3. Unless otherwise agreed by the Parties, amendments shall enter into force on the first day of the third month following the deposit of the last instrument of ratification, acceptance or approval. 
+
+
+4. The text of the amendments shall be deposited with the Depositary. 
+
+
+5. The amendment procedure provided for in this Article shall not apply to the amendment of Annexes referred to in Article 39.</article>
+      <article number="ARTICLE 41" name="Accession" article_identifier="28207">1. Any State, becoming a Member of the European Free Trade Association, or any State, becoming a Member of the Southern African Customs Union, may accede to this Agreement, on terms and conditions to be agreed upon by the Parties. The instrument of accession shall be deposited with the Depositary. 
+
+
+2. In relation to an acceding State, this Agreement shall enter into force on the first day of the third month following the deposit of its instrument of accession, or the approval of the terms of accession by the existing Parties, whichever is later.</article>
+      <article number="ARTICLE 42" name="Withdrawal And Termination" article_identifier="28208">1. A Party may withdraw from this Agreement by means of a written notification to the Depositary.  The withdrawal shall take effect six months after the date on which the notification is received by the Depositary. 
+
+
+2. Any EFTA State which withdraws from the Convention Establishing the European Free Trade Association shall ipso facto on the same day as the withdrawal takes effect cease to be a Party to this Agreement. 
+
+
+3. Any SACU State which withdraws from the SACU Agreement shall ipso facto on the same day as the withdrawal takes effect cease to be a Party to this Agreement. 
+
+
+4. If all the EFTA States withdraw or if SACU withdraws in accordance with paragraph 1, this Agreement shall be terminated.</article>
+      <article number="ARTICLE 43" name="Entry Into Force" article_identifier="28209">1. This Agreement is subject to ratification, acceptance or approval in accordance with the respective constitutional requirements of the Parties. The instruments of ratification, acceptance or approval shall be deposited with the Depositary. 
+
+
+2. If its constitutional requirements permit, any EFTA State or SACU State may apply this Agreement provisionally. Provisional application of this Agreement under this paragraph shall be notified to the Depositary. 
+
+
+3. This Agreement shall enter into force on 1 July 2006, provided all the Parties have deposited their instruments of ratification, acceptance or approval with, or notified provisional application to, the Depositary at least one month before this date. 
+
+
+4. In case this Agreement does not enter into force on 1 July 2006 it shall enter into force on the first day of the second month following the date on which the last Party has deposited its instrument or notified provisional application.</article>
+      <article number="ARTICLE 44" name="Depositary" article_identifier="28210">1. The Government of Norway shall act as Depositary. 
+
+
+2. An original copy of this Agreement shall be lodged with the SACU Secretariat. 
+
+
+3. The SACU Secretariat shall co-ordinate the actions of the SACU States in fulfilment of the terms of Articles 40 to 43.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="596">
+      <article article_identifier="28211">IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Agreement. 
+
+Done in two originals in the English language, one of which shall be deposited with the Government of Norway and the other shall be lodged with the SACU Secretariat. The Depositary shall transmit certified copies to all the Parties. 
+
+Done at This day of 2006 For the Republic of Iceland 
+
+........................................... 
+
+
+Done at This day of 2006 For the Principality of Liechtenstein 
+
+........................................... 
+
+
+Done at This day of For the Kingdom of Norway 
+
+........................................... 
+
+
+Done at This day of For the Swiss Confederation 
+
+........................................... 
+
+
+2006 
+
+2006 
+
+Done at This day of 2006 For the Republic of Botswana 
+
+........................................... 
+
+
+Done at This day of 2006 For the Kingdom of Lesotho 
+
+........................................... 
+
+
+Done at This day of 2006 For the Republic of Namibia 
+
+........................................... 
+
+
+Done at This day of 2006 For the Republic of South Africa 
+
+........................................... 
+
+
+Done at This day of 2006 For the Kingdom of Swaziland 
+
+...........................................</article>
+    </chapter>
+  </body>
+</treaty>

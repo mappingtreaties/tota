@@ -1,0 +1,2268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - Eastern and Southern Africa States Interim EPA</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>469</wto_rta_id>
+    <treaty_identifier>332</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>2009-08-29</date_signed>
+    <date_into_force>2012-05-14</date_into_force>
+    <date_notification>2012-02-09</date_notification>
+    <end_implementation>2022-12-31</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HUN</partyisocode>
+      <partyisocode n="15">IRL</partyisocode>
+      <partyisocode n="16">ITA</partyisocode>
+      <partyisocode n="17">LTU</partyisocode>
+      <partyisocode n="18">LUX</partyisocode>
+      <partyisocode n="19">LVA</partyisocode>
+      <partyisocode n="20">MDG</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">MUS</partyisocode>
+      <partyisocode n="23">NLD</partyisocode>
+      <partyisocode n="24">POL</partyisocode>
+      <partyisocode n="25">PRT</partyisocode>
+      <partyisocode n="26">ROU</partyisocode>
+      <partyisocode n="27">SVK</partyisocode>
+      <partyisocode n="28">SVN</partyisocode>
+      <partyisocode n="29">SWE</partyisocode>
+      <partyisocode n="30">SYC</partyisocode>
+      <partyisocode n="31">ZWE</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MDG</partyisocode>
+      <partyisocode n="22">MLT</partyisocode>
+      <partyisocode n="23">MUS</partyisocode>
+      <partyisocode n="24">NLD</partyisocode>
+      <partyisocode n="25">POL</partyisocode>
+      <partyisocode n="26">PRT</partyisocode>
+      <partyisocode n="27">ROU</partyisocode>
+      <partyisocode n="28">SVK</partyisocode>
+      <partyisocode n="29">SVN</partyisocode>
+      <partyisocode n="30">SWE</partyisocode>
+      <partyisocode n="31">SYC</partyisocode>
+      <partyisocode n="32">ZWE</partyisocode>
+    </parties>
+    <composition>Plurilateral; One Party is an RTA</composition>
+    <region>Europe; Africa</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398352746247&amp;uri=CELEX:22012A0424(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:22012A0424(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=uriserv:OJ.L_.2012.111.01.0001.01.FRA</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398352746247&amp;uri=CELEX:22012A0424(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1398352746247&amp;uri=CELEX:22012A0424(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=uriserv:OJ.L_.2012.111.01.0001.01.FRA</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="2924">
+      <article article_identifier="24377">Interim Agreement
+
+  establishing a framework for an Economic Partnership Agreement between
+  the Eastern and Southern Africa States, on the one part, and the
+  European Community and its Member States, on the other part
+
+  UNION OF COMOROS,
+
+  THE REPUBLIC OF MADAGASCAR,
+
+  THE REPUBLIC OF MAURITIUS,
+
+  THE REPUBLIC OF SEYCHELLES,
+
+  THE REPUBLIC OF ZAMBIA,
+
+  THE REPUBLIC OF ZIMBABWE,
+
+  hereinafter referred to as the "ESA States",
+
+  on the one part, and
+
+  THE KINGDOM OF BELGIUM,
+
+  THE REPUBLIC OF BULGARIA,
+
+  THE CZECH REPUBLIC,
+
+  THE KINGDOM OF DENMARK,
+
+  THE FEDERAL REPUBLIC OF GERMANY,
+
+  THE REPUBLIC OF ESTONIA,
+
+  IRELAND,
+
+  THE HELLENIC REPUBLIC,
+
+  THE KINGDOM OF SPAIN,
+
+  THE FRENCH REPUBLIC,
+
+  THE ITALIAN REPUBLIC,
+
+  THE REPUBLIC OF CYPRUS,
+
+  THE REPUBLIC OF LATVIA,
+
+  THE REPUBLIC OF LITHUANIA,
+
+  THE GRAND DUCHY OF LUXEMBOURG,
+
+  THE REPUBLIC OF HUNGARY,
+
+  MALTA,
+
+  THE KINGDOM OF THE NETHERLANDS,
+
+  THE REPUBLIC OF AUSTRIA,
+
+  THE REPUBLIC OF POLAND,
+
+  THE PORTUGUESE REPUBLIC,
+
+  ROMANIA,
+
+  THE REPUBLIC OF SLOVENIA,
+
+  THE SLOVAK REPUBLIC,
+
+  THE REPUBLIC OF FINLAND,
+
+  THE KINGDOM OF SWEDEN,
+
+  THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,
+
+  and
+
+  THE EUROPEAN COMMUNITY,
+
+  hereinafter referred to as "the EC Party",
+
+  on the other part,
+
+  together hereinafter referred to as "the Parties",
+
+  PREAMBLE
+
+  WE the African, Caribbean and Pacific (ACP) States of the Eastern and
+  Southern African (ESA) region, constituted as the ESA Group and its
+  individual member States, on the one hand, and the European Community
+  (EC) and its Member States, on the other;
+
+  HAVING REGARD to the Partnership Agreement between the Members of the
+  African, Caribbean and Pacific Group of States of the one part, and
+  the EC and its Member States of the other part signed on 23 June 2000
+  (hereinafter referred to as the "Cotonou Agreement"), the
+  Common Market for Eastern and Southern Africa (COMESA) Treaty signed
+  on 5 November 1993, the Southern Africa Development Community (SADC)
+  Treaty signed on 17 August 1992 and its Protocol on Trade, the East
+  African Community (EAC) Treaty signed on 30 November 1999, and the
+  African Union Constitutive Act signed and adopted on 11 July 2002;
+
+  HAVING REGARD to the Treaty Establishing the European Community;
+
+  HAVING ALSO REGARD to the decision of the eighth Summit of the COMESA
+  Authority of Heads of State and Government held in Khartoum, Sudan on
+  17 March 2003 on the establishment of the ESA configuration for the
+  purpose of negotiation of an Economic Partnership Agreement (EPA) with
+  the European Union (EU);
+
+  CONSIDERING that the ESA States and the EC and its Member States have
+  agreed that their trade and economic cooperation shall aim at
+  fostering the smooth and gradual integration of the ESA States into
+  the world economy with due regard to their political choices, levels
+  of development and development priorities, thereby promoting their
+  sustainable development and contributing to poverty eradication in the
+  ESA States;
+
+  REAFFIRMING their commitment to promote and expedite the economic,
+  cultural and social development of the ESA States with a view to
+  contributing to peace and security and to promoting a stable and
+  democratic political environment conducive for sustainable national
+  and regional development;
+
+  REAFFIRMING also that the EPA shall be consistent with the objectives
+  and principles of the Cotonou Agreement and, in particular, with the
+  provisions of Part III, Title II thereof;
+
+  REAFFIRMING that the EPA shall serve as an instrument for development
+  and shall promote sustained growth, increase the production and
+  supply-side capacity of ESA States, foster structural transformation
+  of ESA economies and their diversification and competitiveness and
+  lead to the development of trade, the attraction of investment and
+  technology and the creation of employment in ESA States;
+
+  RECALLING the commitments of the international community on the
+  achievements of the Millennium Development Goals as contained in the
+  UN Declaration of September 2000;
+
+  REAFFIRMING that advancing the development agenda requires genuine
+  international cooperation and the full implementation of agreed
+  commitments made at the Conferences of Rio, Beijing, Copenhagen, Cairo
+  and Monterrey, as well as in the Programmes of Action in favour of
+  Least Developed Countries (LDCs), Landlocked Developing Countries
+  (LLDCs) and Small Island Developing States (SIDS) respectively;
+
+  BEARING in mind the rights and obligations of the Members of the World
+  Trade Organisation (WTO), the importance they attach to the principles
+  and rules governing international trade and the need for a
+  transparent, predictable, open and fair multilateral trading system;
+
+  REITERATING the need to ensure that particular emphasis be placed on
+  regional integration and the provision of special and differential
+  treatment to all ESA States, maintain special treatment for ESA LDCs,
+  and take due account of the vulnerability of small economies,
+  landlocked, island, coastal, drought prone and ESA States emerging
+  from conflict;
+
+  COGNISANT that substantial investments are required to uplift the
+  standards of living of ESA States;
+
+  RECALLING the commitments of the Parties within the framework of the
+  WTO,
+
+  HAVE AGREED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="CHAPTER I" name="General Provisions" chapter_identifier="2925">
+      <article number="ARTICLE 1" name="Scope Of The Interim Agreement" article_identifier="24378">This Interim Agreement establishes a framework for an Economic
+  Partnership Agreement (EPA).</article>
+      <article number="ARTICLE 2" name="General Epa Objectives" article_identifier="24379">The objectives of the Economic Partnership Agreement are:
+
+  (a) contributing to the reduction and eventual eradication of poverty
+  through the establishment of a strengthened and strategic trade and
+  development partnership consistent with the objective of sustainable
+  development, the Millennium Development Goals and the Cotonou
+  Agreement;
+
+  (b) promoting regional integration, economic cooperation and good
+  governance in the ESA region;
+
+  (c) promoting the gradual integration of the ESA region into the world
+  economy, in conformity with its political choices and development
+  priorities;
+
+  (d) fostering the structural adjustment of the ESA economies and
+  diversification including value addition;
+
+  (e) improving the ESA region’s capacity in trade policy and trade
+  related issues;
+
+  (f) establishing and implementing an effective, predictable and
+  transparent regional regulatory framework for trade and investment in
+  the ESA region, thus supporting the conditions for increasing
+  investment and private sector initiative and enhancing supply
+  capacity, competitiveness and economic growth; and
+
+  (g) strengthening the existing relations between the Parties on the
+  basis of solidarity and mutual interest. To this end, consistent with
+  WTO obligations, the Agreement shall enhance commercial and economic
+  relations, support a new trading dynamic between the Parties by means
+  of the progressive, asymmetrical liberalisation of trade between them
+  and reinforce, broaden and deepen cooperation in all areas relevant to
+  trade and investment.</article>
+      <article number="ARTICLE 3" name="Specific Objectives Of This Agreement" article_identifier="24380">1. Consistent with Articles 34 and 35 of the Cotonou Agreement, the
+  objectives of this Agreement are:
+
+  (a) to establish an agreement consistent with Article XXIV of General
+  Agreement on Tariffs and Trade 1994 (GATT 1994);
+
+  (b) to establish the framework, scope and principles for further
+  negotiations on trade in goods including rules of origin, trade
+  defence instruments, customs cooperation and trade facilitation,
+  sanitary and phytosanitary measures, technical barriers to trade, and
+  agriculture, on the basis of the proposals already submitted; and
+
+  (c) to establish a framework for and scope of potential negotiation in
+  relation to other issues including trade in services, trade related
+  issues as identified in the Cotonou Agreement and any other areas of
+  interest to both Parties.
+
+  2. The Parties undertake to complete negotiations with a view to
+  concluding a comprehensive EPA, no later than 31 December 2008,
+  including on subject matters listed in points (b) and (c) of paragraph
+  1 according to the Agreed Joint Road Map adopted by the Parties on 7
+  February 2004.</article>
+      <article number="ARTICLE 4" name="Principles" article_identifier="24381">The principles of this Agreement on the basis of which further
+  negotiations between the Parties shall be held with a view to reaching
+  a comprehensive EPA are the following:
+
+  (a) building on the acquis of the Cotonou Agreement;
+
+  (b) strengthening regional integration in the ESA region;
+
+  (c) asymmetry in the liberalisation of trade and in the application of
+  trade related measures and trade defence instruments;
+
+  (d) special and differential treatment for the ESA LDCs and taking
+  into account the vulnerability of small landlocked and island
+  countries, including in the level and pace of trade liberalisation;
+
+  (e) variable geometry to allow an ESA State in a position to do so to
+  undertake liberalisation within an earlier timeframe and schedule;
+
+  (f) inclusiveness of application of development cooperation provisions
+  such that ESA LDCs not in a position to conclude a tariff offer should
+  be able to benefit from all aspects of this Agreement in particular
+  economic and development cooperation in this Interim Agreement;
+
+  (g) allowing ESA LDCs that have not yet submitted tariff reduction
+  offers to do so after signature of this Interim Agreement on the same
+  or flexible conditions and to benefit fully from its provisions;
+
+  (h) allowing ESA States to maintain regional preferences among
+  themselves and with other African countries and regions without the
+  obligation to extend them to the EC.</article>
+    </chapter>
+    <chapter number="CHAPTER II" name="Trade Regime For Goods" chapter_identifier="2926">
+      <article number="ARTICLE 5" name="Objectives" article_identifier="24382">The objectives of cooperation in the area of trade are:
+
+  (a) the provision of full duty free and quota free market access
+  conditions for goods originating in the ESA States into the market of
+  the EC Party on a secure, long term and predictable basis;
+
+  (b) the promotion of trade between the Parties and the acceleration of
+  export led growth to enable the integration of ESA countries into the
+  global economy;
+
+  (c) the progressive and gradual liberalisation of the goods market in
+  ESA in accordance with the modalities established in this Agreement;
+  and
+
+  (d) the preservation and improvement of market access conditions to
+  ensure that all ESA States are better and not worse off.</article>
+      <article number="ARTICLE 6" name="Scope Of Application" article_identifier="24383">1. Only the Signatory ESA States listed in Annex II shall take
+  commitments under this Chapter.
+
+  2. The EC Party’s commitments under this Chapter shall only be
+  applicable to goods originating in the Signatory ESA States listed in
+  Annex II.
+
+  3. For the purposes of this Chapter and for decisions adopted under
+  this Chapter any reference to the Signatory ESA States or to goods
+  originating in the Signatory ESA States shall extend only to the
+  Signatory ESA States listed in Annex II.
+
+  4. When a Signatory ESA State not listed in Annex II wants to join
+  Chapter II, it shall notify its intention to the EPA Committee. The
+  EPA Committee is competent to amend Annex II.
+
+  5. The EPA Committee may decide on any transitional measures or
+  amendments that might be necessary in order to facilitate the addition
+  of such Signatory ESA States to Annex II.
+
+  Free movement of goods</article>
+      <article number="ARTICLE 7" name="Customs Duty" article_identifier="24384">For the purposes of elimination of customs duties on imports, a
+  customs duty shall include any duty or charge of any kind imposed on
+  or in connection with the importation of goods, including any form of
+  surtax or surcharge in connection with such importation, but does not
+  include:
+
+  (a) charges equivalent to internal taxes levied on both imported and
+  locally produced goods consistent with the provisions of Article 18;
+
+  (b) anti-dumping or countervailing duties applied in accordance with
+  the provisions of Article 19, and safeguard measures applied in
+  accordance with Article 21; and
+
+  (c) fees or other charges levied in accordance with the provisions of
+  Article 10.</article>
+      <article number="ARTICLE 8" name="Classification Of Goods" article_identifier="24385">The classification of goods in trade covered by this Agreement shall
+  be that set out in each Party’s respective tariff nomenclature in
+  conformity with the Harmonised Commodity Description and Coding System
+  (HS). The Signatory ESA States will use the COMESA nomenclature.</article>
+      <article number="ARTICLE 9" name="Basic Duty" article_identifier="24386">For each product, the basic customs duty to which the successive
+  reductions are to be applied shall be that specified in each Party’s
+  Tariff Schedules.</article>
+      <article number="ARTICLE 10" name="Fees And Other Charges" article_identifier="24387">Fees and other charges referred to in Article 7(c), shall be limited
+  in amount to the approximate cost of services rendered and shall not
+  represent an indirect protection for domestic products or a taxation
+  of imports for fiscal purposes. They shall be based on specific rates.
+  Trade related fees and charges shall not be imposed for consular
+  services.</article>
+      <article number="ARTICLE 11" name="Customs Duties On Products Originating In The Esa States" article_identifier="24388">Products originating in the ESA States shall be imported into the EC
+  Party free of customs duties under the conditions defined in Annex I.</article>
+      <article number="ARTICLE 12" name="Customs Duties On Products Originating In The Ec Party" article_identifier="24389">1. Customs duties on imports of products originating in the EC Party
+  shall be reduced or eliminated in accordance with the schedules of
+  tariff liberalisation in Annex II, which shall contain the schedules
+  of each Signatory ESA State or group of Signatory ESA States.
+
+  2. The Parties may review the schedules of tariff liberalisation in
+  Annex II with a view to harmonising them taking into account regional
+  integration processes.
+
+  3. Any new schedule of tariff liberalisation for customs duties on
+  imports of products originating in the EC Party submitted after the
+  ratification process of this Agreement has commenced may be annexed to
+  this Agreement in Annex II by decision of the EPA Committee.</article>
+      <article number="ARTICLE 13" name="Rules Of Origin" article_identifier="24390">For the purposes of this Chapter, "originating" means
+  qualifying under the rules of origin set out in Protocol 1 to this
+  Agreement. For the purposes of the comprehensive EPA, and during the
+  period between the entry into force of this agreement and the entry
+  into force of the comprehensive EPA, the Parties shall review the
+  provisions of this Protocol with a view to their further
+  simplification. In such review the Parties shall take into account the
+  development needs of the ESA States and development of technologies,
+  production processes and all other factors, including on-going reforms
+  of rules of origin, which may require modifications to the provisions
+  of this Protocol. Any such modifications shall be effected by a
+  decision of the EPA Committee.</article>
+      <article number="ARTICLE 14" name="Standstill" article_identifier="24391">Subject to Article 12, the Parties agree not to increase their applied
+  customs duties on products imported from the other Party.</article>
+      <article number="ARTICLE 15" name="Duties, Taxes On Exports" article_identifier="24392">1. Except as otherwise provided in Annex III and for the duration of
+  this Agreement, the Parties shall not institute any new duties or
+  taxes on or in connection with the exportation of goods to the other
+  Party in excess of those imposed on like products destined for
+  internal sale.
+
+  2. The EPA Committee may examine a request from any Signatory ESA
+  State for a review of the goods listed in Annex III.</article>
+      <article number="ARTICLE 16" name="More Favourable Treatment Resulting From Free Trade Agreements" article_identifier="24393">1. With respect to the subject matter covered by this Chapter, the EC
+  Party shall accord to the Signatory ESA States any more favourable
+  treatment applicable as a result of the EC Party becoming party to a
+  free trade agreement with third parties after the signature of this
+  Agreement.
+
+  2. With respect to the subject matter covered by this Chapter, the
+  Signatory ESA States shall accord to the EC Party any more favourable
+  treatment applicable as a result of the Signatory ESA States becoming
+  party to a free trade agreement with any major trading economy after
+  the signature of this Agreement.
+
+  3. The provisions of this Chapter shall not be so construed as to
+  oblige the Parties to extend reciprocally any preferential treatment
+  applicable as a result of one of them being party to a free trade
+  agreement with third parties on the date of signature of this
+  Agreement.
+
+  4. The provisions of paragraph 2 shall not apply in respect of trade
+  agreements between Signatory ESA States with other African countries
+  and regions.
+
+  5. For the purposes of this Article, "free trade agreement"
+  means an agreement substantially liberalising trade and providing for
+  the absence or elimination of substantially all discrimination between
+  or among parties thereto through the elimination of existing
+  discriminatory measures and/or the prohibition of new or more
+  discriminatory measures, either at the entry into force of that
+  agreement or on the basis of a reasonable time frame.
+
+  6. For the purposes of this Article, "major trading economy"
+  means any developed country, or any country accounting for a share of
+  world merchandise exports above 1 percent in the year before the entry
+  into force of the free trade agreement referred to in paragraph 2, or
+  any group of countries acting individually, collectively or through a
+  free trade agreement accounting collectively for a share of world
+  merchandise exports above 1,5 percent in the year before the entry
+  into force of the free trade agreement referred to in paragraph 2 [1].
+
+  Non-tariff measures</article>
+      <article number="ARTICLE 17" name="Prohibition Of Quantitative Restrictions" article_identifier="24394">Except as otherwise specified in Annexes I and II of this Agreement,
+  all prohibitions or restrictions in trade on the importation,
+  exportation or sale for export between the Parties, other than customs
+  duties, taxes, fees and other charges provided for under Article 7,
+  whether made effective through quotas, import or export licences or
+  other measures, shall be eliminated upon the entry into force of this
+  Agreement. No new such measures shall be introduced.</article>
+      <article number="ARTICLE 18" name="National Treatment On Internal Taxation And Regulation" article_identifier="24395">1. Imported products originating in the other Party shall not be
+  subject, either directly or indirectly, to internal taxes or other
+  internal charges of any kind in excess of those applied, directly or
+  indirectly, to like national products. Moreover, the Parties shall not
+  otherwise apply internal taxes or other internal charges so as to
+  afford protection to national production.
+
+  2. Imported products originating in the other Party shall be accorded
+  treatment no less favourable than that accorded to like national
+  products in respect of all laws, regulations and requirements
+  affecting their internal sale, offering for sale, purchase,
+  transportation, distribution or use. The provisions of this paragraph
+  shall not prevent the application of differential internal
+  transportation charges which are based exclusively on the economic
+  operation of the means of transport and not on the nationality of the
+  product.
+
+  3. No Party shall establish or maintain any internal quantitative
+  regulation relating to the mixture, processing or use of products in
+  specified amounts or proportions which requires, directly or
+  indirectly, that any specified amount or proportion of any product
+  which is the subject of the regulation must be supplied from domestic
+  sources. Moreover, no Party shall otherwise apply internal
+  quantitative regulations so as to afford protection to national
+  production.
+
+  4. The provisions of this Article shall not prevent the payment of
+  subsidies exclusively to national producers, including payments to
+  national producers derived from the proceeds of internal taxes or
+  charges applied consistently with the provisions of this Article and
+  subsidies effected through governmental purchases of national
+  products.
+
+  5. The provisions of this Article shall not apply to laws,
+  regulations, procedures or practices governing public procurement.
+
+  6. The EPA Committee may decide to authorise a Signatory ESA State to
+  depart from the provisions of this Article to promote the
+  establishment of domestic production and protect infant industry. In
+  this respect the development needs of Signatory ESA States and, in
+  particular, the special needs and concerns of ESA LDCs will be taken
+  into account.
+
+  7. A list of provisional derogations is attached as Annex III. Such
+  derogations are granted to the interested Signatory ESA States for the
+  periods of time which are set out in the same Annex.
+
+  Trade defence measures</article>
+      <article number="ARTICLE 19" name="Anti-Dumping And Countervailing Measures" article_identifier="24396">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall prevent the EC Party or Signatory ESA States, whether
+  individually or collectively, from adopting anti-dumping or
+  countervailing measures in accordance with the relevant WTO
+  agreements. For the purpose of this Article, origin shall be
+  determined in accordance with the non-preferential rules of origin of
+  the Parties.
+
+  2. Before imposing definitive anti-dumping or countervailing duties in
+  respect of products imported from ESA States, the EC Party shall
+  consider the possibility of constructive remedies as provided for in
+  the relevant WTO agreements.
+
+  3. Where anti-dumping or countervailing measures have been imposed on
+  behalf of two or more Signatory ESA States by a regional authority,
+  there shall be one single forum of judicial review, including at the
+  stage of appeals.
+
+  4. Where anti-dumping or countervailing measures can be imposed on a
+  regional or sub-regional basis and on a national basis the Parties
+  shall ensure that such measures are not applied simultaneously in
+  respect of the same product by regional or sub-regional authorities on
+  the one hand, and national authorities on the other.
+
+  5. The EC Party shall notify the exporting Signatory ESA States of the
+  receipt of a properly documented complaint before initiating any
+  investigation.
+
+  6. The provisions of this Article shall be applicable in all
+  investigations initiated after this Agreement enters into force.
+
+  7. The provisions of this Article shall not be subject to the Dispute
+  Settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 20" name="Multilateral Safeguards" article_identifier="24397">1. Subject to the provisions of this Article, nothing in this
+  Agreement shall prevent the Signatory ESA States and the EC Party from
+  adopting measures in accordance with Article XIX of GATT 1994, the WTO
+  Agreement on Safeguards, and Article 5 of the WTO Agreement on
+  Agriculture. For the purpose of this Article, origin shall be
+  determined in accordance with the non-preferential rules of origin of
+  the Parties.
+
+  2. Notwithstanding paragraph 1, the EC Party shall, in the light of
+  the overall development objectives of this Agreement and the small
+  size of the economies of the ESA States, exclude imports from any ESA
+  State from any measures taken pursuant to Article XIX of GATT 1994,
+  the WTO Agreement on Safeguards and Article 5 of the WTO Agreement on
+  Agriculture.
+
+  3. The provisions of paragraph 2 shall apply for a period of five
+  years, beginning with the date of entry into force of this Agreement.
+  Not later than 120 days before the end of this period, the EPA
+  Committee shall review the operation of those provisions in the light
+  of the development needs of the ESA States, with a view to determining
+  whether to extend their application for a further period.
+
+  4. The provisions of paragraph 1 shall not be subject to the Dispute
+  Settlement provisions of this Agreement.</article>
+      <article number="ARTICLE 21" name="Bilateral Safeguards" article_identifier="24398">1. After having examined alternative solutions, a Party may apply
+  safeguard measures of limited duration which derogate from the
+  provisions of Articles 11, 12 and 17, under the conditions and in
+  accordance with the procedures laid down in this Article.
+
+  2. Safeguard measures referred to in paragraph 1 may be taken where a
+  product originating in one Party is being imported into the territory
+  of the other Party in such increased quantities and under such
+  conditions as to cause or threaten to cause:
+
+  (a) serious injury to the domestic industry producing like or directly
+  competitive products in the territory of the importing Party, or;
+
+  (b) disturbances in a sector of the economy, particularly where these
+  disturbances produce major social problems, or difficulties which
+  could bring about serious deterioration in the economic situation of
+  the importing Party, or;
+
+  (c) disturbances in the markets of agricultural like or directly
+  competitive products [2] or mechanisms regulating those markets.
+
+  3. Safeguard measures referred to in this Article shall not exceed
+  what is necessary to remedy or prevent the serious injury or
+  disturbances, as defined in paragraph 2 and 5(b). Those safeguard
+  measures of the importing Party may only consist of one or more of the
+  following:
+
+  (a) suspension of the further reduction of the rate of import duty for
+  the product concerned, as provided for under this Agreement;
+
+  (b) increase in the customs duty on the product concerned up to a
+  level which does not exceed the customs duty applied to other WTO
+  Members, and
+
+  (c) introduction of tariff quotas on the product concerned.
+
+  4. Without prejudice to paragraphs 1, 2 and 3, where any product
+  originating in one or more Signatory ESA States or subgroups is being
+  imported in such increased quantities and under such conditions as to
+  cause or threaten to cause one of the situations referred to under
+  paragraph 2 to one or several of the EC Party’s outermost regions, the
+  EC Party may take surveillance or safeguard measures limited to the
+  region or regions concerned in accordance with the procedures laid
+  down in paragraphs 6 to 9.
+
+  5. (a) Without prejudice to paragraphs 1, 2 and 3, where any product
+  originating in the EC Party is being imported in such increased
+  quantities and under such conditions as to cause or threaten to cause
+  one of the situations referred to under paragraph 2 to a Signatory ESA
+  State, the Signatory ESA State concerned may take surveillance or
+  safeguard measures limited to its territory in accordance with the
+  procedures laid down in paragraphs 6 to 9.
+
+  (b) A Signatory ESA State may take safeguard measures where a product
+  originating in the EC Party as a result of the reduction of duties is
+  being imported into its territory in such increased quantities and
+  under such conditions as to cause or threaten to cause disturbances to
+  an infant industry producing like or directly competitive products.
+  Such provision is only applicable for a period of 10 years for
+  non-LDCs and 15 years for LDCs from the date of entry into force of
+  this Agreement. Measures must be taken in accordance with the
+  procedures laid down in paragraphs 6 to 9.
+
+  6. (a) Safeguard measures referred to in this Article shall only be
+  maintained for such a time as may be necessary to prevent or remedy
+  serious injury or disturbances as defined in paragraphs 2, 4 and 5.
+
+  (b) Safeguard measures referred to in this Article shall not be
+  applied for a period exceeding two years. Where the circumstances
+  warranting imposition of safeguard measures continue to exist, such
+  measures may be extended for a further period of no more than two
+  years. Where the Signatory ESA States or a Signatory ESA State apply a
+  safeguard measure, or where the EC Party applies a measure limited to
+  the territory of one or more of its outermost regions, such measure
+  may however be applied for a period not exceeding four years and,
+  where the circumstances warranting imposition of safeguard measures
+  continue to exist, extended for a further period of four years.
+
+  (c) Safeguard measures referred to in this Article that exceed one
+  year shall contain clear elements progressively leading to their
+  elimination at the end of the set period, at the latest.
+
+  (d) No safeguard measure referred to in this Article shall be applied
+  to the imports of a product that has previously been subject to such a
+  measure, for a period of at least one year since the expiry of the
+  measure.
+
+  7. For the implementation of the above paragraphs, the following
+  provisions shall apply:
+
+  (a) where a Party takes the view that one of the circumstances set out
+  in paragraphs 2, 4 and 5 exists, it shall immediately refer the matter
+  to the EPA Committee for examination;
+
+  (b) the EPA Committee may make any recommendation needed to remedy the
+  circumstances which have arisen. If no recommendation has been made by
+  the EPA Committee aimed at remedying the circumstances, or no other
+  satisfactory solution has been reached within 30 days of the matter
+  being referred to the EPA Committee, the importing Party may adopt the
+  appropriate measures to remedy the circumstances in accordance with
+  this Article;
+
+  (c) before taking any measure provided for in this Article or, in the
+  cases to which paragraph 8 of this Article applies, as soon as
+  possible, the EC Party or the Signatory ESA State concerned shall
+  supply the EPA Committee with all relevant information required for a
+  thorough examination of the situation, with a view to seeking a
+  solution acceptable to the Parties concerned;
+
+  (d) in the selection of safeguard measures pursuant to this Article,
+  priority must be given to those which least disturb the operation of
+  this Agreement;
+
+  (e) any safeguard measure taken pursuant to this Article shall be
+  notified immediately to the EPA Committee and shall be the subject of
+  periodic consultations within that body, particularly with a view to
+  establishing a timetable for their abolition as soon as circumstances
+  permit.
+
+  8. Where exceptional circumstances require immediate action, the
+  importing Party concerned, whether the EC Party, the ESA States or a
+  Signatory ESA State as the case may be, may take the measures provided
+  for in paragraph 3, 4 and/or 5 on a provisional basis without
+  complying with the requirements of paragraph 7. Such action may be
+  taken for a maximum period of 180 days where measures are taken by the
+  EC Party and 200 days where measures are taken by the ESA States or a
+  Signatory ESA State, or where measures taken by the EC Party are
+  limited to the territory of one or more of its outermost regions. The
+  duration of any such provisional measure shall be counted as a part of
+  the initial period and any extension referred to in paragraph 6. In
+  the taking of such provisional measures, the interest of all Parties
+  involved shall be taken into account. The importing Party concerned
+  shall inform the other Party concerned and shall immediately refer the
+  matter to the EPA Committee for examination.
+
+  9. If an importing Party subjects imports of a product to an
+  administrative procedure having as its purpose the rapid provision of
+  information on the trend of trade flows liable to give rise to the
+  problems referred to in this Article, it shall inform the EPA
+  Committee without delay.
+
+  10. The WTO Agreement shall not be invoked to preclude a Party from
+  adopting safeguard measures in conformity with this Article.
+
+  Administrative provisions</article>
+      <article number="ARTICLE 22" name="Special Provision On Administrative Cooperation" article_identifier="24399">1. The Parties agree that administrative cooperation is essential for
+  the implementation and control of the preferential treatment granted
+  under this Chapter and underline their commitment to combat
+  irregularities and fraud in customs and related matters.
+
+  2. Where a Party has made a finding, on the basis of objective
+  information, of a failure to provide administrative cooperation and/or
+  of irregularities or fraud, the Party concerned may temporarily
+  suspend the relevant preferential treatment of the product(s)
+  concerned in accordance with this Article.
+
+  3. For the purpose of this Article, a failure to provide
+  administrative cooperation shall mean, inter alia:
+
+  (a) a repeated failure to respect the obligations to verify the
+  originating status of the product(s) concerned;
+
+  (b) a repeated refusal or undue delay in carrying out and/or
+  communicating the results of subsequent verification of the proof of
+  origin;
+
+  (c) a repeated refusal or undue delay in obtaining authorisation to
+  conduct administrative cooperation missions to verify the authenticity
+  of documents or accuracy of information relevant to the granting of
+  the preferential treatment in question.
+
+  4. For the purpose of this Article a finding of irregularities or
+  fraud may be made, inter alia, where there is a rapid increase,
+  without satisfactory explanation, in imports of goods exceeding the
+  usual level of production and export capacity of the other Party that
+  is linked to objective information concerning irregularities or fraud.
+
+  5. The application of a temporary suspension shall be subject to the
+  following conditions:
+
+  (a) the Party which has made a finding, on the basis of objective
+  information, of a failure to provide administrative cooperation and/or
+  of irregularities or fraud shall without undue delay notify the EPA
+  Committee of its finding together with the objective information and
+  enter into consultations within the EPA Committee, on the basis of all
+  relevant information and objective findings, with a view to reaching a
+  solution acceptable to both Parties.
+
+  (b) where the Parties have entered into consultations within the EPA
+  Committee as above and have failed to agree on an acceptable solution
+  within three months following the notification, the Party concerned
+  may temporarily suspend the relevant preferential treatment of the
+  product(s) concerned. A temporary suspension shall be notified to the
+  EPA Committee without undue delay.
+
+  (c) temporary suspensions under this Article shall be limited to that
+  necessary to protect the financial interests of the Party concerned.
+  They shall not exceed a period of six months, which may be renewed.
+  Temporary suspensions shall be notified immediately after their
+  adoption to the EPA Committee. They shall be subject to periodic
+  consultations within the EPA Committee in particular with a view to
+  their termination as soon as the conditions for their application are
+  no longer satisfied.
+
+  6. At the same time as the notification to the EPA Committee under
+  paragraph 5(a) of this Article, the Party concerned should publish a
+  notice to importers in its Official Journal. The notice to importers
+  should indicate for the product concerned that there is a finding, on
+  the basis of objective information, of a failure to provide
+  administrative cooperation and/or of irregularities or fraud.</article>
+      <article number="ARTICLE 23" name="Management Of Administrative Errors" article_identifier="24400">In case of error by the competent authorities in the proper management
+  of the preferential system of export, and in particular in the
+  application of the provisions of Protocol 1 concerning the definition
+  of the concept of "originating products" and methods of
+  administrative cooperation, where this error leads to consequences in
+  terms of import duties, the Party facing such consequences may request
+  the EPA Committee to examine the possibilities of adopting all
+  appropriate measures with a view to resolving the situation.</article>
+      <article number="ARTICLE 24" name="Custom Valuation" article_identifier="24401">1. Article VII of GATT 1994 and the Agreement on the implementation of
+  Article VII of GATT 1994 shall govern customs valuation rules applied
+  to reciprocal trade between the Parties.
+
+  2. The Parties shall cooperate with a view to reaching a common
+  approach to issues relating to customs valuation.</article>
+    </chapter>
+    <chapter number="CHAPTER III" name="Fisheries" chapter_identifier="2927">
+      <article number="ARTICLE 25" article_identifier="24402">1. The Parties recognise that fisheries constitute a key economic
+  resource of the ESA region, contribute significantly to the economies
+  of the Signatory ESA States and have great potential for future
+  regional economic development and poverty reduction. It is also an
+  important source of food and foreign exchange.
+
+  2. The Parties further recognise that fisheries resources are also of
+  considerable interest to both the EC Party and the Signatory ESA
+  States, and agree to cooperate for the sustainable development and
+  management of the fisheries sector in their mutual interests taking
+  into account the economic, environmental and social impacts.
+
+  3. The Parties agree that the appropriate strategy to promote the
+  economic growth of the fisheries sector and to enhance its
+  contribution to the ESA economy, while taking into consideration its
+  long term sustainability, is through increasing value adding
+  activities within the sector.</article>
+      <article number="ARTICLE 26" name="Objectives" article_identifier="24403">The objectives of cooperation in fisheries are to:
+
+  (a) promote sustainable development and management of fisheries;
+
+  (b) promote and develop regional and international trade based on best
+  practices;
+
+  (c) create an enabling environment, including infrastructure and
+  capacity building, for the ESA States to cope with the stringent
+  market requirements for both industrial and small scale fisheries;
+
+  (d) support national and regional policies aimed at increasing
+  productivity and competitiveness of the fisheries sector; and
+
+  (e) build links with other economic sectors.</article>
+      <article number="ARTICLE 27" name="Scope" article_identifier="24404">Cooperation in fisheries trade and development shall cover marine,
+  inland fisheries and aquaculture.</article>
+      <article number="ARTICLE 28" name="Principles" article_identifier="24405">1. The principles of cooperation in fisheries include:
+
+  (a) support for the development and strengthening of regional
+  integration;
+
+  (b) preservation of the acquis of the Cotonou Agreement;
+
+  (c) provision of special and differential treatment;
+
+  (d) the need to take into account the best available scientific
+  information for resource assessment and management;
+
+  (e) a functioning monitoring system of the environmental, economic and
+  social impacts in the Parties;
+
+  (f) conformity with existing national laws and relevant international
+  instruments including the United Nations Convention on the Law Of the
+  Sea (UNCLOS), regional and sub-regional agreements; and
+
+  (g) preservation and priority of particular needs of the
+  artisanal/subsistence fishery.
+
+  2. These guiding principles should contribute to sustainable and
+  responsible development of the living inland and marine resources,
+  aquaculture, and to optimising the benefits of this sector for present
+  and future generations, through increased investment, capacity
+  building and improved market access.</article>
+      <article number="ARTICLE 29" name="Preferential Access" article_identifier="24406">The Parties shall cooperate to ensure that financial and other support
+  will be provided to improve the competitiveness and production
+  capacity of the processing factories, the diversification of the
+  fishing industry and the improvement of port facilities.
+
+  Marine fisheries</article>
+      <article number="ARTICLE 30" name="Scope" article_identifier="24407">The scope of this Title is the utilisation, conservation and
+  management of marine fisheries resources to optimise the benefits from
+  fisheries for the ESA region through investment capacity building and
+  improved market access.</article>
+      <article number="ARTICLE 31" name="Objectives" article_identifier="24408">The objectives of cooperation are to:
+
+  (a) strengthen cooperation in order to ensure the sustainable
+  exploitation and management of fisheries resources as a strong basis
+  for regional integration, given the straddling and migratory species
+  which are shared among island and coastal States and as no individual
+  ESA State has the capacity to ensure sustainability of the resource;
+
+  (b) ensure a more equitable share of the benefits derived from the
+  fisheries sector;
+
+  (c) ensure effective monitoring control and surveillance (MCS)
+  necessary for combating illegal, unreported and unregulated (IUU)
+  fishing; and
+
+  (d) promote effective exploitation, conservation and management of the
+  living marine resources in the exclusive economic zone (EEZ) and
+  waters in which ESA States have jurisdiction based on international
+  instruments, including UNCLOS, for the mutual social and economic
+  benefit of the ESA States and the EC Party.</article>
+      <article number="ARTICLE 32" name="Areas Of Cooperation" article_identifier="24409">1. To achieve the objectives of cooperation in marine fisheries within
+  the described principles, cooperation will include fisheries
+  management and conservation issues, vessel management and post harvest
+  arrangements and financial and trade measures and development of
+  fisheries and fishery products and marine aquaculture.
+
+  2. The EC Party will contribute to the mobilisation of the resources
+  for the implementation of the identified areas of cooperation at
+  national and regional levels, which will also include support for
+  regional capacity building. Furthermore, the EC Party shall contribute
+  to the measures as described in the section concerning financial and
+  trade measures, and on infrastructure development specific for
+  fisheries and marine aquaculture.
+
+  (a) Fisheries Management and Conservation Issues
+
+  1. The precautionary approach shall be applied in determining levels
+  of sustainable catch, fishing capacity and other management strategies
+  to avoid or reverse undesirable outcomes such as over-capacity and
+  over-fishing, as well as undesirable impacts on the ecosystems and
+  artisanal fisheries.
+
+  2. Each ESA State may take appropriate measures, including seasonal
+  and gear restrictions in order to further protect its territorial
+  waters and ensure the sustainability of the artisanal and coastal
+  fishery.
+
+  3. The Parties will promote the membership of all the concerned States
+  to the Indian Ocean Tuna Commission (IOTC) and other relevant
+  fisheries organisations. These countries, with the EC Party, should
+  coordinate action to ensure the management and conservation of all
+  fish species, including tuna and tuna-like resources and facilitate
+  relevant scientific research.
+
+  4. Where there is insufficient scientific evidence for the competent
+  national management authority to determine limits and target levels of
+  sustainable catch in an ESA EEZ, both Parties in consultation with the
+  competent national authority and together with IOTC and where
+  relevant, other regional fisheries organisations, shall support such
+  scientific analysis.
+
+  5. The Parties agree to take appropriate measures where an increase in
+  effort results in catch levels above the target sustainable level
+  established by the competent national authority.
+
+  6. In order to conserve and manage straddling stocks and highly
+  migratory fish stocks, the EC Party and the ESA States shall ensure
+  compliance by vessels flying their flags with relevant national,
+  regional and sub-regional fisheries management measures and related
+  national laws and regulations.
+
+  (b) Vessel Management and Post Harvest Arrangements
+
+  1. Vessel Management and post harvest arrangements emerging from IOTC
+  and any other relevant regional fisheries organisations will be
+  observed. ESA States and the EC Party shall set out minimum terms and
+  conditions with respect to MCS of EC Party fishing vessels operating
+  in the waters of ESA States, which should include the following:
+
+  (i) a Vessel Monitoring System (VMS) will be set up for all ESA
+  States, and all ESA States will use a compatible VMS. Those ESA States
+  which do not have a VMS will be assisted by the EC Party to set up a
+  compatible VMS;
+
+  (ii) in addition to a compulsory compatible VMS system, all ESA
+  States, in conjunction with the EC Party, will develop other
+  mechanisms to ensure effective MCS and the EC Party will support ESA
+  States to put such an agreed system in place and assist in
+  implementation;
+
+  (iii) the Parties shall have the right to place observers, whether in
+  national or international waters, with the procedures concerning the
+  deployment of observers being well stipulated. Observers are to be
+  paid by the national governments but all costs on board are to be met
+  by the ship-owner. The EC Party will support the costs of training
+  observers;
+
+  (iv) common systems of reporting of fishing will be developed and be
+  used throughout the region, with minimum terms set for reporting;
+
+  (v) all vessels that land or tranship their catches within the ESA
+  State shall do it in ports or outer-port areas. No transhipment shall
+  be allowed at sea, except on particular conditions foreseen by the
+  relevant Regional Fisheries Management Organisations (RFMO). Both
+  Parties shall cooperate to modernise landing or transhipment
+  infrastructure in ports of ESA States, including development capacity
+  of fish products;
+
+  (vi) all vessels should endeavour to use the facilities of the ESA
+  States and undertake to make use of local supplies;
+
+  (vii) discards reporting shall be compulsory. Priority should be given
+  to avoid discards through the use of selective fishing methods in line
+  with the principles of the IOTC and relevant regional fisheries
+  organisations. As far as possible, by-catch shall be brought ashore.
+
+  2. The Parties agree to cooperate in developing and implementing
+  national/regional training programmes for ESA nationals in order to
+  facilitate their effective participation in the fishing industry.
+  Where the EC Party has negotiated bilateral fisheries agreements,
+  employment of ESA nationals shall be encouraged. The International
+  Labour Organisation (ILO) Declaration on fundamental principles and
+  rights at work shall apply as of right to seamen signed on Community
+  vessels.
+
+  3. Both Parties shall undertake coordinated efforts to improve the
+  means for preventing, deterring, and eliminating IUU fishing and to
+  this end take appropriate measures. Fishing vessels involved in IUU
+  fishing should be prosecuted and should not be allowed to fish again
+  in ESA waters, unless prior authorisation has been obtained from both
+  the flag State and the concerned ESA States as well as, where
+  relevant, the concerned RFMO.
+
+  (c) Financial and Trade Measures and Development issues
+
+  Inland fisheries and aquaculture development</article>
+      <article number="ARTICLE 33" name="Scope" article_identifier="24410">The scope of this Title shall cover inland fisheries, coastal and
+  aquaculture development in the ESA region with respect to capacity
+  building, technology transfer, Sanitary and Phytosanitary (SPS)
+  standards, investment, and investment finance, environmental
+  protection as well as legal and regulatory frameworks.</article>
+      <article number="ARTICLE 34" name="Objectives" article_identifier="24411">The objectives of cooperation in inland fisheries and aquaculture
+  development will be to promote sustainable exploitation of inland
+  fisheries resources, enhance aquaculture production, remove supply
+  side constraints, improve fish and fish product quality to meet SPS
+  standards in the EC market, improve access to the EC market, address
+  intra-regional trade barriers, attract capital inflows and investment
+  into the sector, build capacity and enhance access to financial
+  support for the private investors for inland fisheries and aquaculture
+  development.</article>
+      <article number="ARTICLE 35" name="Areas Of Cooperation" article_identifier="24412">1. The areas of cooperation shall include EC Party contributions to
+  the following:
+
+  (a) capacity building and export market development through:
+
+  (i) building capacity in industrial and artisanal production,
+  processing and product diversification that strengthen the
+  competitiveness of the region’s inland fisheries and aquaculture. This
+  could, for example, be achieved by the creation of Research and
+  development (R&amp;D) centres including the development of aquaculture
+  for commercial fishing farms;
+
+  (ii) building capacity for managing export market chains, including
+  the introduction and management of certification schemes for specific
+  product lines; and implementation of market promotion, value addition
+  and reduction in post harvest losses in fishery products;
+
+  (iii) increasing capacity in the region through, for example,
+  improving competent authorities, traders’ associations and fishermen’s
+  associations in order to participate in fisheries trade with the EC
+  Party and training programs in product development and branding.
+
+  (b) Infrastructure
+
+  (i) developing and improving infrastructure for inland fisheries and
+  aquaculture;
+
+  (ii) facilitating access to funding for infrastructure, including all
+  types of equipment.
+
+  (c) Technology
+
+  (i) contributing to the development of technical capabilities,
+  including value adding technology promotion, for example, through
+  fisheries technology transfer from the EC Party to the ESA countries;
+
+  (ii) enhancing fisheries management capacity in the region, for
+  example through research and data collection systems and contribution
+  towards appropriate technologies on harvesting and post harvest
+  management.
+
+  (d) Legal and regulatory
+
+  (i) supporting the development of inland fisheries and aquaculture
+  regulations and monitoring control and surveillance systems;
+
+  (ii) supporting ESA States in developing appropriate legal and
+  regulatory instruments on intellectual property rights (IPR) and
+  building capacity for their implementation in international trade;
+
+  (iii) eco-labelling and intellectual property protection.
+
+  (e) Investment and finance
+
+  (i) promoting joint ventures and other forms of mixed investments
+  between stakeholders in ESA States and the EC Party, for example for
+  the setting up of modalities for identifying investors for joint
+  venture operations in inland fisheries and aquaculture;
+
+  (ii) contributing to providing access to credit facilities for the
+  development of small to medium scale enterprises as well as industrial
+  scale inland fisheries.
+
+  (f) Socio-economic and poverty alleviation measures
+
+  (i) contributing to the promotion of small and medium scale fisheries,
+  processors, and fish traders by building the capacity of ESA States to
+  participate in trade with the EC Party;
+
+  (ii) encouraging participation of marginal groups in the fishing
+  industry, for example, through the promotion of gender equality in
+  fisheries by developing the capacity of women engaged in fisheries, as
+  well as other disadvantaged groups with the potential to engage in
+  fisheries for sustainable social economic development.
+
+  2. Both Parties shall contribute to measures to ensure that fish trade
+  supports environmental conservation and safeguards against stocks
+  depletion, and to the maintenance of biodiversity and the cautious
+  introduction of exotic species for aquaculture (to be introduced only
+  in managed/closed spaces in consultation with all concerned
+  neighbouring countries).</article>
+    </chapter>
+    <chapter number="CHAPTER IV" name="Economic And Development Cooperation" chapter_identifier="2928">
+      <article number="ARTICLE 36" name="General Provisions" article_identifier="24413">1. The Parties agree to address the developmental needs of the ESA
+  States in order to promote sustained growth in the ESA region,
+  increase production and supply capacity of the States concerned,
+  foster structural transformation and competitiveness of their
+  economies and their diversification and value addition and support
+  regional integration.
+
+  2. The Parties commit themselves to cooperating in order to facilitate
+  the implementation of this Agreement and to support regional
+  integration and development strategies. The Parties agree that
+  cooperation will be based on the ESA Development Cooperation Strategy
+  and the jointly agreed Development Matrix. The matrix is attached as
+  Annex IV to this Agreement. The ESA Development Cooperation Strategy
+  and the Development Matrix will be regularly reviewed subject to the
+  provisions of Chapter VI on Dispute Avoidance, Settlement,
+  Institutional, General and Final Provisions. This cooperation will be
+  measured against jointly agreed development benchmarks to be developed
+  and adopted and annexed to this Agreement. The cooperation shall be in
+  the form of financial and non-financial support to the ESA region.
+
+  3. In this regard, the financing pertaining to development cooperation
+  between the ESA Region and the EC Party for the implementation of this
+  Agreement shall be carried out within the framework of the rules and
+  relevant procedures provided for by the Cotonou Agreement, in
+  particular the programming procedures of the European Development Fund
+  within successive financial frameworks of the EU during the period of
+  this Agreement as well as within the frameworks of relevant
+  instruments financed by the General Budget of the EU. In this context,
+  taking into account the new challenges deriving from enhanced regional
+  integration and competition on the global markets, the Parties agree
+  that supporting the implementation of the EPA shall be one of the
+  priorities.
+
+  4. Both Parties shall cooperate to mobilise resources additional to
+  the financial framework of the EU, from EU Member States and other
+  donors, in particular expanding Aid for Trade commitments, relating
+  specifically to EPA support requirements and adjustment costs. The
+  programmes/projects proposed for financing will be worked out jointly
+  based on a detailed costed development matrix.
+
+  5. Sufficient resources should be mobilised on a predictable, timely
+  and sustainable basis including through grants and concessional loans
+  based on the Development Matrix. The EC shall contribute to these
+  efforts under its international commitment on the scaling up of
+  Official Development Aid. The Parties agree to monitor and coordinate
+  the use of these resources.
+
+  6. Consistent with the Paris Declaration on Aid Effectiveness, the
+  Parties agree to use and support as appropriate nationally and/or
+  regionally owned delivery mechanisms, funds or facilities for
+  channelling and coordinating resources for implementing the EPA. The
+  Parties shall, in that regard, support the establishment of an EPA
+  Fund to channel EPA related resources. The Parties also agree that all
+  forms of aid delivery pertaining to their cooperation under this
+  Agreement shall be guided by the Paris Declaration on Aid
+  Effectiveness.
+
+  7. The trade-related issues to be provided for in the comprehensive
+  EPA shall be the subject of development cooperation in accordance with
+  this Article taking into consideration the Paris Declaration on Aid
+  Effectiveness.
+
+  8. The Parties agree that EPA monitoring, on the basis of agreed
+  indicators, will need to address all aspects of the EPA, including
+  achievements at the national level and at the level of regional
+  integration and development strategies, as well as the effectiveness
+  of the institutional arrangements and their achievements in meeting
+  Aid effectiveness objectives, including ensuring predictability of the
+  resources.
+
+  9. The Parties agree that, without prejudice to the provisions of
+  Article 95.4 of the Cotonou Agreement, the review process provided
+  therein will constitute an opportunity for the Parties to review the
+  achievements, constraints and way forward regarding their development
+  cooperation strategies as provided for within the Agreement.</article>
+      <article number="ARTICLE 37" name="Objectives" article_identifier="24414">1. Economic and development cooperation shall aim at enhancing the
+  competitiveness of ESA economies, building up supply capacity and
+  enabling Signatory ESA States in implementing the EPA smoothly.
+
+  2. Economic and development cooperation shall aim at the structural
+  transformation of ESA economies by establishing a strong, competitive
+  and diversified economic base in the ESA States through enhancing
+  production, distribution, transport, marketing, developing trade
+  capacity of ESA States as well as capacity to attract investment,
+  strengthening the ESA States’ trade and investment policies and
+  regulations and deepening regional integration.</article>
+      <article number="ARTICLE 38" name="Scope" article_identifier="24415">1. The Parties shall set out the development objectives related to the
+  EPA that are specific to the ESA region and needed for the success of
+  regional integration within the areas and sectors highlighted in this
+  Article.
+
+  2. The areas that will be addressed by the cooperation are:
+
+  (a) regional cooperation and integration to ensure trans-regional
+  coordination in all sectors;
+
+  (b) trade policy and regulations in order to assist the ESA States in
+  participating more effectively in trade negotiations, in implementing
+  international trade related conventions, trade related legislation and
+  regulatory reforms amongst others;
+
+  (c) trade development which covers namely business development and
+  activities aimed at improving information management systems,
+  partnerships, linkages, joint ventures and exchange of information and
+  experiences, access to credit and investment finance, trade promotion
+  and market development, institutional support as well as support to
+  trade in services, including financial services;
+
+  (d) trade related infrastructure, including transport, energy and
+  water;
+
+  (e) building productive capacities in relevant sectors of ESA
+  economies;
+
+  (f) research and development, innovation and technology transfer;
+
+  (g) trade related adjustment costs, which include restructuring and
+  social costs arising from the reduction of production by firms in
+  import competing sectors and the loss of fiscal revenues dues to the
+  tariff reductions;
+
+  (h) gender mainstreaming;
+
+  (i) empowerment of local communities, which includes social and
+  cultural development; and
+
+  (j) mainstreaming of environmental issues into trade and development.
+
+  3. The cooperation shall, in particular, cover the following sectors:
+
+  (a) Private Sector Development, particularly Industrial Development,
+  micro-enterprises, small and medium-sized enterprises (MSME), Mining
+  and Minerals as well as Tourism.
+
+  (b) Infrastructure Development, namely in the Transport, Energy,
+  Information and Communications Technology (ICT) sectors.
+
+  (c) Natural Resources and Environment, including Water Resources and
+  Biodiversity.
+
+  (d) Agriculture.
+
+  (e) Fisheries.
+
+  (f) Services including Tourism; and
+
+  (g) Trade related issues, namely Investment, Competition, Intellectual
+  Property Rights, Standards, Trade Facilitation and Statistics.
+
+  Private sector development</article>
+      <article number="ARTICLE 39" name="Scope And Objectives" article_identifier="24416">1. The Parties recognise the importance of cooperation to develop the
+  ESA region’s private sector as the main engine of wealth creation in
+  view to set up an appropriate enabling environment which is conducive
+  to investment and growth. The Community support and cooperation shall
+  take account of the economic structure of the ESA States and their
+  priorities in strengthening productive capacities and value addition,
+  and the application of Production, Marketing, Distribution, and
+  Transportation (PMDT) functions to improve supply capacities and
+  competitiveness.
+
+  2. The scope of cooperation of private sector development will cover,
+  inter alia, investment, industrial development and competitiveness
+  enhancement, micro-enterprises, small and medium sized enterprises
+  development, mining and minerals and tourism development as well as
+  other productive sectors which are directly and indirectly covered by
+  this Agreement.</article>
+      <article number="ARTICLE 40" name="Investment" article_identifier="24417">1. The Parties recognise the importance of investment. The objectives
+  in this area are to:
+
+  (a) create an environment for sustainable and equitable economic
+  development of ESA through investment, including foreign direct
+  investment (green field or portfolio), technology transfer, capacity
+  building and institutional support from the EC Party;
+
+  (b) provide deeper cooperation with institutions and intermediary
+  organisations dealing with investment promotion in the EC Party,
+  including the Centre for the Development of Enterprise (CDE) and ESA
+  through, inter alia, business dialogue, cooperation and partnership;
+
+  (c) support, through appropriate instruments, the promotion and
+  encouragement of investment in the ESA region, including establishing
+  a framework for funding and assistance to support economic development
+  programmes in ESA;
+
+  (d) strengthen and build the capacity of private development
+  institutions such as investment promotion agencies, chambers of
+  commerce, associations and indigenous development organisations in
+  individual ESA States and the region as a whole so as to enable the
+  emergence of a dynamic and vibrant private sector; and
+
+  (e) develop a legal framework that promotes investment by both
+  Parties, with a view to promoting and protecting investment and work
+  towards harmonised and simplified procedures and administrative
+  practices.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36 the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) support to policies and strategies for investment to help creating
+  and maintaining a predictable and secure investment climate;
+
+  (b) support policy reforms and advocacy, human resource development,
+  institutional capacity-building or other forms of institutional
+  support to strengthen the capacities of the private financial and
+  non-financial intermediaries, investment facilitation and promotion
+  and competitiveness enhancement activities;
+
+  (c) encourage the EU-ESA private sector partnership and joint ventures
+  to promote investment, venture capital financing for greenfield
+  investment and technology transfer;
+
+  (d) support efforts of the ESA States to attract financing, with
+  particular emphasis on private financing, for infrastructure
+  investments and revenue generating infrastructure critical for the
+  private sector, including small and medium-sized enterprises (SMEs);
+
+  (e) support to develop regulatory capacity;
+
+  (f) improve access of ESA enterprises to investment finance
+  instruments in the EU such as the European Investment Bank (EIB);
+
+  (g) establish financial instruments adapted to SMEs of the ESA region;
+
+  (h) ensure the increasing availability and use of risk insurance as a
+  risk-mitigating mechanism in order to boost investor confidence in the
+  ESA States; and
+
+  (i) offer guarantees and assist with guarantee funds covering risks
+  for qualified investment.</article>
+      <article number="ARTICLE 41" name="Industrial Development And Competitiveness" article_identifier="24418">1. The Parties recognise the importance of cooperation in industrial
+  development and competitiveness. The objectives in this area are to:
+
+  (a) facilitate the establishment, development, restructuring and
+  modernisation of the Signatory ESA States’ industry while fostering
+  its competitiveness and self-sustainable and balanced growth taking
+  into account environmental protection, sustainable development and
+  economic empowerment; and
+
+  (b) establish an environment favourable to the development of private
+  enterprise in order to stimulate the growth and diversification of
+  industrial production.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) promote the development of activities in the areas of processing,
+  marketing, distribution and transportation of products;
+
+  (b) transfer of technology, knowledge and research and development;
+
+  (c) support ESA States’ financial institutions and the development of
+  the capital market for the purpose of enhancing the private sector
+  access to both short term and long term capital;
+
+  (d) capacity building for public and private sector;
+
+  (e) encourage EU-ESA partnerships, linkages and joint ventures between
+  economic operators; and
+
+  (f) promote and strengthen innovation, diversification and value
+  addition product development and quality.</article>
+      <article number="ARTICLE 42" name="Micro, Small And Medium-Sized Enterprises" article_identifier="24419">1. The Parties recognise the importance of cooperation in MSME. The
+  objectives in this area are to:
+
+  (a) promote a favourable environment for the development of MSME and
+  for attracting investment therein; and
+
+  (b) support MSMEs to adjust to trade liberalisation.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) capacity building and institutional support;
+
+  (b) technology development and transfer, innovation, information
+  exchange and networks and marketing;
+
+  (c) development of MSME databases;
+
+  (d) access to finance;
+
+  (e) encourage EU-ESA partnerships, linkages and joint ventures between
+  economic operators;
+
+  (f) trade and investment promotion;
+
+  (g) strengthen value chains;
+
+  (h) promote diversification and value addition.</article>
+      <article number="ARTICLE 43" name="Mining And Minerals" article_identifier="24420">1. The Parties recognise the importance of cooperation in the
+  development and management of the mining and minerals sector. The
+  objectives in this area are to:
+
+  (a) establish a conducive environment for attracting investment in the
+  sector;
+
+  (b) promote value addition and environmentally friendly technologies
+  in the mining productive processes; and
+
+  (c) ensure participation of local communities.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) capacity building and institutional support for the exploration,
+  exploitation and marketing of minerals;
+
+  (b) information exchange;
+
+  (c) encourage EU-ESA partnerships, linkages and joint ventures between
+  economic operators;
+
+  (d) improve health and safety standards in the mining industry;
+
+  (e) transfer of technology, knowledge, innovation and Research and
+  Development; and
+
+  (f) address vulnerability of mineral export dependency.</article>
+      <article number="ARTICLE 44" name="Tourism Development" article_identifier="24421">1. The Parties recognise the importance of cooperation in the
+  development of tourism. The objectives in this area are to:
+
+  (a) develop and strengthen a competitive tourism industry as a
+  generator of economic growth and empowerment, employment and foreign
+  exchange;
+
+  (b) strengthen the linkages between tourism and other sectors of the
+  economy; and
+
+  (c) preserve, safeguard and promote natural, historical and cultural
+  tourist attractions, while respecting the integrity and interests of
+  local communities, particularly in rural areas.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) establish strategic alliances involving public, private and local
+  community interests in order to ensure the sustainable development of
+  tourism;
+
+  (b) promote partnerships, exchange of know-how and joint operations in
+  areas such as development of products, markets and eco-tourism;
+
+  (c) capacity building in human resources, improvement in service
+  standards, and institutional structures; and
+
+  (d) regional cooperation in tourism promotion.
+
+  Infrastructure</article>
+      <article number="ARTICLE 45" name="Scope And Objectives" article_identifier="24422">1. The Parties recognise the importance of cooperation in the
+  development and management of infrastructure, as a means to overcome
+  the supply-side constraints and strengthen regional integration.
+
+  2. The Community support and cooperation for infrastructural
+  development shall take account of priority development areas as
+  articulated in the respective ESA States’ national and regional
+  development programmes.
+
+  3. The scope of cooperation in infrastructure will cover the
+  development of physical infrastructure, namely transport, energy,
+  information and communication technology.</article>
+      <article number="ARTICLE 46" name="Transport" article_identifier="24423">1. The Parties recognise the importance of cooperation in the
+  development and management of transport. The objectives in this area
+  are to:
+
+  (a) Develop, restructure, rehabilitate upgrade and modernise the ESA
+  region’s transport systems on a sustainable basis.
+
+  (b) Improve the movement of people and flow of goods and provide
+  better access to markets through road, air, maritime, inland water and
+  rail transport.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) improve management of transport systems;
+
+  (b) improve and develop the state of infrastructure at all levels,
+  including the development of inter-modal infrastructure networks;
+
+  (c) capacity building in human resources, improvement in service
+  standards, and institutional structures;
+
+  (d) technology development and transfer, innovation, information
+  exchange and networks, and marketing;
+
+  (e) encourage EU-ESA partnerships, linkages and joint ventures between
+  economic operators;
+
+  (f) improve safety and reliability of the transport sector, including
+  the management of hazardous goods and emergency response; and
+
+  (g) support to the development of regional transport policies.</article>
+      <article number="ARTICLE 47" name="Energy" article_identifier="24424">1. The Parties recognise the importance of cooperation in the energy
+  sector as a vehicle for supporting the ESA economies’ competitiveness
+  at the regional and global levels. The objectives in this area are to:
+
+  (a) improve the access of ESA States to modern, efficient, reliable,
+  diversified and sustainable and renewable sources of clean energy at
+  competitive prices;
+
+  (b) enhance the production, distribution and management capacity of
+  energy nationally and regionally; and
+
+  (c) promote regional energy cooperation.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) enhance the production and distribution capacity of existing
+  energy sources, in particular hydro, petroleum and biomass;
+
+  (b) expand and diversify the energy mix to include other potential
+  sources of energy that are socially and environmentally acceptable and
+  that reduce dependency on oil;
+
+  (c) support the development of energy infrastructure, including for
+  rural areas;
+
+  (d) support the development of appropriate energy regulatory and
+  policy reforms, including commercialisation and privatisation;
+
+  (e) promote regional interconnectivity and cooperation in the
+  production and distribution of energy;
+
+  (f) capacity building in human resources, improvement in management,
+  service standards, and institutional structures;
+
+  (g) support the creation of a conducive environment for attracting
+  investment in the sector;
+
+  (h) technology development and transfer, research and development
+  (R&amp;D), innovation, information exchange, development of databases
+  and networks;
+
+  (i) encourage EU-ESA partnerships, linkages and joint ventures between
+  economic operators.</article>
+      <article number="ARTICLE 48" name="Information And Communications Technology (Ict)" article_identifier="24425">1. The Parties recognise the importance of cooperation in the
+  development of ICT as a key sector in the modern society to foster
+  competitiveness and innovation, as well as for the smooth transition
+  towards the information society. The objective in this area is to
+  develop the ICT sector and promote its contribution to other
+  socio-economic sectors.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) facilitate connectivity at the national, regional and global
+  levels;
+
+  (b) disseminate new information and communication technologies;
+
+  (c) support the development of the legal and regulatory frameworks on
+  ICT;
+
+  (d) technology development, transfer and applications, R&amp;D,
+  innovation, information exchange and networks, and marketing;
+
+  (e) capacity building in human resources, improvement in service
+  standards, and institutional structures;
+
+  (f) encourage and facilitate EU-ESA partnerships, linkages and joint
+  ventures between economic operators;
+
+  (g) promote and support the development of niche markets for
+  ICT-enabled services.
+
+  Natural resources and environment</article>
+      <article number="ARTICLE 49" name="Scope And Objectives" article_identifier="24426">1. The Parties recognise the importance of cooperation in the
+  sustainable management of natural resources and environment.
+  Cooperation in this area shall take account of differentiated and
+  trans-boundary needs of ESA States.
+
+  2. The scope of cooperation in natural resources and environment will
+  cover natural assets, including water resources, and environment,
+  including biodiversity, as well as enhancing the linkages between
+  trade and environment. It will also cover support for the
+  implementation of international environmental agreements, conventions
+  and treaties.</article>
+      <article number="ARTICLE 50" name="Water Resources" article_identifier="24427">1. The Parties recognise the importance of cooperation in the
+  development of water resources (including irrigation, hydropower and
+  water supply) for the improvement of the livelihoods of the
+  populations. The objectives in this area are:
+
+  (a) the sustainable development and management of water resources in
+  the region;
+
+  (b) regional cooperation for the sustainable utilisation of
+  trans-boundary water resources.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) development of infrastructure of water resources in the region;
+
+  (b) development of the legal and regulatory frameworks;
+
+  (c) promotion of integrated water management;
+
+  (d) capacity building in human resources, improvement in service
+  standards, water management and institutional structures;
+
+  (e) encourage and facilitate EU-ESA partnerships, linkages, regional
+  water partnerships and joint ventures between economic operators;
+
+  (f) technology development, transfer and applications, R&amp;D,
+  innovation, information exchange and networks;
+
+  (g) water pollution control, purification and conservation, wastewater
+  treatment and sanitation; and
+
+  (h) promotion of sustainable irrigation schemes.</article>
+      <article number="ARTICLE 51" name="Environment" article_identifier="24428">1. The Parties recognise the importance of cooperation in the
+  protection and sustainable management of the environment and
+  implementation of trade-related environmental policies. The objectives
+  in this area are to:
+
+  (a) protect, restore and conserve the environment and biodiversity:
+  flora, fauna and microbial genetic resources, including their
+  ecosystems;
+
+  (b) develop new ESA industries related to the environment; and
+
+  (c) reduce environmental degradation, including clean air and
+  desertification.
+
+  Areas of cooperation
+
+  2. Subject to the provisions of Article 36, the Parties agree to
+  cooperate, including by facilitating support, in the following areas:
+
+  (a) support the implementation of international environmental
+  agreements, conventions and treaties;
+
+  (b) strengthen and promote sustainable environmental management
+  systems;
+
+  (c) sustainable utilisation of biodiversity, forestry and wildlife
+  resources;
+
+  (d) reinforcing institutional and legal frameworks and the capacity to
+  develop, implement, administer and enforce environmental laws,
+  regulations, standards and policies;
+
+  (e) capacity building in human resources and institutional structures
+  to comply with environmental and biodiversity requirements;
+
+  (f) encourage and facilitate EU-ESA partnerships, linkages and joint
+  ventures between economic operators;
+
+  (g) mitigation of natural disasters, prevention of environmental
+  disasters and the loss of biodiversity;
+
+  (h) technology development and adaptation, transfer and applications,
+  R&amp;D and innovation;
+
+  (i) protection and management of coastal and marine resources and
+  domestic and wild indigenous biological resources;
+
+  (j) support the development of alternative environmentally friendly
+  activities and livelihoods;
+
+  (k) support the production and facilitate trade of goods and services
+  for which eco-labelling is important;
+
+  (l) exchange of information and networking on products and their
+  requirements in terms of production process, transport, marketing and
+  labelling;
+
+  (m) support the development of infrastructure facilities on
+  environmentally-friendly products;
+
+  (n) integration of local communities in the management of
+  biodiversity, forestry and wildlife resources;
+
+  (o) waste management and disposal of industrial and toxic wastes; and
+
+  (p) sustainable management of forests and similar mechanisms.</article>
+      <article number="ARTICLE 52" name="Financial Undertakings" article_identifier="24429">1. The EC Party shall put at the disposal of ESA financial assistance
+  to contribute to implement the programmes and projects to be developed
+  under the areas of cooperation identified in this Agreement and
+  relevant chapters and under the detailed Development Matrix.
+
+  2. The Parties agree to establish adequate joint institutional
+  arrangements to effectively monitor the implementation of the
+  development cooperation of this Agreement. Such arrangements shall
+  include the establishment of a Joint Development Committee.
+
+  3. The Parties agree that the institutional arrangements shall remain
+  flexible to adapt to the evolving national and regional needs.</article>
+    </chapter>
+    <chapter number="CHAPTER V" name="Areas For Future Negotiations" chapter_identifier="2929">
+      <article number="ARTICLE 53" name="Rendez-Vous Clause" article_identifier="24430">Building on the Cotonou Agreement and taking account of the progress
+  made in the negotiations of a comprehensive EPA, the Parties agree to
+  continue negotiations in accordance with Article 3 with a view to
+  concluding a full and comprehensive EPA covering the following areas:
+
+  (a) customs and trade facilitation;
+
+  (b) outstanding trade and market access issues, including rules of
+  origin and other related issues and trade defence measures, including
+  outermost regions;
+
+  (c) technical barriers to trade and sanitary and phytosanitary
+  measures;
+
+  (d) trade in services;
+
+  (e) trade related issues namely:
+
+  (i) competition policy;
+
+  (ii) investment and private sector development;
+
+  (iii) trade, environment and sustainable development;
+
+  (iv) intellectual property rights;
+
+  (v) transparency in public procurement;
+
+  (f) agriculture;
+
+  (g) current payments and capital payments;
+
+  (h) development issues;
+
+  (i) cooperation and dialogue on good governance in the tax and
+  judicial area;
+
+  (j) an elaborated dispute settlement mechanism, institutional
+  arrangements; and
+
+  (k) any other areas that the Parties find necessary, including
+  consultations under Article 12 of the Cotonou Agreement.</article>
+    </chapter>
+    <chapter number="CHAPTER VI" name="Dispute Avoidance, Settlement, Institutional, General And Final Provisions" chapter_identifier="2930">
+      <article number="ARTICLE 54" name="Consultations" article_identifier="24431">1. The Parties shall endeavour to resolve any dispute concerning the
+  interpretation and application of this Agreement by entering into
+  consultations in good faith with the aim of reaching an agreed
+  solution.
+
+  2. A Party shall seek consultations by means of a written request to
+  the other Party, identifying the measure at issue and the provisions
+  of the Agreement that it considers the measure not to be in conformity
+  with.
+
+  3. Consultations shall be held within 40 days of the date of the
+  submission of the request. The consultations shall be deemed concluded
+  within 60 days of the date of the submission of the request, unless
+  both Parties agree to continue consultations. The consultations shall
+  remain confidential.
+
+  4. Consultations on matters of urgency, including those regarding
+  perishable or seasonal goods shall be held within 15 days of the date
+  of the submission of the request, and shall be deemed concluded within
+  30 days of the date of the submission of the request.</article>
+      <article number="ARTICLE 55" name="Dispute Settlement" article_identifier="24432">1. If consultations do not succeed in settling the dispute within the
+  60 days or 30 days referred to in Article 54, either Party may request
+  settlement of the dispute by arbitration. To this end, each Party
+  shall appoint an arbitrator within thirty days of the request for
+  arbitration by notifying the other Party and the EPA Committee. The
+  request for arbitration shall identify the measure at issue and the
+  provisions of the Agreement that the complaining Party considers the
+  measure not to be in conformity with. In the event of failure to do
+  so, either Party may ask the Secretary General of the Permanent Court
+  of Arbitration to appoint the second arbitrator.
+
+  2. The two arbitrators shall in turn appoint a third arbitrator within
+  thirty days. In the event of failure to do so, either Party may ask
+  the Secretary General of the Permanent Court of Arbitration to appoint
+  the third arbitrator.
+
+  3. Unless the arbitrators decide otherwise, the procedure applied
+  shall be laid down in the optional arbitration regulation of the
+  Permanent Court of Arbitration for International Organisations and
+  States. The arbitrators shall take a decision by majority vote within
+  90 days and in matters of urgency should endeavour to take a decision
+  within 60 days.
+
+  4. Each Party to the dispute shall be bound to take the measures
+  necessary to carry out the decision of the arbitrators.
+
+  5. Notwithstanding paragraph 1, the procedure set out in Article 98 of
+  the Cotonou Agreement shall be applicable in the event of a dispute
+  concerning development finance cooperation as provided for by the
+  Cotonou Agreement.
+
+  General exceptions</article>
+      <article number="ARTICLE 56" name="General Exception Clause" article_identifier="24433">Subject to the requirement that such measures are not applied in a
+  manner which would constitute a means of arbitrary or unjustifiable
+  discrimination between the Parties where like conditions prevail, or a
+  disguised restriction on international trade, nothing in this
+  Agreement shall be construed to prevent the adoption or enforcement by
+  the EC Party, the ESA States or a Signatory ESA State of measures
+  which:
+
+  (a) are necessary to protect public morals or to maintain public order
+  and public security;
+
+  (b) are necessary to protect human, animal or plant life or health;
+
+  (c) are necessary to secure compliance with laws or regulations which
+  are not inconsistent with the provisions of this Agreement, including
+  those relating to:
+
+  (i) the prevention of deceptive and fraudulent practices or to deal
+  with the effects of a default on contracts;
+
+  (ii) the protection of the privacy of individuals in relation to the
+  processing and dissemination of personal data and the protection of
+  confidentiality of individual records and accounts;
+
+  (iii) safety;
+
+  (iv) customs enforcement; or
+
+  (v) protection of intellectual property rights.
+
+  (d) relate to the importation or exportation of gold or silver;
+
+  (e) are necessary to the protection of national treasures of artistic,
+  historic or archaeological value;
+
+  (f) relate to the conservation of exhaustible natural resources if
+  such measures are made effective in conjunction with restrictions on
+  domestic production or consumption of goods, domestic supply or
+  consumption of services and on domestic investors;
+
+  (g) relate to the products of prison labour; or
+
+  (h) are essential to the acquisition or distribution of products in
+  general or local short supply, provided that any such measures shall
+  be consistent with the principle that all parties are entitled to an
+  equitable share of the international supply of such products, and that
+  any such measures, which are inconsistent with the other provisions of
+  this Agreement, shall be discontinued as soon as the conditions giving
+  rise to them have ceased to exist.</article>
+      <article number="ARTICLE 57" name="Security Exceptions" article_identifier="24434">1. Nothing in this Agreement shall be construed:
+
+  (a) to require the EC Party or a Signatory ESA State to furnish any
+  information the disclosure of which it considers contrary to its
+  essential security interests;
+
+  (b) to prevent the EC Party or a Signatory ESA State from taking any
+  action which it considers necessary for the protection of its
+  essential security interests:
+
+  (i) relating to fissionable and fusionable materials or the materials
+  from which they are derived;
+
+  (ii) relating to economic activities carried out directly or
+  indirectly for the purpose of supplying or provisioning a military
+  establishment;
+
+  (iii) connected with the production of or trade in arms, munitions and
+  war materials;
+
+  (iv) relating to government procurement indispensable for national
+  security or for national defence purposes; or
+
+  (v) taken in time of war or other emergency in international
+  relations.
+
+  (c) to prevent the EC Party or a Signatory ESA State from taking any
+  action in order to carry out obligations it has accepted for the
+  purpose of maintaining international peace and security.
+
+  2. The Parties shall inform each other to the fullest extent possible
+  of measures taken under paragraphs 1(b) and (c) and of their
+  termination.</article>
+      <article number="ARTICLE 58" name="Taxation" article_identifier="24435">1. Nothing in this Agreement or in any arrangement adopted under this
+  Agreement shall be construed to prevent the EC Party or a Signatory
+  ESA State from distinguishing, in the application of the relevant
+  provisions of their fiscal legislation, between taxpayers who are not
+  in the same situation, in particular with regard to their place of
+  residence or with regard to the place where their capital is invested.
+
+  2. Nothing in this Agreement or in any arrangement adopted under this
+  Agreement shall be construed to prevent the adoption or enforcement of
+  any measure aimed at preventing the avoidance or evasion of taxes
+  pursuant to the tax provisions of agreements to avoid double taxation
+  or other tax arrangements or domestic fiscal legislation.
+
+  3. Nothing in this Agreement shall affect the rights and obligations
+  of the EC Party or a Signatory ESA State under any tax convention. In
+  the event of any inconsistency between this Agreement and any such
+  convention, that convention shall prevail to the extent of the
+  inconsistency.
+
+  Institutional, general and final provisions</article>
+      <article number="ARTICLE 59" name="Relations Between This Agreement And Comprehensive Epa" article_identifier="24436">In case there is any inconsistency between the comprehensive EPA and
+  this Interim Agreement, the comprehensive EPA shall prevail to the
+  extent of such inconsistency.</article>
+      <article number="ARTICLE 60" name="Outermost Regions Of The European Community" article_identifier="24437">1. Taking account of the geographical proximity of the outermost
+  regions of the EC and the ESA States and in order to reinforce
+  economic and social links between these regions and the ESA States,
+  the Parties shall endeavour to facilitate cooperation in all areas
+  covered by this Agreement as well as to build and improve on existing
+  trade in goods and services, promote investment and encourage
+  transport and communication links between the outermost regions and
+  the ESA States.
+
+  2. The objectives enunciated in paragraph 1 shall also be pursued,
+  wherever possible, through fostering the joint participation of the
+  ESA States and the outermost regions in framework and specific
+  programmes of the EC in areas covered by this Agreement.
+
+  3. The EC Party shall endeavour to ensure coordination between the
+  different financial instruments of the EC’s cohesion and development
+  policies in order to foster cooperation between ESA States and the
+  outermost regions of the EC in the areas covered by this Agreement.
+
+  4. Nothing in this Agreement shall prevent the EC Party from applying
+  existing measures aimed at addressing the structural social and
+  economic situation of the outermost regions pursuant to Article 299(2)
+  of the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 61" name="Definition Of The Parties And Fulfilment Of Obligations" article_identifier="24438">1. The Contracting Parties of this Agreement shall be the Union of
+  Comoros, the Republic of Madagascar, the Republic of Mauritius, the
+  Republic of Seychelles, the Republic of Zambia and the Republic of
+  Zimbabwe hereinafter referred to as the "ESA States", on the
+  one part, and the EC or its Member States or the EC and its Member
+  States within their respective areas of competence as derived from the
+  Treaty establishing the European Community, and hereinafter referred
+  to as the "EC Party", on the other part for which this
+  Agreement has entered into force or is provisionally applied.
+
+  2. For the purposes of this Agreement, unless otherwise expressly
+  provided, the ESA States agree to act collectively. In cases where
+  individual action is provided for or required to exercise the rights
+  and/or comply with obligations under this Agreement, reference is made
+  to "Signatory ESA State".
+
+  3. The Parties or the Signatory ESA State(s) as the case may be shall
+  adopt any general or specific measures required for them to fulfil
+  their obligations under this Agreement and shall ensure that they
+  comply with the objectives laid down in this Agreement.
+
+  4. A Signatory ESA State which is not subject to the rights and
+  obligations set out in Chapter II shall nevertheless be subject to and
+  enjoy the rights and obligations arising from other Chapters of this
+  Agreement.</article>
+      <article number="ARTICLE 62" name="Entry Into Force, Denunciation And Duration" article_identifier="24439">1. This Agreement shall be signed, ratified or approved in accordance
+  with the applicable constitutional or internal rules and procedures of
+  the respective Parties.
+
+  2. This Agreement shall enter into force the first day of the first
+  month following the deposit of the last instrument of ratification,
+  acceptance or approval.
+
+  3. Notifications of ratification, acceptance or approval shall be sent
+  to the Secretary General of the Council of the European Union and to
+  the Secretary General of the Common Market of the Eastern and Southern
+  Africa, who shall be the depositories of this Agreement.
+
+  4. Pending entry into force of the Agreement, the EC Party and the
+  Signatory ESA States agree to apply the provisions of this Agreement
+  which fall within their respective competences ("provisional
+  application"). This may be effected either by provisional
+  application where possible or by ratification of this Agreement.
+
+  5. Provisional application shall be notified to the depositaries. This
+  Agreement shall be applied provisionally 10 days after the last
+  receipt of notification of provisional application from the EC or of
+  ratification or provisional application from all Signatory ESA States
+  listed in Annex II.
+
+  6. Notwithstanding paragraphs 2 and 4, the EC Party and Signatory ESA
+  States may unilaterally take steps to apply the agreement, before
+  provisional application, to the extent feasible.
+
+  7. The EC Party or a Signatory ESA State(s) may give written notice to
+  the other of its intention to denounce this Agreement.
+
+  8. Denunciation shall take effect one month after notification to the
+  other Party.
+
+  9. This Agreement shall remain in force until the comprehensive EPA
+  enters into force.</article>
+      <article number="ARTICLE 63" name="Territorial Application" article_identifier="24440">This Agreement shall apply, on the one hand, to the territories in
+  which the Treaty establishing the European Community is applied and
+  under the conditions laid down in that Treaty, and, on the other hand,
+  to the territories of Signatory ESA States. References in this
+  Agreement to "territory" shall be understood in this sense.</article>
+      <article number="ARTICLE 64" name="Epa Committee" article_identifier="24441">1. An EPA Committee is hereby established.
+
+  2. The EPA Committee shall be responsible for the administration of
+  all matters under this Agreement, including development cooperation as
+  provided for under Article 36 and for the fulfilment of any of the
+  tasks mentioned in this Agreement.
+
+  3. The EPA Committee shall be composed of representatives of the
+  Parties. Each Party determines the organisation of its representation.
+
+  4. The EPA Committee shall adopt its rules of procedure within three
+  months of entry into force of the Interim Agreement.</article>
+      <article number="ARTICLE 65" name="Relationships With Other Agreements" article_identifier="24442">1. Nothing in this Agreement shall prejudice the application of
+  measures deemed appropriate as provided for under Articles 11b, 96 and
+  97 of the Cotonou Agreement and according to procedures set by these
+  Articles.
+
+  2. In the case of any inconsistency between the provisions of this
+  Agreement and the provisions of Title II of Part 3 of the Cotonou
+  Agreement, with the exception of the development cooperation
+  provisions contained therein, the provisions of this Agreement shall
+  prevail.
+
+  3. The Parties acknowledge that some Signatory ESA States are not
+  members of the WTO. Accordingly, references in this Agreement to WTO
+  agreements (including the definitions provided therein) and WTO bodies
+  or Committees shall not be construed as imposing on a Signatory ESA
+  State that is not a member of the WTO any obligations arising from
+  such WTO agreements or decisions of such bodies or Committees beyond
+  the obligations expressly taken by such Signatory ESA State under this
+  Agreement. Consequently, in the event of inconsistency between
+  provisions of WTO agreements or decisions of WTO bodies or Committees
+  on the one part and provisions of this Agreement, the latter shall
+  always prevail in respect of Signatory ESA States who are not members
+  of the WTO.
+
+  4. The Parties agree that nothing in this Agreement requires them or
+  the Signatory ESA States to act in a manner inconsistent with their
+  WTO obligations.</article>
+      <article number="ARTICLE 66" name="Accession" article_identifier="24443">1. Any of the following ESA States namely, the Republic of Djibouti,
+  the State of Eritrea, the Federal Democratic Republic of Ethiopia, the
+  Republic of Malawi, the Republic of Sudan, may accede to this
+  Agreement with the agreement of the Parties. This Agreement shall
+  enter into force with respect to the acceding state in accordance with
+  the applicable legal procedures of the EC Party and the ESA States and
+  the acceding country. The EC shall endeavour to apply this Agreement
+  to the acceding country as soon as possible.
+
+  2. Any request for accession to this Agreement made by a State in the
+  ESA region not listed in paragraph 1 shall be presented to the EPA
+  Committee for determination.
+
+  3. The EPA Committee may lay down the conditions and specific
+  arrangements of the State referred to in paragraph 2 for its
+  accession.
+
+  4. This Agreement shall enter into force in relation to an acceding
+  state on the date its instrument of accession is deposited.</article>
+      <article number="ARTICLE 67" name="Accession Of New Member States To The European Union" article_identifier="24444">1. The EPA Committee shall be advised of any request made by a third
+  state to become a member of the EU. During the negotiations between
+  the EU and the applicant State, the EC Party shall provide the ESA
+  States with any relevant information and they in turn shall convey
+  their concerns to the EC Party so that it can take them fully into
+  account. The ESA States shall be notified by the EC Party of any
+  accession to the EU.
+
+  2. Any new Member State of the EU shall accede to this Agreement from
+  the date of its accession by means of a clause to that effect in the
+  act of accession. If the act of accession to the EU does not provide
+  for such automatic accession to this Agreement, the EU Member State
+  concerned shall accede by depositing an act of accession with the two
+  depositaries, which shall arrange for certified copies to be sent to
+  the ESA States.
+
+  3. The Parties shall review the effects of the accession of new EU
+  Member States on this Agreement. The EPA Committee may decide on any
+  transitional or amending measures that might be necessary.</article>
+      <article number="ARTICLE 68" name="Amendments" article_identifier="24445">1. Any amendments to this Agreement shall be adopted by the EPA
+  Committee and shall enter into force when ratified.
+
+  2. The EPA Committee shall adopt any transitional measures that may be
+  required in respect of the amended provisions until they come into
+  force.</article>
+      <article number="ARTICLE 69" name="Authentic Texts" article_identifier="24446">This Agreement is drawn up in duplicate in the Bulgarian, Czech,
+  Danish, Dutch, English, Estonian, Finnish, French, German, Greek,
+  Hungarian, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese,
+  Romanian, Slovak, Slovenian, Spanish and Swedish languages, each of
+  these texts being equally authentic.</article>
+      <article number="ARTICLE 70" name="Annexes" article_identifier="24447">The Annexes and Protocols to this Agreement shall form an integral
+  part thereof and may be reviewed and or amended by the EPA Committee.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="2931">
+      <article article_identifier="24448">Съставено в Гранд Бей на двадесет и девети август две хиляди и девета
+  година.
+
+  Hecho en Grand Baie a veintinueve de agosto de dos mil nueve.
+
+  V Grand Baie dne dvacátého devátého srpna dva tisíce devět.
+
+  Udfærdiget i Grand Baie, den niogtyvende august to tusinde og ni.
+
+  Geschehen zu Grand Baie am neunundzwanzigsten August zweitausendneun.
+
+  Sõlmitud Grand Baies, kahe tuhande üheksanda aasta augusti kahekümne
+  üheksandal päeval.
+
+  Έγινε στην Grand Baie, στις είκοσι εννέα Αυγούστου δύο χιλιάδες εννιά.
+
+  Done at Grand Baie on the twenty-ninth day of August in the year two
+  thousand and nine.
+
+  Fait à Grand Baie, le vingt-neuf août deux mille neuf.
+
+  Fatto a Grand Baie, addì ventinove agosto duemilanove.
+
+  Grand Baie, divi tūkstoši devītā gada divdesmit devītajā augustā.
+
+  Priimta Grand Baie du tūkstančiai devintų metų rugpjūčio dvidešimt
+  devintą dieną.
+
+  Kelt Grand Baie-ben, a 2009. év augusztus hónapjának huszonkilencedik
+  napján.
+
+  Magħmul fi Grand Baie fid- disgħa u għoxrin jum ta’ Awwissu fis-sena
+  elfejn u disgħa.
+
+  Gedaan te Grand Baie, op de negenentwintigste dag van augustus in het
+  jaar tweeduizend negen.
+
+  Sporządzono w Grand Baie dnia dwudziestego dziewiątego sierpnia dwa
+  tysiące dziewiątego roku.
+
+  Feito em Grand Baie aos vinte e nove de Agosto de dois mil e nove.
+
+  Încheiat la Grand Baie, la douăzeci și nouă august două mii nouă.
+
+  V Grand Baie dvadsiateho deviateho augusta dvetisícdeväť.
+
+  V Grand Baieju, devetinvajsetega avgusta dvatisočdevet.
+
+  Tehty Grand Baiessa kahdentenakymmenentenäyhdeksäntenä päivänä
+  elokuuta vuonna kaksituhattayhdeksän.
+
+  Som skedde i Grand Baie den tjugonionde augusti år tjugohundranio.
+
+  Pour l’Union des Comores
+
+  Pour la République de Madagascar
+
+  +++++ TIFF +++++
+
+  For the Republic of Mauritius
+
+  +++++ TIFF +++++
+
+  Pour la République des Seychelles
+
+  +++++ TIFF +++++
+
+  For the Republic of Zambia
+
+  For the Republic of Zimbabwe
+
+  +++++ TIFF +++++
+
+  За Европейската общност
+
+  Por la Comunidad Europea
+
+  Za Evropské společenství
+
+  For Det Europæiske Fællesskab
+
+  Für die Europäische Gemeinschaft
+
+  Euroopa Ühenduse nimel
+
+  Για την Ευρωπαϊκή Κοινότητα
+
+  For the European Community
+
+  Pour la Communauté européenne
+
+  Per la Comunità europea
+
+  Eiropas Kopienas vārdā
+
+  Europos bendrijos vardu
+
+  az Európai Közösség részéről
+
+  Għall-Komunità Ewropea
+
+  Voor de Europese Gemeenschap
+
+  W imieniu Wspólnoty Europejskiej
+
+  Pela Comunidade Europeia
+
+  Pentru Comunitatea Europeană
+
+  Za Európske spoločenstvo
+
+  za Evropsko skupnost
+
+  Euroopan yhteisön puolesta
+
+  På Europeiska gemenskapens vägnar
+
+  +++++ TIFF +++++
+
+  +++++ TIFF +++++
+
+  [1] For this calculation official data by the WTO on leading exporters
+  in world merchandise trade (excluding intra-EU trade) shall be used.
+
+  [2] For the purpose of this Article agricultural products are those
+  covered by Annex I of the WTO Agreement on Agriculture.
+
+  --------------------------------------------------</article>
+    </chapter>
+  </body>
+</treaty>

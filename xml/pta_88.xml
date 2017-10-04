@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>West African Economic and Monetary Union (WAEMU)</name>
+    <type>Customs Union</type>
+    <wto_rta_id>97</wto_rta_id>
+    <treaty_identifier>88</treaty_identifier>
+    <status>In Force</status>
+    <notification>Enabling Clause</notification>
+    <date_signed>1994-01-10</date_signed>
+    <date_into_force>2000-01-01</date_into_force>
+    <date_notification>1999-10-27</date_notification>
+    <end_implementation>2000-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">BEN</partyisocode>
+      <partyisocode n="2">BFA</partyisocode>
+      <partyisocode n="3">CIV</partyisocode>
+      <partyisocode n="4">MLI</partyisocode>
+      <partyisocode n="5">NER</partyisocode>
+      <partyisocode n="6">SEN</partyisocode>
+      <partyisocode n="7">TGO</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">BEN</partyisocode>
+      <partyisocode n="2">BFA</partyisocode>
+      <partyisocode n="3">CIV</partyisocode>
+      <partyisocode n="4">MLI</partyisocode>
+      <partyisocode n="5">NER</partyisocode>
+      <partyisocode n="6">SEN</partyisocode>
+      <partyisocode n="7">TGO</partyisocode>
+    </parties>
+    <composition>Plurilateral</composition>
+    <region>Africa</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>No</crossregional>
+    <language>fr</language>
+    <source lang="fr" type="full text">http://www.uemoa.int/Documents/TraitReviseUEMOA.pdf</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="1081">
+      <article article_identifier="8886">TRAITE MODIFIE DE L'UNION ECONOMIQUE ET 
+MONETAIRE OUEST AFRICAINE 
+(UEMOA) 
+
+
+PREAMBULE 
+
+Le Gouvernement de la République du Bénin, 
+Le Gouvernement du Burkina Faso, 
+Le Gouvernement de la République de Côte d’Ivoire, 
+Le Gouvernement de la République de Guinée-Bissau, 
+Le Gouvernement de la République du Mali, 
+Le Gouvernement de la République du Niger, 
+Le Gouvernement de la République du Sénégal, 
+Le Gouvernement de la République Togolaise, 
+-Fidèles aux objectifs de la Communauté Economique Africaine et de la Communauté 
+
+
+Economique des Etats de l'Afrique de l'Ouest (CEDEAO), 
+
+
+-Conscients des avantages mutuels qu'ils tirent de leur appartenance à la même Union Monétaire et de la nécessité de renforcer la cohésion de celle-ci, -Convaincus de la nécessité d'étendre en conséquence au domaine économique la 
+
+solidarité qui les lie déjà sur le plan monétaire, -Affirmant la nécessité de favoriser le développement économique et social des Etats membres, grâce à l'harmonisation de leurs législations, à l'unification de leurs marchés 
+
+intérieurs et à la mise en oeuvre de politiques sectorielles communes dans les secteurs essentiels de leurs économies, -Reconnaissant l'interdépendance de leurs politiques économiques et la nécessité 
+
+d'assurer leur convergence, -Déterminés à se conformer aux principes d'une économie de marché ouverte, concurrentielle et favorisant l'allocation optimale des ressources, 
+
+-Désireux de compléter à cet effet l'Union Monétaire Ouest Africaine (UMOA) par de nouveaux transferts de souveraineté et de transformer cette Union en Union Economique et Monétaire Ouest Africaine (UEMOA), dotée de compétences nouvelles, 
+
+-Affirmant la nécessité de renforcer la complémentarité de leurs appareils de production et de réduire les disparités de niveaux de développement entre les Etats membres, 
+
+-Soulignant que leur démarche s'inscrit dans la logique des efforts d'intégration régionale en cours en Afrique, et appelant les autres Etats de l'Afrique de l'Ouest qui partagent leurs objectifs à se joindre à leurs efforts, 
+
+Conviennent de ce qui suit :</article>
+    </chapter>
+    <chapter number="TITRE PRELIMINAIRE" name="Definitions" chapter_identifier="1082">
+      <article number="ARTICLE 1ER" article_identifier="8887">Aux fins du présent Traité, on entend par : 
+
+-"UEMOA" : l'Union Economique et Monétaire Ouest Africaine, objet du présent Traité ; 
+-"Union" : l'Union Economique et Monétaire Ouest Africaine, objet du présent Traité ; 
+-"UMOA" : l'Union Monétaire Ouest Africaine visée à l'article 2 du présent Traité ; 
+-"Organes" : les différents organes de l'Union visés à l'article 16 du présent Traité ; 
+-"Conférence" : la Conférence des Chefs d'Etat et de Gouvernement de l'Union prévue 
+
+
+à l'article 17 du présent Traité ; 
+-"Conseil" : le Conseil des Ministres de l'Union prévu à l'article 20 du présent Traité ; 
+-"Commission" : la Commission de l'Union prévue à l'article 26 du présent Traité ; 
+-"Parlement" : le Parlement de l'Union prévu à l'article 35 du présent Traité ; 
+-"Cour de Justice" : la Cour de Justice de l'Union créée par l'article 38 du présent 
+
+
+Traité et régie par la section I du protocole additionnel n° I ; 
+
+
+-"Cour des Comptes" : la Cour des Comptes de l'Union créée par l'article 38 du 
+présent Traité et régie par la section Il du protocole additionnel n° I ; 
+-"Institutions spécialisées autonomes" : la BCEAO et la BOAD ; 
+-"BCEAO" : la Banque Centrale des Etats de l'Afrique de l'Ouest visée à l'article 41 du 
+
+
+présent Traité ; 
+
+
+-"BOAD : la Banque Ouest Africaine de Développement visée à l'article 41 du présent 
+Traité ; 
+-"Traité de l'Union" : le présent Traité ; 
+-"Protocole additionnel n° I" : le protocole prévu à l'article 38 du présent Traité 
+-"Protocole additionnel n° Il" : le protocole prévu à l'article 101 du présent Traité 
+-"Acte additionnel" : l'acte visé à l'article 19 du présent Traité ; 
+-"Règlement" : l'acte visé à l'article 43 du présent Traité ; 
+-"Décision" : l'acte visé à l'article 43 du présent Traité ; 
+
+
+-"Directive" l'acte visé à l'article 43 du présent Traité ; 
+-"Recommandation" : l'acte visé à l'article 43 du présent Traité ; 
+-"Avis" : l'acte visé à l'article 43 du présent Traité ; 
+-"Marché commun" : le marché unifié constitué entre les Etats membres, visé aux articles 
+
+
+4 et 76 du présent Traité ; 
+
+
+-"Politiques communes" : les politiques économiques communes prévues aux articles 62 à 100 du présent Traité ; -"Politiques sectorielles": les politiques sectorielles prévues à l'article 101 du présent 
+
+Traité et régies par le protocole additionnel n° Il ; 
+-"Surveillance multilatérale" : le mécanisme communautaire de définition et de contrôle 
+
+
+des politiques économiques entre les Etats membres, prévu à l'article 63 et régi par les 
+articles 64 à 75 du présent Traité ; 
+-"Droit d'établissement" : le droit prévu à l'article 92 du présent Traité ; 
+-"Etat membre" : l'Etat partie prenante au présent Traité tel que prévu par son préambule ; 
+-"Membre associé" : tout Etat admis à participer à certaines politiques de l'Union 
+
+
+conformément aux dispositions de l'article 104 du présent Traité ; 
+-"Etat tiers" : tout Etat autre qu'un Etat membre.</article>
+    </chapter>
+    <chapter number="TITRE PREMIER" name="Des Principes Et Objectifs De L’union" chapter_identifier="1083">
+      <article number="ARTICLE 2" article_identifier="8888">Par le présent Traité, les Hautes Parties Contractantes complètent l'Union Monétaire Ouest Africaine (UMOA) instituée entre elles, de manière à la transformer en Union Economique et Monétaire Ouest Africaine (UEMOA), ci-après dénommée l'Union.</article>
+      <article number="ARTICLE 3" article_identifier="8889">L'Union respecte dans son action les droits fondamentaux énoncés dans la Déclaration universelle des droits de l'homme de 1948 et la Charte africaine des droits de l'homme et des peuples de 1981.</article>
+      <article number="ARTICLE 4" article_identifier="8890">Sans préjudice des objectifs définis dans le Traité de l'UMOA, l'Union poursuit, dans les conditions établies par le présent Traité, la réalisation des objectifs ci-après : 
+
+a) renforcer la compétitivité des activités économiques et financières des Etats membres dans le cadre d'un marché ouvert et concurrentiel et d'un environnement juridique rationalisé et harmonisé ; 
+
+b) assurer la convergence des performances et des politiques économiques des Etats membres par l'institution d'une procédure de surveillance multilatérale ; 
+
+c) créer entre les Etats membres un marché commun basé sur la libre circulation des personnes, des biens, des services, des capitaux et le droit d'établissement des personnes exerçant une activité indépendante ou salariée, ainsi que sur un tarif extérieur commun et une politique commerciale commune ; 
+
+d) instituer une coordination des politiques sectorielles nationales, par la mise en oeuvre d'actions communes et éventuellement de politiques communes notamment dans les domaines suivants : ressources humaines, aménagement du territoire, transports et télécommunications, environnement, agriculture, énergie, industrie et mines ; 
+
+e) harmoniser, dans la mesure nécessaire au bon fonctionnement du marché commun, les législations des Etats membres et particulièrement le régime de la fiscalité.</article>
+      <article number="ARTICLE 5" article_identifier="8891">Dans l'exercice des pouvoirs normatifs que le présent Traité leur attribue et dans la mesure compatible avec les objectifs de celui-ci, les organes de l'Union favorisent l'édiction de prescriptions minimales et de réglementations-cadres qu'il appartient aux Etats membres de compléter en tant que de besoin, conformément à leurs règles constitutionnelles respectives.</article>
+      <article number="ARTICLE 6" article_identifier="8892">Les actes arrêtés par les organes de l'Union pour la réalisation des objectifs du présent Traité et conformément aux règles et procédures instituées par celui-ci, sont appliqués dans chaque Etat membre nonobstant toute législation nationale contraire, anterieure ou postérieure.</article>
+      <article number="ARTICLE 7" article_identifier="8893">Les Etats membres apportent leur concours à la réalisation des objectifs de l'Union en adoptant toutes mesures générales ou particulières, propres à assurer l'exécution des obligations découlant du présent Traité. A cet effet, ils s'abstiennent de toutes mesures susceptibles de faire obstacle à l'application du présent Traité et des actes pris pour son application.</article>
+      <article number="ARTICLE 8" article_identifier="8894">Dès l'entrée en vigueur du présent Traité, la Conférence des Chefs d'Etat et de Gouvernement fixe des orientations générales pour la réalisation des objectifs de l'Union. Elle constate à intervalles réguliers l'état d'avancement du processus d'intégration économique et monétaire et fixe, s'il y a lieu, de nouvelles orientations.</article>
+    </chapter>
+    <chapter number="CHAPITRE 1" name="Du Statut De L'union" chapter_identifier="1084">
+      <article number="ARTICLE 9" article_identifier="8895">L'Union a la personnalité juridique. Elle jouit dans chaque Etat membre de la capacité juridique la plus large reconnue aux personnes morales par la législation nationale. Elle est représentée en justice par la Commission. Elle a notamment capacité pour contracter, acquérir des biens mobiliers et immobiliers et en disposer. Sa responsabilité contractuelle et la juridiction nationale compétente pour tout litige y afférent sont régies par la loi applicable au contrat en cause.</article>
+      <article number="ARTICLE 10" article_identifier="8896">Le régime des droits, immunités et privilèges accordés à l'Union, aux membres de ses organes et à son personnel est déterminé par voie d'acte additionnel pris par la Conférence des Chefs d'Etat et de Gouvernement.</article>
+      <article number="ARTICLE 11" article_identifier="8897">Le statut des fonctionnaires de l'Union et le régime applicable aux autres agents sont arrêtés par le Conseil statuant à la majorité des deux tiers (2/3) de ses membres sur proposition de la Commission. Les fonctionnaires de l'Union sont en règle générale recrutés par voie de concours parmi les ressortissants des Etats membres. 
+
+Les fonctionnaires et agents de l'Union sont tenus au secret professionnel même après la cessation de leurs fonctions.</article>
+      <article number="ARTICLE 12" article_identifier="8898">L'Union est représentée dans les relations internationales par la Commission agissant selon les directives que peut lui adresser le Conseil.</article>
+      <article number="ARTICLE 13" article_identifier="8899">L'Union établit toute coopération utile avec les organisations régionales ou sous-régionales existantes. Elle peut faire appel à l'aide technique ou financière de tout Etat qui l'accepte ou d'organisations internationales, dans la mesure où cette aide est compatible avec les objectifs définis par le présent Traité. 
+
+Des accords de coopération et d'assistance peuvent être conclus avec des Etats tiers ou des organisations internationales, selon les modalités prévues à l'article 84 du présent Traité.</article>
+      <article number="ARTICLE 14" article_identifier="8900">Dès l'entrée en vigueur du présent Traité, les Etats membres se concertent au sein du Conseil afin de prendre toutes mesures destinées à éliminer les incompatibilités ou les doubles emplois entre le droit et les compétences de l'Union d'une part, et les conventions conclues par un ou plusieurs Etats membres d'autre part, en particulier celles instituant des organisations économiques internationales spécialisées.</article>
+      <article number="ARTICLE 15" article_identifier="8901">Les Etats membres se consultent en vue de prendre en commun les dispositions nécessaires afin d'éviter que le fonctionnement de l'Union ne soit affecté par les mesures que l'un d'eux pourrait être amené à prendre en cas de troubles intérieurs graves affectant l'ordre public, de guerre ou de tension internationale grave constituant une menace de guerre.</article>
+    </chapter>
+    <chapter number="CHAPITRE II" name="Des Organes De L'union" chapter_identifier="1085">
+      <article number="ARTICLE 16" article_identifier="8902">Les organes de l'Union sont constitués par : 
+
+-la Conférence des Chefs d'Etat et de Gouvernement, telle que définie à l'article 5 du 
+Traité de l'UMOA, 
+-le Conseil des Ministres, tel que défini à l'article 6 du Traité de l'UMOA, 
+-la Commission, 
+-le Parlement, 
+-la Cour de Justice, 
+-la Cour des Comptes. 
+
+
+Ces organes agissent dans la limite des attributions qui leur sont conférées par le Traité de l'UMOA et le présent Traité et dans les conditions prévues par ces Traités. Des organes consultatifs et des institutions spécialisées autonomes concourent également à la réalisation des objectifs de l'Union. 
+
+Section I : Des organes de direction Paragraphe 1er : De la Conférence des Chefs d'Etat et de Gouvernement</article>
+      <article number="ARTICLE 17" article_identifier="8903">La Conférence des Chefs d'Etat et de Gouvernement définit les grandes orientations de la politique de l'Union. Elle se réunit au moins une fois par an.</article>
+      <article number="ARTICLE 18" article_identifier="8904">La Conférence des Chefs d'Etat de l'Union Monétaire prévue à l'article 5 du Traité de l'UMOA exerce les fonctions qui lui sont dévolues par le présent Traité.</article>
+      <article number="ARTICLE 19" article_identifier="8905">La Conférence des Chefs d'Etat et de Gouvernement prend, en tant que de besoin, des actes additionnels au Traité de l'Union. 
+
+Les actes additionnels sont annexés au Traité. Ils complètent celui-ci sans toutefois le modifier. Leur respect s'impose aux organes de l'Union ainsi qu'aux autorités des Etats membres. 
+
+Paragraphe 2 : Du Conseil des Ministres</article>
+      <article number="ARTICLE 20" article_identifier="8906">Le Conseil des Ministres de l'Union assure la mise en oeuvre des orientations générales définies par la Conférence des Chefs d'Etat et de Gouvernement. 
+
+Il se réunit au moins deux (2) fois par an.</article>
+      <article number="ARTICLE 21" article_identifier="8907">Le Conseil des Ministres de l'Union Monétaire prévu à l'article 6 du Traité de l'UMOA exerce les fonctions qui lui sont dévolues par le présent Traité.</article>
+      <article number="ARTICLE 22" article_identifier="8908">Toutes les fois que le présent Traité prévoit l'adoption d'un acte juridique du Conseil sur proposition de la Commission, le Conseil ne peut faire d'amendement à cette proposition qu’en statuant à l'unanimité de ses membres.</article>
+      <article number="ARTICLE 23" article_identifier="8909">Par dérogation à l'article 6 alinéa 2 du Traité de l'UMOA, pour l'adoption des décisions ne portant pas principalement sur la politique économique et financière, le Conseil réunit les Ministres compétents. Les délibérations ne deviennent définitives qu'après vérification, par les ministres en charge de l'Economie, des Finances et du Plan, de leur compatibilité avec la politique économique, monétaire et financière de l'Union. 
+
+Pour les questions politiques et de souveraineté, les Ministres des Affaires Etrangères siégeront au Conseil des Ministres de l'UEMOA.</article>
+      <article number="ARTICLE 24" article_identifier="8910">Le Conseil peut déléguer à la Commission l'adoption des règlements d'exécution des actes qu'il édicte. 
+
+Ces règlements d'exécution ont la même force juridique que les actes pour l'exécution desquels ils sont pris.</article>
+      <article number="ARTICLE 25" article_identifier="8911">Les délibérations du Conseil sont préparées par le Comité des Experts, composé de représentants des Etats membres. La Commission est représentée aux réunions de ce Comité. Celui-ci adopte à la majorité de ses membres présents des avis qu'il transmet au Conseil. 
+
+Le Conseil arrête le règlement intérieur du Comité des Experts à la majorité des deux tiers (2/3) de ses membres. 
+
+Paragraphe 3 : De la Commission</article>
+      <article number="ARTICLE 26" article_identifier="8912">La Commission exerce, en vue du bon fonctionnement et de l'intérêt général de l'Union, les pouvoirs propres que lui confère le présent Traité. A cet effet, elle : 
+
+-transmet à la Conférence et au Conseil les recommandations et les avis qu'elle juge utiles à la préservation et au développement de l'Union ; 
+
+-exerce, par délégation expresse du Conseil et sous son contrôle, le pouvoir d'exécution des actes qu'il prend ; 
+
+-exécute le budget de l'Union ; 
+
+-recueille toutes informations utiles à l'accomplissement de sa mission ; 
+
+-établit un rapport général annuel sur le fonctionnement et l'évolution de l'Union qui est communiqué par son Président au Parlement et aux organes législatifs des Etats membres ; 
+
+-élabore un programme d’actions qui est soumis par son Président, à la session ordinaire du Parlement, qui suit sa nomination ; 
+
+-assure la publication du Bulletin officiel de l'Union.</article>
+      <article number="ARTICLE 27" article_identifier="8913">La Commission est composée de membres appelés Commissaires, ressortissants des Etats membres. Les Commissaires sont désignés par la Conférence des Chefs d'Etat et de Gouvernement sur la base des critères de compétence et d'intégrité morale. 
+
+Le mandat des membres de la Commission est de quatre (4) ans, renouvelable. Durant leur mandat, les membres de la Commission sont irrévocables, sauf en cas de faute lourde ou d’incapacité. 
+
+Toutefois, la Conférence des Chefs d’Etat et de Gouvernement peut inviter la Commission à lui présenter sa démission, à la suite du vote d’une motion de censure par le Parlement. 
+
+La Conférence des Chefs d'Etat et de Gouvernement peut également modifier le nombre des membres de la Commission.</article>
+      <article number="ARTICLE 28" article_identifier="8914">Les membres de la Commission exercent leurs fonctions en toute indépendance dans l'intérêt général de l'Union. Ils ne sollicitent ni n'acceptent d'instructions de la part d'aucun gouvernement ni d'aucun organisme. Les Etats membres sont tenus de respecter leur indépendance. 
+
+Lors de leur entrée en fonction, les membres de la Commission s'engagent, par serment devant la Cour de Justice, à observer les obligations d'indépendance et d'honnêteté inhérentes à l'exercice de leur charge. Pendant la durée de leur mandat, ils n'exercent aucune autre activité professionnelle, rémunérée ou non.</article>
+      <article number="ARTICLE 29" article_identifier="8915">Les traitements, indemnités et pensions des membres de la Commission sont fixés par le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres.</article>
+      <article number="ARTICLE 30" article_identifier="8916">Le mandat des membres de la Commission peut être interrompu par la démission ou par la révocation. 
+
+La démission peut être individuelle ou collective. Elle est collective, lorsqu’elle intervient à l’invitation de la Conférence des Chefs d’Etat et de Gouvernement, suite au vote par le Parlement d’une motion de censure contre la Commission. 
+
+La révocation est prononcée par la Cour de Justice à la demande du Conseil, pour sanctionner la méconnaissance des devoirs liés à l'exercice des fonctions de membre de la Commission. 
+
+En cas d'interruption du mandat d'un membre de la Commission, l'intéressé est remplacé pour la durée de ce mandat restant à courir, 
+
+Sauf révocation ou démission, les membres de la Commission demeurent en fonction jusqu'à leur remplacement.</article>
+      <article number="ARTICLE 31" article_identifier="8917">Le Gouverneur de la BCEAO participe de plein droit, avec voix consultative, aux réunions de la Commission. Il peut se faire représenter. Il peut demander l'inscription d'un point à l'ordre du jour ou suggérer au Conseil d'inviter la Commission à prendre une initiative dans le cadre de sa mission.</article>
+      <article number="ARTICLE 32" article_identifier="8918">Les délibérations de la Commission sont acquises à la majorité simple de ses membres. En cas de partage, la voix du Président est prépondérante.</article>
+      <article number="ARTICLE 33" article_identifier="8919">Le Président de la Commission est désigné parmi les membres de celle-ci par la Conférence des Chefs d'Etat et de Gouvernement pour un mandat de quatre (4) ans, renouvelable. Cette désignation se fera de manière à appeler successivement à la présidence de la Commission tous les Etats membres. 
+
+Le Président de la Commission détermine l'organigramme des services de la Commission dans la limite du nombre de postes autorisés par le budget de l'Union. Il nomme aux différents emplois.</article>
+      <article number="ARTICLE 34" article_identifier="8920">La Commission arrête son règlement intérieur.</article>
+      <article number="ARTICLE 35" article_identifier="8921">Le Contrôle démocratique des organes de l’Union est assuré par un Parlement dont la création fait l’objet d’un Traité spécifique. 
+
+Le Parlement participe au processus décisionnel et aux efforts d’intégration de l’Union dans les domaines couverts par le présent Traité. 
+
+Le Parlement jouit de l’autonomie de gestion financière. 
+
+Le Parlement se réunit en deux sessions ordinaires par an, sur convocatoin de son Président. 
+
+La deuxième session ordinaire du Parlement est une session budgétaire. 
+
+Le Parlement peut également se réunir en session extraordinaire, sur un ordre du jour précis. 
+
+Le Parlement adopte son Règlement Intérieur, à sa session inaugurale.</article>
+      <article number="ARTICLE 36" article_identifier="8922">A l’initiative du Parlement ou à leur demande, le Président du Conseil, le Président et les membres de la Commission, le Gouverneur de la BCEAO, le Président de la BOAD et le Président de la Chambre Consulaire Régionale peuvent être entendus par le Parlement. 
+
+Chaque année, le Président de la Commission soumet au Parlement pour examen, un rapport général sur le fonctionnement et l’évolution de l’Union, conformément aux dispositions de l’article 26. 
+
+Le Parlement examine un programme d’actions que lui présente le Président de la Commission, à la session ordinaire qui suit sa nomination.</article>
+      <article number="ARTICLE 37" article_identifier="8923">La composition, l’organisation et le fonctionnement du Parlement sont déterminés par voie d’acte additionnel de la Conférence des Chefs d’Etat et de Gouvernement. 
+
+La Conférence des Chefs d’Etat et de Gouvernement peut, après consultation du Bureau du Parlement et du Conseil des Ministres, dissoudre le Parlement.</article>
+      <article number="ARTICLE 38" article_identifier="8924">Il est créé au niveau de l'Union deux organes de contrôle juridictionnel dénommés Cour de Justice et Cour des Comptes. 
+
+Le statut, la composition, les compétences ainsi que les règles de procédures et de fonctionnement de la Cour de Justice et de la Cour des Comptes sont énoncés dans le protocole additionnel n°I.</article>
+      <article number="ARTICLE 39" article_identifier="8925">Le protocole additionnel n°I fait partie intégrante du présent Traité.</article>
+      <article number="ARTICLE 40" article_identifier="8926">Il est créé au sein de l'Union un organe consultatif dénommé Chambre Consulaire Régionale, regroupant les chambres consulaires des Etats membres et dont les modalités de fonctionnement seront fixées par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement. 
+
+D'autres organes consultatifs pourront être créés, en tant que de besoin, par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement.</article>
+      <article number="ARTICLE 41" article_identifier="8927">La Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO) et la Banque Ouest Africaine de Développement (BOAD) sont des institutions spécialisées autonomes de l'Union. 
+
+Sans préjudice des objectifs qui leur sont assignés par le Traité de l'UMOA, la Banque Centrale des Etats de l'Afrique de l'Ouest (BCEAO) et la Banque Ouest Africaine de Développement (BOAD) concourent en toute indépendance à la réalisation des objectifs du présent Traité.</article>
+    </chapter>
+    <chapter number="CHAPITRE III" name="Du Regime Juridique Des Actes Pris Par Les Organes De L'union" chapter_identifier="1086">
+      <article number="ARTICLE 42" article_identifier="8928">Pour l'accomplissement de leurs missions et dans les conditions prévues par le présent Traité : 
+
+-la Conférence prend des actes additionnels, conformément aux dispositions de l'article 19 ; 
+
+-le Conseil édicte des règlements, des directives et des décisions ; il peut également formuler des recommandations et/ou des avis ; 
+
+-la Commission prend des règlements pour l'application des actes du Conseil et édicte des décisions ; elle peut également formuler des recommandations et/ou des avis ; 
+
+-Le Parlement prend des actes dont le régime juridique est déterminé par le Traité portant création de cet organe.</article>
+      <article number="ARTICLE 43" article_identifier="8929">Les règlements ont une portée générale. Ils sont obligatoires dans tous leurs éléments et sont directement applicables dans tout Etat membre. 
+
+Les directives lient tout Etat membre quant aux résultats à atteindre. 
+
+Les décisions sont obligatoires dans tous leurs éléments pour les destinataires qu'elles désignent. 
+
+Les recommandations et les avis n'ont pas de force exécutoire.</article>
+      <article number="ARTICLE 44" article_identifier="8930">Les règlements, les directives et les décisions du Conseil et de la Commission sont dûment motivés.</article>
+      <article number="ARTICLE 45" article_identifier="8931">Les actes additionnels, les règlements, les directives et les décisions sont publiés au Bulletin Officiel de l'Union. Ils entrent en vigueur après leur publication à la date qu'ils fixent. 
+
+Les décisions sont notifiées à leurs destinataires et prennent effet à compter de leur date de notification.</article>
+      <article number="ARTICLE 46" article_identifier="8932">Les décisions du Conseil ou de la Commission qui comportent, à la charge des personnes autres que les Etats, une obligation pécuniaire forment titre exécutoire. 
+
+L'exécution forcée est régie par les règles de procédure civile en vigueur dans l'Etat sur le territoire duquel elle a lieu. La formule exécutoire est apposée, sans autre contrôle que celui de la vérification de l'authenticité du titre, par l'autorité nationale que le Gouvernement de chacun des Etats membres désignera à cet effet. 
+
+Après l'accomplissement de ces formalités, l'exécution forcée peut être poursuivie en saisissant directement l'organe compétent selon la législation nationale. 
+
+L'exécution forcée ne peut être suspendue qu'en vertu d'une décision de la Cour de Justice. Toutefois, le contrôle de la régularité des mesures d'exécution relève de la compétence des juridictions nationales.</article>
+    </chapter>
+    <chapter number="CHAPITRE I" name="Dispositions Generales" chapter_identifier="1087">
+      <article number="ARTICLE 47" article_identifier="8933">Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres, arrête le budget de l'Union sur proposition de la Commission et après consultation du Parlement, avant le début de l'exercice budgétaire. 
+
+Le budget comprend toutes les recettes de l'Union et toutes les dépenses des institutions du présent Traité à l'exception des institutions spécialisées autonomes que sont la BCEAO et la BOAD, ainsi que celles afférentes à la mise en oeuvre des politiques communes. 
+
+Le budget est équilibré en recettes et en dépenses. 
+
+Le budget est exécuté par la Commision. Toutefois, le Parlement, la Cour de Justice et la Cour des Comptes jouissent de l’autonomie de gestion financière.</article>
+      <article number="ARTICLE 48" article_identifier="8934">L'Union est dotée de ressources propres qui assurent le financement régulier de son fonctionnement.</article>
+      <article number="ARTICLE 49" article_identifier="8935">Les ressources de l'Union sont soumises au principe de solidarité financière entre les Etats membres. 
+
+Aucun Etat ne peut invoquer une équivalence entre sa contribution financière et les avantages qu'il tire de l'Union.</article>
+      <article number="ARTICLE 50" article_identifier="8936">L'Union ne répond pas des engagements des administrations centrales, des autorités locales, des autres autorités publiques, d'autres organismes ou entreprises publiques d'un Etat membre.</article>
+      <article number="ARTICLE 51" article_identifier="8937">Sur proposition de la Commission, le Conseil adopte à l'unanimité les règlements financiers spécifiant notamment les modalités d'élaboration et d'exécution du budget ainsi que les règles de reddition et de vérification des comptes. 
+
+Les règlements financiers instituent la règle de la séparation des ordonnateurs et des comptables.</article>
+      <article number="ARTICLE 52" article_identifier="8938">Avant sa transmission au Conseil, le projet de budget est soumis pour avis au Comité des Experts visé à l'article 25.</article>
+      <article number="ARTICLE 53" article_identifier="8939">le 1er 
+
+L'exercice budgétaire commence janvier et prend fin le 31 décembre de chaque année. 
+
+Au cas où le budget n'a pas pu être adopté avant le début de l'exercice budgétaire, les dépenses peuvent être effectuées mensuellement dans la limite du douzième des crédits ouverts au titre du budget de l'exercice précédent.</article>
+    </chapter>
+    <chapter number="CHAPITRE II" name="Des Ressources De L'union" chapter_identifier="1088">
+      <article number="ARTICLE 54" article_identifier="8940">Les ressources de l'Union proviennent notamment d'une fraction du produit du tarif extérieur commun (TEC) et des taxes indirectes perçues dans l'ensemble de l'Union. Ces ressources seront perçues directement par l'Union. 
+
+Les actes prescrivant la perception de ces ressources sont adoptés, après consultation du Parlement. 
+
+L'Union peut avoir recours aux emprunts, subventions et aides extérieures compatibles avec ses objectifs.</article>
+      <article number="ARTICLE 55" article_identifier="8941">A terme, une taxe à la valeur ajoutée (TVA) de l'Union sera instituée et se substituera à la fraction du produit des taxes indirectes nationales indiquée à l'article 54. Au besoin, des taxes additionnelles pourront être introduites par l'Union. 
+
+Les projets d’actes relatifs à l’ensemble de ces taxes sont adoptés, après consultation du Parlement.</article>
+      <article number="ARTICLE 56" article_identifier="8942">Dans un délai de deux (2) ans à compter de l'entrée en vigueur du présent Traité, le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission, arrête les modalités d'application des articles 54 et 55, conformément aux principes directeurs fixés par la Conférence des Chefs d'Etat et de Gouvernement par voie d'acte additionnel.</article>
+      <article number="ARTICLE 57" article_identifier="8943">Durant la phase de mise en oeuvre du régime de ressources propres de l'Union, qui ne doit pas dépasser trois (3) ans à compter de l'entrée en vigueur du présent Traité, il sera institué, par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement, un régime transitoire en vertu duquel le financement de la phase de démarrage de l'Union sera assuré notamment par la BCEAO et la BOAD.</article>
+    </chapter>
+    <chapter number="CHAPITRE III" name="Des Interventions De L'union" chapter_identifier="1089">
+      <article number="ARTICLE 58" article_identifier="8944">Les moins-values de recettes douanières subies par certains Etats membres du fait de la mise en place de l'union douanière font l'objet d'un traitement spécifique temporaire. 
+
+Ce traitement comprend, durant une phase transitoire, un dispositif automatique de compensations financières, conditionnées à la mise en place progressive par les Etats membres concernés d'une nouvelle assiette et d'une nouvelle structure de leurs recettes fiscales. 
+
+Les modalités d'application du système transitoire de compensations seront précisées par voie d'acte additionnel.</article>
+      <article number="ARTICLE 59" article_identifier="8945">En vue du financement d'un aménagement équilibré du territoire communautaire, l'Union pourra instituer des fonds structurels dont les modalités d'intervention seront précisées par voie d'acte additionnel de la Conférence des Chefs d'Etat et de Gouvernement.</article>
+    </chapter>
+    <chapter number="CHAPITRE I" name="De L'harmonisation Des Legislations" chapter_identifier="1090">
+      <article number="ARTICLE 60" article_identifier="8946">Dans le cadre des orientations prévues à l'article 8, la Conférence des Chefs d'Etat et de Gouvernement établit des principes directeurs pour l'harmonisation des législations des Etats membres. Elle identifie les domaines prioritaires dans lesquels, conformément aux dispositions du présent Traité, un rapprochement des législations des Etats membres est nécessaire pour atteindre les objectifs de l'Union. Elle détermine également les buts à atteindre dans ces domaines et les principes généraux à respecter. 
+
+Dans l'exercice de ces fonctions, la Conférence tient compte des progrès réalisés en matière de rapprochement des législations des Etats de la région, dans le cadre d'organismes poursuivant les mêmes objectifs que l'Union.</article>
+      <article number="ARTICLE 61" article_identifier="8947">Le Conseil statuant à la majorité des deux tiers (2/3) de ses membres, sur proposition de la Commission, arrête les directives ou règlements nécessaires pour la réalisation des programmes mentionnés à l'article 60.</article>
+    </chapter>
+    <chapter number="CHAPITRE II" name="Des Politiques Communes" chapter_identifier="1091">
+      <article number="ARTICLE 62" article_identifier="8948">La politique monétaire de l'Union est régie par les dispositions du Traité du 14 novembre 1973 constituant l'Union Monétaire Ouest africaine (UMOA) et par les textes subséquents. Sans préjudice des objectifs qui lui sont ainsi assignés, elle soutient l'intégration économique de l'Union.</article>
+      <article number="ARTICLE 63" article_identifier="8949">Les Etats membres considèrent leurs politiques économiques comme une question d'intérêt commun et les coordonnent au sein du Conseil en vue de la réalisation des objectifs définis à l'article 4 paragraphe b) du présent Traité. A cette fin, le Conseil met en place un dispositif de surveillance multilatérale des politiques économiques de l'Union dont les modalités sont fixées aux articles 64 à 75.</article>
+      <article number="ARTICLE 64" article_identifier="8950">Sur proposition de la Commission, le Conseil se prononce sur les grandes orientations des politiques économiques des Etats membres et de l'Union par voie de recommandations arrêtées à la majorité des deux tiers (2/3) de ses membres. 
+
+Ces orientations se rapportent aux objectifs économiques des pays membres et de l'Union, notamment aux objectifs : 
+
+-de croissance soutenue du revenu moyen 
+
+-de répartition des revenus ; 
+
+-de solde soutenable de la balance des paiements courants ; 
+
+-d'amélioration de la compétitivité internationale des économies de l'Union. 
+
+Elles tiennent également compte de l'exigence de compatibilité des politiques budgétaires avec les objectifs de la politique monétaire, en particulier celui de stabilité des prix. 
+
+Le Conseil informe le Parlement de ses recommandations.</article>
+      <article number="ARTICLE 65" article_identifier="8951">1) Afin d'assurer une convergence durable de leurs performances économiques et d'établir les bases d'une croissance soutenable, les Etats membres mènent des politiques économiques qui respectent les grandes orientations visées à l'article 64 et les règles énoncées au point 3 ci-après. 
+
+2) Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres, sur proposition de la Commission : 
+
+-adopte les règles supplémentaires requises pour la convergence des politiques économiques nationales et leur mise en cohérence avec la politique monétaire de l'Union ; 
+
+-précise les règles prescrites dans cet article et détermine leurs modalités d'application ainsi que leur calendrier de mise en œuvre ; 
+
+-fixe les valeurs de référence des critères quantitatifs sur lesquels se fonde l'observation des règles de convergence. 
+
+En vertu des règles de convergence arrêtées par le Conseil, tout déficit excessif devra être éliminé et les politiques budgétaires devront respecter une discipline commune, consistant à soutenir les efforts pluri-annuels d'assainissement budgétaire et d'amélioration de la structure des recettes et des dépenses publiques. 
+
+3) Les Etats membres harmonisent leurs politiques fiscales, selon la procédure prévue aux articles 60 et 61, pour réduire les disparités excessives prévalant dans la structure et l'importance de leurs prélèvements fiscaux. 
+
+Les Etats membres notifient à la BCEAO et à la Commission toute variation de leur dette intérieure et extérieure. 
+
+La BCEAO et la Commission prêtent leur concours aux Etats membres qui souhaitent en bénéficier, dans la négociation ou la gestion de leur dette intérieure et extérieure.</article>
+      <article number="ARTICLE 66" article_identifier="8952">Le Conseil, sur proposition de la Commission, examine dans quelle mesure les politiques des prix et des revenus des Etats membres, ainsi que les actions de certains groupes économiques, sociaux ou professionnels sont susceptibles de contrarier la réalisation des objectifs de politique économique de l'Union. Il adopte, au besoin, à la majorité des deux tiers (2/3) de ses membres, et sur proposition de la Commission, des recommandations et avis. Il en informe le Parlement et les organes consultatifs de l'Union.</article>
+      <article number="ARTICLE 67" article_identifier="8953">1) L'Union harmonise les législations et les procédures budgétaires, afin d'assurer notamment la synchronisation de ces dernières avec la procédure de surveillance multilatérale de l'Union. 
+
+Ce faisant, elle assure l'harmonisation des Lois de Finances et des comptabilités publiques, en particulier des comptabilités générales et des plans comptables publics. Elle assure aussi l'harmonisation des comptabilités nationales et des données nécessaires à l'exercice de la surveillance multilatérale, en procédant en particulier à l'uniformisation du champ des opérations du secteur public et des tableaux des opérations financières de l'Etat. 
+
+2) Le Conseil adopte à la majorité des deux tiers (2/3) de ses membres les règlements et les directives nécessaires à la mise en oeuvre des actions visées dans le présent article.</article>
+      <article number="ARTICLE 68" article_identifier="8954">1) Afin d'assurer la fiabilité des données budgétaires nécessaires à l'organisation de la surveillance multilatérale des politiques budgétaires, chaque Etat membre prend, au besoin, les dispositions nécessaires pour qu'au plus tard un (1) an après l'entrée en vigueur du présent Traité, l'ensemble de ses comptes puisse être contrôlé selon des procédures offrant les garanties de transparence et d'indépendance requises. Ces procédures doivent notamment permettre de certifier la fiabilité des données figurant dans les Lois de Finances initiales et rectificatives ainsi que dans les Lois de Règlement. 
+
+2) Les procédures ouvertes à cet effet au choix de chaque Etat membre sont les suivantes : 
+
+-recourir au contrôle de la Cour des Comptes de l'Union ; 
+
+-instituer une Cour des Comptes nationale qui pourra, le cas échéant, faire appel à un système d'audit externe. Cette Cour transmettra ses observations à la Cour des Comptes de l'Union. 
+
+3) Les Etats membres tiennent le Conseil et la Commission informés des dispositions qu'ils ont prises pour se conformer sans délai à cette obligation. La Commission vérifie que les garanties d'efficacité des procédures choisies sont réunies. 
+
+4) Le Conseil adopte à la majorité des deux tiers (2/3) de ses membres les règlements et directives nécessaires à la mise en oeuvre de ces dispositions.</article>
+      <article number="ARTICLE 69" article_identifier="8955">Les Présidents des Cours des Comptes des Etats membres et les Conseillers de la Cour des Comptes de l'Union se réunissent au moins une fois par an, sur convocation du Président de la Cour des Comptes de l'Etat assurant la présidence de la Conférence des Chefs d'Etat et de Gouvernement, pour procéder à une évaluation des systèmes de contrôle des comptes et des résultats des contrôles effectués durant l'exercice écoulé. 
+
+Ils établissent un rapport assorti, le cas échéant, de suggestions d'amélioration des systèmes de contrôle, visant notamment l'harmonisation des procédures et la fixation de normes communes de contrôle. Ce rapport se prononce sur la conformité des comptes transmis par les Etats membres à l'Union aux règles comptables et budgétaires de cette dernière, ainsi que sur leur fiabilité comptable. Il est transmis au Conseil, à la Commission et au Parlement.</article>
+      <article number="ARTICLE 70" article_identifier="8956">Pour les besoins de la surveillance multilatérale, les Etats membres transmettent régulièrement à la Commission toutes informations nécessaires, en particulier les données statistiques et les informations relatives aux mesures de politique économique. 
+
+La Commission précise, par voie de décision, la nature des informations dont la transmission incombe aux Etats membres. Les données statistiques faisant foi pour l'exercice de la surveillance multilatérale de l'Union sont celles retenues par la Commission.</article>
+      <article number="ARTICLE 71" article_identifier="8957">Lorsqu'un Etat membre est confronté à des difficultés économiques et financières ou est susceptible de connaître de telles difficultés en raison d'événements exceptionnels, le Conseil, statuant à l'unanimité sur proposition de la Commission, peut exempter, pour une durée maximale de six (6) mois, cet Etat membre du respect de tout ou partie des prescriptions énoncées dans le cadre de la procédure de surveillance multilatérale. 
+
+Le Conseil, statuant ensuite à la majorité des deux tiers (2/3) de ses membres, peut adresser à l'Etat membre concerné des directives portant sur les mesures à mettre en oeuvre. 
+
+Avant l'expiration de la période de six (6) mois mentionnée à l'alinéa premier, la Commission fait rapport au Conseil sur l'évolution de la situation dans l'Etat membre concerné et sur la mise en oeuvre des directives qui lui ont été adressées. Au vu de ce rapport, le Conseil peut décider à l'unanimité, sur proposition de la Commission, de proroger la période d'exemption en fixant une nouvelle échéance.</article>
+      <article number="ARTICLE 72" article_identifier="8958">1) Dans le cadre de la procédure de surveillance multilatérale, la Commission transmet au Conseil et rend public un rapport semestriel d'exécution. Ce rapport rend compte de la convergence des politiques et des performances économiques ainsi que de la compatibilité de celles-ci avec la politique monétaire de l'Union. Il examine la bonne exécution, par les Etats membres, des recommandations faites par le Conseil en application des articles 64 à 66. Il tient compte des programmes d'ajustement éventuellement en vigueur au niveau de l'Union et des Etats membres. 
+
+Si un Etat membre ne satisfait pas aux exigences mentionnées au paragraphe précédent, la Commission fait, dans une annexe au rapport, des propositions de directives à son intention. Celles-ci spécifient les mesures rectificatives à mettre en oeuvre. Sous réserve des dispositions prévues au paragraphe 2 du présent article, cette annexe n'est pas rendue publique. 
+
+2) Le Conseil prend acte du rapport d'exécution mentionné au paragraphe 1. Il adopte à la majorité des deux tiers (2/3) de ses membres les propositions de directives faites dans ce cadre par la Commission. Par dérogation à l'article 22 du présent Traité, il a la faculté d'amender celles-ci à la majorité des deux tiers (2/3) de ses membres. Il en informe le Parlement. 
+
+Si le Conseil n'a pas été en mesure de réunir les conditions de majorité nécessaires à l'adoption d'une directive à l'issue du premier examen de celle-ci, la Commission a la faculté de rendre sa proposition publique.</article>
+      <article number="ARTICIE 73" article_identifier="8959">L'Etat membre destinataire d'une directive émise par le Conseil dans le cadre de la surveillance multilatérale, élabore en concertation avec la Commission et dans un délai de trente (30) jours, un programme de mesures rectificatives. 
+
+La Commission vérifie la conformité des mesures envisagées à la directive du Conseil et à la politique économique de l'Union et tient compte des éventuels programmes d'ajustement en vigueur.</article>
+      <article number="ARTICLE 74" article_identifier="8960">L'exercice de la surveillance multilatérale de l'Union s'appuie sur le rapport de la Commission, les éventuelles directives du Conseil et les éventuels avis du Parlement, en vertu des procédures indiquées à l'article 72. 
+
+Le Conseil peut renforcer ces procédures par la mise en oeuvre d'une gamme de mesures explicites, positives ou négatives, selon les modalités ci-après : 
+
+a) la mise en place effective, constatée par la Commission, d'un programme reconnu conforme au sens de l'article 73, offre à l'Etat membre concerné le bénéfice de mesures positives qui comprennent notamment : 
+
+-la publication d'un communiqué de la Commission ; 
+
+-le soutien de l'Union dans la recherche du financement requis pour l'exécution du pro-gramme de mesures rectificatives, conformément aux dispositions de l'article 75 ; 
+
+-un accès prioritaire aux ressources disponibles de l'Union. 
+
+b) Si un Etat membre n'a pas pu élaborer un programme rectificatif dans le délai prescrit à l'article 73 ou si la Commission n'a pas reconnu la conformité dudit programme à la directive du Conseil et à la politique économique de l'Union, ou enfin si la Commission constate l'inexécution ou la mauvaise exécution du programme rectificatif, elle transmet, dans les meilleurs délais, au Conseil un rapport assorti éventuellement de propositions de mesures négatives explicites. Elle a la faculté de rendre son rapport public. 
+
+c) L'examen des rapports et des propositions de sanctions mentionnés au paragraphe b) est inscrit de plein droit à l'ordre du jour d'une session du Conseil à la demande de la Commission. 
+
+Le principe et la nature des sanctions font l'objet de délibérations séparées. Les délibérations du Conseil sont acquises à la majorité des deux tiers (2/3) de ses membres. Par dérogation à l'article 22 du présent Traité, les propositions de sanctions peuvent être amendées par le Conseil à la majorité des deux tiers (2/3) de ses membres. 
+
+Le Conseil informe le Parlement des décisions prises. 
+
+d) Les sanctions explicites susceptibles d'être appliquées comprennent la gamme des mesures graduelles suivantes : 
+
+-la publication par le Conseil d'un communiqué, éventuellement assorti d'informations supplémentaires sur la situation de l'Etat concerné ; 
+
+-le retrait, annoncé publiquement, des mesures positives dont bénéficiait éventuellement l'Etat membre ; 
+
+-la recommandation à la BOAD de revoir sa politique d'interventions en faveur de l'Etat membre concerné ; 
+
+-la suspension des concours de l'Union à l'Etat membre concerné. 
+
+Par voie d'acte additionnel au présent Traité, la Conférence des Chefs d'Etat et de Gouvernement peut compléter cette gamme de mesures par des dispositions complémentaires jugées nécessaires au renforcement de l'efficacité de la surveillance multilatérale de l'Union.</article>
+      <article number="ARTICLE 75" article_identifier="8961">A la demande d'un Etat membre éligible aux mesures positives en vertu de l'article 74 paragraphe a), l'Union apportera son aide à la mobilisation des ressources additionnelles nécessaires au financement des mesures rectificatives préconisées. A cette fin, la Commission utilise l'ensemble des moyens et l'autorité dont elle dispose pour appuyer l'Etat membre concerné dans les consultations et négociations requises. 
+
+Paragraphe 1er : Dispositions générales</article>
+      <article number="ARTICLE 76" article_identifier="8962">En vue de l'institution du marché commun prévu à l'article 4 paragraphe c) du présent Traité, l'Union poursuit la réalisation progressive des objectifs suivants : 
+
+a) l'élimination, sur les échanges entre les pays membres, des droits de douane, des restrictions quantitatives à l'entrée et à la sortie, des taxes d'effet équivalent et de toutes autres mesures d'effet équivalent susceptibles d'affecter lesdites transactions, sous réserve du respect des règles d'origine de l'Union qui seront précisées par voie de protocole additionnel ; 
+
+b) l'établissement d'un tarif extérieur commun (TEC) ; 
+
+c) l'institution de règles communes de concurrence applicables aux entreprises publiques et privées ainsi qu'aux aides publiques ; 
+
+d) la mise en oeuvre des principes de liberté de circulation des personnes, d'établissement et de prestations de services ainsi que de celui de liberté de mouvements des capitaux requis pour le développement du marché financier régional ; 
+
+e) l'harmonisation et la reconnaissance mutuelle des normes techniques ainsi que des procédures d'homologation et de certification du contrôle de leur observation. 
+
+Paragraphe 2: De la libre circulation des marchandises</article>
+      <article number="ARTICLE 77" article_identifier="8963">En vue de la réalisation de l'objectif défini à l'article 76 paragraphe a), les Etats membres s'abstiennent, dès l'entrée en vigueur du présent Traité : 
+
+a) d'introduire entre eux tous nouveaux droits de douane à l'importation et à l'exportation ainsi que toutes taxes d'effet équivalent et d'augmenter ceux qu'ils appliquent dans leurs relations commerciales mutuelles ; 
+
+b) d'introduire entre eux de nouvelles restrictions quantitatives à l'exportation ou à l'importation ou des mesures d'effet équivalent, ainsi que de rendre plus restrictifs les contingents, normes et toutes autres dispositions d'effet équivalent. 
+
+Conformément aux dispositions de l'article XXIV (5) (a) de l'Accord Général sur les Tarifs Douaniers et le Commerce (GATT), l'Union s'assure que l'incidence globale des droits de douane et des autres règlements du commerce vis-à-vis des pays tiers n'est pas plus restrictive que celle des dispositions en vigueur avant la création de l'Union.</article>
+      <article number="ARTICLE 78" article_identifier="8964">Sur proposition de la Commission, le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres, détermine conformément aux dispositions de l'article 5 du présent Traité, le rythme et les modalités d'élimination, sur les échanges entre les pays membres, des droits de douane, des restrictions quantitatives et de toutes autres mesures d'effet équivalent. Il arrête les règlements nécessaires. 
+
+Le Conseil tient compte des incidences de l'unification des marchés nationaux sur l'économie et les finances publiques des Etats membres, en créant des fonds de compensation et de développement.</article>
+      <article number="ARTICLE 79" article_identifier="8965">Sous réserve des mesures d'harmonisation des législations nationales mises en oeuvre par l'Union, les Etats membres conservent la faculté de maintenir et d'édicter des interdictions ou des restrictions d'importation, d'exportation et de transit, justifiées par des raisons de moralité publique, d'ordre public, de sécurité publique, de protection de la santé ou de la vie des personnes et des animaux, de préservation de l'environnement, de protection des trésors nationaux ayant une valeur artistique, historique ou archéologique et de protection de la propriété industrielle et commerciale. 
+
+Les interdictions ou restrictions appliquées en vertu de l'alinéa précédent ne doivent constituer ni un moyen de discrimination arbitraire ni une restriction déguisée dans le commerce entre les Etats membres. 
+
+Les Etats membres notifient à la Commission toutes les restrictions maintenues en vertu de l'alinéa premier du présent article. La Commission procède à une revue annuelle de ces restrictions en vue de proposer leur harmonisation ou leur élimination progressive.</article>
+      <article number="ARTICLE 80" article_identifier="8966">Sur proposition de la Commission, le Conseil arrête à la majorité des deux tiers (2/3) de ses membres un schéma relatif à l'harmonisation et à la reconnaissance mutuelle des normes techniques et sanitaires ainsi que des procédures d'homologation et de certification en vigueur dans les Etats membres.</article>
+      <article number="ARTICLE 81" article_identifier="8967">Le Conseil arrête, sur proposition de la Commission et à la majorité des deux tiers (2/3) de ses membres, les règlements nécessaires à la mise en oeuvre du schéma mentionné à l'article 80. 
+
+Paragraphe 3 : De la politique commerciale</article>
+      <article number="ARTICLE 82" article_identifier="8968">En vue de la réalisation des objectifs définis à l'article 76 paragraphes a) et b) du présent Traité, le Conseil adopte à la majorité des deux tiers (2/3) de ses membres, sur proposition de la Commission : 
+
+a) les mesures relatives à l'harmonisation des dispositions législatives, réglementaires et administratives des Etats membres nécessaires au fonctionnement de l'union douanière ; 
+
+b) les règlements relatifs au tarif extérieur commun (TEC) ; 
+
+c) les règlements fixant le régime de la politique commerciale avec les Etats tiers ; 
+
+d) le régime applicable aux produits du cru et de l'artisanat.</article>
+      <article number="ARTICLE 83" article_identifier="8969">Dans la réalisation des objectifs définis à l'article 76 du présent Traité, l'Union respecte les principes de l'Accord Général sur les Tarifs Douaniers et le Commerce (GATT) en matière de régime commercial préférentiel. Elle tient compte de la nécessité de contribuer au développement harmonieux du commerce intra-africain et mondial, de favoriser le développement des capacités productives à l'intérieur de l'Union, de protéger les productions de l'Union contre les politiques de dumping et de subventions des pays tiers.</article>
+      <article number="ARTICLE 84" article_identifier="8970">L'Union conclut des accords internationaux dans le cadre de la politique commerciale commune selon les modalités suivantes : 
+
+-la Commission présente des recommandations au Conseil qui l'autorise à la majorité des deux tiers (2/3) de ses membres à ouvrir les négociations nécessaires ; 
+
+-la Commission conduit ces négociations en consultation avec un Comité désigné par le Conseil et dans le cadre des directives élaborées par celui-ci. 
+
+Les accords mentionnés à l'alinéa premier sont conclus par le Conseil à la majorité des deux tiers (2/3) de ses membres.</article>
+      <article number="ARTICLE 85" article_identifier="8971">Si les accords mentionnés à l'article 84 sont négociés au sein d'organisations internationales au sein desquelles l'Union ne dispose pas de représentation propre, les Etats membres conforment leurs positions de négociation aux orientations définies par le Conseil à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission. 
+
+Lorsque des négociations en cours au sein d'organisations internationales à caractère économique sont susceptibles d'avoir une incidence sur le fonctionnement du marché commun, sans pour autant relever des compétences de l'Union, les Etats membres coordonnent leurs positions de négociation.</article>
+      <article number="ARTICLE 86" article_identifier="8972">Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres sur proposition de la Commission, fixe par voie de règlement les modalités selon lesquelles les Etats membres sont autorisés à prendre, par dérogation aux règles générales de l'union douanière et de la politique commerciale commune, des mesures de protection destinées à faire face à des difficultés graves dans un ou plusieurs secteurs de leurs économies. 
+
+Les mesures de sauvegarde adoptées en vertu des règlements pris en application de l'alinéa précédent ne peuvent excéder une durée de six (6) mois, éventuellement renouvelable. Elles doivent être autorisées par la Commission, tant dans leur durée que dans leur contenu, avant leur entrée en vigueur.</article>
+      <article number="ARTICLE 87" article_identifier="8973">Les Etats membres s'abstiennent de conclure de nouvelles conventions d'établissement. Ils alignent, dans les meilleurs délais possibles, les conventions existantes sur les mesures d'harmonisation des législations visées à l'article 23 du Protocole Additionnel n°II, conformément à la procédure prévue aux articles 60 et 61. 
+
+Paragraphe 4 : Des règles de concurrence</article>
+      <article number="ARTICLE 88" article_identifier="8974">Un (1) an après l'entrée en vigueur du présent Traité, sont interdits de plein droit : 
+
+a) les accords, associations et pratiques concertées entre entreprises, ayant pour objet ou pour effet de restreindre ou de fausser le jeu de la concurrence à l'intérieur de l'Union ; 
+
+b) toutes pratiques d'une ou de plusieurs entreprises, assimilables à un abus de position dominante sur le marché commun ou dans une partie significative de celui-ci ; 
+
+c) les aides publiques susceptibles de fausser la concurrence en favorisant certaines entreprises ou certaines productions.</article>
+      <article number="ARTICLE 89" article_identifier="8975">Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission, arrête dès l'entrée en vigueur du présent Traité par voie de règlements, les dispositions utiles pour faciliter l'application des interdictions énoncées à l'article 88. 
+
+Il fixe, selon cette procédure, les règles à suivre par la Commission dans l'exercice du mandat que lui confère l'article 90 ainsi que les amendes et astreintes destinées à sanctionner les violations des interdictions énoncées dans l'article 88. 
+
+Il peut également édicter des règles précisant les interdictions énoncées dans l'article 88 ou prévoyant des exceptions limitées à ces règles afin de tenir compte de situations spécifiques.</article>
+      <article number="ARTICLE 90" article_identifier="8976">La Commission est chargée, sous le contrôle de la Cour de Justice, de l'application des règles de concurrence prescrites par les articles 88 et 89. Dans le cadre de cette mission, elle dispose du pouvoir de prendre des décisions. 
+
+Paragraphe 5 : De la libre circulation des personnes, des services et des capitaux</article>
+      <article number="ARTICLE 91" article_identifier="8977">1) Sous réserve des limitations justifiées par des motifs d'ordre public, de sécurité publique et de santé publique, les ressortissants d'un Etat membre bénéficient sur l'ensemble du territoire de l'Union de la liberté de circulation et de résidence qui implique : 
+
+-l'abolition entre les ressortissants des Etats membres de toute discrimination fondée sur la nationalité, en ce qui concerne la recherche et l'exercice d'un emploi, à l'exception des emplois dans la Fonction Publique ; 
+
+-le droit de se déplacer et de séjourner sur le territoire de l'ensemble des Etats membres ; 
+
+-le droit de continuer à résider dans un Etat membre après y avoir exercé un emploi. 
+
+2) Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission, après avis conforme du Parlement, arrête dès l'entrée en vigueur du présent Traité, par voie de règlement ou de directive, les dispositions utiles pour faciliter l'usage effectif des droits prévus au paragraphe 1. 
+
+3) Selon la procédure prévue au paragraphe 2, le Conseil adopte des règles : 
+
+a) précisant le régime applicable aux membres des familles des personnes faisant usage de ces droits ; 
+
+b) permettant d'assurer aux travailleurs migrants et à leurs ayants droit la continuité de la jouissance des prestations susceptibles de leur être assurées au titre des périodes d'emploi successives sur le territoire de tous les Etats membres ; 
+
+c) précisant la portée des limitations justifiées par des raisons d'ordre public, de sécurité publique et de santé publique.</article>
+      <article number="ARTICLE 92" article_identifier="8978">1) Les ressortissants d'un Etat membre bénéficient du droit d'établissement dans l'ensemble du territoire de l'Union. 
+
+2) Sont assimilées aux ressortissants des Etats membres, les sociétés et personnes morales constituées conformément à la législation d'un Etat membre et ayant leur siège statutaire, leur administration centrale ou leur principal établissement à l'intérieur de l'Union. 
+
+3) Le droit d'établissement comporte l'accès aux activités non salariées et leur exercice ainsi que la constitution et la gestion d'entreprises, dans les conditions définies par la législation du pays d'établissement pour ses propres ressortissants, sous réserve des limitations justifiées par des raisons d'ordre public, de sécurité publique et de santé publique. 
+
+4) Le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres et sur proposition de la Commission, après avis conforme du Parlement, arrête dès l'entrée en vigueur du présent Traité, par voie de règlement ou de directive, les dispositions utiles pour faciliter l'usage effectif du droit d'établissement. 
+
+5) L'article 91, paragraphe 3, est applicable, mutatis mutandis.</article>
+      <article number="ARTICLE 93" article_identifier="8979">Les ressortissants de chaque Etat membre peuvent fournir des prestations de services dans un autre Ètat membre dans les mêmes conditions que celles que cet Etat membre impose à ses propres ressortissants, sous réserve des limitations justifiées par des raisons d'ordre public, de sécurité publique et de santé publique et sans préjudice des exceptions prévues par le présent Traité. 
+
+L'article 91, paragraphe 3, et l'article 92, paragraphes 2 et 4, sont applicables, mutatis mutandis.</article>
+      <article number="ARTICLE 94" article_identifier="8980">Par dérogation aux articles 92 et 93 et sous réserve des mesures d'harmonisation des législations nationales mises en oeuvre par l'Union, les Etats membres peuvent maintenir des restrictions à l'exercice, par des ressortissants d'autres Etats membres ou par des entreprises contrôlées par ceux-ci, de certaines activités lorsque ces restrictions sont justifiées par des raisons d'ordre public, de sécurité publique, de santé publique ou par d'autres raisons d'intérêt général. 
+
+Les Etats membres notifient à la Commission toutes restrictions maintenues en vertu des dispositions du paragraphe précédent. La Commission procède à une revue annuelle de ces restrictions en vue de proposer leur harmonisation ou leur élimination progressive.</article>
+      <article number="ARTICLE 95" article_identifier="8981">Selon la procédure prévue aux articles 60 et 61, il est procédé à l'harmonisation des dispositions nationales réglementant l'exercice de certaines activités économiques ou professions ainsi qu'à l'abolition des restrictions maintenues en vertu de l'article 93, en vue de faciliter le développement du marché commun et notamment du marché financier régional.</article>
+      <article number="ARTICLE 96" article_identifier="8982">Dans le cadre du présent Traité, les restrictions aux mouvements, à l'intérieur de l'Union, des capitaux appartenant à des personnes résidant dans les Etats membres sont interdites.</article>
+      <article number="ARTICLE 97" article_identifier="8983">1) L'article 96 ne porte pas atteinte au droit des Etats membres à : 
+
+a) prendre des mesures indispensables pour prévenir les infractions à leur législation fiscale ; 
+
+b) prévoir éventuellement des dispositions afin de renforcer les moyens d'information statistique sur les mouvements de capitaux ; 
+
+c) prendre des mesures justifiées par des raisons d'ordre public ou de sécurité publique. 
+
+2) La libre circulation des capitaux liés à l'investissement direct dans les entreprises définies à l'article 92 paragraphe 2 ne préjuge pas de la possibilité d'appliquer des restrictions en matière de droit d'établissement compatibles avec les dispositions du présent Traité. 
+
+3) Les mesures et procédures visées aux paragraphes 1 et 2 ne doivent constituer ni un moyen de discrimination arbitraire ni une restriction déguisée à la libre circulation des capitaux définie à l'article 96.</article>
+      <article number="ARTICLE 98" article_identifier="8984">Sans préjudice de l'application du Traité de l'UMOA, le Conseil, statuant à la majorité des deux tiers (2/3) de ses membres sur proposition de la Commission, arrête dès l'entrée en vigueur du présent Traité, par voie de règlement ou de directive, les dispositions utiles pour faciliter l'exercice de l'usage effectif des droits prévus aux articles 96 et 97.</article>
+      <article number="ARTICLE 99" article_identifier="8985">Dès l'entrée en vigueur du présent Traité, les Etats membres s'abstiennent d'introduire toute nouvelle restriction à l'exercice des droits prévus aux articles 93 à 96. Aucune restriction existante ne peut être maintenue si elle constitue un moyen de discrimination arbitraire ou une restriction déguisée à l'exercice de ces droits.</article>
+      <article number="ARTICLE 100" article_identifier="8986">Pour la réalisation des objectifs définis à l'article 76 du présent Traité, l'Union prend en compte les acquis des organisations sous-régionales africaines auxquelles participent ses Etats membres.</article>
+    </chapter>
+    <chapter number="CHAPITRE III" name="Des Politiques Sectorielles" chapter_identifier="1092">
+      <article number="ARTICLE 101" article_identifier="8987">En vue de compléter les politiques économiques communes menées au niveau de l'Union, il est institué un cadre juridique définissant les politiques sectorielles devant être mises en oeuvre par les Etats membres. 
+
+Ces politiques sectorielles sont énoncées et définies dans le protocole additionnel n° Il.</article>
+      <article number="ARTICLE 102" article_identifier="8988">Le protocole additionnel n° Il fait partie intégrante du présent Traité.</article>
+    </chapter>
+    <chapter number="CHAPITRE I" name="De L'admission De Nouveaux Etats Membres Et De Membres Associes" chapter_identifier="1093">
+      <article number="ARTICLE 103" article_identifier="8989">Tout Etat ouest africain peut demander à devenir membre de l'Union. Il adresse sa demande à la Conférence des Chefs d'Etat et de Gouvernement qui se prononce sur rapport de la Commission. 
+
+Les conditions d'adhésion et les adaptations du présent Traité que celle-ci entraîne font l'objet d'un accord entre les Etats membres et l'Etat demandeur, après avis conforme du Parlement de l’UEMOA. 
+
+Cet accord est soumis à la ratification des Etats membres, conformément à leurs règles constitutionnelles respectives. 
+
+Toutefois, si l'adhésion n'entraîne que des adaptations d'ordre purement technique, l'accord peut être approuvé par la Conférence des Chefs d'Etat et de Gouvernement.</article>
+      <article number="ARTICLE 104" article_identifier="8990">Tout Etat africain peut demander à participer à une ou plusieurs politiques de l'Union en qualité de membre associé. 
+
+Les conditions d'une telle association font l'objet d'un accord entre l'Etat demandeur et l'Union, après avis conforme du Parlement de l’UEMOA. 
+
+L'accord est conclu par la Conférence des Chefs d'Etat et de Gouvernement.</article>
+      <article number="ARTICLE 105" article_identifier="8991">La langue de travail de l'Union est le français. La Conférence des Chefs d'Etat et de Gouvernement peut ajouter d'autres langues de travail.</article>
+    </chapter>
+    <chapter number="CHAPITRE II" name="De La Revision Et De La Denonciation Du Traite De L'union" chapter_identifier="1094">
+      <article number="ARTICLE 106" article_identifier="8992">Tout Etat membre ou la Commission peut soumettre à la Conférence des Chefs d'Etat et de Gouvernement des propositions tendant à modifier le présent Traité. 
+
+Les modifications approuvées par la Conférence des Chefs d'Etat et de Gouvernement entrent en vigueur après avoir été ratifiées par tous les Etats membres, conformément à leurs règles constitutionnelles respectives.</article>
+      <article number="ARTICLE 107" article_identifier="8993">Le présent Traité peut être dénoncé par tout Etat membre. 
+
+Sauf dispositions spéciales adoptées par la Conférence des Chefs d'Etat et de Gouvernement, il cesse d'avoir effet à l'égard de l'Etat en question le dernier jour du sixième mois suivant la date de réception de la dénonciation par l'Etat dépositaire. 
+
+En cas de dénonciation, la Conférence des Chefs d'Etat et de Gouvernement apporte par voie d'acte additionnel les adaptations aux dispositions du présent Traité découlant de cette dénonciation.</article>
+    </chapter>
+    <chapter number="CHAPITRE I" name="De La Mise En Place Des Organes De L'union" chapter_identifier="1095">
+      <article number="ARTICLE 108" article_identifier="8994">Au cours de la première session du Conseil suivant l'entrée en vigueur du présent Traité, il est procédé à la constitution de la Commission. 
+
+La Commission entre en fonction dès sa constitution.</article>
+      <article number="ARTICLE 109" article_identifier="8995">La Cour de Justice est constituée dans un délai de six (6) mois après l'entrée en vigueur du présent Traité. La Cour de Justice entre en fonction dès la nomination de ses membres. Elle établit son règlement de procédures dans un délai de trois (3) mois à compter de son entrée en fonction. Les délais d'introduction des recours courent à compter de la date de publication de ce règlement.</article>
+      <article number="ARTICLE 110" article_identifier="8996">Le premier exercice financier s'étend de la date d'entrée en vigueur du Traité jusqu'au 31 décembre suivant. Toutefois, cet exercice s'étend jusqu'au 31 décembre de l'année suivant celle d'entrée en vigueur du Traité, si celle-ci intervient au cours du deuxième semestre. 
+
+En attendant l'adoption du statut des fonctionnaires et du régime applicable aux autres agents de l'Union, le personnel nécessaire est recruté par la Commission qui conclut à cet effet des contrats à durée déterminée.</article>
+      <article number="ARTICLE 111" article_identifier="8997">La Conférence des Chefs d'Etat et de Gouvernement détermine le Siège de la Commission, de la Cour de Justice et de la Cour des Comptes.</article>
+    </chapter>
+    <chapter number="CHAPITRE II" name="De La Revision Du Traite De L’umoa" chapter_identifier="1096">
+      <article number="ARTICLE 112" article_identifier="8998">En temps opportun, la Conférence des Chefs d’Etat et de Gouvernement adoptera un Traité fusionant le Traité de l’UMOA et le présent Traité. 
+
+En attendant cette fusion, le Traité de l’UMOA est modifié conformément aux dispositions des article 113 à 115 ci-après.</article>
+      <article number="ARTICLE 113" article_identifier="8999">1) L’article 1er 
+
+“L’Union Monétaire Ouest Africaine constutée entre les Etats signataires du présent Traité se caractérise par la reconnaissance d’une même unité monataire dont l’émission est confiée à un institut d’émission commun prêtant son concours aux économies nationales, sous le contrôle des Gouvernemnents, dans les conditions définies ci-après “. 
+
+est complété par : 
+
+“Le Traité constituant l’Union Monétaire Ouest Africaine (UMOA) est complété par le Traité de l’Union Economique et Monétaire Ouest Africaine (UEMOA), ci-après dénommé Traité de l’UEMOA”. 
+
+2) L’article 2 alinéa 2 
+
+“Les modalités de son adhésion seront convenues par accord entre son Gouvernement et les Gouvernements des Etats membres de l’Union sur proposition du Conseil des Ministres de l’Union institué par le Titre III ci-après.” 
+
+est rédigé comme suit : 
+
+“Les modalités d’admission sont arrêtés selon la procédure prévue à l’article 103 du Traité de l’UEMOA”. 
+
+3) L’article 4 
+
+“Les Etats signataires s’engagent, sous peine d’exclusion automatique de l’Union, à respecter les dispositions du présent Traité et des textes pris pour son application, notamment en ce qui concerne : 
+
+1-les règles génératrices de l’émission, 
+
+2 -la centralisation des réserves monétaires, 
+
+3 -la libre circulation des signes monétaires et la liberté des transferts entre Etats de l'Union, 
+
+4 -les dispositions des articles ci-après. 
+
+La Conférence des Chefs d'Etat de l'Union constatera, à l'unanimité des Chefs d'Etat des autres membres de l'Union, le retrait de celle-ci d'un Etat n'ayant pas respecté les engagements ci-dessus. Le Conseil des Ministres en tirera les conséquences qui s'imposeraient pour la sauvegarde des intérêts de l'Union." 
+
+est rédigé comme suit : 
+
+"Les Etats membres s'engagent, sous peine d'exclusion automatique de l'Union, à respecter les dispositions du présent Traité, du Traité de l'UEMOA et des textes pris pour leur application, notamment en ce qui concerne : 
+
+
+(i) les règles génératrices de l'émission, 
+
+
+(ii) la centralisation des réserves monétaires, 
+(iii) la libre circulation des signes monétaires et la liberté des transferts entre Etats de l'Union, 
+
+(iv) les dispositions des articles ci-après. 
+
+Conformément à la procédure prévue à l'article 6 du protocole additionnel n°I, la Cour de Justice de l'Union est compétente pour connaître des manquements des Etats membres aux obligations qui leur incombent en vertu du Traité de l'Union. 
+
+Si l'Etat membre qui n'a pas respecté ses engagements ne s'est pas exécuté suite à l'invitation prévue à l'article 6 dudit protocole, la Conférence des Chefs d'Etat et de Gouvernement constatera, à l'unanimité des Chefs d'Etat et de Gouvernement des autres Etats membres de l'Union, le retrait de cet Etat. L'article 107 alinéa 3 du Traité de l'UEMOA s'applique par analogie. 
+
+En outre, le Conseil, statuant à l'unanimité de ses membres, peut prendre les mesures qui s'imposeraient pour la sauvegarde des intérêts de l'Union."</article>
+      <article number="ARTICLE 114" article_identifier="9000">L'article 5 
+
+"Les Chefs des Etats membres de l'Union réunis en Conférence constituent l'autorité suprême de l'Union. 
+
+La Conférence des Chefs d'Etat décide de l'adhésion de nouveaux membres, prend acte du retrait et de l'exclusion des membres de l'Union et fixe le siège de son institut d'émission. 
+
+La Conférence des Chefs d'Etat tranche toute question n'ayant pu trouver une solution par accord unanime du Conseil des Ministres de l'Union et que celui-ci soumet à sa décision. 
+
+Les décisions de la Conférence, dénommées &lt;actes de la Conférence&gt;, sont prises à l'unanimité. 
+
+La Conférence siège pendant une année civile dans chacun des Etats de l'Union à tour de rôle dans l'ordre alphabétique de leur désignation. 
+
+Elle se réunit au moins une fois l'an et aussi souvent que nécessaire, à l'initiative du Président en exercice ou à la demande d'un ou plusieurs des Chefs d'Etat membre de l'Union. 
+
+La présidence de la Conférence est assurée par le Chef de l'Etat membre dans lequel siège la Conférence. 
+
+Le Président en exercice fixe les dates et les lieux des réunions et arrête l'ordre du jour des travaux. 
+
+En cas d'urgence, le Président en exercice peut consulter à domicile les autres Chefs d'Etat de l'Union par une procédure écrite.." 
+
+est complété par l'alinéa suivant: 
+
+"Le Président de la Commission, le Gouverneur de la BCEAO et le Président de la BOAD peuvent assister aux réunions de la Conférence des Chefs d'Etat et de Gouvernement pour exprimer les points de vue de leur institution sur les points de l'ordre du jour qui les concernent."</article>
+      <article number="ARTICLE 115" article_identifier="9001">1) L'article 7 dernier alinéa 
+
+"Pour l'exécution de son mandat, le Président du Conseil des Ministres peut recueillir information et assistance de l'Institut d'Emission de l'Union. Celui-ci pourvoit à l'organisation des séances du Conseil des Ministres et à son secrétariat." 
+
+est modifié comme suit: 
+
+"Le Conseil peut inviter la Commission, la BCEAO et la BOAD à lui soumettre des rapports et à prendre toute initiàtive utile à la réalisation des objectifs de l'Union. La Commission, la BCEAO et la BOAD pourvoient à l'organisation des séances du Conseil des Ministres et à son secrétariat." 
+
+2) L'article 8 
+
+" Le Gouverneur de l'Institut d'Emission de l'Union assiste aux réunions du Conseil des Ministres. Il peut demander à être entendu par ce dernier. Il peut se faire assister par ceux de ses collaborateurs dont il estime le concours nécessaire." 
+
+est rédigé comme suit: 
+
+"Le Président de la Commission ou un membre de celle-ci ainsi que le Gouverneur de la BCEAO et le Président de la BOAD assistent aux réunions du Conseil. Ils peuvent demander à être entendus par ce dernier. Ils peuvent se faire assister par ceux de leurs collaborateurs dont ils estiment le concours nécessaire."</article>
+    </chapter>
+    <chapter number="CHAPITRE III" name="De L'entree En Vigueur Du Traite Modifie De L'uemoa" chapter_identifier="1097">
+      <article number="ARTICLE 116" article_identifier="9002">Le présent Traité sera ratifié par les Hautes Parties Contractantes, conformément à leurs règles constitutionnelles respectives. Les instruments de ratification seront déposés auprès du Gouvernement de la République du Sénégal. 
+
+Le présent Traité entrera en vigueur le premier jour du mois suivant le dépôt de l'instrument de ratification de l'Etat signataire qui procédera le dernier à cette formalité. Toutefois, si le dépôt a lieu moins de quinze (15) jours avant le début du mois suivant, l'entrée en vigueur du Traité sera reportée au premier jour du deuxième mois suivant la date de ce dépôt.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1098">
+      <article article_identifier="9003">En foi de quoi, ont apposé leur signature au bas du présent Traité, le 29 janvier 2003. 
+
+Pour la République du Bénin Pour la République du Mali 
+
+S.E. MATHIEU KEREKOU S.E. AMADOU TOUMANI TOURE 
+
+Président de la République Président de la République 
+
+Pour le Burkina Faso Pour la République du Niger 
+
+S.E. PARAMANGA ERNEST YONLI S.E. MAMADOU TANDJA 
+
+Premier Ministre du Burkina Faso Président de la République 
+
+Pour la République de Côte d’Ivoire Pour la République du Sénégal 
+
+S.E. FATIMATA TANOE TOURE S.E. ABDOULAYE WADE 
+
+Ambassadeur de la République Président de la République de Côte d’Ivoire au Sénégal 
+
+Pour la République de Guinée-Bissau Pour la République Togolaise 
+
+S.E. KOUMBA YALA S.E. GNASSINGBE EYADEMA 
+
+Président de la République Président de la République</article>
+    </chapter>
+  </body>
+</treaty>

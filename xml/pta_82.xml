@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treaty>
+  <meta>
+    <name>EU - South Africa</name>
+    <type>Free Trade Agreement</type>
+    <wto_rta_id>91</wto_rta_id>
+    <treaty_identifier>82</treaty_identifier>
+    <status>In Force</status>
+    <notification>GATT Art. XXIV</notification>
+    <date_signed>1999-10-11</date_signed>
+    <date_into_force>2000-01-01</date_into_force>
+    <date_notification>2000-11-02</date_notification>
+    <end_implementation>2012-12-30</end_implementation>
+    <date_inactive/>
+    <parties_original>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">DEU</partyisocode>
+      <partyisocode n="4">DNK</partyisocode>
+      <partyisocode n="5">ESP</partyisocode>
+      <partyisocode n="6">FIN</partyisocode>
+      <partyisocode n="7">FRA</partyisocode>
+      <partyisocode n="8">GBR</partyisocode>
+      <partyisocode n="9">GRC</partyisocode>
+      <partyisocode n="10">IRL</partyisocode>
+      <partyisocode n="11">ITA</partyisocode>
+      <partyisocode n="12">LUX</partyisocode>
+      <partyisocode n="13">NLD</partyisocode>
+      <partyisocode n="14">PRT</partyisocode>
+      <partyisocode n="15">SWE</partyisocode>
+      <partyisocode n="16">ZAF</partyisocode>
+    </parties_original>
+    <parties>
+      <partyisocode n="1">AUT</partyisocode>
+      <partyisocode n="2">BEL</partyisocode>
+      <partyisocode n="3">BGR</partyisocode>
+      <partyisocode n="4">CYP</partyisocode>
+      <partyisocode n="5">CZE</partyisocode>
+      <partyisocode n="6">DEU</partyisocode>
+      <partyisocode n="7">DNK</partyisocode>
+      <partyisocode n="8">ESP</partyisocode>
+      <partyisocode n="9">EST</partyisocode>
+      <partyisocode n="10">FIN</partyisocode>
+      <partyisocode n="11">FRA</partyisocode>
+      <partyisocode n="12">GBR</partyisocode>
+      <partyisocode n="13">GRC</partyisocode>
+      <partyisocode n="14">HRV</partyisocode>
+      <partyisocode n="15">HUN</partyisocode>
+      <partyisocode n="16">IRL</partyisocode>
+      <partyisocode n="17">ITA</partyisocode>
+      <partyisocode n="18">LTU</partyisocode>
+      <partyisocode n="19">LUX</partyisocode>
+      <partyisocode n="20">LVA</partyisocode>
+      <partyisocode n="21">MLT</partyisocode>
+      <partyisocode n="22">NLD</partyisocode>
+      <partyisocode n="23">POL</partyisocode>
+      <partyisocode n="24">PRT</partyisocode>
+      <partyisocode n="25">ROU</partyisocode>
+      <partyisocode n="26">SVK</partyisocode>
+      <partyisocode n="27">SVN</partyisocode>
+      <partyisocode n="28">SWE</partyisocode>
+      <partyisocode n="29">ZAF</partyisocode>
+    </parties>
+    <composition>Bilateral; One Party is an RTA</composition>
+    <region>Europe; Africa</region>
+    <parties_wto>Yes</parties_wto>
+    <crossregional>Yes</crossregional>
+    <related_agreement_wto_id n="1">137</related_agreement_wto_id>
+    <related_agreement_wto_id n="2">132</related_agreement_wto_id>
+    <related_agreement_wto_id n="3">123</related_agreement_wto_id>
+    <related_agreement_wto_id n="4">52</related_agreement_wto_id>
+    <related_agreement_wto_id n="5">6</related_agreement_wto_id>
+    <related_agreement_wto_id n="6">145</related_agreement_wto_id>
+    <related_agreement_wto_id n="7">120</related_agreement_wto_id>
+    <related_agreement_wto_id n="8">869</related_agreement_wto_id>
+    <language>en</language>
+    <source lang="en" type="full text">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392592527&amp;uri=CELEX:21999A1204(01)</source>
+    <source lang="es" type="full text">http://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:21999A1204(01)&amp;from=EN</source>
+    <source lang="fr" type="full text">http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:21999A1204(01)</source>
+    <source lang="en" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392592527&amp;uri=CELEX:21999A1204(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392592527&amp;uri=CELEX:21999A1204(01)</source>
+    <source lang="es" type="annex">http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1399392592527&amp;uri=CELEX:21999A1204(01)</source>
+  </meta>
+  <body>
+    <chapter name="Preamble" chapter_identifier="108">
+      <article article_identifier="8385">AGREEMENT 
+
+on Trade, Development and Cooperation between the European Community and its Member 
+
+States, of the one part, and the Republic of South Africa, of the other part 
+
+THE KINGDOM OF BELGIUM, 
+THE KINGDOM OF DENMARK, 
+THE FEDERAL REPUBLIC OF GERMANY, 
+THE HELLENIC REPUBLIC, 
+THE KINGDOM OF SPAIN, 
+THE FRENCH REPUBLIC, 
+IRELAND, 
+THE ITALIAN REPUBLIC, 
+THE GRAND DUCHY OF LUXEMBOURG, 
+THE KINGDOM OF THE NETHERLANDS, 
+THE REPUBLIC OF AUSTRIA, 
+THE PORTUGUESE REPUBLIC, 
+THE REPUBLIC OF FINLAND, 
+THE KINGDOM OF SWEDEN, 
+THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND, 
+Contracting Parties to the Treaty establishing THE EUROPEAN COMMUNITY, 
+hereinafter referred to as the 'Member States', and 
+THE EUROPEAN COMMUNITY, hereinafter referred to as the 'Community', 
+of the one part, and 
+THE REPUBLIC OF SOUTH AFRICA, hereinafter referred to as 'South Africa', 
+of the other part, 
+hereinafter referred to as the 'Parties', 
+CONSIDERING the importance of the existing links of friendship and cooperation between the Community, Member 
+
+
+States and South Africa and the common values that the Parties share; 
+
+
+CONSIDERING that the Community, Member States and South Africa wish to further strengthen these links and to establish close and lasting relations based on reciprocity, partnership and co-development; 
+
+RECOGNISING the historical achievements of the South African people in abolishing the apartheid system and building a new political order based on the rule of law, human rights and democracy; 
+
+RECOGNISING the Community's and Member States' political and financial support to this process of political change and transition in South Africa; 
+
+RECALLING the firm commitment of the Parties to the principles of the United Nations Charter and to democratic principles and fundamental human rights as laid down in the Universal Declaration on Human Rights; 
+
+BEARING IN MIND the Cooperation Agreement between South Africa and the European Community which was signed on 10 October 1994; 
+
+RECALLING the wish of the Parties to establish the closest possible relationship between South Africa and the countries of the ACP-EC Lome Convention as reflected in the signing, on 24 April 1997, of the Protocol governing the accession of South Africa to the fourth ACP-EC Convention of Lome, as amended by the Agreement signed in Mauritius on 4 November 1995; 
+
+TAKING ACCOUNT of the Parties' rights and obligations in terms of their membership of the World Trade Organisation (WTO), the need to contribute to the implementation of the results of the Uruguay Round, and the efforts already made by both parties in this respect; 
+
+RECALLING the importance attached by the Parties to the principles and rules which govern international trade and to the need to apply them in a transparent and non-discriminatory manner; 
+
+CONFIRMING the Community's and Member States' support and encouragement for the process of trade liberalisation and economic restructuring currently under way in South Africa; 
+
+RECOGNISING the efforts by the South African Government to ensure economic and social development for the people of South Africa; 
+
+EMPHASISING the importance both the European Union and South Africa place on the successful implementation of the South African reconstruction and development programme; 
+
+CONFIRMING the commitment of the Parties to promote regional cooperation and economic integration between the countries of southern Africa, and to encourage the liberalisation of trade between those countries; 
+
+BEARING IN MIND the Parties' commitment to ensure that their mutual arrangements do not impede the process of restructuring the Southern African Customs Union (SACU), which links South Africa to four ACP States; 
+
+UNDERLINING the importance which the Parties attach to the values and principles set out in the Final Declarations of the International Conference on Population and Development held in Cairo in 1994, of the World Summit for Social Development held in Copenhagen in March 1995 and of the Fourth World Conference on Women held in Beijing in 1995; 
+
+REAFFIRMING the commitment of the Parties to economic and social development and the respect for the fundamental rights of workers, notably by promoting the relevant International Labour Organisation (ILO) Conventions covering such topics as the freedom of association, the right to collective bargaining and non-discrimination; the abolition of forced labour and child labour; 
+
+RECALLING the importance of opening a regular political dialogue in bilateral and multilateral contexts on issues of common interest, 
+
+HAVE AGREED AS FOLLOWS:</article>
+    </chapter>
+    <chapter number="TITLE I" name="General Objectives, Principles And Political Dialogue" chapter_identifier="109">
+      <article number="ARTICLE 1" name="Objectives" article_identifier="8386">The objectives of this Agreement are: 
+
+
+(a) 	to provide an appropriate framework for dialogue between the parties, promoting the development of close relations in all areas covered by this Agreement; 
+
+
+(b) to support the efforts made by South Africa to consolidate the economic and social foundations of its transition process; 
+
+
+(c) 	to promote regional cooperation and economic integration 
+
+
+(d) to promote the expansion and reciprocal liberalisation of mutual trade in goods, services and capital; 
+
+
+(e) 	to encourage the smooth and gradual integration of South Africa into the world economy; 
+
+
+(f) 	to promote cooperation between the Community and South Africa within the bounds of their respective powers, in their mutual interest. 
+in 
+
+the 
+
+southern 
+
+African 
+
+region 
+
+to 
+
+contribute 
+
+to 
+
+its 
+harmonious 
+
+and 
+
+sustainable 
+
+econ
+
+omic 
+
+and 
+
+social 
+development;</article>
+      <article number="ARTICLE 2" name="Essential Element" article_identifier="8387">Respect for democratic principles and fundamental human rights as laid down in the Universal Declaration on Human Rights, as well as for the principles of the rule of law underpins the internal and international policies of the Community and of South Africa and constitutes an essential element of this Agreement. 
+
+The Parties also reaffirm their attachment to the principles of good governance.</article>
+      <article number="ARTICLE 3" name="Non-Execution" article_identifier="8388">1. If either Party considers that the other has failed to fulfil an obligation under this Agreement, it may take appropriate measures. 
+
+
+2. Before doing so it shall supply the other Party, within 30 days, with all relevant information required for a thorough examination of the situation, with a view to seeking a solution acceptable to the Parties. 
+
+
+3. In circumstances of particular urgency, appropriate measures may be taken without prior consultations. These measures shall be immediately notified to the other Party and shall be a subject of consultations, if the other Party so requests. These consultations shall be convened within 30 days from the notification of the measures. If no satisfactory solution is found, the Party concerned may avail itself of the procedure relating to the settlement of disputes. 
+
+
+4. The Parties agree, for the purpose of the correct interpretation and practical application of this Agreement, that the term 'circumstances of particular urgency' in paragraph 3 means a case of the material breach of the Agreement by one of the Parties. A material breach of the Agreement consists in: 
+
+(i) 	repudiation of the Agreement not sanctioned by the general rules of international law, or 
+
+
+(ii) violation of the essential element of the Agreement, 	as described in Article 2. 
+5. The Parties agree that the appropriate measures referred to in paragraph 1 of this Article are those taken in accordance with international law and in the selection of these measures, priority must be given to those which least disturb the functioning of this Agreement.</article>
+      <article number="ARTICLE 4" name="Political Dialogue" article_identifier="8389">1. A regular political dialogue shall be established between the Parties. It shall accompany and help consolidate their cooperation as well as contribute to the establishment of lasting links of solidarity and new forms of cooperation. 
+
+
+2. The political dialogue and cooperation are in particular intended to: 
+
+(a) promote greater mutual understanding between the Parties and a greater convergence of views; 
+
+
+(b) enable each party to consider the position and interests of the other; 
+
+
+(c) 	encourage the support for democracy, the rule of law and the respect of human rights; 
+
+
+(d) promote 	social justice and help create the necessary conditions to eliminate poverty and all forms of discrimination. 
+3. The political dialogue shall cover all issues of common interest to the Parties.
+
+TRADE</article>
+    </chapter>
+    <chapter number="SECTION A" name="General" chapter_identifier="995">
+      <article number="ARTICLE 5" name="Free Trade Area" article_identifier="8390">1. The Community and South Africa agree to establish a Free Trade Area (FTA) in accordance with the provisions of this Agreement and in conformity with those of the WTO. 
+
+
+2. The FTA will be established over a transitional period lasting, on the South African side, a maximum of 12 years 
+4. The political dialogue shall take place whenever necessary, notably: 
+
+
+(a) 	at ministerial level; 
+
+
+(b) at the level of senior officials representing South Africa, on the one hand, and the Presidency of the Council of the European Union and the Commission of the European Communities, on the other; 
+
+
+(c) taking full advantage of all diplomatic channels, including regular briefings, consultations on the occasion of international meetings and contacts between diplomatic representatives in third countries; 
+
+
+(d) where appropriate, by any other 	means or at any other levels to be agreed between the Parties which would make a useful contribution to consolidating the dialogue and increasing its effectiveness. 
+5. In addition to the bilateral political dialogue provided for in the previous paragraphs, the Parties shall take full advantage of, and contribute actively to, the regional political dialogue between the European Union and the countries of Southern Africa, with a view in particular to promoting lasting peace and stability in the region. 
+
+The Parties shall also participate in the political dialogue in the larger ACP/EU framework, as foreseen and laid down in relevant ACP/EC Treaties. 
+
+and,on the Community side, a maximum of 10 years starting from the entry into force of the Agreement. 
+
+3. The FTA covers the free movement of goods in all sectors. This Agreement will also cover the liberalisation of trade in services and the free movement of capital.</article>
+      <article number="ARTICLE 6" name="Classification Of Goods" article_identifier="8391">On the Community side, the combined nomenclature of goods shall apply to the classification of goods imported from South Africa. On the South African side, the harmonised system shall apply to the classification of goods imported from the Community.</article>
+      <article number="ARTICLE 7" name="Basic Duty" article_identifier="8392">1. For each product, the basic duty to which the successive reductions set out in the Agreement are to be applied shall be that effectively applied on the day of entry into force of the Agreement. 
+
+
+2. The Community and South Africa shall communicate to each other their respective basic duties, in accordance with the standstill and rollback commitment agreed between the Parties, and the agreed derogations to these principles, as set out in Annex I. 
+
+
+3. In cases where the process of tariff dismantlement does not start at the entry into force of the Agreement (notably the products listed in Annex II, lists 3, 4 and 5; Annex III, lists 2, 3, 4 and 6; Annex IV, lists 3, 4, 7 and 8; Annex V; Annex VI, lists 2, 3 and 5; Annex VII) the duty to which successive reductions set out in the Agreement are to be applied shall be either the basic duty referred to in paragraph 1 of this Article, or the duty applied on an erga omnes basis on the starting day of the relevant tariff dismantlement schedule, whichever is the lower.</article>
+      <article number="ARTICLE 8" name="Customs Duties Of A Fiscal Nature" article_identifier="8393">The provisions concerning the abolition of customs duties on imports shall also apply to customs duties of a fiscal nature, with the exception of non-discriminatory excise duties levied on both imported and locally-produced goods which are in accordance with the provisions of Article 21.</article>
+      <article number="ARTICLE 9" name="Charges Having An Equivalent Effect To Customs Duties" article_identifier="8394">The Community and South Africa shall abolish in their respective imports any charge having an effect equivalent to customs duties on imports on entry into force of the Agreement.</article>
+    </chapter>
+    <chapter number="SECTION B" name="Industrial Products" chapter_identifier="996">
+      <article number="ARTICLE 10" name="Definition" article_identifier="8395">The provisions of this section apply to products originating in the Community and South Africa with the exception of the products covered by the definition of agricultural products under this Agreement.</article>
+      <article number="ARTICLE 11" name="Tariff Elimination By The Community" article_identifier="8396">1. Customs duties applicable on import into the Community of industrial products originating in South Africa other than those listed in Annex II shall be abolished on the entry into force of this Agreement. 
+
+
+2. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex II, list 1 shall be progressively abolished in accordance with the following schedule: 
+on the date of entry into force of this Agreement each duty shall be reduced to 75 % of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+three years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+3. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex II, list 2 shall be progressively abolished in accordance with the following schedule: 
+
+on the date of entry into force of this Agreement each duty shall be reduced to 86% of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 72 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 57 % of the basic duty; 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 43 % of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 28 % of the basic duty; 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 14 % of the basic duty; 
+
+six years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+4. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex II, list 3 shall be progressively abolished in accordance with the following schedule: 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 75 % of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+six years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+For a number of products indicated in this list, tariff elimination will start four years after the date of entry into force of this Agreement. Tariff elimination of these products will take place in three equal annual reductions, to be concluded six years after the date of entry into force of the Agreement. 
+
+For a certain number of steel products indicated in this list, tariff reduction will be realised on a MFN basis, to arrive at a zero duty in the year 2004. 
+
+5. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex II, list 4 shall be abolished within a maximum of 10 years after the date of entry into force of the Agreement. 
+
+For motor-car components indicated in this list, the applied tariff will be reduced by 50 % as from the entry into force of the Agreement. 
+
+The precise Community basic duties and tariff elimination schedule for the products on this list will be established in the second six months of the year 2000, after both parties have examined the prospects for a further liberalisation of South African imports of automotive products from the Community mentioned in Annex III, lists 5 and 6, in the light of, inter alia, the outcome of the South African motor industry development programme review. 
+
+6. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex II, list 5 shall be reviewed in the fifth year of this Agreement in view of a possible elimination of tariffs.</article>
+      <article number="ARTICLE 12" name="Tariff Elimination By South Africa" article_identifier="8397">1. Customs duties applicable on import into South Africa of industrial products originating in the Community other than those listed in Annex III shall be abolished upon the entry into force of this Agreement. 
+
+
+2. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 1 shall be progressively abolished in accordance with the following schedule: 
+on the date of entry into force of this Agreement each duty shall be reduced to 75% of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+three years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+3. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 2 shall be progressively abolished in accordance with the following schedule: 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 67% of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 33% of the basic duty; 
+
+five years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+4. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 3 shall be progressively abolished in accordance with the following schedule: 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 90% of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 80% of the basic duty; 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 70% of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty shall be reduced to 60% of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty shall be reduced to 50% of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty shall be reduced to 40% of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty shall be reduced to 30% of the basic duty; 
+
+10 years after the date of entry into force of this Agreement each duty shall be reduced to 20% of the basic duty; 
+
+11 years after the date of entry into force of this Agreement each duty shall be reduced to 10% of the basic duty; 
+
+12 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+5. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 4 shall be progressively abolished in accordance with the following schedule: 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 88% of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty shall be reduced to 75% of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty shall be reduced to 63% of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty shall be reduced to 38 % of the basic duty; 
+
+10 years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+11 years after the date of entry into force of this Agreement each duty shall be reduced to 13 % of the basic duty; 
+
+12 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+
+6. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 5 shall be progressively reduced according to the schedule included in that Annex. 
+
+
+7. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex III, list 6 shall be periodically reviewed in the course of the operation of the Agreement in view of the further liberalisation of trade. 
+South Africa will inform the Community about the outcome of the South African motor industry development programme review. It will present proposals for a further liberalisation of South African imports of automotive products from the Community mentioned in Annex III, lists 5 and 6. The Parties will jointly examine these proposals in the second six months of the year 2000.</article>
+    </chapter>
+    <chapter number="SECTION C" name="Agricultural Products" chapter_identifier="997">
+      <article number="ARTICLE 13" name="Definition" article_identifier="8398">The provisions of this section apply to products originating in the Community and South Africa covered by the WTO definition of agricultural products as well as fish and fisheries products (Chapter 3, 1604, 1605 and products 0511 91 10, 0511 91 90, 1902 20 10 and 2301 20 00).</article>
+      <article number="ARTICLE 14" name="Tariff Elimination By The Community" article_identifier="8399">1. Customs duties applicable on import into the Community of agricultural products originating in South Africa other than those listed in Annex IV shall be abolished on the entry into force of this Agreement. 
+
+
+2. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex IV, list 1 shall be progressively abolished in accordance with the following schedule: 
+on the date of entry into force of this Agreement each duty shall be reduced to 75 % of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+three years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+3. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex IV, list 2 shall be progressively abolished in accordance with the following schedule: 
+
+on the date of entry into force of this Agreement each duty shall be reduced to 91 % of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 82 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 73 % of the basic duty; 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 64 % of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 55 % of the basic duty; 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 45 % of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty shall be reduced to 36% of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty shall be reduced to 27% of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty shall be reduced to 18% of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty shall be reduced to 9% of the basic duty; 
+
+10 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+4. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex IV, list 3 shall be progressively abolished in accordance with the following schedule: 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 87% of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 75% of the basic duty; 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 62% of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty shall be reduced to 50% of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty shall be reduced to 37% of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty shall be reduced to 25 % of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty shall be reduced to 12 % of the basic duty; 
+
+10 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+For certain products referred to in this Annex a duty free quota shall apply, in accordance with the conditions there mentioned, as from entry into force of the Agreement until the end of the tariff phase down for these products. 
+
+5. Customs duties applicable on import into the Community of products originating in South Africa listed in Annex IV, list 4 shall be progressively abolished in accordance with the following schedule: 
+
+five years after the date of entry into force of this Agreement each duty and charge shall be reduced to 83 % of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty and charge shall be reduced to 67 % of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty and charge shall be reduced to 50 % of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty and charge shall be reduced to 33 % of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty and charge shall be reduced to 17 % of the basic duty; 
+
+10 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+For certain products referred to in this Annex a duty free quota shall apply, in accordance with the conditions there mentioned, as from entry into force of the Agreement until the end of the tariff phase-down for these products. 
+
+6. Customs duties applicable to processed agricultural products imported into the Community and originating in South Africa are listed in Annex IV, list 5 and shall be applied in accordance with the conditions mentioned therein. 
+
+The Cooperation Council may decide on: 
+
+
+(a) 	the extension of the list of processed agricultural products under Annex IV, list 5, and 
+
+
+(b) the 	reduction of the duties applying to processed agricultural products. This reduction of duties may take place when in trade between the Community and South Africa the duties applying to basic products are reduced or, in response to reductions resulting from the mutual concessions relating to processed agricultural products. 
+
+7. Reduced customs duties applicable to certain agricultural products imported into the Community and originating in South Africa are listed in Annex IV, list 6, and shall be applied as from entry into force of this Agreement and in accordance with the conditions mentioned in this Annex. 
+
+
+8. Customs duties applicable on import into the European Community of products originating in the Republic of South Africa listed in Annex IV, list 7 shall be reviewed periodically in the course of the operation of the Agreement on the basis of future developments in the common agricultural policy. 
+
+
+9. Tariff concessions on products listed in Annex IV, list 8 are not applicable as these products are covered by protected EU denominations. 
+
+
+10. Tariff concessions applicable on import into the Community of products originating in South Africa listed in Annex V shall be applied in accordance with the conditions mentioned therein.</article>
+      <article number="ARTICLE 15" name="Tariff Elimination By South Africa" article_identifier="8400">1. Customs duties applicable on import into South Africa of agricultural products originating in the Community other than those listed in Annex VI shall be abolished on the entry into force of this Agreement. 
+
+
+2. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex VI, list 1 shall be progressively abolished in accordance with the following schedule: 
+on the date of entry into force of this Agreement each duty shall be reduced to 75 % of the basic duty; 
+
+one year after the date of entry into force of this Agreement each duty shall be reduced to 50 % of the basic duty; 
+
+two years after the date of entry into force of this Agreement each duty shall be reduced to 25% of the basic duty; 
+
+three years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+3. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex VI, list 2 shall be progressively abolished in accordance with the following schedule: 
+
+three years after the date of entry into force of this Agreement each duty shall be reduced to 67 % of the basic duty; 
+
+four years after the date of entry into force of this Agreement each duty shall be reduced to 33 % of the basic duty; 
+
+five years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+4. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex VI, list 3 shall be progressively abolished in accordance with the following schedule: 
+
+five years after the date of entry into force of this Agreement each duty shall be reduced to 88 % of the basic duty; 
+
+six years after the date of entry into force of this Agreement each duty shall be reduced to 75 % of the basic duty; 
+
+seven years after the date of entry into force of this Agreement each duty shall be reduced to 63 % of the basic duty; 
+
+eight years after the date of entry into force of this Agreement each duty shall be reduced to 50% of the basic duty; 
+
+nine years after the date of entry into force of this Agreement each duty shall be reduced to 38% of the basic duty; 
+
+10 years after the date of entry into force of this Agreement each duty shall be reduced to 25% of the basic duty; 
+
+11 years after the date of entry into force of this Agreement each duty shall be reduced to 13 % of the basic duty; 
+
+12 years after the date of entry into force of this Agreement the remaining duties shall be abolished. 
+
+For certain products indicated in this Annex a duty free quota shall apply, in accordance with the conditions there mentioned, as from entry into force of the Agreement until the end of the tariff phase down for these products. 
+
+5. Customs duties applicable on import into South Africa of products originating in the Community listed in Annex VI, list 4 shall be reviewed periodically in the course of the operation of the Agreement. 
+
+6. Customs duties applicable on import into South Africa of fisheries products originating in the Community listed in Annex VII shall be progressively abolished in parallel with the elimination of customs duties of the corresponding tariff positions by the Community.</article>
+      <article number="ARTICLE 16" name="Agricultural Safeguard" article_identifier="8401">Notwithstanding other provisions of this Agreement and in particular Article 24, if, given the particular sensitivity of the agricultural markets, imports of products originating in one Party cause or threaten to cause a serious disturbance to the markets in the other Party, the Cooperation Council shall immediately consider the matter to find an appropriate solution. Pending a decision by the Cooperation Council, and where exceptional circumstances require immediate action, the affected Party may take provisional measures necessary to limit or redress the disturbance. In taking such provisional measures, the affected Party shall take into account the interests of both Parties.</article>
+      <article number="ARTICLE 17" name="Accelerated Tariff Elimination By South Africa" article_identifier="8402">1. If requested by South Africa, the Community shall consider proposals relating to an accelerated timetable for tariff elimination for imports of agricultural products into South Africa, coupled with the elimination of all export refunds for exports to South Africa of the same products originating in the European Community. 
+
+
+2. If the Community replies positively to this request, the new timetables for tariff elimination and elimination of export refunds shall simultaneously apply as of a date to be agreed by the two Parties. 
+
+
+3. In case of a negative response from the Community, the provisions of this Agreement on tariff elimination shall continue to be applicable.</article>
+      <article number="ARTICLE 18" name="Review Clause" article_identifier="8403">No later than five years after the entry into force of this Agreement, the Community and South Africa shall consider further steps in the process of liberalisation of their reciprocal trade. For this purpose, a review shall be undertaken of, in particular but not exclusively, the customs duties applicable to products listed in Annex II, list 5, Annex III, lists 5 and 6, Annex IV, lists 5, 6 and 7, Annex V, lists 1, 2, 3 and 4, Annex VI, lists 4 and 5 and Annex VII.
+
+TRADE RELATED ISSUES</article>
+    </chapter>
+    <chapter number="SECTION A" name="Common Provisions" chapter_identifier="998">
+      <article number="ARTICLE 19" name="Border Measures" article_identifier="8404">1. Quantitative restrictions on imports or exports and measures having equivalent effect on trade between South Africa and the Community shall be abolished on the entry into force of this Agreement. 
+
+
+2. No new quantitative restrictions on imports or exports or measures having equivalent effect shall be introduced in trade between the Community and South Africa. 
+
+
+3. No new customs duties on imports or exports or charges having equivalent effect shall be introduced, nor shall those already applied be increased, in the trade between the Community and South Africa from the date of entry into force of this Agreement.</article>
+      <article number="ARTICLE 20" name="Agricultural Policies" article_identifier="8405">1. The Parties may have regular consultations in the Cooperation Council on the strategy and practical modalities of their respective agricultural policies. 
+
+
+2. If either Party, in pursuit of their respective agricultural policies, considers it necessary to amend the arrangements laid down in this Agreement it will notify the Cooperation Council, which will decide on the requested modification. 
+
+
+3. If the Community or South Africa, in applying paragraph 2, amends the arrangements made by this Agreement for agricultural products, it shall make adjustments to be agreed on by the Cooperation Council so as to maintain the concessions on imports originating in the other Party at an equivalent level to that provided for in this Agreement.</article>
+      <article number="ARTICLE 21" name="Fiscal Measures" article_identifier="8406">1. The Parties shall refrain from any measure or practice of an internal fiscal nature establishing, whether directly or indirectly, discrimination between the products of one Party and products originating in the territory of the other Party. 
+
+2. Products exported to the territory of one of the Parties may not benefit from repayment of indirect internal taxation in excess of the amount of indirect taxation imposed on them directly or indirectly.</article>
+      <article number="ARTICLE 22" name="Customs Unions And Free-Trade Areas" article_identifier="8407">1. The Agreement shall not preclude the maintenance or establishment of customs unions, free-trade areas or other arrangements between either of the Parties and third countries, except in so far as they alter the rights and obligations provided for in this Agreement. 
+
+
+2. Consultation between the Community and South Africa shall take place within the Cooperation Council concerning agreements establishing or adjusting customs unions or free-trade areas and, where required, on other major issues related to their respective trade policy with third countries. In particular, in the event of a third country acceding to the European Union, such consultation shall take place so as to ensure that account can be taken of the mutual interests of the Community and South Africa.</article>
+      <article number="ARTICLE 23" name="Anti-Dumping And Countervailing Measures" article_identifier="8408">1. Nothing in this Agreement shall prejudice or affect in any way the taking, by either Party, of anti-dumping or countervailing measures in accordance with Article VI of the GATT 1994, the Agreement on Implementation of Article VI of the GATT 1994, the Agreement on Subsidies and Countervailing Measures, annexed to the Marrakech Agreement establishing the WTO. 
+
+
+2. Before definitive anti-dumping and countervailing duties are imposed in respect of products imported from South Africa, the Parties may consider the possibility of constructive remedies as provided for in the Agreement on Implementation of Article VI of the GATT 1994 and the Agreement on Subsidies and Countervailing Measures.</article>
+      <article number="ARTICLE 24" name="Safeguard Clause" article_identifier="8409">1. Where any product is being imported in such increased quantities and under such conditions as to cause or threaten to 
+
+cause serious injury to domestic producers of like or directly competitive products in the territory of one of the Contracting Parties, the Community or South Africa, whichever is concerned, may take appropriate measures under the conditions provided for in the WTO Agreement on Safeguards or the Agreement on Agriculture annexed to the Marrakech Agreement establishing the WTO and in accordance with the procedures laid down in Article 26. 
+
+
+2. Where any product is being imported in such increased quantities and under such conditions as to cause or threaten to cause serious deterioration in the economic situation of the European Union's outermost regions, the European Union, after having examined alternative solutions, may exceptionally take surveillance or safeguard measures limited to the region(s) concerned, in accordance with the procedures laid down in Article 26. 
+
+
+3. Where any product is being imported in such quantities and under such conditions as to cause or threaten to cause serious deterioration in the economic situation of one or more of the other Members of the Southern African Customs Union, South Africa, at the request of the country or countries concerned, and after having examined alternative solutions, may exceptionally take surveillance or safeguard measures in accordance with the procedures laid down in Article 26.</article>
+      <article number="ARTICLE 25" name="Transitional Safeguard Measures" article_identifier="8410">1. Notwithstanding the provisions of Article 24, exceptional measures of limited duration which derogate from the provisions of Articles 12 and 15 may be taken by South Africa in the form of an increase or reintroduction of customs duties. 
+
+
+2. These measures may only concern infant industries or sectors facing serious difficulties caused by increased imports originating in the Community as a result of the reduction of duties envisaged under Articles 12 and 15, particularly where these difficulties produce major social problems. 
+
+
+3. Customs duties on imports applicable in South Africa to products originating in the Community introduced by these measures may not exceed the level of the basic duty or the applied MFN rates of duty or 20 % ad valorem, whichever is the lower, and shall maintain an element of preference for products originating in the Community. The total value of all imports of the products which are subject to these measures may not exceed 10 % of total imports of industrial products from the Community during the last year for which statistics are available. 
+
+
+4. These measures shall be applied for a period not exceeding four years. They shall cease to apply at the latest on the expiry of the maximum transitional period of 12 years. These time limits may exceptionally be extended by decision of the Cooperation Council. 
+
+
+5. No such measures can be introduced in respect of a product if more than three years have elapsed since the 
+elimination of all duties and quantitative restrictions or charges or measures having an equivalent effect concerning that product. 
+
+
+6. South Africa shall notify the Cooperation Council of the exceptional measures it intends to take and, at the request of the Community, consultations shall be held on such measures before they are applied in order to reach a satisfactory solution. Its notification shall include an indicative schedule for the introduction and subsequent elimination of the customs duties to be imposed. 
+
+
+7. If no agreement on the proposed measures referred to in paragraph 6 has been reached within 30 days of such notification, South Africa may take the appropriate measures to remedy the problem and shall provide the Cooperation Council with the definite schedule for the elimination of the customs duties introduced under this Article. This schedule shall provide for a phasing out of these duties at equal annual rates starting at the latest one year after their introduction. The Cooperation Council may decide on a different schedule.</article>
+      <article number="ARTICLE 26" name="Safeguard Procedures" article_identifier="8411">1. In the event of the Community or South Africa initiating a surveillance mechanism in respect of difficulties referred to in Article 24 which has as its purpose the rapid provision of information on the trend of trade flows, it shall inform the other Party thereof and, if requested, enter into consultations with it. 
+
+
+2. In the cases specified in Article 24, before taking the measure provided for therein or, in cases to which subparagraph 5(b) of this Article apply, the Community or South Africa, as the case may be, shall as soon as possible supply the Cooperation Council with all relevant information, with the view to seeking a solution acceptable to both Parties. 
+
+
+3. In the selection of measures, priority must be given to those which least disturb the functioning of this Agreement and they shall be limited to the extent necessary to prevent or remedy serious injury and to facilitate adjustment. 
+
+
+4. The safeguard measures shall be notified immediately to the Cooperation Council and shall be the subject of periodic consultations within that body, particularly with a view to establishing a timetable for their abolition as soon as circumstances permit. 
+
+
+5. For the implementation of the previous paragraphs the following provisions shall apply. 
+(a) 	As regards Article 24, difficulties arising from the situation referred to in that Article shall be referred for examination to the Cooperation Council, which may take any decision needed to put an end to such difficulties. If the Cooperation Council or the exporting Party has not taken a decision putting an end to the difficulties or no other satisfactory solution has been reached within 30 days of the matter being so referred, the importing Party may adopt appropriate measures to remedy the problem. Such measures should be taken for a period not exceeding three years and shall contain elements which would degressively lead to their elimination at the end of the set period, at the latest. 
+
+(b) Where 	exceptional circumstances requiring immediate action make prior information or examination, as the case may be, impossible, the Community or South Africa, whichever is concerned, may, in the situations specified in Article 24, apply forthwith the precautionary measures necessary to deal with the situation and shall inform the other Party immediately thereof.</article>
+      <article number="ARTICLE 27" name="Exceptions" article_identifier="8412">The Agreement shall not preclude prohibitions or restrictions on imports, exports, goods in transit or trade in used goods justified on grounds of public morality, public policy or public security; the protection of health and life of humans, animals or plants; the protection of national treasures possessing artistic, historic or archaeological value; or the protection of intellectual, industrial and commercial property or rules relating to gold and silver. Such prohibitions or restrictions shall not, however, constitute a means of arbitrary or unjustifiable discrimination where the same conditions prevail or a disguised restriction on trade between the Parties.</article>
+      <article number="ARTICLE 28" name="Rules Of Origin" article_identifier="8413">The rules of origin for the application of tariff preferences provided for in this Agreement are laid down in Protocol 1.</article>
+    </chapter>
+    <chapter number="SECTION B" name="Right Of Establishment And Supply Of Services" chapter_identifier="999">
+      <article number="ARTICLE 29" name="Reconfirmation Of Gats Obligations" article_identifier="8414">1. In recognition of the growing importance of services for the development of their economies, the Parties underline the importance of strict observance of the General Agreement on Trade in Services (GATS), in particular its principle on most-favoured-nation treatment, and including its applicable protocols with annexed commitments. 
+
+2. In accordance with the GATS, this treatment shall not apply to: 
+
+
+(a) advantages accorded by either Party under the provisions of an agreement as defined in Article V of the GATS or under measures adopted on the basis of such an agreement; 
+
+
+(b) other 	advantages accorded pursuant to the list of most-favoured-nation exemptions annexed by either Party to the GATS. 
+3. The Parties reaffirm their respective commitments as annexed to the fourth Protocol to the GATS concerning basic telecoms and the fifth Protocol concerning financial services.</article>
+      <article number="ARTICLE 30" name="Further Liberalisation Of Supply Of Services" article_identifier="8415">1. The Parties will endeavour to extend the scope of the Agreement with a view to further liberalising trade in services between the Parties. In the event of such an extension, the liberalisation process shall provide for the absence or elimination of substantially all discrimination between the Parties in the services sectors covered and should cover all modes of supply including the supply of a service: 
+
+
+(a) 	from the territory of one Party into the territory of the other; 
+
+
+(b) in the territory of one Party to the service consumer of the other; 
+
+
+(c) by 	a service supplier of one Party, through commercial presence in the territory of the other; 
+
+
+(d) by 	a service supplier of one Party, through presence of natural persons of that Party in the territory of the other. 
+
+2. The Cooperation Council shall make the necessary recommendations for the implementation of the objective set out in paragraph 1. 
+
+
+3. When formulating these recommendations, the Cooperation Council shall take into account the experience gained by the implementation of the obligations of each Party under the GATS, with particular reference to Article V generally and especially paragraph 3(a) thereof covering the participation of developing countries in liberalisation agreements. 
+
+
+4. The objective set out in paragraph 1 shall be subject to a first examination by the Cooperation Council at the latest five years after the entry into force of this Agreement.</article>
+      <article number="ARTICLE 31" name="Maritime Transport" article_identifier="8416">1. The Parties shall endeavour to apply effectively the principle of unrestricted access to the international maritime market and traffic based on fair competition on a commercial basis. 
+
+
+2. The Parties agree to extend to each other's nationals and the vessels registered in the territory of either of the Parties treatment no less favourable than that granted to the most favoured nation in respect of the maritime transport of goods, passengers or both, access to ports, the use of infrastructure and auxiliary maritime services of those ports and related fees and charges, customs facilities and the assignment of berths and facilities for loading and unloading, based on fair competition and on commercial terms. 
+
+
+3. The Parties agree to consider maritime transport, including intermodal operations, in the context of Article 30, without prejudice to nationality restrictions or agreements entered into by either Party, which exist at that time and which would be consistent with the Parties' rights and obligations under the GATS Agreement.</article>
+    </chapter>
+    <chapter number="SECTION C" name="Current Payments And Mo Ement Of Capital" chapter_identifier="1000">
+      <article number="ARTICLE 32" name="Current Payments" article_identifier="8417">1. Subject to the provisions of Article 34, the Parties undertake to allow all payments for current transactions between residents of the Community and of South Africa to be made in freely convertible currency. 
+
+
+2. South Africa may take the necessary measures to ensure that the provisions of paragraph 1, which liberalise current payments, are not used by its residents to make unauthorised capital outflows.</article>
+      <article number="ARTICLE 33" name="Capital Movements" article_identifier="8418">1. With regard to transactions on the capital account of balance of payments, the Community and South Africa shall 
+
+ensure, from the entry into force of this Agreement, that capital relating to direct investments in South Africa in companies formed in accordance with current laws can move freely, and that such investment and any profit stemming therefrom can be liquidated and repatriated. 
+
+2. The Parties shall consult each other with a view to facilitating and eventually achieving full liberalisation of the movement of capital between the Community and South Africa.</article>
+      <article number="ARTICLE 34" name="Balance Of Payment Difficulties" article_identifier="8419">Where one or more Member States of the Community, or South Africa, is in serious balance of payments difficulties, or under threat thereof, the Community or South Africa, as the case may be, may, in accordance with the conditions established under the General Agreement on Tariffs and Trade and Articles VIII and XIV of the Articles of Agreement of the International Monetary Fund, adopt restrictions on current transactions which shall be of limited duration and may not go beyond what is necessary to remedy the balance of payments situation. The Community or South Africa, as the case may be, shall inform the other Party forthwith and shall submit to it as soon as possible a timetable for the elimination of the measures concerned.</article>
+    </chapter>
+    <chapter number="SECTION D" name="Competition Policy" chapter_identifier="1001">
+      <article number="ARTICLE 35" name="Definition" article_identifier="8420">The following are incompatible with the proper functioning of this Agreement, in so far as they may affect trade between the Community and South Africa: 
+
+
+(a) agreements 	and concerted practices between firms in horizontal relationships, decisions by associations of firms, and agreements between firms in vertical relationships, which have the effect of substantially preventing or lessening competition in the territory of the Community or of South Africa, unless the firms can demonstrate that the anti-competitive effects are outweighed by pro-competitive ones; 
+
+
+(b) abuse 	by one or more firms of market power in the territory of the Community or of South Africa as a whole or in a substantial part thereof.</article>
+      <article number="ARTICLE 36" name="Implementation" article_identifier="8421">If, at the entry into force of this Agreement, either Party has not yet adopted the necessary laws and regulations for the implementation of Article 35, in their jurisdictions it shall do so within a period of three years.</article>
+      <article number="ARTICLE 37" name="Appropriate Measures" article_identifier="8422">If the Community or South Africa considers that a particular practice in its domestic market is incompatible with the terms of Article 35, and: 
+
+
+(a) 	is not adequately dealt with under the implementing rules referred to in Article 36, or 
+
+
+(b) in the absence of such rules, and if such practice causes or threatens to cause serious prejudice to the interests of the other Party or material injury to its domestic industry, including its services industry, 
+the Party concerned may take appropriate measures consistent with its own laws, after consultation within the Cooperation Council, or after 30 working days following referral for such consultation. The appropriate measures to be taken shall respect the powers of the Competition Authority concerned.</article>
+      <article number="ARTICLE 38" name="Comity" article_identifier="8423">1. The Parties agree that, whenever the Commission or the South African Competition Authority has reason to believe that anti-competitive practices, defined under Article 35, are taking place within the territory of the other authority and are substantially affecting important interests of the Parties, it may request the other Party's competition authority to take appropriate remedial action in terms of that authority's rules governing competition. 
+
+
+2. Such a request shall not prejudice any action under the requesting authority's competition laws that may be deemed necessary and shall not in any way encumber the addressed authority's decision-making powers or its independence. 
+
+
+3. Without prejudice to its respective functions, rights, obligations or independence, the competition authority so addressed shall consider and give careful attention to the views expressed and documentation provided by the requesting authority and, in particular, pay heed to the nature of the 
+anti-competitive activities in question, the firm or firms involved, and the alleged harmful effect on the important interests of the aggrieved Party. 
+
+4. When the Commission or the Competition Authority of South Africa decides to conduct an investigation or intends to take any action that may have important implications for the interests of the other Party, the Parties must consult, at the request of either Party and both shall endeavour to find a mutually acceptable solution in the light of their respective important interests, giving due regard to each other's laws, sovereignty, the independence of the respective competition 
+
+authorities and to considerations of comity.</article>
+      <article number="ARTICLE 39" name="Technical Assistance" article_identifier="8424">The Community shall provide South Africa with assistance in the restructuring of its competition policy, which may include among others: 
+
+technical law and 
+(a) the exchange of experts; 
+
+
+(b) organisation of seminars; 
+
+
+(c) training activities.</article>
+      <article number="ARTICLE 40" name="Information" article_identifier="8425">The Parties shall exchange information taking into account the limitations imposed by the requirements of professional and business secrecy.</article>
+    </chapter>
+    <chapter number="SECTION E" name="Public Aid" chapter_identifier="1002">
+      <article number="ARTICLE 41" name="Public Aid" article_identifier="8426">1. In so far as it may affect trade between the Community and South Africa, public aid favouring certain firms or the production of certain goods, which distorts or threatens to distort competition, and which does not support a specific public policy objective or objectives of either Party, is incompatible with the proper functioning of this Agreement. 
+
+2. The Parties agree that it is in their interests to ensure that public aid is granted in a fair, equitable and transparent manner.</article>
+      <article number="ARTICLE 42" name="Remedial Measures" article_identifier="8427">1. If the Community or South Africa considers that a particular practice is incompatible with the terms of Article 41, and that such practice causes or threatens to cause serious prejudice to the interests of the other Party or material injury to its domestic industry, the Parties agree, where it is not adequately dealt with under existing rules and procedures, to enter into consultations with a view to finding a mutually satisfactory solution. Such consultations will be without prejudice to the Parties' rights and obligations in terms of their respective laws and international commitments. 
+
+
+2. Either Party may invite the Cooperation Council to examine, in the context of such consultation, the Parties' public policy objectives justifying the grant of public aid referred to in Article 41.</article>
+      <article number="ARTICLE 43" name="Transparency" article_identifier="8428">Each Party shall ensure transparency in the area of public aid. In particular, where a Party so requests, the other Party shall provide information on aid schemes, on particular individual cases of public aid, or on the total amount and the distribution of aid given. The exchange of information between the Parties 
+
+shall take into account Party's laws relating to professional secrecy. 
+
+the the 
+
+limitations requirements 
+
+imposed by of business 
+
+either and</article>
+      <article number="ARTICLE 44" name="Review" article_identifier="8429">1. In the absence of any rules or procedures for the implementation of Article 41, the provisions of Article VI and XVI of the General Agreement on Tariffs and Trade 1994 as well as the WTO Agreement on Subsidies and Countervailing Measures shall apply to public aid or subsidies. 
+
+
+2. The Cooperation Council shall periodically review the progress made in these matters. In particular it shall continue to develop cooperation and understanding on the measures taken by each Party with regard to the operation of Article 41.</article>
+    </chapter>
+    <chapter number="SECTION F" name="Other Trade-Related Provisions" chapter_identifier="1003">
+      <article number="ARTICLE 45" name="Government Procurement" article_identifier="8430">1. The Parties agree to cooperate to ensure that access to the Parties' procurement contracts is governed by a system which is fair, equitable and transparent. 
+
+
+2. The Cooperation Council shall periodically review the progress made in this matter.</article>
+      <article number="ARTICLE 46" name="Intellectual Property" article_identifier="8431">1. The Parties shall ensure adequate and effective protection of intellectual property rights in conformity with the highest international standards. The Parties apply the WTO Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPs) from 1 January 1996 and undertake to improve, where appropriate, the protection provided for under that Agreement. 
+
+
+2. If problems in the area of intellectual property protection affecting trading conditions were to occur, urgent consultations shall be undertaken, at the request of either Party, with a view to reaching mutually satisfactory solutions. 
+
+
+3. The Community and its Member States confirm the importance they attach to the obligations arising from the: 
+
+(a) 	Protocol to the Madrid Agreement concerning the International Registration of Marks (Madrid 1989); 
+
+
+(b) International Convention for the Protection of Performers, Producers of Phonogram and Broadcasting Organisations (Rome 1961); 
+
+
+(c) 	Patent Cooperation Treaty (Washington 1979 as amended and modified in 1984). 
+
+4. Without prejudice to the obligations arising from the WTO Agreement on TRIPs, South Africa could favourably consider accession to the multilateral conventions referred to in paragraph 3. 
+
+
+5. The Parties confirm the importance they attach to the following instruments: 
+(a) 	the provisions of the Nice Agreement concerning the International Classification of Goods and Services for the Purposes of the Registration of Marks (Geneva 1977 and amended in 1979); 
+
+
+(b) Berne Convention for the Protection of Literary and Artistic Works (Paris Act, 1971); 
+
+
+(c) 	International Convention for the Protection of New Varieties of Plants (UPOV) (Geneva Act, 1978); 
+
+
+(d) Budapest Treaty 	on the International Recognition of the Deposit of Micro-organisms for the Purposes of Patent Procedure (1977 modified in 1980); 
+
+
+(e) 	Paris Convention for the Protection of Industrial Property (Stockholm Act, and amended in 1979) WIPO; 
+
+
+(f) 	WIPO Copyright Treaty (WCT), 1996. 
+
+6. In order to facilitate the implementation of this Article, the Community may provide, on request and on mutually agreed terms and conditions, technical assistance to South Africa in, among other things, the preparation of laws and regulations for the protection and enforcement of intellectual property rights, the prevention of the abuse of such rights, the establishment and reinforcement of domestic offices and other agencies involved in enforcement and protection, including the training of personnel. 
+
+
+7. The Parties agree that for the purpose of this Agreement, intellectual property includes in particular copyright, including the copyright on computer programmes and neighbouring rights, utility models, patents, including biotechnical inventions, industrial designs, geographical indications, including appellations of origin, trade marks and service marks, topographies of integrated circuits, as well as the legal protection of databases and the protection against unfair competition as referred to in Article 10 bis of the Paris Convention for the Protection of Industrial Property and protection of undisclosed information on know-how.</article>
+      <article number="ARTICLE 47" name="Standardisation And Conformity Assessment" article_identifier="8432">The Parties will cooperate in the field of standardisation, metrology, certification and quality assurance in order to reduce differences between the Parties in these areas, remove technical barriers and facilitate bilateral trade. This cooperation shall include: 
+
+
+(a) 	measures, in accordance with the provisions of the WTO TBT Agreement, to promote greater use of international technical regulations, standards and conformity assessment procedures, including sector specific measures; 
+
+
+(b) developing 	agreements on mutual recognition of conformity assessment in sectors of mutual economic interest; 
+
+
+(c) cooperation 	in the area of quality management and assurance in selected sectors of importance to South Africa; 
+
+
+(d) facilitation 	of technical assistance for southern African capacity building initiatives in the fields of accreditation, metrology and standardisation; 
+
+
+(e) developing 	practical links between South African and European standardisation, accreditation and certification organisations.</article>
+      <article number="ARTICLE 48" name="Customs" article_identifier="8433">1. The Parties shall promote and facilitate cooperation between their customs services in orde to ensure that the provisions on trade are observed and to guarantee fair trade. The cooperation shall give rise, among other things, to the exchange of information and training schemes. 
+
+
+2. Without prejudice to other forms of cooperation envisaged in this Agreement, in particular under Article 90, the Contracting Parties' administrative authorities shall provide mutual assistance in accordance with the provisions of Protocol 2 of this Agreement.</article>
+      <article number="ARTICLE 49" name="Statistics" article_identifier="8434">The Parties agree to cooperate in this field. The cooperation will be geared mainly to the harmonisation of statistical methods and practice to enable processing, according to mutually agreed bases, of data on trade in goods and services and, more generally, on any field covered by the Agreement lending itself to statistical treatment.</article>
+    </chapter>
+    <chapter number="TITLE IV" name="Economic Cooperation" chapter_identifier="1004">
+      <article number="ARTICLE 50" name="Introduction" article_identifier="8435">The Parties agree to develop and promote cooperation on economic and industrial matters to their mutual advantage and in the interest of the southern African region as a whole, by diversifying and strengthening their economic links, promoting 
+
+sustainable 
+
+development 
+
+in 
+
+their 
+
+economies, 
+
+supporting 
+patterns 
+
+of 
+
+regional 
+
+economic 
+
+
+
+cooperation, 
+
+promoting 
+cooperation 
+
+between 
+
+small 
+
+and 
+
+medium-sized 
+
+enterprises, 
+protecting and improving the environment, promoting the economic empowerment of historically disadvantaged groups, including women, protecting and promoting worker and trade union rights.</article>
+      <article number="ARTICLE 51" name="Industry" article_identifier="8436">The aim of cooperation in this area is to facilitate the restructuring and modernisation of the South African industry while fostering its competitiveness and growth and to create conditions favourable to mutually beneficial cooperation between South African and Community industry. 
+
+The aim of the cooperation shall be, inter alia: 
+
+
+(a) 	to encourage cooperation between the Parties' economic operators (companies, professionals, sectoral and other business organisations, organised labour, etc.); 
+
+
+(b) to back the efforts of South Africa's public and private sectors to restructure and modernise industry, under conditions ensuring environmental protection, sustainable development and economic empowerment; 
+
+
+(c) 	to foster an environment which favours private initiatives, with the aim of stimulating and diversifying output for the domestic and export markets; 
+
+
+(d) to promote improved utilisation of South Africa's human resources and industrial potential through, inter alia, the facilitation of access to credit and investment finance and support to industrial innovation, technology transfer, training, research and technological development.</article>
+      <article number="ARTICLE 52" name="Investment Promotion And Protection" article_identifier="8437">Cooperation between the Parties shall aim to establish a climate which favours and promotes mutually beneficial investment, both domestic and foreign, especially through improved conditions for investment protection, investment promotion, the transfer of capital and the exchange of information on investment opportunities. 
+
+The aims of cooperation shall be, inter alia, to facilitate and encourage: 
+
+
+(a) 	the conclusion, where appropriate, between the Member States and South Africa of agreements for the promotion and protection of investment; 
+
+
+(b) the conclusion, where appropriate, between the Member States and South Africa of agreements to avoid double taxation; 
+
+
+(c) 	the exchange of information on investment opportunities; 
+
+
+(d) work towards harmonised and simplified procedures and administrative practices in the field of investment; 
+
+
+(e) support, through appropriate instruments, the promotion and encouragement of investment in South Africa and in the Southern African region.</article>
+      <article number="ARTICLE 53" name="Trade Development" article_identifier="8438">1. The Parties undertake to develop, diversify and increase trade between them and to improve the competitiveness of South African production on domestic, regional and international markets. 
+
+
+2. Cooperation in the field of trade development shall in particular focus on the following: 
+
+(a) drawing up appropriate trade development strategies and creation of a trade environment supportive of competitiveness; 
+
+
+(b) capacity building and development 	of human resources and professional skills in the field of trade and support services in both the public and private sector, including labour; 
+
+(c) exchanges of information on market requirements; 
+
+
+(d) know-how and technology transfer through investment and joint ventures; 
+
+
+(e) development of the private sector, in particular small and medium-sized enterprises engaged in trade; 
+
+
+(f) 	establishment, adaptation and strengthening of organisations concerned with the development of trade and support services; 
+
+
+(g) regional cooperation for 	the development of trade and trade-related infrastructure and services in southern Africa.</article>
+      <article number="ARTICLE 54" name="Micro-Enterprises And Small And Medium-Sized Enterprises" article_identifier="8439">The Parties shall aim to develop and strengthen micro enterprises (MEs) and small and medium-sized enterprises (SMEs) in South Africa, as well as to promote cooperation between SMEs in the Community and in South Africa and the region in a manner that is sensitive to gender equality. The Parties shall, inter alia: 
+
+
+(a) cooperate, where appropriate, in the creation of enabling legal, administrative, institutional, technical, tax and financial frameworks for the setting up and expansion of MEs and SMEs; 
+
+
+(b) provide assistance required by MEs and SMEs, whatever their legal status, in areas such as financing, skills training, technology and marketing; 
+
+
+(c) provide 	assistance to companies, organisations, policy makers and agencies providing services referred to under paragraph b through appropriate technical support, information exchange and capacity building; 
+
+
+(d) establish 	and facilitate appropriate links between South African, southern African and Community private sector operators in order to improve the flow of information (relating to strategy formulation and implementation, business trends and opportunities, networking, joint ventures and transfer of skills).</article>
+      <article number="ARTICLE 55" name="Information Society -Telecommunications And Information Technology" article_identifier="8440">1. The Parties agree to cooperate in the area of information and communication technology (ICT) which they consider as key sectors of modern society and which are vital to economic and social development and to the development of an information society. Communication in this context encompasses post, broadcasting, telecommunications, information technologies. The aim of cooperation shall be to: 
+
+
+(a) improve the 	access of South African public and private entities to means of communications, electronics and information technologies through support to the development of infrastructural networks, human resources and appropriate information society policies in South Africa; 
+
+
+(b) support cooperation between the countries of the southern African region in this area, in particular in the context of satellite technology; 
+
+
+(c) 	address the challenges of globalisation, new technologies, institutional and sector restructuring, and the developing gap in basic information services and in advanced services. 
+2. Cooperation shall include among others: 
+
+
+(a) dialogue 	on different aspects of information society, including regulatory aspects and communications policy; 
+
+
+(b) information exchanges and possible technical assistance on regulation, standardisation, conformity testing and certification of information and communications technologies and the use of frequencies; 
+
+
+(c) 	dissemination of new information and communication technologies, and the development of new facilities, particularly in relation to interconnection of networks and interoperability of applications; 
+
+
+(d) promotion 	and implementation of joint research, technological development on projects in the field of new technologies related to the information society; 
+
+
+(e) 	access for South African organisations to Community projects or programmes on the basis of the arrangements applying in the various fields concerned, and access for European Union organisations to operations initiated by South Africa under the same conditions.</article>
+      <article number="ARTICLE 56" name="Postal Cooperation" article_identifier="8441">Cooperation in this area shall include: 
+
+(a) exchange of information and dialogue on postal matters in relation to, inter alia, regional and international activities, regulatory aspects and policy decisions; 
+
+
+(b) technical assistance on regulation, operational standards and human resource development; 
+
+
+(c) promotion and implementation of joint projects, including research, on technological development in this sector.</article>
+      <article number="ARTICLE 57" name="Energy" article_identifier="8442">1. Cooperation in this area shall include the aim of cooperation in this area shall be: 
+
+
+(a) 	to improve the access of South Africans to affordable, reliable and sustainable sources of energy; 
+
+
+(b) to 	reorganise and modernise the energy producing, distributing and consuming subsectors so that appropriate services are provided on optimum terms of economic efficiency, social development and environmental acceptability; 
+
+
+(c) 	to support cooperation between countries in the southern African region to exploit locally available energy resources in an efficient and environmentally friendly manner. 
+2. Cooperation shall specifically aim: 
+
+
+(a) 	to support the development of appropriate energy policies and infrastructure in South Africa; 
+
+
+(b) to diversify energy supplies in South Africa; 
+
+
+(c) 	to improve energy operators performance standards in technical, economic and financial terms especially in the electricity and liquid fuels sectors; 
+
+
+(d) to facilitate capacity building of local expertise especially by general and technical training; 
+
+
+(e) 	to develop new and renewable forms of energy and support infrastructure especially for rural energy power supply; 
+
+
+(f) 	to improve the rational use of energy notably by the promotion of energy systems' efficiency; 
+
+
+(g) to promote transfer and use of environmentally friendly technologies; 
+
+
+(h) to promote regional energy cooperation in southern Africa.</article>
+      <article number="ARTICLE 58" name="Mining And Minerals" article_identifier="8443">1. The aim of cooperation in this area is, inter alia: 
+
+
+(a) 	to support and promote policy measures that improve health and safety standards in the mining industry as well as conditions of employment; 
+
+
+(b) to 	make mineral resources and geoscience information accessible for exploration and mining investment. The cooperation should also create a mutually beneficial climate for attracting investment in the sector, including SMEs (and previously disadvantaged communities); 
+
+
+(c) 	to support policies which ensure that mining activities take place with due consideration for the environment and sustainable development, taking into account the specific circumstances in the country and nature of mining; 
+
+
+(d) to cooperate on mining and minerals technology research and development. 
+2. Cooperation will include South African activities undertaken within the framework of the Southern African Development Community (SADC) Mining Coordination Unit.</article>
+      <article number="ARTICLE 59" name="Transport" article_identifier="8444">1. The aim of the cooperation in this area shall be: 
+
+(a) 	to improve the access of South Africans to affordable, safe and reliable modes of transport and to facilitate the flow of 
+
+goods in the country through development of intermodal infrastransport systems, that are environmentally sustainable; 
+
+the support to tructure networks economically 
+
+the and and 
+(b) to 
+
+support 
+
+cooperation 
+
+between 
+
+the 
+
+countries 
+
+of 
+
+the 
+southern African region in order to create a sustainable transport network for regional needs. 
+
+2. Cooperation shall specifically focus on: 
+
+(a) contributing to the restructuring and modernisation of road, rail, port and airport infrastructure; 
+
+(b) gradually improving the conditions of air transport, rail, road and multimodal transit, as well as the management of roads, railways, ports and airports, and maritime and air 
+
+traffic; 
+
+
+(c) improving improving efficient programmes. 
+
+the aids 
+
+safety to n
+
+of air avigation 
+
+and and 
+
+maritime training 
+
+traffic to enable 
+
+by</article>
+      <article number="ARTICLE 60" name="Tourism" article_identifier="8445">1. The Parties will cooperate with the aim of strengthening the development of a competitive tourism industry. In this context the Parties in particular agree: 
+
+
+(a) 	to promote the development of the tourism industry as a generator of economic growth and empowerment, employment and foreign exchange; 
+
+
+(b) to seek to establish 	a strategic alliance involving public, private and community interests in order to ensure the sustainable development of tourism; 
+
+
+(c) 	to carry out joint operations in such areas as the development of products and markets, human resources and institutional structures; 
+
+
+(d) to cooperate on tourism training and capacity building in order to improve service standards; 
+
+
+(e) 	to cooperate in promoting and developing community-based tourism through pilot projects in rural areas; 
+
+
+(f) 	to facilitate liberal movement of tourists. 
+2. The Parties agree that cooperation in the field of tourism will be based, inter alia, on the following guidelines: 
+
+
+(a) respecting the integrity and interests of local communities, particularly in rural areas; 
+
+
+(b) stressing the importance of cultural heritage; 
+
+
+(c) facilitating training, know-how transfer and awareness creation in the wider community; 
+
+
+(d) providing positive interaction between tourism and environmental preservation; 
+(e) promoting regional cooperation in southern Africa.</article>
+      <article number="ARTICLE 61" name="Agriculture" article_identifier="8446">1. Cooperation in this area shall be aimed at the promotion of integrated, harmonious and sustainable rural development in South Africa. Cooperation will in particular be geared: 
+
+
+(a) 	to modernise and restructure, where appropriate, the agricultural sector through methods including the modernisation of infrastructure and equipment, the development of packaging and storage techniques and the improvement of private distribution and marketing chains; 
+
+
+(b) to 	facilitate the development and the enhancement of competitiveness of farmers from previously disadvantaged communities and the provision of appropriate agricultural services in this regard; 
+
+
+(c) 	to diversify and develop output and external markets; 
+
+
+(d) to achieve and develop cooperation in animal health, plant health and agricultural production techniques; 
+
+
+(e) 	to examine measures to harmonise standards and rules on animal and plant health, with a view to facilitating trade, taking into account the legislation in force for both Parties and in conformity with the rules of the WTO. 
+2. Cooperation will take place, inter alia, through the transfer of know-how, the establishment of joint ventures and capacity building programmes.</article>
+      <article number="ARTICLE 62" name="Fisheries" article_identifier="8447">Cooperation in this area shall aim at promoting sustainable management and use of fisheries resources in the long-term interest of both Parties. This will be achieved by exchanges of information and the design and implementation of agreed arrangements which may address the economic, commercial, developmental, scientific and technical aspirations of the Parties. These arrangements will be set out in a separate mutually beneficial fisheries agreement which the Parties undertake to seek to complete as soon as possible.</article>
+      <article number="ARTICLE 63" name="Services" article_identifier="8448">The Parties agree to foster cooperation in the services sector in general and in the area of banking, insurance and other financial services in particular, through, inter alia: 
+
+
+(a) encouraging trade in services; 
+
+
+(b) exchanging, where appropriate, information on rules, laws and regulations governing the services sector in the Parties; 
+
+
+(c) improving accounting, auditing, supervision and regulation of financial services and financial monitoring, for example through the facilitation of training schemes.</article>
+      <article number="ARTICLE 64" name="Consumer Policy And Protection Of Consumer Health" article_identifier="8449">Parties shall start cooperation in the area of consumer policy and consumer health protection, in particular aiming at: 
+
+
+(a) establishing systems of mutual information on domestically prohibited and dangerous products; 
+
+
+(b) exchanging 	information and experience on the establishment and operation of post-market surveillance of products and product safety; 
+
+
+(c) improving information provided to 	consumers especially on prices, characteristics of products and services offered; 
+
+
+(d) encouraging exchanges between consumer interest 
+representatives; 
+(e) increasing systems; 
+
+the 
+
+compatibility 
+
+of consumer policies and 
+(f) 
+
+exchange 
+
+of 
+
+information 
+
+on 
+
+increasing 
+
+consumer 
+awareness through information and education; 
+
+
+(g) notifying 	enforcements and cooperation between the Parties in investigating harmful or unfair business practices; 
+
+
+(h) exchange of information 	on effective ways of redressing any wrongs to consumers victimised by illegal activities. 
+
+DEVELOPMENT COOPERATION</article>
+    </chapter>
+    <chapter number="SECTION A" name="General" chapter_identifier="1005">
+      <article number="ARTICLE 65" name="Aims" article_identifier="8450">1. Development cooperation between the Community and South Africa shall be conducted in a context of policy dialogue and partnership, and shall support the policies and reforms carried out by the national authorities. 
+
+
+2. In particular, development cooperation shall contribute to South Africa's harmonious and sustainable economic and social development and to its insertion into the world economy and to consolidate the foundations laid for a democratic society and a state governed by the rule of law in which human rights in their political, social and cultural aspects and fundamental freedoms are respected. 
+
+
+3. Within this context, priority shall be given to supporting operations, which help the fight against poverty.</article>
+      <article number="ARTICLE 66" name="Priorities" article_identifier="8451">1. The areas of development cooperation will mainly concern the following: 
+
+
+(a) support 	for policies and instruments towards the progressive integration of the South African economy into the world economy and trade, for expansion of employment, for development of sustainable private enterprises, for regional cooperation and integration. In this context, special attention will be given to providing support to the adjustment efforts occasioned in the region by the establishment of the free-trade area under this Agreement, especially in the SACU; 
+
+
+(b) enhancement of living conditions and delivery of basic social services; 
+
+
+(c) support 	to democratisation, the protection of human rights, sound public management, the strengthening of civil society and its integration in the development process. 
+
+2. Dialogue and partnership between public authorities and non-governmental development partners and actors will be promoted. 
+
+
+3. Programmes shall be focused on the basic needs of the previously disadvantaged communities and reflect the gender and environmental dimensions of development.</article>
+      <article number="ARTICLE 67" name="Eligible Beneficiaries" article_identifier="8452">Cooperation partners eligible for financial and technical assistance shall be national, provincial and local authorities and public bodies, non-governmental organisations and community-based organisations, regional and international organisations, institutions and public or private operators. Any other body could be made eligible if so designated by both Parties.</article>
+      <article number="ARTICLE 68" name="Means And Methods" article_identifier="8453">1. The means that may be deployed under the cooperation operations referred to in Article 66 shall include in particular studies, technical assistance, training or other services, supplies and works, and also evaluation and monitoring audits and missions. 
+
+
+2. Community financing, in local or foreign currency, depending on the needs and nature of the operation, may cover: 
+
+(a) government budget expenditures to support reforms and policy implementation in the priority sectors identified through a policy dialogue; 
+
+
+(b) 	investment (with the exception of the purchase of buildings) and equipment; 
+
+
+(c) 	in certain cases and in particular where a programme is implemented by a non-government partner, recurrent expenditure. 
+
+3. Contribution from the partners defined in Article 67 shall in principle be required for each cooperation operation. The nature and amount of this contribution shall be adapted to the possibilities of the partner and the nature of operations. 
+
+
+4. Opportunities may be sought for coherence and complementarity with other providers of funds, particularly the Member States of the European Union. 
+5. Appropriate steps will be taken by both Parties to ensure that the Community character of development cooperation under this Agreement is made known to the general public.</article>
+      <article number="ARTICLE 69" name="Programming" article_identifier="8454">1. Multiannual indicative programming based on specific objectives derived from the priorities in Article 66 and indicating modalities for the preparation, implementation and monitoring of the development cooperation and resulting operations during a reference period shall be carried out in the context of close contacts between the Community and the South African Government with the contribution of the European Investment Bank. The outcome of programming discussions shall be set out in a multiannual indicative programme signed by both Parties. 
+
+
+2. Detailed operational procedures and provisions for implementation and monitoring of the development cooperation shall be attached to the multiannual indicative programme.</article>
+      <article number="ARTICLE 70" name="Project Identification, Preparation And Appraisal" article_identifier="8455">1. The identification and preparation of development operations shall be the responsibility of the Government of South Africa National Authorising Officer as defined in Article 80, or any other eligible beneficiary defined in Article 67. 
+
+
+2. Project or programme dossiers submitted for financing by the Community must contain all the information necessary for their appraisal. Such dossiers shall be officially transmitted to the Head of Delegation by the National Authorising Officer or the other eligible beneficiaries. 
+
+
+3. The appraisal of development operations shall be undertaken jointly by the National Authorising Officer and/or the other eligible beneficiaries and the Community.</article>
+      <article number="ARTICLE 71" name="Financing Proposal And Decision" article_identifier="8456">1. The conclusions of the appraisal shall be summarised by the Head of Delegation in a financing proposal prepared in close collaboration with the National Authorising Officer and/or the requesting partner. 
+
+2. The Commission shall finalise the financing proposal and forward it to the Community's decision-making body.</article>
+      <article number="ARTICLE 72" name="Financing Agreements" article_identifier="8457">1. Any project or programme approved by the Community shall be covered by: 
+
+
+(a) 	either a financing agreement drawn up between the Commission, acting for the Community, and the National Authorising Officer acting for the Government of South Africa, or the eligible beneficiary; 
+
+
+(b) 	or a contract with international organisations or legal bodies, physical persons or any other operator defined in Article 67 responsible for carrying out the project or programme. 
+2. All financing agreements or contracts shall provide for on-the-spot checks by the Commission and the European Court of Auditors.</article>
+    </chapter>
+    <chapter number="SECTION B" name="Implementation" chapter_identifier="1006">
+      <article number="ARTICLE 73" name="Eligibility Of Contractors And Supplies" article_identifier="8458">1. Participation in invitations to tender and contracts shall be open on equal terms to all natural and legal persons in the Member States of the European Union, South Africa and the ACP States. Participation may be extended to include other developing countries in duly substantiated cases and in order to ensure the best cost-effectiveness ratio. 
+
+
+2. Supplies shall originate in the Member States, South Africa or the ACP States. In duly substantiated exceptional cases, they may originate in other countries.</article>
+      <article number="ARTICLE 74" name="Contracting Authority" article_identifier="8459">1. Works, supply and service contracts shall be prepared, negotiated and concluded by the eligible beneficiary, in agreement and in collaboration with the Commission. 
+
+2. The eligible beneficiary may request the Commission to prepare, negotiate and conclude service contracts on their behalf, directly or through its relevant agency.</article>
+      <article number="ARTICLE 75" name="Procurement Procedures" article_identifier="8460">Procedures for procurement or for contracts financed by the Community are laid down in the general clauses attached to the financing agreements.</article>
+      <article number="ARTICLE 76" name="General Regulations And Conditions" article_identifier="8461">The award and performance of works, supply and service contracts financed by the Community shall be governed by this Agreement and by the respective general regulations for works, supply and service contracts and general conditions as adopted by decision of the Cooperation Council.</article>
+      <article number="ARTICLE 77" name="Settlement Of Disputes" article_identifier="8462">Any dispute arising between South Africa and a contractor, supplier or provider of services during the performance of a contract financed by the Community shall be settled by arbitration according to the procedural rules on conciliation and arbitration of contracts as adopted by decision of the Cooperation Council.</article>
+      <article number="ARTICLE 78" name="Fiscal And Customs Arrangements" article_identifier="8463">1. The South African Government shall apply to all contracts financed by the Community a full exemption from fiscal and custom duties and/or taxes or charges having an equivalent effect. 
+
+
+2. The details of the arrangements, referred to in paragraph 1 shall be established by means of an Exchange of Letters between the South African Government and the Commission.</article>
+      <article number="ARTICLE 79" name="Chief Authorising Officer" article_identifier="8464">The Commission will appoint a chief authorising officer who shall be responsible for managing resources made available by the Community for development cooperation with South Africa.</article>
+      <article number="ARTICLE 80" name="National Authorising Officer And Paying Agent" article_identifier="8465">1. The South African Government shall appoint a national authorising officer to represent it in all operations relating to projects financed by the Commission which are the subject of a financing agreement between South Africa and the Community. A paying agent shall also be appointed. 
+
+
+2. Obligations and tasks of the chief authorising officer and the national authorising officer and the paying agent shall be established by way of an exchange of instruments between the South African Government and the Commission in accordance with the provisions of the financial regulations of the Commission applicable to preferential agreements.</article>
+      <article number="ARTICLE 81" name="Head Of Delegation" article_identifier="8466">1. The Commission is represented in South Africa by the Head of Delegation who ensures, together with the national authorising officer, the implementation, monitoring and follow-up of the financial and technical cooperation in conformity with the principles of sound financial management and the provisions of this Agreement. In particular, the Head of Delegation shall be granted powers to facilitate and expedite the preparation, appraisal and execution of projects and programmes. 
+
+
+2. The South African Government shall accord to the Head of Delegation and the officials from the Commission appointed in South Africa privileges and immunities in accordance with the Vienna Convention on Diplomatic Relations of 1961. 
+
+
+3. In defining the tasks and obligations of the national authorising officer and the head of delegation, the Parties shall seek to ensure the greatest degree of local management of projects and programmes as well as compatibility and coherence with practices applying in the other ACP States.</article>
+      <article number="ARTICLE 82" name="Monitoring And Evaluation" article_identifier="8467">1. The objective of monitoring and evaluation shall consist in the external assessment of development operations (preparation, implementation and subsequent operation), with a view to improving the development effectiveness of ongoing and future operations. This work shall be done jointly by South Africa and the Community. 
+
+
+2. Monitoring and evaluation of the cooperation shall be done jointly by South Africa and the Community. Annual consultations may be held to assess progress and agree on the measures to be taken to adapt and improve implementation of the multiannual indicative programme and to prepare for future operations.</article>
+    </chapter>
+    <chapter number="TITLE VI" name="Cooperation In Other Areas" chapter_identifier="1007">
+      <article number="ARTICLE 83" name="Science And Technology" article_identifier="8468">The Parties undertake to intensify scientific and technological cooperation. Detailed arrangements for the implementation of this objective have been set out in a separate agreement, which entered into force in November 1997.</article>
+      <article number="ARTICLE 84" name="Environment" article_identifier="8469">1. The Parties will cooperate to pursue sustainable development through the rational use of non-renewable natural resources and the sustainable use of renewable natural resources, thus promoting protection of the environment, prevention of its deterioration and the control of pollution. 
+
+The Parties will aim to improve the quality of the environment and work together to combat global environmental problems. 
+
+
+2. The Parties will give special consideration to the development of capacity in environmental management. There will be dialogue on the identification of environmental priorities. The impact of past South African policies on the state of the environment will be reviewed and addressed where possible. 
+
+
+3. The cooperative relationship will involve, inter alia, matters relating to urban development and land use for agricultural and non-agricultural purposes; desertification; management of waste, including hazardous and nuclear waste; management of dangerous chemicals; conservation and sustainable use of biological diversity; the sustainable management of forestry resources; water quality control; control of pollution from industrial and other sources; control of coastal and marine pollution and the management of marine resources; integrated water catchment management, including management of international river basins; water demand management and issues surrounding the reduction of greenhouse gas emissions.</article>
+      <article number="ARTICLE 85" name="Culture" article_identifier="8470">1. The Parties undertake to cooperate in the sphere of culture in order to promote a thorough knowledge and better understanding of cultural diversities within South Africa and the European Union. Parties will clear obstacles to intercultural communication and cooperation, and will stimulate awareness of the interdependence of peoples of different cultures. They will foster participation by the population of South Africa and the European Union in the process of reciprocal cultural enrichment. 
+
+
+2. Cultural contacts will aim at preserving and enhancing the cultural heritage and producing and disseminating cultural goods and services. The widest possible use shall be made of national, regional and interregional communications media and infrastructure to facilitate cultural contacts, while promoting respect for copyright and related rights. 
+
+
+3. The Parties will cooperate in cultural events and exchanges among institutions and associations from South Africa and the European Union.</article>
+      <article number="ARTICLE 86" name="Social Issues" article_identifier="8471">1. The Parties will engage in a dialogue on social cooperation. This shall include, but not necessarily be limited to, questions relating to the social problems of post-apartheid society, poverty alleviation, unemployment, gender equality, violence against women, children's rights, labour relations, public health, safety at work and population. 
+
+
+2. The Parties consider that economic development must be accompanied by social progress. They recognise the responsibility to guarantee basic social rights, which specifically aim at the freedom of association of workers, the right to collective bargaining, the abolition of forced labour, the elimination of discrimination in respect of employment and occupation and the effective abolition of child labour. The pertinent standards of the ILO shall be the point of reference for the development of these rights.</article>
+      <article number="ARTICLE 87" name="Information" article_identifier="8472">The Parties shall take appropriate measures to promote and encourage an effective mutual exchange of information. Priority shall, inter alia, be given to ensuring the spread of information on cooperation between South Africa and the Community. In addition, the Parties shall endeavour to provide basic information about South Africa and the European Union for the general public, and specialised information about European Union policies for specific audiences in South Africa as well as specialised information about South African policies for specific audiences in the European Union.</article>
+      <article number="ARTICLE 88" name="Press And Audiovisual Media" article_identifier="8473">The Parties shall encourage cooperation in the field of press and audiovisual media, in order to support the further development and fostering of independence and pluralism in the media. Cooperation shall be sought, inter alia, through: 
+
+
+(a) promotion 	of the development of human resources, in particular through training and exchange programmes for journalists and media professionals; 
+
+
+(b) encouragement of wider access to sources of information for the media; 
+
+
+(c) exchange of technical know-how and information; 
+
+
+(d) production of audiovisual programmes.</article>
+      <article number="ARTICLE 89" name="Human Resources" article_identifier="8474">1. The Parties shall cooperate in order to enhance the value of human resources in South Africa in all areas covered by the Agreement. Cooperation shall aim to strengthen institutional capacity in the government's key human resource development areas, paying special attention to the most disadvantaged sections of the population. 
+
+
+2. In order to develop the level of expertise of senior staff in the public and private sectors, the Parties shall step up their cooperation on education and vocational training and cooperation between educational institutions and firms. Particular attention shall be paid to promote the establishment of permanent links between specialised bodies in the European Union and South Africa so as to encourage the pooling and exchange of experience and technical resources. 
+
+
+3. The Parties shall encourage the exchange of information in order to foster cooperation on the recognition of degrees and diplomas by the relevant authorities. 
+
+
+4. The parties shall encourage linkage and cooperation between institutions of higher learning, for example universities.</article>
+      <article number="ARTICLE 90" name="Fight Against Drugs And Money Laundering" article_identifier="8475">The Parties undertake to cooperate in the fight against drugs and money laundering by: 
+
+
+(a) promoting the South African drugs control master plan and enhancing the effectiveness of South African and southern African regional programmes to counter the illegal abuse of narcotic drugs and psychotropic substances as well as the production, supply and trafficking of these substances, based on the relevant international UN Drugs Control Conventions; 
+
+
+(b) preventing the use of their financial institutions to launder capital arising from criminal activities in general and from drugs trafficking in particular on the basis of standards equivalent to those adopted by international bodies, in particular the Financial Action Task Force (FATF), and 
+
+
+(c) preventing the diversion of precursor chemicals and other essential substances used for the illicit production of narcotic drugs and psychotropic substances on the basis of the standards adopted by international authorities 
+concerned, notably 
+
+those 
+
+of 
+
+the 
+
+Chemical 
+
+Action 
+
+Task 
+Force (CATF).</article>
+      <article number="ARTICLE 91" name="Data Protection" article_identifier="8476">1. The Parties shall cooperate to improve the level of protection to the processing of personal data, taking into account international standards. 
+
+
+2. Cooperation on personal data protection may include technical assistance in the form of exchanges of information and experts and the establishment of joint programmes and projects. 
+
+
+3. The Cooperation Council shall periodically review the progress made in this regard.</article>
+      <article number="ARTICLE 92" name="Health" article_identifier="8477">1. The Parties shall cooperate to improve the mental and physical health of populations by promoting health, and preventing disease. 
+
+
+2. In the field of public health the Parties shall cooperate by sharing knowledge and experience on programmes which, inter alia, disseminate information, improve the education and training of public health professionals, monitor disease and develop health information systems, decrease risks from lifestyle related diseases, prevent and control HIV/AIDS and other communicable diseases. 
+
+
+3. Cooperation in the field of safety and health at work shall include exchange of information on legislative and non-legislative measures to prevent accidents, occupation related diseases and occupation related health risks. 
+
+
+4. Cooperation in the pharmaceutical field may include support in the evaluation and registration of medicinal products.</article>
+    </chapter>
+    <chapter number="TITLE VII" name="Financial Aspects Of Cooperation" chapter_identifier="1008">
+      <article number="ARTICLE 93" name="Objective" article_identifier="8478">In order to achieve the objectives of this Agreement, South Africa shall benefit from financial and technical assistance (a) a special financial facility established under the Community from the Community in the form of grants and loans to budget, in support of the development cooperation support its socioeconomic development needs. activities referred to in Articles 65 and 66;</article>
+      <article number="ARTICLE 94" name="Grants" article_identifier="8479">Financial assistance in the form of grants shall be covered by: 
+
+(a) a special financial facility established under the Community budget, in support of the development cooperation activities referred to in Articles 65 and 66;
+(b) other 	financial resources made available from other Community budget lines for development and international cooperation activities falling within the scope of those budget lines. The procedure for presentation and approval of requests, implementation, and monitoring/evaluation will be in accordance with the general conditions relating to the budget line in question.</article>
+      <article number="ARTICLE 95" name="Loans" article_identifier="8480">As regards financial assistance in the form of loans, the European Investment Bank could consider, at the request of the Council of the European Union, the extension of its financing of investment projects in South Africa by means of long-term loans, within the limits of maximum amounts and periods of validity to be determined in application of the relevant dispositions of the Treaty establishing the European Community.</article>
+      <article number="ARTICLE 96" name="Regional Cooperation" article_identifier="8481">The financial assistance from the Community referred to in the previous Articles may be used to fund projects or programmes of national or local interest in South Africa as well as the participation of South Africa in regional cooperation activities which it undertakes together with other developing countries.</article>
+    </chapter>
+    <chapter number="TITLE VIII" name="Final Provisions" chapter_identifier="1009">
+      <article number="ARTICLE 97" name="Institutional Set-Up" article_identifier="8482">1. The Parties agree on the establishment of a Cooperation Council which will perform the following functions: 
+
+
+(a) 	to ensure the proper functioning and implementation of the Agreement and the dialogue between the Parties; 
+
+
+(b) to 	study the development of trade and cooperation between the Parties; 
+
+
+(c) 	to seek appropriate methods of forestalling problems which might arise in areas covered by the Agreement; 
+
+
+(d) to exchange opinions and make suggestions on any issue of mutual interest relating to trade and cooperation, including future action and the resources available to carry it out. 
+
+2. The composition, frequency, agenda and venue of Cooperation Council meetings shall be agreed on through consultation between the Parties. 
+
+
+3. The Cooperation Council referred to above shall have the power to take decisions in respect of all matters covered by this Agreement. 
+
+
+4. The Parties agree to encourage and facilitate regular contacts between their respective Parliaments on the various areas of cooperation covered by the Agreement. 
+5. The Parties will also encourage contacts between other similar and relevant institutions in South Africa and the European Union such as the Economic and Social Committee of the European Community and the National Economic Development and Labour Council (NEDLAC) of South Africa.</article>
+      <article number="ARTICLE 98" name="Tax Carve-Out Clause" article_identifier="8483">1. The most-favoured-nation treatment granted in accordance with the provisions of this Agreement, or any arrangements adopted under this Agreement, do not apply to tax advantages which South Africa and the Member States of the European Union are providing or may provide in the future on the basis of agreements to avoid double taxation or other tax arrangements, or domestic fiscal legislation. 
+
+
+2. Nothing in this Agreement, or in any arrangements adopted under this Agreement, may be construed to prevent the adoption or enforcement of any measure aimed at preventing the avoidance or evasion of taxes pursuant to the tax provisions of agreements to avoid double taxation or other tax arrangements, or domestic fiscal legislation. 
+
+
+3. Nothing in this Agreement, or in any arrangements adopted under this Agreement, shall be construed to prevent the Member States of the European Union or South Africa from distinguishing, in the application of the relevant provisions of their fiscal legislation, between taxpayers who are not in the same situation, in particular with regard to their place of residence, or with regard to the place where their capital is invested.</article>
+      <article number="ARTICLE 99" name="Duration" article_identifier="8484">This Agreement shall be valid for an unlimited period. Either Party may denounce this Agreement by notifying the other Party in writing. The Agreement shall cease to apply six months after the date of such notification.</article>
+      <article number="ARTICLE 100" name="Non-Discrimination" article_identifier="8485">In the fields covered by this Agreement, and without prejudice to any special provisions contained therein; 
+
+
+(a) 	the arrangements applied by South Africa in respect of the Community shall not give rise to any discrimination between the Member States, their nationals, or their companies or firms; 
+
+
+(b) the 	arrangements applied by the Community and the Member States in respect of South Africa shall not give rise to any discrimination between South African nationals or its companies or firms.</article>
+      <article number="ARTICLE 101" name="Territorial Application" article_identifier="8486">This Agreement shall apply, on the one hand, to the territories in which the Treaty establishing the European Community is applied and under the conditions laid down in that Treaty, and, on the other hand, in respect of South Africa, to the territories as defined in the South African Constitution.</article>
+      <article number="ARTICLE 102" name="Future Developments" article_identifier="8487">The Parties may, by mutual consent and within their respective spheres of competence, expand the Agreement in order to enhance the level of cooperation and add to it by means of agreements on specific sectors or activities. 
+
+Within the framework of this Agreement, either of the Parties may put forward suggestions for expanding the scope of the cooperation, taking into account the experience gained in its application.</article>
+      <article number="ARTICLE 103" name="Review" article_identifier="8488">The Parties will review this Agreement within five years of its entering into force in order to address the possible implications of other arrangements which may affect this Agreement. Further reviews may be mutually agreed on.</article>
+      <article number="ARTICLE 104" name="Dispute Settlement" article_identifier="8489">1. Each Party may refer to the Cooperation Council any dispute relating to the application or interpretation of this Agreement. 
+
+
+2. The Cooperation Council may settle any dispute by means of a decision. 
+
+
+3. Each Party shall be bound to take the measures involved in carrying out the decision referred to in paragraph 2. 
+
+
+4. In the event of it not being possible to settle the dispute in accordance with paragraph 2, either Party may notify the other of an appointment of an arbitrator; the other Party must then appoint a second arbitrator within two months of the appointment of the first arbitrator. 
+
+
+5. The Cooperation Council shall appoint a third arbitrator within six months of the appointment of the second arbitrator. 
+
+
+6. The arbitrators' decisions shall be taken by majority vote within 12 months. 
+
+
+7. Each Party to the dispute must take the steps required to implement the decision of the arbitrators. 
+
+
+8. The Cooperation Council shall establish the working procedures for arbitration. 
+
+
+9. In the case of disputes arising under Titles II and III of this Agreement, the following procedures shall apply: 
+(a) the appointment of a second arbitrator must be made within 30 days; 
+
+
+(b) the Cooperation Council shall appoint 	a third arbitrator within 60 days of the appointment of the second arbitrator; 
+
+
+(c) 	the arbitrators shall, as a general rule, submit their findings and decisions to the Parties and to the Cooperation Council not later than six months from the date of the composition of the arbitration panel. In cases of urgency, including those involving perishable goods, the arbitrators shall aim to issue their report to the parties within three months; 
+
+
+(d) the Party concerned shall inform the other Party and the Cooperation Council within 60 days of its intentions in respect of implementation of the findings and decisions of the Cooperation Council or the arbitrators, as the case may be; 
+
+
+(e) 	If it is impractical to comply immediately with the findings and decisions of the Cooperation Council or the arbitrators, the Party concerned shall be afforded a reasonable period of time to do so. The reasonable period of time shall not exceed 15 months from the date of submission of the findings and decisions to the Parties. However, that period of time may, by mutual consent of the Parties, be reduced or extended, depending on the particular circumstances. 
+10. Without prejudice to their right to have recourse to WTO dispute settlement procedures, the Community and South Africa shall endeavour to settle disputes relating to specific obligations arising under Titles II and III of this Agreement through recourse to the specific dispute settlement provisions of this Agreement. Arbitration proceedings established under this Agreement will not consider issues relating to each Party's WTO rights and obligations, unless the Parties agree to refer any such issues to the arbitration.</article>
+      <article number="ARTICLE 105" name="Clause On Bilateral Agreements" article_identifier="8490">Except in so far as it creates equivalent or greater rights for the 
+
+Parties 
+
+involved, 
+
+this 
+
+Agreement 
+
+shall 
+
+not 
+
+affect 
+
+rights 
+contained 
+
+in 
+
+existing 
+
+Agreements 
+
+binding 
+
+one 
+
+or 
+
+more 
+Member States, 
+
+on 
+
+the 
+
+one 
+
+hand, and South 
+
+Africa, 
+
+on 
+
+the 
+other.</article>
+      <article number="ARTICLE 106" name="Amendment Clause" article_identifier="8491">1. Any Party desirous of amending this Agreement may put forward its proposal for the amendment, together with its submissions in motivation of the proposed amendment, to the Cooperation Council for consideration and decision. 
+
+
+2. In the event that the other Party considers that the proposed amendment could detrimentally impact on its rights in terms of the Agreement, it may submit a proposal for compensatory adjustments of the Agreement to the Cooperation Council for consideration and decision.</article>
+      <article number="ARTICLE 107" name="Annexes" article_identifier="8492">Protocols and Annexes shall form an integral part of the Agreement.</article>
+      <article number="ARTICLE 108" name="Languages And Number Of Originals" article_identifier="8493">This Agreement is drawn up in duplicate in the Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish and Swedish languages and the official languages of South Africa, other than English, namely Sepedi, Sesotho, Setswana, siSwati, Tshivenda, Xitsonga, Afrikaans, isiNdebele, isiXhosa and isiZulu, each of these texts being equally authentic.</article>
+      <article number="ARTICLE 109" name="Entry Into Force" article_identifier="8494">This Agreement shall enter into force on the first day of the month following that during which the Contracting Parties have notified each other of the completion of the necessary procedures. 
+
+If pending the entry into force of the Agreement, the Parties decide to apply it provisionally, all references to the date of entry into force shall be deemed to refer to the date such provisional application takes effect.</article>
+    </chapter>
+    <chapter name="Conclusion" chapter_identifier="1010">
+      <article article_identifier="8495">Hecho en Pretoria, el once de octubre de mil novecientos noventa y nueve. Udf&lt;rdiget i Pretoria, den ellevte oktober nitten hundrede og nioghalvfems. Geschehen zu Pretoria am elften Oktober neunzehnhundertneunundneunzig. 
+
+'ymV£ OTrV Tp£Topma, OTm; £Vf£Ka OKTw�pLou xL\ma £VVmaKoOma £V£V�VTa £VV£a. 
+
+Done at Pretoria on the eleventh day of October in the year one thousand nine hundred and ninety-nine. 
+Fait a Pretoria, le onze octobre mil neuf cent quatre-vingt-dix-neuf. 
+Fatto a Pretoria, add! undici ottobre millenovecentonovantanove. 
+Gedaan te Pretoria, de elfde oktober negentienhonderd negennegentig. 
+Feito em Pretoria, em onze de Outubro de mil novecentos e noventa e nove. 
+Tehty Pretoriassa yhdentenatoista paivana lokakuuta vuonna tuhatyhdeksansataayhdeksankymmentayh
+
+deksan. 
+Som skedde i Pretoria den elfte oktober nittonhundranittionio. 
+
+
+Por la Comunidad Europea 
+For Det Europ&lt;iske F&lt;llesskab 
+Ftr die Europaische Gemeinschaft 
+
+
+rmaTrVEupwra'K� KomVoTrTa 
+
+For the European Community Pour la Communaute europeenne Per la Comunita europea Voor de Europese Gemeenschap Pela Comunidade Europeia Euroopan yhteison puolesta Pa Europeiska gemenskapens vagnar Pour le Royaume de Belgique Voor het Koninkrijk Belgie Ftr das Konigreich Belgien 
+
+CettesignatureengageegalementlaCommunautefrannaise,laCommunauteflamande,laCommunautegermanophone, la Region wallonne, la Region flamande et la Region de Bruxelles-Capitale. 
+
+Deze handtekening verbindt eveneens de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest. 
+
+Diese Unterschrift verbindet zugleich die Deutschsprachige Gemeinschaft, die Flamische Gemeinschaft, die Franzosische Gemeinschaft, die Wallonische Region, die Flamische Region und die Region Brtssel-Hauptstadt. 
+
+For Kongeriget Danmark 
+Ftr die Bundesrepublik Deutschland 
+rma TrV E\\rVmK LrµoKpaTLa 
+Por el Reino de Espana 
+Pour la Republique frannaise 
+Thar ceann na hEireann For Ireland 
+
+Per la Repubblica italiana 
+Pour le Grand-Duche de Luxembourg 
+Voor het Koninkrijk der Nederlanden 
+
+Ftr die Republik 6sterreich Suomen tasavallan puolesta For Republiken Finland 
+
+PelaRepublicaPortuguesaFor Konungariket Sverige 
+For the United Kingdom of Great Britain and Northern Ireland 
+For the Republic of South Africa wa Repapoliki ya Afrika Borwa Ya Rephaboliki ya Afrika Borwa Wa Rephaboliki ya Aforika Borwa WeRiphabliki yaseNingizimu Afrika wa Rephabuliki ya Afurika Tshipembe Wa Riphabliki ra Afrika-Dzonga Vir die Republiek van Suid-Afrika WeRiphabhliki yeSewula Afrika WeRiphablikhi yoMzantsi Afrika WeRiphabhulikhi yaseNingizimu Afrika</article>
+    </chapter>
+  </body>
+</treaty>
